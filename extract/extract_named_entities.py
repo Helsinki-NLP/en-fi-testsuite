@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys, re, os, extract, gzip
+import sys, re, os, extract, gzip, random
 
 def levenshtein(seq1, seq2):
     oneago = None
@@ -33,15 +33,19 @@ def matchAlternatives(nefilename):
 	used = set()
 	for k in matches:
 		for s in highfreqvocab[k]:
-			distmin, argmin = sys.maxsize, ""
+			distmin, argmin = sys.maxsize, []
 			for x in lowfreqvocab[k]:
 				if (x not in used) and (x.count(' ') == s.count(' ')):
 					d = levenshtein(s, x)
-					if (d > 2) and (d < distmin):
-						distmin, argmin = d, x
-			if argmin != "":
+					if (d > 2):
+						if d == distmin:
+							argmin.append(x)
+						elif d < distmin:
+							distmin = d
+							argmin = [x]
+			if len(argmin) > 0:
 				matches[k][s] = argmin
-				used.add(argmin)
+				used.update(argmin)
 	return matches
 
 
@@ -77,7 +81,7 @@ def extractSentences(fileid, taskid, nbsentences=-1):
 					modstr = u' '.join(modsentence)
 					origstr = u' '.join(origsentence)
 					if (modstr != "") and (origstr != modstr) and (origstr in validsentences) and (modstr not in validsentences) and (modstr not in alreadywritten) and (modstr.count(' ') <= maxSentenceLength):
-						s = u"%s\t%s\t%s:%s:%s\t%i\n" % (origstr, modstr, taskid, modification[0], modification[1], sentenceid)
+						s = u"%s\t%s\t%s:%s:%s\t%i\n" % (origstr.strip(), modstr.strip(), taskid, modification[0], modification[1], sentenceid)
 						outfile.write(s.encode('utf-8'))
 						if nbsentences > 0:
 							print origstr
@@ -93,8 +97,9 @@ def extractSentences(fileid, taskid, nbsentences=-1):
 				if elements[0] != "":
 					if elements[0] in matches[elements[1]] and (len(modification) == 0):		# only change one NE per line
 						origsentence.append(elements[0])
-						modsentence.append(matches[elements[1]][elements[0]])
-						modification = (elements[0], matches[elements[1]][elements[0]])
+						mod = random.choice(matches[elements[1]][elements[0]])
+						modsentence.append(mod)
+						modification = (elements[0], mod)
 					else:
 						origsentence.append(elements[0])
 						modsentence.append(elements[0])

@@ -6,7 +6,7 @@
 #SBATCH --mem=85g
 #SBATCH -n 1
 #SBATCH -N 1
-#SBATCH -t 1:00:00
+#SBATCH -t 24:00:00
 #SBATCH -p serial
 
 module use -a /proj/nlpl/software/modulefiles
@@ -18,8 +18,7 @@ which query
 
 DATASET=news2007
 
-#for FEATURE in sing_plur pron_sing_plur pres_past comp_adj pos_neg human_nonhuman_pron poss_det numbers named_entities complex_np before_after during_before without_with masc_fem_pron pres_fut the_a
-for FEATURE in numbers subord_type
+for FEATURE in sing_plur pron_sing_plur pres_past comp_adj pos_neg human_nonhuman_pron det_poss numbers named_entities complex_np before_after during_before without_with masc_fem_pron pres_fut the_a local_prep that_if
 do
 	echo $FEATURE
 	if [ ! -e "$DATASET.$FEATURE.1.scored" ]; then

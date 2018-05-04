@@ -42,6 +42,9 @@ def validSentence(sentence):
 		#print "Skip sentence (too much punctuation)"
 		#print string
 		return False
+
+	if sentence[-1][0] == "." and sentence[-2][0] == "Sept":
+		return False
 	
 	return True
 
@@ -59,6 +62,8 @@ def complex_np(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
 		if (tag == 'PP') and word.lower() in ['him', 'her']:
+			if [x[0] for x in sentence].count('him') + [x[0] for x in sentence].count('her') > 1:
+				return None
 			if word[0].isupper():
 				out_sentence[i] = 'The'
 			else:
@@ -90,7 +95,7 @@ def numbers(sentence):
 	return None
 
 
-def subord_type(sentence):
+def that_if(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
 		if word.lower() in ['said', 'says', 'say'] and sentence[i+1][1] == 'IN/that':
@@ -168,7 +173,7 @@ def the_a(sentence):
 				out_sentence[i] = 'The'
 			else:
 				out_sentence[i] = 'the'
-			return [x[0] for x in sentence], out_sentence
+			return out_sentence, [x[0] for x in sentence]		# the, a
 	return None
 
 
@@ -183,7 +188,7 @@ def pres_fut(sentence):
 		if tag == 'MD' and word.lower() == 'will':
 			if (sentence[i-1][1] == 'PP') and (sentence[i-1][0].lower() in ['i', 'you', 'we', 'they']) and (sentence[i+1][1].startswith('VV')):
 				del out_sentence[i]
-				return [x[0] for x in sentence], out_sentence
+				return out_sentence, [x[0] for x in sentence]		# pres, fut
 	return None
 
 
@@ -205,44 +210,160 @@ def masc_fem_pron(sentence):
 				if sentence[j][0].lower() in ['i', 'me', 'my', 'we', 'us', 'our', 'he', 'him', 'his', 'she', 'her', 'it', 'himself', 'herself']:
 					return None
 			
+			swap = False
 			if word.lower() == 'he':
 				out_sentence[i] = 'she'
 			elif word.lower() == 'she':
 				out_sentence[i] = 'he'
+				swap = True
 			elif word.lower() == 'him':
 				out_sentence[i] = 'her'
 			elif word.lower() == 'her':
 				out_sentence[i] = 'him'
+				swap = True
 			
 			if word[0].isupper():
 				out_sentence[i] = out_sentence[i][0].upper() + out_sentence[i][1:]
+			if swap:
+				return out_sentence, [x[0] for x in sentence] 	# he, she
+			else:
+				return [x[0] for x in sentence], out_sentence	# he, she
+	return None
+
+# 'from behind' => very few sentences, difficult to change
+
+# 'where ... from' => sentences are difficult to change
+
+
+# check number of sentences
+def local_prep(sentence):
+	out_sentence = [x[0] for x in sentence]
+	for i, (word, tag) in enumerate(sentence):
+
+		# in front of => behind
+		if word.lower() == 'front' and sentence[i-1][0].lower() == 'in' and sentence[i+1][0].lower() == 'of':
+			if sentence[i-1][0].isupper():
+				out_sentence[i] = 'Behind'
+			else:
+				out_sentence[i] = 'behind'
+			del out_sentence[i+1]
+			del out_sentence[i-1]
+			return out_sentence, [x[0] for x in sentence], 'behind', 'in_front_of'
+		
+		# the other direction (behind -> in front of) doesn't work as well as there are many non-literal examples that would have to be translated by 'ahead of' or similar
+
+		elif word.lower() == 'ahead' and sentence[i+1][0].lower() == 'of':
+			if word[0].isupper():
+				out_sentence[i] = 'Behind'
+			else:
+				out_sentence[i] = 'behind'
+			del out_sentence[i+1]
+			return out_sentence, [x[0] for x in sentence], 'behind', 'ahead_of'
+
+		# over <=> under doesn't work well, gives way too many idiomatic readings
+
+		# underneath => next to
+		elif word.lower() == 'underneath':
+			# particle use
+			if sentence[i+1][1].startswith("V") or sentence[i+1][1] in ['MD', ',', '.', 'SENT', ':', 'CC']:
+				continue
+			if [x[0].lower() for x in sentence].count('next') + [x[0].lower() for x in sentence].count('underneath') > 1:
+				continue
+			if sentence[i-1][1] == 'IN':
+				continue
+		
+			if word[0].isupper():
+				out_sentence[i] = 'Next to'
+			else:
+				out_sentence[i] = 'next to'
+			return [x[0] for x in sentence], out_sentence, 'underneath', 'next_to'
+
+		# above => below, below => above
+		elif word.lower() in ['above', 'below']:
+			ingFound = False
+			for j in range(i+1, len(sentence)):
+				if sentence[j][1] in ['VVG', 'VHG', 'VBG']:
+					ingFound = True
+					break
+			if ingFound:
+				continue
+			
+			# particle use
+			if sentence[i+1][1].startswith("V") or sentence[i+1][1] in ['MD', ',', '.', 'SENT', ':', 'CC']:
+				continue
+			if [x[0].lower() for x in sentence].count('above') + [x[0].lower() for x in sentence].count('below') > 1:
+				continue
+			if sentence[i-1][0].lower() == 'far':
+				continue
+
+			if word.lower() == 'above':
+				if sentence[i+1][0].lower() == 'all':	# above all
+					continue
+				
+				if word[0].isupper():
+					out_sentence[i] = 'Below'
+				else:
+					out_sentence[i] = 'below'
+				return [x[0] for x in sentence], out_sentence, 'above', 'below'
+			
+			elif word.lower() == 'below':
+				if word[0].isupper():
+					out_sentence[i] = 'Above'
+				else:
+					out_sentence[i] = 'above'
+				return out_sentence, [x[0] for x in sentence], 'above', 'below'
+	return None
+
+
+# could work somehow
+def without_despite(sentence):
+	out_sentence = [x[0] for x in sentence]
+	for i, (word, tag) in enumerate(sentence):
+		if (tag == 'IN') and (word.lower() == 'despite'):
+			ingFound = False
+			for j in range(i+1, len(sentence)):
+				if sentence[j][1] in ['VVG', 'VHG', 'VBG']:		# remove -ing forms
+					ingFound = True
+					break
+			if ingFound:
+				continue
+			
+			if word[0].isupper():
+				out_sentence[i] = 'Without'
+			else:
+				out_sentence[i] = 'without'
 			return [x[0] for x in sentence], out_sentence
 	return None
 
 
-# these sentences look difficult to change
-def local_case1(sentence):
-	for i, (word, tag) in enumerate(sentence):
-		if word.lower() == 'where':
-			if 'from' in [x[0].lower() for x in sentence[i+1:]]:
-				print " ".join([x[0] for x in sentence])
-	return None
-
-
-# very few sentences, difficult to change
-def local_case2(sentence):
-	for i, (word, tag) in enumerate(sentence):
-		if word.lower() == 'from' and sentence[i+1][0].lower() == 'behind':
-			print " ".join([x[0] for x in sentence])
-	return None
-
-
-# doesn't work well - a lot of idiomatic expressions
+# should work, but a lot of idiomatic readings that would need to be filtered out
 def without_with(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
 		if (tag == 'IN') and (word.lower() == 'without'):
-			if sentence[i+1][1] in ['VVG', 'VHG', 'VBG', 'NN']:		# remove -ing forms and bare nouns
+			ingFound = False
+			for j in range(i+1, len(sentence)):
+				if sentence[j][1] in ['VVG', 'VHG', 'VBG']:
+					ingFound = True
+					break
+			if ingFound:
+				continue
+
+			for j in range(i+1, len(sentence)):
+				if sentence[j][0].lower() in ['much', 'even', 'ever', 'yet', 'either', 'neither', 'anymore', 'any', 'anybody', 'anyone', 'anything', 'until', 'doubt']:
+					return None
+			for j in range(i-1, i-3, -1):	# only look at the immediate surroundings
+				if sentence[j][0].lower() in ['still', 'not']:
+					return None
+			
+			if [x[0].lower() for x in sentence].count('with') + [x[0].lower() for x in sentence].count('without') > 1:
+				continue
+
+			# remove bare nouns (N at pos+1)
+			if sentence[i+1][1].startswith("N") or sentence[i+1][1] in [',', '.', 'SENT', ':', 'CC']:
+				continue
+			
+			if sentence[i-1][0].lower() in ['go', 'goes', 'went', 'come', 'comes', 'came', 'is', 'are', 'be', 'was', 'were', 'has', 'have', 'had']:
 				continue
 			
 			if word[0].isupper():
@@ -264,7 +385,7 @@ def during_before(sentence):
 				if sentence[j][1] in ['VB', 'VBD', 'VBN', 'VBP', 'VBZ', 'VH', 'VHD', 'VHN', 'VHP', 'VHZ', 'VV', 'VVD', 'VVN', 'VVP', 'VVZ', 'MD']:
 					verbFound = True
 					break
-				if sentence[j][0] in [',', ':']:
+				if sentence[j][0] in [',', '.', 'SENT', ':', 'CC']:
 					break
 			if verbFound:
 				continue
@@ -290,7 +411,7 @@ def before_after(sentence):
 				if sentence[j][1] in ['VB', 'VBD', 'VBN', 'VBP', 'VBZ', 'VH', 'VHD', 'VHN', 'VHP', 'VHZ', 'VV', 'VVD', 'VVN', 'VVP', 'VVZ', 'MD']:
 					verbFound = True
 					break
-				if sentence[j][0] in [',', ':']:
+				if sentence[j][0] in [',', '.', 'SENT', ':', 'CC']:
 					break
 			if verbFound:
 				continue
@@ -299,6 +420,10 @@ def before_after(sentence):
 				continue
 			if sentence[i+1][0].lower() == 'all':	# after all, before all
 				continue
+			if sentence[i+1][1] in ['PP', ',', '.', 'SENT', ':', 'CC']:		# after me
+				continue
+			if sentence[i-1][0].lower() in ['go', 'goes', 'went', 'is', 'are', 'be', 'was', 'were', 'has', 'have', 'had']:
+					continue
 		
 			if word.lower() == 'after':
 				if sentence[i+1][1] == "CD":		# after four years
@@ -325,7 +450,7 @@ def before_after(sentence):
 	
 
 # my X => the X
-def poss_det(sentence):
+def det_poss(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
 		if (tag == 'PP$'):
@@ -354,18 +479,56 @@ def human_nonhuman_pron(sentence):
 	for i, (word, tag) in enumerate(sentence):
 		if (tag == 'PP') and word.lower() in ['me', 'us', 'him', 'her']:
 			for j in range(i-1, -1, -1):
-				if sentence[j][0].lower() in ['i', 'me', 'my', 'we', 'us', 'our', 'he', 'him', 'his', 'she', 'her', 'it']:
+				if sentence[j][0].lower() in ['i', 'me', 'my', 'we', 'us', 'our', 'he', 'him', 'his', 'she', 'her', 'it', 'himself', 'herself', 'myself', 'yourself', 'itself', 'themselves']:
 					return None
 			for j in range(i+1, len(sentence)):
-				if sentence[j][0].lower() in ['i', 'me', 'my', 'we', 'us', 'our', 'he', 'him', 'his', 'she', 'her', 'it']:
+				if sentence[j][0].lower() in ['i', 'me', 'my', 'we', 'us', 'our', 'he', 'him', 'his', 'she', 'her', 'it', 'himself', 'herself', 'myself', 'yourself', 'itself', 'themselves']:
 					return None
 			if sentence[i-1][0].lower() == 'let':	# let us ...
+				return None
+			if word.lower() in ['him', 'her'] and sentence[i-1][1] in 'IN':		# with him => kanssansa, with it => kanssansa
 				return None
 
 			if word[0].isupper():
 				out_sentence[i] = 'It'
 			else:
 				out_sentence[i] = 'it'
+			return [x[0] for x in sentence], out_sentence
+	return None
+
+
+# test the opposite generation (it -> me), but it is not fundamentally better...
+def human_nonhuman_pron2(sentence):
+	# no interrogative
+	if sentence[-1][0] == '?':
+		return None
+
+	out_sentence = [x[0] for x in sentence]
+	for i, (word, tag) in enumerate(sentence):
+		if (tag == 'PP') and word.lower() == 'it':
+			verbFound = False
+			verbAfterFound = False
+			pronFound = False
+			for j in range(i-1, -1, -1):
+				if sentence[j][1].startswith("V"):
+					verbFound = True
+				if sentence[j][0].lower() in ['me', 'i', 'my']:
+					pronFound = True
+			for j in range(i+1, len(sentence)):
+				if sentence[j][1].startswith("V") or sentence[j][1] == 'MD':
+					verbAfterFound = True
+					break
+			if not verbFound:
+				continue
+			if pronFound:
+				continue
+			if verbAfterFound:
+				continue
+
+			if word[0].isupper():
+				out_sentence[i] = 'Me'
+			else:
+				out_sentence[i] = 'me'
 			return [x[0] for x in sentence], out_sentence
 	return None
 
@@ -381,10 +544,15 @@ def pos_neg(sentence):
 	for i, (word, tag) in enumerate(sentence):
 		if word.lower() == 'not':
 			for j in range(i+1, len(sentence)):
-				if sentence[j][0] in ['much', 'even', 'ever', 'yet', 'either', 'neither', 'anymore']:
+				if sentence[j][0].lower() in ['much', 'even', 'ever', 'yet', 'either', 'neither', 'anymore', 'any', 'anybody', 'anyone', 'anything', 'until']:
 					return None
-				if sentence[j-1][0] == 'at' and sentence[j][0] == 'all':
+				if sentence[j-1][0].lower() == 'at' and sentence[j][0].lower() == 'all':
 					return None
+			for j in range(i-1, -1, -1):
+				if sentence[j][0].lower() == 'still':
+					return None
+			if [x[0].lower() for x in sentence].count('not') > 1:
+				continue
 			
 			# have not Xed, is not Xing, is not Xed => have Xed, is Xing, is Xed
 			if sentence[i-1][1].startswith('VB') or sentence[i-1][1].startswith('VH'):
@@ -432,7 +600,9 @@ def comp_adj(sentence):
 			if word.lower() in ['more', 'further', 'less', 'fewer', 'later']:
 				continue
 			
-			if sentence[i-1][0].lower() in ['much', 'little', 'even', 'no', 'hardly']:	# much better, a little better, even better, no longer
+			if sentence[i-1][0].lower() in ['much', 'little', 'even', 'no', 'hardly', 'still', 'any', 'slightly']:	# much higher, a little higher, even higher, no longer
+				continue
+			if sentence[i+1][0].lower() in ['still']:
 				continue
 			
 			# remove coordinate structures: 'a more comfortable and cleaner X' =/> 'a more comfortable and clean X'
@@ -440,7 +610,7 @@ def comp_adj(sentence):
 			if taglist.count('JJR') > 1:
 				return None
 			
-			# remove comparative structures of type 'better than X'
+			# remove comparative structures of type 'higher than X'
 			compFound = False
 			for j in range(i+1, len(sentence)):
 				if sentence[j][0].lower() == "than":
@@ -461,6 +631,9 @@ def comp_adj(sentence):
 					break
 			if numeralFound:
 				continue
+
+			if word.lower() == 'better' and not sentence[i+1][1].startswith("N"):
+				continue
 			
 			# remove structures like 'the older ... , the better ...'
 			sentstring = " ".join([x[0].lower() for x in sentence])
@@ -473,6 +646,8 @@ def comp_adj(sentence):
 			for cand in info:
 				if cand['class'] == 'ADJECTIVE':
 					baseform = cand['norm']
+					if baseform.lower() in [x[0].lower() for x in sentence]:	# skip sentences like 'it is bad and it is getting worse'
+						return None
 					analysis = morph.decline(baseform.upper())
 					#print analysis
 					for cand2 in analysis:
@@ -481,7 +656,7 @@ def comp_adj(sentence):
 								out_sentence[i] = cand2['word'][0] + cand2['word'][1:].lower()
 							else:
 								out_sentence[i] = cand2['word'].lower()
-							return out_sentence, [x[0] for x in sentence]
+							return out_sentence, [x[0] for x in sentence]		# positive, comparative
 	return None
 
 
@@ -507,9 +682,11 @@ def pron_sing_plur(sentence):
 					out_sentence[i] = 'Them'
 				else:
 					out_sentence[i] = 'them'
-				return [x[0] for x in sentence], out_sentence
+				return [x[0] for x in sentence], out_sentence		# sing, plur
 			
 			elif word.lower() == 'us':
+				if sentence[i-1][0].lower() == "of":	# *all of me, *most of me
+					continue
 				if sentence[i-1][0].lower() == "let":
 					continue
 				if sentence[i+1][0].lower() == 'all':
@@ -519,7 +696,7 @@ def pron_sing_plur(sentence):
 					out_sentence[i] = 'Me'
 				else:
 					out_sentence[i] = 'me'
-				return [x[0] for x in sentence], out_sentence
+				return out_sentence, [x[0] for x in sentence]		# sing, plur
 	return None
 
 
@@ -533,7 +710,7 @@ def sing_plur(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
 		if tag in ['NNS']:
-			if word.lower() in ['people', 'police', 'one']:
+			if word.lower() in ['people', 'police', 'one', 'troops']:
 				continue
 			# plural possessive
 			if word.endswith("s") and sentence[i+1][0] == "'":
@@ -558,10 +735,19 @@ def sing_plur(sentence):
 
 			if numeral:
 				continue
+			if possdet:			# this is just for Finnish, as possessive suffixes neutralize sing/pl distinction
+				continue
 
-			# determiners: accepted: the X, her X // rejected: X (-> a X), these X (-> this X)
+			# determiners: accepted: the X // rejected: X (-> a X), these X (-> this X), her X
 			# rejecting any determiner-less NP is a bit harsh though...
-			if not (defdet or possdet):
+			if not defdet:
+				continue
+
+			prefix = " ".join([x[0].lower() for x in sentence[:i]])
+			if "one of" in prefix or "all the" in prefix:
+				continue
+
+			if sentence[i-1][0].lower() in ["major", "few", "many", "most", "more"]:
 				continue
 			
 			verbChange = False
@@ -582,7 +768,7 @@ def sing_plur(sentence):
 						out_sentence[i] = cand['word'][0] + cand['word'][1:].lower()
 					else:
 						out_sentence[i] = cand['word'].lower()
-					return [x[0] for x in sentence], out_sentence
+					return out_sentence, [x[0] for x in sentence]		# sing, plur
 	return None
 
 
@@ -656,6 +842,8 @@ def extract(fileid, taskid, nbsentences=-1):
 		nplist = []
 		npfile = open("../tag/%s.Adj+AgentNoun.txt" % fileid, 'r')
 		for line in npfile:
+			if line.startswith("only "):
+				continue
 			nplist.append(line.strip())
 		npfile.close()
 
@@ -670,15 +858,17 @@ def extract(fileid, taskid, nbsentences=-1):
 			print
 		
 		if (result is not None) and (result[0] != result[1]) and (u' '.join(result[0]) not in alreadywritten):
+			s1 = u' '.join(result[0])
+			s2 = u' '.join(result[1])
 			if len(result) == 4:
-				s = u"%s\t%s\t%s:%s:%s\t%i\n" % (u' '.join(result[0]), u' '.join(result[1]), taskid, result[2], result[3], sentenceid)
+				s = u"%s\t%s\t%s:%s:%s\t%i\n" % (s1.strip(), s2.strip(), taskid, result[2], result[3], sentenceid)
 			else:
-				s = u"%s\t%s\t%s\t%i\n" % (u' '.join(result[0]), u' '.join(result[1]), taskid, sentenceid)
+				s = u"%s\t%s\t%s\t%i\n" % (s1.strip(), s2.strip(), taskid, sentenceid)
 			outfile.write(s.encode('utf-8'))
 			sentenceid += 1
 			alreadywritten.add(u' '.join(result[0]))
 		
-		if debugMode and (sentenceid > nbsentences):
+		if debugMode and (sentenceid >= nbsentences):
 			break
 	print fileid, taskid, sentenceid, "sentences written"
 
