@@ -3,7 +3,7 @@
 #SBATCH -J wmt18-testsuite
 #SBATCH -o testing.%j.out
 #SBATCH -e testing.%j.err
-#SBATCH -t 08:00:00
+#SBATCH -t 04:00:00
 #SBATCH -N 1
 #SBATCH -p gpu
 #SBATCH --mem=4g
