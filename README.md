@@ -2,8 +2,8 @@
 
 ## Data preprocessing
 
-* The `tag` folder contains TreeTagger-tagged English news files and scripts to perform the tagging. It also contains a script to extract Adj+Noun chunks from the data.
-* The `ner` folder contains Stanford-NER-annotated English news files together with scripts to extract frequent and rare named entities.
+* The `tag` folder contains scripts to tag the English news files. It also contains a script to extract Adj+Noun chunks from the data.
+* The `ner` folder contains scripts to annotate the English news files with the Stanford NER system. It also contains scripts to extract frequent and rare named entities.
 * The `lm` folder contains a 5-gram language model trained on the news data and scripts for training it.
 
 ## Contrast pair extraction, generation and filtering
