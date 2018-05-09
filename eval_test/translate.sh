@@ -19,12 +19,12 @@ TOKENIZER=/proj/nlpl/software/moses/4.0-65c75ff/moses/scripts/tokenizer
 RECASER=/proj/nlpl/software/moses/4.0-65c75ff/moses/scripts/recaser
 TRUECASEMODEL=/proj/OPUS/WMT18/news_data/truecaser-en.model
 
-TESTFILE=/wrk/yvessche/wmt18/testsuite/select_shuf/morpheval-enfi-2018.en.sents
+TESTFILE=/wrk/yvessche/wmt18/testsuite/select_shuf/morpheval-enfi-2018.en
 HNMTMODELDIR=/wrk/yvessche/wmt18/en-fi-hyb2bpe
 
 if [ ! -f test.true ]
 then
-	cat $TESTFILE |\
+	cut -f 2 $TESTFILE |\
 		$TOKENIZER/replace-unicode-punctuation.perl |\
 		$TOKENIZER/remove-non-printing-char.perl |\
 		$TOKENIZER/normalize-punctuation.perl -l en |\

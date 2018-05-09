@@ -17,7 +17,7 @@ import argparse, collections, re
 		# result.append(tagdict)
 	# return result
 
-nelex = {l.split("\t")[0].strip(): l.split("\t")[1].strip() for l in open('ne-lex.txt', 'r', encoding='utf-8')}
+nelex = {l.split("\t")[0].strip().lower(): l.split("\t")[1].strip().lower() for l in open('ne-lex.txt', 'r', encoding='utf-8')}
 
 
 def readAnalysis(analysisfile):
@@ -47,27 +47,31 @@ def sanityCheck(translationString, analysis):
 			print("Analyzed word {} not found in original string: {}".format(key, translationString.strip()))
 
 
-def readSentencePair(translationfile, analysisfile, infofile):
+def readSentencePair(translationfile, analysisfile, sourcefile):
 	currenttask, currentexno = "", ""
 	currentsentences = []
+	currentsrcsentences = []
 	currentanalyses = []
-	for transline, infoline in zip(translationfile, infofile):
-		task, exno = infoline.strip().rsplit(":", 1)
+	for transline, sourceline in zip(translationfile, sourcefile):
+		sentenceid, sourcesentence = sourceline.strip().split("\t", 1)
+		task, exno = sentenceid.strip().rsplit(":", 1)
 		exno = exno.split(".")[0]
 		analysis = readAnalysis(analysisfile)
 		sanityCheck(transline, analysis)
 		if task == currenttask and exno == currentexno:
 			currentsentences.append(transline.strip())
+			currentsrcsentences.append(sourcesentence.strip())
 			currentanalyses.append(analysis)
 		else:
 			if len(currentsentences) > 0:
-				yield currentsentences, currentanalyses, currenttask, currentexno
+				yield currentsentences, currentanalyses, currenttask, currentexno, currentsrcsentences
 			currenttask = task
 			currentexno = exno
 			currentsentences = [transline.strip()]
+			currentsrcsentences = [sourcesentence.strip()]
 			currentanalyses = [analysis]
 	if len(currentsentences) > 0:
-		yield currentsentences, currentanalyses, currenttask, currentexno
+		yield currentsentences, currentanalyses, currenttask, currentexno, currentsrcsentences
 
 
 def worddiff(analysis1, analysis2):
@@ -96,8 +100,8 @@ def sing_plur(wo1, wo2):
 	return foundSg, foundPl, ""
 
 def pron_sing_plur(wo1, wo2):
-	foundSg = any(['Sg' in wo1[x] for x in wo1])	# first sentence should contain singular
-	foundPl = any(['Pl' in wo2[x] for x in wo2])	# second sentence should contain plural
+	foundSg = any(['Sg' in wo1[x] for x in wo1]) or any(['PxSg1' in wo1[x] for x in wo1]) or any(['PxSg2' in wo1[x] for x in wo1]) or any(['Px3' in wo1[x] for x in wo1])	# first sentence should contain singular
+	foundPl = any(['Pl' in wo2[x] for x in wo2]) or any(['PxPl1' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) # second sentence should contain plural
 	return foundSg, foundPl, ""
 
 def pres_past(wo1, wo2):
@@ -105,37 +109,37 @@ def pres_past(wo1, wo2):
 	foundPst = any(['Pst' in wo2[x] for x in wo2])
 	return foundPrs, foundPst, ""
 
+# add change of state verbs ('paheta' etc.)
 def comp_adj(wo1, wo2):
-	foundPos = any(['Pos' in wo1[x] for x in wo1])
+	foundAdv = any([('Adv' in wo1[x]) and any([y.endswith('sti') for y in wo1[x]]) for x in wo1])
+	foundLocalAdv = any(['lähellä' in wo1[x] for x in wo1]) or any(['lähelle' in wo1[x] for x in wo1]) or any(['läheltä' in wo1[x] for x in wo1])
+	foundPos = any(['Pos' in wo1[x] for x in wo1]) or foundAdv or foundLocalAdv
 	foundComp = any(['Comp' in wo2[x] for x in wo2])
 	return foundPos, foundComp, ""
 
-# doesn't work well if there is more than one negation per sentence
-# check again with newly extracted sentences
 def pos_neg(wo1, wo2):
 	foundPos = not any(['Neg' in wo1[x] for x in wo1])
-	foundNeg = any(['Neg' in wo2[x] for x in wo2]) and (any(['ConNeg' in wo2[x] for x in wo2]) or any(['olla' in wo1[x] for x in wo1]))
+	foundNeg = any(['Neg' in wo2[x] for x in wo2]) or (any(['ConNeg' in wo2[x] for x in wo2]) and any(['olla' in wo1[x] for x in wo1]))
 	# last condition: he ovat tehneet => he eivät tehneet => tehneet does not show up in the second sentence
 	return foundPos, foundNeg, ""
 
-# doesn't work well when pronouns are attached as clitics to prepositions
-# check again with newly extracted sentences
 def human_nonhuman_pron(wo1, wo2):
-	foundHuman = any(['hän' in wo1[x] for x in wo1]) or any(['minä' in wo1[x] for x in wo1]) or any(['me' in wo1[x] for x in wo1])
-	foundNonhuman = any(['se' in wo2[x] for x in wo2]) or any(['ne' in wo2[x] for x in wo2])
+	foundHuman = any(['hän' in wo1[x] for x in wo1]) or any(['minä' in wo1[x] for x in wo1]) or any(['me' in wo1[x] for x in wo1]) or any(['PxSg1' in wo1[x] for x in wo1]) or any(['PxPl1' in wo1[x] for x in wo1]) or any(['Px3' in wo1[x] for x in wo1])
+	foundNonhuman = any(['se' in wo2[x] for x in wo2]) or any(['ne' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['sinne' in wo2[x] for x in wo2])
 	return foundHuman, foundNonhuman, ""
 
-# check manually - may need to add proper possessive determiners
 def det_poss(wo1, wo2):
 	foundDet = True		# put a condition here?
+	foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] for x in wo2])
 	foundPoss = any(['PxSg1' in wo2[x] for x in wo2]) or any(['PxSg2' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['PxPl1' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2])
-	return foundDet, foundPoss, ""
+	return foundDet, foundPoss or foundPron, ""
 
 # do we need to check more? position of the verb? morph features of the verb? what about 'jos'? how do the -va forms work?
 def that_if(wo1, wo2):
+	foundMukaan = any(['mukaan' in wo1[x] for x in wo1])
 	foundThat = any(['että' in wo1[x] for x in wo1]) or any(['ettei' in wo1[x] for x in wo1]) or any(['PrsPrc' in wo1[x] for x in wo1])
 	foundIf = any(['Foc_kO' in wo2[x] for x in wo2])
-	return foundThat, foundIf, ""
+	return foundThat or foundMukaan, foundIf, ""
 
 # replacement tasks
 
@@ -146,10 +150,6 @@ def numbers(wo1, wo2, repl1, repl2):
 
 def complex_np(wo1, wo2, repl1, repl2):
 	foundPron = any(['Pron' in wo1[x] for x in wo1]) or any(['Px3' in wo1[x] for x in wo1])
-	for x in wo2:
-		if isUnknown(wo2[x]):
-			return None
-
 	nouns = [wo2[x] for x in wo2 if 'N' in wo2[x]]
 	adjs = [wo2[x] for x in wo2 if 'A' in wo2[x] or 'Qnt' in wo2[x] or 'Ord' in wo2[x] or any(['vuotias' in f for f in wo2[x]])]
 	nounFeatures = set()
@@ -174,82 +174,103 @@ def complex_np(wo1, wo2, repl1, repl2):
 		snouns = sorted(nouns, key=lambda x: [int(n[1:]) for n in x if n.startswith("@")][0])
 		foundGen = any(['Gen' in n for n in snouns[:-1]])
 		return foundPron, foundGen, "genitive apposition"
-
+	
+	# it's difficult to judge what would be the best label for unanalyzeable words: wrong => 86.6% accuracy, correct => 87.4% accuracy
+	# in light of the small difference, assume them to be wrong
+	# for x in wo2:
+		# if isUnknown(wo2[x]) and (x.startswith(repl2.split(" ")[0]) or x.startswith(repl2.split(" ")[1])):
+			# return foundPron, True, 'unanalyzeable target word, assume correct'
+	
 	return foundPron, False, ""
 
 
+def find_named_entity(repl, wo):
+	# find repl as a lemma in wo
+	repl_mod = repl.lower().replace("#", "").replace(".", "")
+	for x in wo:
+		for y in wo[x]:
+			if repl_mod == y.lower().replace("#", "").replace(".", ""):
+				return True
+	
+	# find nelex-translation of repl as a lemma in wo
+	if repl_mod in nelex:
+		repl_mod = nelex[repl_mod]	
+		for x in wo:
+			for y in wo[x]:
+				if repl_mod == y.lower().replace("#", "").replace(".", ""):
+					return True
+	
+	# find repl as a string
+	s = worddict2str(wo)
+	if repl.lower() in s.lower():
+		return True
+	return False
+
 # do we need to check more, e.g. case consistency?
 def named_entities(wo1, wo2, repl1, repl2):
-	s1 = worddict2str(wo1)
-	s2 = worddict2str(wo2)
-	if " " in repl1 or " " in repl2:
-		repl1list = repl1.split(" ")
-		repl2list = repl2.split(" ")
-		repl1list = [x for x in repl1list if x not in repl2list]
-		repl2list = [x for x in repl2list if x not in repl1list]
-		repl1 = " ".join(repl1list)
-		repl2 = " ".join(repl2list)
-
-	# need to check lemmas also, not only word forms (e.g. Itävalta => Itävallan)
-	found1 = repl1.lower() in s2.lower() or nelex.get(repl1, repl1).lower() in s1.lower()
-	found2 = repl2.lower() in s2.lower() or nelex.get(repl2, repl2).lower() in s2.lower()
+	found1 = find_named_entity(repl1, wo1)
+	found2 = find_named_entity(repl2, wo2)
 	return found1, found2, ""
 
-
-def prep1_prep2(wo1, wo2, config1, config2):
-	prep1OK = False
+# this needs work:
+# - is 'sitä ennen'/'tätä ennen' good or does it necessarily need to be 'ennen sitä'?
+# - is 'ennen kuin' good in all cases?
+# - 'during' can be translated as a case for time expressions: '1980-luvulla', 'yönä', ...
+# - what about unknown nouns for which no case information is available?
+def prep_postp(wo1, wo2, repl1, repl2):
 	msg = ""
-	prep1 = [wo1[x] for x in wo1 if config1[0] in wo1[x]]
-	if len(prep1) > 0:
-		prep1 = prep1[0]	# there should only be one
-		prep1Pos = [int(n[1:]) for n in prep1 if n.startswith("@")][0]
-		prep1Nouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Prep' in wo1[x]]
-		if config1[2] == 'Prep':
-			prep1Nouns = [x for x in prep1Nouns if any([int(n[1:]) > prep1Pos for n in x if n.startswith("@")])]
-		else:
-			prep1Nouns = [x for x in prep1Nouns if any([int(n[1:]) < prep1Pos for n in x if n.startswith("@")])]
-
-		if len(prep1Nouns) > 0:
-			prep1Case = any([config1[3] in x for x in prep1Nouns])
-			if not prep1Case:
-				msg += "no {} case found with {} ".format(config1[3], config1[1])
-			prep1OK = prep1Case
-		else:
-			msg += "no nouns found with {} ".format(config1[1])
+	prepOK = False
+	if repl1 == 'before':
+		repl1_fi = ['ennen']
+	elif repl1 == 'without':
+		repl1_fi = ['ilman']
 	else:
-		msg += "no adposition found with {} ".format(config1[1])
+		return None
+	
+	prep = [wo1[x] for x in wo1 if any([y in wo1[x] for y in repl1_fi])]
+	if len(prep) > 0:
+		prep = prep[0]	# there should only be one
+		prepPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
+		prepNouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Pron' in wo1[x]]
+		prepNouns = [x for x in prepNouns if any([int(n[1:]) > prepPos for n in x if n.startswith("@")])]
 
-	prep2OK = False
-	prep2 = [wo2[x] for x in wo2 if config2[0] in wo2[x]]
-	if len(prep2) > 0:
-		prep2 = prep2[0]	# there should only be one
-		prep2Pos = [int(n[1:]) for n in prep2 if n.startswith("@")][0]
-		prep2Nouns = [wo2[x] for x in wo2 if 'N' in wo2[x] or 'Pron' in wo2[x]]
-		if config2[2] == 'Prep':
-			prep2Nouns = [x for x in prep2Nouns if any([int(n[1:]) > prep2Pos for n in x if n.startswith("@")])]
+		if len(prepNouns) > 0:
+			prepCase = any(['Par' in x for x in prepNouns])
+			if not prepCase:
+				msg += "no {} case found with {} ".format('Par', "/".join(repl1_fi))
+			prepOK = prepCase
 		else:
-			prep2Nouns = [x for x in prep2Nouns if any([int(n[1:]) < prep2Pos for n in x if n.startswith("@")])]
-
-		if len(prep2Nouns) > 0:
-			prep2Case = any([config2[3] in x for x in prep2Nouns])
-			if not prep2Case:
-				msg += "no {} case found with {} ".format(config2[3], config2[1])
-			prep2OK = prep2Case
-		else:
-			msg += "no nouns found {} ".format(config2[1])
+			msg += "no nouns found with {} ".format("/".join(repl1_fi))
 	else:
-		msg += "no adposition found {} ".format(config2[1])
-	return prep1OK, prep2OK, msg
+		msg += "no {} preposition found".format("/".join(repl1_fi))
 
+	postpOK = False
+	if repl2 == 'after':
+		repl2_fi = ['jälkeen', 'kuluttua']
+	elif repl2 == 'during':
+		repl2_fi = ['aikana']
+	elif repl2 == 'with':
+		repl2_fi = ['kanssa', 'myötä']
+	else:
+		return None
+		
+	postp = [wo2[x] for x in wo2 if any([y in wo2[x] for y in repl2_fi])]
+	if len(postp) > 0:
+		postp = postp[0]	# there should only be one
+		postpPos = [int(n[1:]) for n in postp if n.startswith("@")][0]
+		postpNouns = [wo2[x] for x in wo2 if 'N' in wo2[x] or 'Pron' in wo2[x]]
+		postpNouns = [x for x in postpNouns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
 
-def during_before(wo1, wo2):
-	return prep1_prep2(wo1, wo2, ('aikana', 'during', 'Postp', 'Gen'), ('ennen', 'before', 'Prep', 'Par'))
-
-def before_after(wo1, wo2):
-	return prep1_prep2(wo1, wo2, ('ennen', 'before', 'Prep', 'Par'), ('jälkeen', 'after', 'Postp', 'Gen'))
-
-def without_with(wo1, wo2):
-	return prep1_prep2(wo1, wo2, ('ilman', 'without', 'Prep', 'Par'), ('kanssa', 'with', 'Postp', 'Gen'))
+		if len(postpNouns) > 0:
+			postpCase = any(['Gen' in x for x in postpNouns])
+			if not postpCase:
+				msg += "no {} case found with {} ".format('Gen', "/".join(repl2_fi))
+			postpOK = postpCase
+		else:
+			msg += "no nouns found with {} ".format("/".join(repl2_fi))
+	else:
+		msg += "no {} postposition found ".format("/".join(repl2_fi))
+	return prepOK, postpOK, msg
 
 
 # identity tasks
@@ -290,6 +311,17 @@ def local_prep(wo1, wo2, repl1, repl2):
 				cases1.add('Ade')
 			if 'alta' in wo1[x]:
 				cases1.add('Abl')
+		
+		elif repl1 == 'outside':
+			if 'ulko#puoli' in wo1[x]:
+				cases1.update(wo1[x] & localcases)
+			if 'ulkona' in wo1[x]:
+				cases1.add('Ess')
+			if 'ulkoa' in wo1[x]:
+				cases1.add('Par')
+			if 'ulos' in wo1[x]:
+				cases1.add('All')
+			# what should we do with 'ulkopuolinen'? outside isn't supposed to be used as an adjective in the chosen sample...
 	
 	cases2 = set()
 	for x in wo2:
@@ -300,6 +332,8 @@ def local_prep(wo1, wo2, repl1, repl2):
 				cases2.add('Ill')
 			if 'edestä' in wo2[x]:
 				cases2.add('Ela')
+			if 'ääri' in wo2[x]:
+				cases2.update(wo2[x] & localcases)
 		
 		elif repl2 == 'below':
 			if 'ala#puoli' in wo2[x]:
@@ -324,6 +358,18 @@ def local_prep(wo1, wo2, repl1, repl2):
 		elif repl2 == 'next_to':
 			if 'vieri' in wo2[x]:
 				cases2.update(wo2[x] & localcases)
+		
+		elif repl2 == 'inside':
+			if 'sisä#puoli' in wo2[x]:
+				cases2.update(wo2[x] & localcases)
+			if 'sisällä' in wo2[x]:
+				cases2.add('Ade')
+			if 'sisälle' in wo2[x]:
+				cases2.add('All')
+			if 'sisältä' in wo2[x]:
+				cases2.add('Abl')
+			if 'N' in wo2[x]:		# add cases if no postposition is used
+				cases2.update(wo2[x] & set(['Ine', 'Ela', 'Ill']))
 	
 	if len(cases1) == 0 and len(cases2) == 0:
 		return False, False, "no translation of {} and {} found".format(repl1, repl2)
@@ -366,10 +412,10 @@ def format_worddict(worddict):
 	return " || ".join(s)
 
 
-def evaluate(translationfile, analysesfile, infofile, features=None):
+def evaluate(translationfile, analysesfile, sourcefile, features=None):
 	total = collections.defaultdict(int)
 	correct = collections.defaultdict(int)
-	for sentences, analyses, task, exno in readSentencePair(translationfile, analysesfile, infofile):
+	for sentences, analyses, task, exno, srcsentences in readSentencePair(translationfile, analysesfile, sourcefile):
 		words_only1, words_only2 = worddiff(analyses[0], analyses[1])
 		if ":" in task:
 			taskname, repl1, repl2 = task.split(":")
@@ -431,9 +477,9 @@ if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-trans', dest='trans', nargs="?", type=argparse.FileType('r'), help="translated input sentences")
 	parser.add_argument('-morph', dest='morph', nargs="?", type=argparse.FileType('r'), help="hfst-analyzed input sentences")
-	parser.add_argument('-info', dest='info', nargs="?", type=argparse.FileType('r'), help="input info file")
+	parser.add_argument('-source', dest='source', nargs="?", type=argparse.FileType('r'), help="input source file (sentence IDs + English sentences)")
 	parser.add_argument('-feats', dest='feats', nargs="?", help="list of features to analyze")
 	args = parser.parse_args()
 	
-	evaluate(args.trans, args.morph, args.info, args.feats)
+	evaluate(args.trans, args.morph, args.source, args.feats)
 
