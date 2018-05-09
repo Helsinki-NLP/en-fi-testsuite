@@ -163,7 +163,7 @@ def the_a(sentence):
 				if sentence[j][0].lower() in ['ago', 'away']:
 					return None
 			
-			if sentence[i+1][1] == 'CD':
+			if sentence[i+1][1] in ['CD', ',', '.', 'SENT', ':']:
 				continue
 				
 			if sentence[i-1][0].lower() in ['as', 'not']:
@@ -235,10 +235,12 @@ def masc_fem_pron(sentence):
 # 'where ... from' => sentences are difficult to change
 
 
-# check number of sentences
 def local_prep(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
+		
+		if sentence[i-1][1] in ['DT', 'PP$', 'PDT', 'JJ', 'JJR', 'JJS']:
+			continue
 
 		# in front of => behind
 		if word.lower() == 'front' and sentence[i-1][0].lower() == 'in' and sentence[i+1][0].lower() == 'of':
@@ -251,14 +253,15 @@ def local_prep(sentence):
 			return out_sentence, [x[0] for x in sentence], 'behind', 'in_front_of'
 		
 		# the other direction (behind -> in front of) doesn't work as well as there are many non-literal examples that would have to be translated by 'ahead of' or similar
-
-		elif word.lower() == 'ahead' and sentence[i+1][0].lower() == 'of':
-			if word[0].isupper():
-				out_sentence[i] = 'Behind'
-			else:
-				out_sentence[i] = 'behind'
-			del out_sentence[i+1]
-			return out_sentence, [x[0] for x in sentence], 'behind', 'ahead_of'
+		
+		# ahead doesn't work well because it includes many temporal readings that should be contrasted with 'after'
+		# elif word.lower() == 'ahead' and sentence[i+1][0].lower() == 'of':
+			# if word[0].isupper():
+				# out_sentence[i] = 'Behind'
+			# else:
+				# out_sentence[i] = 'behind'
+			# del out_sentence[i+1]
+			# return out_sentence, [x[0] for x in sentence], 'behind', 'ahead_of'
 
 		# over <=> under doesn't work well, gives way too many idiomatic readings
 
@@ -277,6 +280,30 @@ def local_prep(sentence):
 			else:
 				out_sentence[i] = 'next to'
 			return [x[0] for x in sentence], out_sentence, 'underneath', 'next_to'
+		
+		# outside/inside
+		elif word.lower() in ['outside', 'inside']:
+			if sentence[i+1][1].startswith("V") or sentence[i+1][1] in ['MD', ',', '.', 'SENT', ':', 'CC']:
+				continue
+			if sentence[i+1][1] in ['NN', 'NNS']:	# get rid of adjectival readings ('outside expert') - keep NP and NPS as they are less prone to this phenomenon
+				continue
+			
+			if sentence[i+1][1] == 'IN' and sentence[i+1][0].lower() != 'of':	# skip any preposition other than of
+				continue
+			
+			if word.lower() == 'outside':
+				if word[0].isupper():
+					out_sentence[i] = 'Inside'
+				else:
+					out_sentence[i] = 'inside'
+				return [x[0] for x in sentence], out_sentence, 'outside', 'inside'
+			
+			elif word.lower() == 'inside':
+				if word[0].isupper():
+					out_sentence[i] = 'Outside'
+				else:
+					out_sentence[i] = 'outside'
+				return out_sentence, [x[0] for x in sentence], 'outside', 'inside'
 
 		# above => below, below => above
 		elif word.lower() in ['above', 'below']:
@@ -297,7 +324,9 @@ def local_prep(sentence):
 				continue
 
 			if word.lower() == 'above':
-				if sentence[i+1][0].lower() == 'all':	# above all
+				if sentence[i+1][0].lower() in ['all', 'reproach']:	# above all, above reproach
+					continue
+				if sentence[i-1][0].lower() in ['rise', 'rises', 'rose', 'risen', 'rising']:	# rises above =*> rises below
 					continue
 				
 				if word[0].isupper():
@@ -307,6 +336,9 @@ def local_prep(sentence):
 				return [x[0] for x in sentence], out_sentence, 'above', 'below'
 			
 			elif word.lower() == 'below':
+				if sentence[i-1][0].lower() in ['fall', 'falls', 'fell', 'fallen', 'falling']:	# falls below =*> falls above
+					continue
+				
 				if word[0].isupper():
 					out_sentence[i] = 'Above'
 				else:
@@ -315,28 +347,8 @@ def local_prep(sentence):
 	return None
 
 
-# could work somehow
-def without_despite(sentence):
-	out_sentence = [x[0] for x in sentence]
-	for i, (word, tag) in enumerate(sentence):
-		if (tag == 'IN') and (word.lower() == 'despite'):
-			ingFound = False
-			for j in range(i+1, len(sentence)):
-				if sentence[j][1] in ['VVG', 'VHG', 'VBG']:		# remove -ing forms
-					ingFound = True
-					break
-			if ingFound:
-				continue
-			
-			if word[0].isupper():
-				out_sentence[i] = 'Without'
-			else:
-				out_sentence[i] = 'without'
-			return [x[0] for x in sentence], out_sentence
-	return None
-
-
-# should work, but a lot of idiomatic readings that would need to be filtered out
+# despite => without could work somehow
+# without => with works somewhat, but there are very few examples and a lot of idiomatic readings to be filtered out...
 def without_with(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
@@ -374,41 +386,14 @@ def without_with(sentence):
 	return None
 
 
-# transform during to before works better than the other direction
-def during_before(sentence):
+# during => before, before => after, after => before (transform during to before works better than the other direction)
+def prep_postp(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
-		if (tag == 'IN') and (word.lower() == 'during'):
-		
+		if (tag == 'IN') and (word.lower() in ['during', 'after', 'before']):
 			verbFound = False
 			for j in range(i+1, len(sentence)):
-				if sentence[j][1] in ['VB', 'VBD', 'VBN', 'VBP', 'VBZ', 'VH', 'VHD', 'VHN', 'VHP', 'VHZ', 'VV', 'VVD', 'VVN', 'VVP', 'VVZ', 'MD']:
-					verbFound = True
-					break
-				if sentence[j][0] in [',', '.', 'SENT', ':', 'CC']:
-					break
-			if verbFound:
-				continue
-		
-			if sentence[i+1][1] == "CD":		# during four years
-				continue
-		
-			if word[0].isupper():
-				out_sentence[i] = 'Before'
-			else:
-				out_sentence[i] = 'before'
-			return [x[0] for x in sentence], out_sentence		# during, before
-	return None
-
-
-def before_after(sentence):
-	out_sentence = [x[0] for x in sentence]
-	for i, (word, tag) in enumerate(sentence):
-		if (tag == 'IN') and (word.lower() in ['after', 'before']):
-		
-			verbFound = False
-			for j in range(i+1, len(sentence)):
-				if sentence[j][1] in ['VB', 'VBD', 'VBN', 'VBP', 'VBZ', 'VH', 'VHD', 'VHN', 'VHP', 'VHZ', 'VV', 'VVD', 'VVN', 'VVP', 'VVZ', 'MD']:
+				if sentence[j][1] in ['VB', 'VBD', 'VBN', 'VBP', 'VBZ', 'VH', 'VHD', 'VHN', 'VHP', 'VHZ', 'VV', 'VVD', 'VVN', 'VVP', 'VVZ', 'MD', 'VVG', 'VHG', 'VBG']:
 					verbFound = True
 					break
 				if sentence[j][0] in [',', '.', 'SENT', ':', 'CC']:
@@ -416,45 +401,57 @@ def before_after(sentence):
 			if verbFound:
 				continue
 			
-			if sentence[i-1][0].lower() == sentence[i+1][0].lower():	# year after year
+			if sentence[i+1][1] == "CD":		# during/after four years
 				continue
-			if sentence[i+1][0].lower() == 'all':	# after all, before all
-				continue
-			if sentence[i+1][1] in ['PP', ',', '.', 'SENT', ':', 'CC']:		# after me
-				continue
-			if sentence[i-1][0].lower() in ['go', 'goes', 'went', 'is', 'are', 'be', 'was', 'were', 'has', 'have', 'had']:
-					continue
-		
-			if word.lower() == 'after':
-				if sentence[i+1][1] == "CD":		# after four years
-					continue
-				if 'before' in [x[0] for x in sentence]:
-					continue
 			
+			if [x[0].lower() for x in sentence].count('during') + [x[0].lower() for x in sentence].count('before') + [x[0].lower() for x in sentence].count('after') > 1:
+				continue
+			
+			if word.lower() == 'during':
 				if word[0].isupper():
 					out_sentence[i] = 'Before'
 				else:
 					out_sentence[i] = 'before'
-				return out_sentence, [x[0] for x in sentence]		# before, after
+				return out_sentence, [x[0] for x in sentence], 'before', 'during'
 			
-			if word.lower() == 'before':
-				if 'after' in [x[0] for x in sentence]:
+			else:
+				if sentence[i-1][0].lower() == sentence[i+1][0].lower():	# year after year
+					continue
+				if sentence[i+1][0].lower() == 'all':	# after all, before all
+					continue
+				if sentence[i+1][1] in ['PP', ',', '.', 'SENT', ':', 'CC']:		# after me
+					continue
+				if sentence[i-1][0].lower() in ['go', 'goes', 'went', 'is', 'are', 'be', 'was', 'were', 'has', 'have', 'had']:
 					continue
 					
-				if word[0].isupper():
-					out_sentence[i] = 'After'
-				else:
-					out_sentence[i] = 'after'
-				return [x[0] for x in sentence], out_sentence		# before, after
+				if word.lower() == 'after':
+					if sentence[i-1][0].lower() in ['name', 'named', 'names', 'naming', 'look', 'looked', 'looks', 'looking']:	# named after, look after
+						continue
+				
+					if word[0].isupper():
+						out_sentence[i] = 'Before'
+					else:
+						out_sentence[i] = 'before'
+					return out_sentence, [x[0] for x in sentence], 'before', 'after'
+				
+				elif word.lower() == 'before':
+					if sentence[i+1][0].lower() == 'long':	# before long
+						continue
+						
+					if word[0].isupper():
+						out_sentence[i] = 'After'
+					else:
+						out_sentence[i] = 'after'
+					return [x[0] for x in sentence], out_sentence, 'before', 'after'
 	return None
-	
+
 
 # my X => the X
 def det_poss(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
-		if (tag == 'PP$'):
-			if sentence[i+1][0].lower() in ['mother', 'father', 'mum', 'dad', 'sister', 'brother', 'wife', 'husband', 'parents']:
+		if (tag == 'PP$') and word.lower() not in ['its', 'their']:
+			if sentence[i+1][0].lower() in ['mother', 'father', 'mum', 'mom', 'dad', 'sister', 'brother', 'wife', 'husband', 'parents']:
 				continue
 			if not sentence[i+1][1].startswith("N"):	# * his is better than mine
 				continue
@@ -597,7 +594,7 @@ def comp_adj(sentence):
 	out_sentence = [x[0] for x in sentence]
 	for i, (word, tag) in enumerate(sentence):
 		if (tag == 'JJR'):
-			if word.lower() in ['more', 'further', 'less', 'fewer', 'later']:
+			if word.lower() in ['more', 'further', 'less', 'fewer', 'later', 'earlier']:
 				continue
 			
 			if sentence[i-1][0].lower() in ['much', 'little', 'even', 'no', 'hardly', 'still', 'any', 'slightly']:	# much higher, a little higher, even higher, no longer
@@ -609,6 +606,15 @@ def comp_adj(sentence):
 			taglist = [x[1] for x in sentence]
 			if taglist.count('JJR') > 1:
 				return None
+			
+			# remove light verb constructions
+			lightVerbFound = False
+			if not sentence[i+1][1].startswith("N"):
+				for j in range(i-1, i-4, -1):
+					if sentence[j][0].lower() in ['get', 'gets', 'got', 'getting', 'make', 'makes', 'made', 'making', 'become', 'becomes', 'became', 'becoming', 'bring', 'brings', 'brought', 'bringing']:
+						lightVerbFound = True
+			if lightVerbFound:
+				continue
 			
 			# remove comparative structures of type 'higher than X'
 			compFound = False
@@ -748,6 +754,9 @@ def sing_plur(sentence):
 				continue
 
 			if sentence[i-1][0].lower() in ["major", "few", "many", "most", "more"]:
+				continue
+			
+			if sentence[i+1][1] in ['NN', 'NNS', 'NP', 'NPS']:	# don't change the first element of a compound noun
 				continue
 			
 			verbChange = False
