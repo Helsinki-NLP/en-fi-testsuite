@@ -1,0 +1,500 @@
+The chops were better than ever , remarkably .	Her chops were better than ever , remarkably .	det_poss	19487
+( AP ) - Bill Belichick is ready for the close-up .	( AP ) - Bill Belichick is ready for his close-up .	det_poss	22106
+Identify the area of interest .	Identify your area of interest .	det_poss	4978
+Mr Fini appears to think that race-hate oratory will enhance the prospects .	Mr Fini appears to think that race-hate oratory will enhance his prospects .	det_poss	16887
+And the roommate Lee Ann loves to see me .	And her roommate Lee Ann loves to see me .	det_poss	25779
+The party , formed three months earlier , comes second in elections .	His party , formed three months earlier , comes second in elections .	det_poss	24923
+In the day , these were by and for women .	In my day , these were by and for women .	det_poss	7331
+The songs never really pick up or lose steam .	His songs never really pick up or lose steam .	det_poss	6703
+The post with the charity was her first full-time job , police said .	Her post with the charity was her first full-time job , police said .	det_poss	14587
+He offers the promotion .	He offers her promotion .	det_poss	6368
+Only twice in the career had he exceeded that mark .	Only twice in his career had he exceeded that mark .	det_poss	3803
+She was talking and he put the gun in the mouth .	She was talking and he put the gun in her mouth .	det_poss	20096
+He said he was teased often about the appearance .	He said he was teased often about his appearance .	det_poss	11260
+The son later hanged himself .	His son later hanged himself .	det_poss	275
+That is clearly not in the plans .	That is clearly not in his plans .	det_poss	16549
+The thoughts are with the families at this very difficult time .	Our thoughts are with the families at this very difficult time .	det_poss	23675
+But Peterson injured the knee on Nov. 11 .	But Peterson injured his knee on Nov. 11 .	det_poss	16779
+The tires on the car had not been rotated the whole time .	The tires on my car had not been rotated the whole time .	det_poss	3016
+The neurosurgery resident on call was looking over the shoulder .	The neurosurgery resident on call was looking over my shoulder .	det_poss	3548
+What I did love about my mother was the beauty .	What I did love about my mother was her beauty .	det_poss	14747
+The 42-year-old was found dead at the Essex home in March .	The 42-year-old was found dead at her Essex home in March .	det_poss	21008
+Walston has thought about just taking the house off the market .	Walston has thought about just taking her house off the market .	det_poss	10972
+The door to the cell is open .	The door to your cell is open .	det_poss	13786
+Dallas started Jose Barea in the place .	Dallas started Jose Barea in his place .	det_poss	407
+She prefers the patients in the Bronx .	She prefers her patients in the Bronx .	det_poss	14537
+Since popular culture looks edgier today , so will the kids .	Since popular culture looks edgier today , so will our kids .	det_poss	19155
+But then came the strength of the game .	But then came the strength of his game .	det_poss	1166
+It is at the agent 's .	It is at his agent 's .	det_poss	23968
+The driving force behind the decision to go with PLANet was efficiency .	The driving force behind our decision to go with PLANet was efficiency .	det_poss	606
+The jeans became soaking wet .	My jeans became soaking wet .	det_poss	22817
+It is always a good idea to do the homework .	It is always a good idea to do your homework .	det_poss	18667
+Keep the seatbelts fastened .	Keep your seatbelts fastened .	det_poss	11356
+I can only give the Chinatown .	I can only give her Chinatown .	det_poss	7337
+The other skydiver landed safely using the reserve chute , Lewis said .	The other skydiver landed safely using his reserve chute , Lewis said .	det_poss	3368
+Pavelski made it 2-0 with the eighth of the season .	Pavelski made it 2-0 with his eighth of the season .	det_poss	24679
+She heard less about the grandmother .	She heard less about her grandmother .	det_poss	5536
+But that discussion 's not carrying on in the locker room .	But that discussion 's not carrying on in our locker room .	det_poss	18189
+Think again the friend .	Think again my friend .	det_poss	16239
+The responsibility in Edinburgh was mainly for general practice .	His responsibility in Edinburgh was mainly for general practice .	det_poss	24042
+With all that newfound social consciousness , the pet deserves a spa treatment .	With all that newfound social consciousness , your pet deserves a spa treatment .	det_poss	25148
+It is a no-brainer in the opinion .	It is a no-brainer in my opinion .	det_poss	20631
+Gibbs Defends The Calls Vs .	Gibbs Defends His Calls Vs .	det_poss	10189
+What is it doing in the life ?	What is it doing in my life ?	det_poss	23400
+He did not give the name .	He did not give his name .	det_poss	15122
+Next week may well decide the future .	Next week may well decide her future .	det_poss	8320
+He left , reentered and shot the victims again .	He left , reentered and shot his victims again .	det_poss	13642
+These were on the spine and inoperable .	These were on her spine and inoperable .	det_poss	8541
+Fiddler Taylor insists the violin is priceless .	Fiddler Taylor insists his violin is priceless .	det_poss	7691
+The conversation is just as animated .	His conversation is just as animated .	det_poss	13108
+Did you pack the bags yourself ?	Did you pack your bags yourself ?	det_poss	20553
+" It is in the nature , " she said .	" It is in my nature , " she said .	det_poss	24692
+The opinion to me is valueless .	His opinion to me is valueless .	det_poss	12672
+The voice broke as she fought back tears in reading the statement .	Her voice broke as she fought back tears in reading the statement .	det_poss	14777
+He opened the testimony by knocking down a Democratic canard .	He opened his testimony by knocking down a Democratic canard .	det_poss	8708
+And I think the celebrities really enjoy doing the show .	And I think the celebrities really enjoy doing our show .	det_poss	20883
+It turns out they could be bad for the health .	It turns out they could be bad for your health .	det_poss	15506
+Looked to the left , saw Staff Sgt. Wuterich shooting .	Looked to my left , saw Staff Sgt. Wuterich shooting .	det_poss	9422
+Obama 's campaign wondered whether Clinton had changed the mind .	Obama 's campaign wondered whether Clinton had changed her mind .	det_poss	7960
+The closing costs were about $ 7,000 .	My closing costs were about $ 7,000 .	det_poss	13763
+The appetite is gone .	My appetite is gone .	det_poss	25168
+The journey is to get to the playoffs .	Our journey is to get to the playoffs .	det_poss	14150
+The conversion follows months of speculation .	His conversion follows months of speculation .	det_poss	12224
+She started the line with glamorously simple dresses .	She started her line with glamorously simple dresses .	det_poss	13569
+The Health and Safety Executive is carrying out an investigation into the death .	The Health and Safety Executive is carrying out an investigation into his death .	det_poss	7108
+So you could say he made the bed .	So you could say he made his bed .	det_poss	9681
+Isner 's game is more subtle than the dress .	Isner 's game is more subtle than his dress .	det_poss	213
+She held the house up for Detective Oakwood to see .	She held her house up for Detective Oakwood to see .	det_poss	20716
+I am looking forward to the lunch .	I am looking forward to our lunch .	det_poss	15420
+What is the take on the presidential race ?	What is your take on the presidential race ?	det_poss	3764
+The focus will be change .	His focus will be change .	det_poss	85
+One customer recently pawned about 50 items to help pay the mortgage .	One customer recently pawned about 50 items to help pay her mortgage .	det_poss	13897
+He shook the head , clearly upset .	He shook his head , clearly upset .	det_poss	24230
+In September Mr Darling conceded that the reputation was on the line .	In September Mr Darling conceded that his reputation was on the line .	det_poss	16802
+Tell me , what is the secret ?	Tell me , what is your secret ?	det_poss	5514
+" It was not the day , " Dixon said .	" It was not our day , " Dixon said .	det_poss	20144
+The suspension matched the fourth-longest in league history .	His suspension matched the fourth-longest in league history .	det_poss	24654
+The thoughts are my own now .	My thoughts are my own now .	det_poss	12810
+Opponents say the job as army chief should disqualify him .	Opponents say his job as army chief should disqualify him .	det_poss	21456
+The cause was a heart attack , the family said .	The cause was a heart attack , his family said .	det_poss	16536
+Francis felt vindicated , but the celebrations were premature .	Francis felt vindicated , but his celebrations were premature .	det_poss	17664
+She exhausted the savings .	She exhausted her savings .	det_poss	15405
+But at a news conference on Sunday he hit back at the critics .	But at a news conference on Sunday he hit back at his critics .	det_poss	15706
+It is a pretty safe bet how the audience will feel .	It is a pretty safe bet how her audience will feel .	det_poss	7411
+Trainee chef Lee Ryan confronted White on the choice of words .	Trainee chef Lee Ryan confronted White on his choice of words .	det_poss	12921
+He is not holding the breath .	He is not holding his breath .	det_poss	7644
+Throughout the time at Boomfield Road , Perry found the net regularly .	Throughout his time at Boomfield Road , Perry found the net regularly .	det_poss	11225
+But we cannot turn the backs on it .	But we cannot turn our backs on it .	det_poss	11558
+Mobile phone calls are still costing lives on the road .	Mobile phone calls are still costing lives on our road .	det_poss	20159
+The label did not bring it to you ?	Your label did not bring it to you ?	det_poss	16469
+The lawyer did not state what those " issues " were .	Her lawyer did not state what those " issues " were .	det_poss	7812
+Can you comment on the expectations going forward from here ?	Can you comment on your expectations going forward from here ?	det_poss	14943
+The team has lumbered to a 5-6 start .	His team has lumbered to a 5-6 start .	det_poss	6540
+" The man Paul Weber , the bowler , " Burress said .	" My man Paul Weber , the bowler , " Burress said .	det_poss	20766
+What have you asked Santa to leave in the stocking ?	What have you asked Santa to leave in your stocking ?	det_poss	3455
+I anxiously await the emails on this subject .	I anxiously await your emails on this subject .	det_poss	10960
+The U.S. military said explosive residue was found on Hussein after the arrest .	The U.S. military said explosive residue was found on Hussein after his arrest .	det_poss	16942
+The driver tried to stop , but was killed along with the passenger .	The driver tried to stop , but was killed along with her passenger .	det_poss	10290
+And that completes the walk Off the Beaten Path !	And that completes our walk Off the Beaten Path !	det_poss	14718
+The skin was peeling in clumps from his body .	His skin was peeling in clumps from his body .	det_poss	24577
+DIY network wants to calm the fears .	DIY network wants to calm your fears .	det_poss	14864
+That smile might have been Crawford gritting the teeth .	That smile might have been Crawford gritting his teeth .	det_poss	586
+The attorney , Robert Griscti , did not return messages seeking comment .	His attorney , Robert Griscti , did not return messages seeking comment .	det_poss	18259
+Amid the controversy , Police Superintendent Phil Cline announced the retirement .	Amid the controversy , Police Superintendent Phil Cline announced his retirement .	det_poss	1162
+Tsang 's office later tried to tone down the remarks .	Tsang 's office later tried to tone down his remarks .	det_poss	21217
+The business plan shows that we can be sustainable .	Our business plan shows that we can be sustainable .	det_poss	5056
+How did you do on the SAT 's ?	How did you do on your SAT 's ?	det_poss	22732
+I have just got to go out and do the things differently .	I have just got to go out and do my things differently .	det_poss	19241
+" He said the client was acting on " orders .	" He said his client was acting on " orders .	det_poss	2302
+The condition was stable .	His condition was stable .	det_poss	5936
+But the book looks so smart sitting there on the shelf .	But the book looks so smart sitting there on your shelf .	det_poss	7363
+He died in 1991 but never recorded one of the walks .	He died in 1991 but never recorded one of his walks .	det_poss	2611
+I would rather they not move the plate over .	I would rather they not move my plate over .	det_poss	9498
+The bill now goes to Governor Schwarzenegger for the signature .	The bill now goes to Governor Schwarzenegger for his signature .	det_poss	18114
+But it was in downtown clubs that he found the calling .	But it was in downtown clubs that he found his calling .	det_poss	2263
+The correspondent is not one of them .	Your correspondent is not one of them .	det_poss	16574
+Attempts to reach Mr. Nacchio and the lawyers yesterday were unsuccessful .	Attempts to reach Mr. Nacchio and his lawyers yesterday were unsuccessful .	det_poss	18195
+And I was not quite ready to quit the day job .	And I was not quite ready to quit my day job .	det_poss	21187
+I have not heard the opponents bring that up .	I have not heard her opponents bring that up .	det_poss	12616
+Will the bankers smile or frown when we seek credit ?	Will our bankers smile or frown when we seek credit ?	det_poss	16454
+You cannot raise the hand and ask a question .	You cannot raise your hand and ask a question .	det_poss	9143
+" The son always wanted a used racing car , " he explained .	" My son always wanted a used racing car , " he explained .	det_poss	3722
+The body was found in a doorway in Manchester .	His body was found in a doorway in Manchester .	det_poss	21816
+But Mr King is adamant that the approach was the right one .	But Mr King is adamant that his approach was the right one .	det_poss	9578
+" The mate 's died and it is wrong , " he said .	" My mate 's died and it is wrong , " he said .	det_poss	6148
+A spokesman for McConnell declined to elaborate further on the remarks .	A spokesman for McConnell declined to elaborate further on his remarks .	det_poss	22560
+He does not even recognise the face .	He does not even recognise my face .	det_poss	6434
+MINNEAPOLIS - Somewhere , Michael Vick must have been shaking the head .	MINNEAPOLIS - Somewhere , Michael Vick must have been shaking his head .	det_poss	11849
+The hair was burned .	His hair was burned .	det_poss	18593
+Bailey 's RBIs were the first of the career .	Bailey 's RBIs were the first of his career .	det_poss	3032
+Baghdatis broke Davydenko five times on the way to the quarterfinals .	Baghdatis broke Davydenko five times on his way to the quarterfinals .	det_poss	2884
+Is the relationship sensually or sexually satisfying ?	Is your relationship sensually or sexually satisfying ?	det_poss	9298
+This is the cellie .	This is my cellie .	det_poss	19956
+The level of determination is almost superhuman .	His level of determination is almost superhuman .	det_poss	21240
+He picked up the community award from Worthing 's mayor on Thursday .	He picked up his community award from Worthing 's mayor on Thursday .	det_poss	14275
+The advisers say the firefighter talked to him in June .	His advisers say the firefighter talked to him in June .	det_poss	4313
+Finally , The Former Employer claimed to remember me .	Finally , My Former Employer claimed to remember me .	det_poss	383
+The joints ache .	Her joints ache .	det_poss	19180
+The neighborhood had a longstanding beef with Boone 's in Parkland .	His neighborhood had a longstanding beef with Boone 's in Parkland .	det_poss	21372
+He makes the case better than I can describe it .	He makes his case better than I can describe it .	det_poss	17570
+We tried to hang ourselves in a field near the house .	We tried to hang ourselves in a field near our house .	det_poss	13628
+Please comment at the blog : www.iht.com / passages .	Please comment at my blog : www.iht.com / passages .	det_poss	2523
+The idea that you embarrass him is a solid one .	Your idea that you embarrass him is a solid one .	det_poss	18462
+Now , toughness in tragedy has become a central theme of the candidacy .	Now , toughness in tragedy has become a central theme of his candidacy .	det_poss	16371
+We want to keep the focus on poverty reduction .	We want to keep his focus on poverty reduction .	det_poss	17707
+The absence will not change our tactical game-plan .	His absence will not change our tactical game-plan .	det_poss	23546
+" " The pilots were terrific .	" " Our pilots were terrific .	det_poss	13566
+We parked the bicycles and walked out toward the water .	We parked our bicycles and walked out toward the water .	det_poss	7453
+" We could not even connect the passes , " he said .	" We could not even connect our passes , " he said .	det_poss	14910
+Donate The Bike , Save the World ?	Donate Your Bike , Save the World ?	det_poss	11880
+Roddick roared at Acasuso , having broken the serve .	Roddick roared at Acasuso , having broken his serve .	det_poss	18470
+I am immensely pleased with the boy .	I am immensely pleased with our boy .	det_poss	16497
+" I find the equivocation here somewhat troubling , " Feingold responded .	" I find your equivocation here somewhat troubling , " Feingold responded .	det_poss	12412
+There was a blood-red plastic heart stuck in the hair .	There was a blood-red plastic heart stuck in her hair .	det_poss	12733
+She is on the cell .	She is on her cell .	det_poss	24245
+Karl Rove , the car is ready .	Karl Rove , your car is ready .	det_poss	1939
+It is just not the core business anymore .	It is just not our core business anymore .	det_poss	25164
+That is just the opinion .	That is just my opinion .	det_poss	2225
+In the eyes , she was gorgeous .	In my eyes , she was gorgeous .	det_poss	13084
+Send us the thoughts and comments on Tim Franks ' latest diary .	Send us your thoughts and comments on Tim Franks ' latest diary .	det_poss	25102
+" You 're going after the consumer base , " he said .	" You 're going after your consumer base , " he said .	det_poss	14712
+In the book , the author highlights 35 companies with remarkable brand quotients .	In her book , the author highlights 35 companies with remarkable brand quotients .	det_poss	13172
+What is the opinion ?	What is your opinion ?	det_poss	2952
+And the fundamentals of the economy are strong .	And the fundamentals of our economy are strong .	det_poss	21558
+He tested positive for marijuana this April , again delaying the return .	He tested positive for marijuana this April , again delaying his return .	det_poss	3797
+So raise a glass to the forefathers and marvel at these tales .	So raise a glass to your forefathers and marvel at these tales .	det_poss	1473
+Others do not underestimate the relentlessness .	Others do not underestimate her relentlessness .	det_poss	11650
+" It did exceed the expectations , " Davenport said .	" It did exceed my expectations , " Davenport said .	det_poss	17341
+She loves the work !	She loves your work !	det_poss	12117
+The daughter handles her money well .	My daughter handles her money well .	det_poss	3655
+The police found him asleep in the car the next morning .	The police found him asleep in his car the next morning .	det_poss	19702
+The World Cup journey came to an end yesterday .	Our World Cup journey came to an end yesterday .	det_poss	7926
+AR : So then here we are at the trailer .	AR : So then here we are at your trailer .	det_poss	10695
+People have fond memories of Bill Clinton and the administration .	People have fond memories of Bill Clinton and his administration .	det_poss	21971
+To the delight she lost 10kg .	To her delight she lost 10kg .	det_poss	22993
+The debts mounted .	His debts mounted .	det_poss	8919
+Holliday helped the team to the National League pennant .	Holliday helped his team to the National League pennant .	det_poss	3943
+The charity foundation is called Oprah 's Angel Network .	Her charity foundation is called Oprah 's Angel Network .	det_poss	20127
+The lawyers could not be reached for comment .	His lawyers could not be reached for comment .	det_poss	13802
+Police also seized the vehicle .	Police also seized his vehicle .	det_poss	15544
+But since the fall , chaos has reigned on the streets .	But since his fall , chaos has reigned on the streets .	det_poss	25738
+" The message is consistent and clear , " he said .	" Our message is consistent and clear , " he said .	det_poss	604
+She had gone there to attend the grandfather 's funeral .	She had gone there to attend her grandfather 's funeral .	det_poss	11663
+A statement of the manhood for the world to see .	A statement of my manhood for the world to see .	det_poss	25390
+Since then I have continued to renew the lease .	Since then I have continued to renew my lease .	det_poss	16177
+The company is operating in emergency mode .	His company is operating in emergency mode .	det_poss	19701
+Q I am a gay man in the thirties .	Q I am a gay man in my thirties .	det_poss	6517
+It is hard to overemphasize corruption , in the opinion .	It is hard to overemphasize corruption , in my opinion .	det_poss	3725
+There was something Napoleonic in the pose .	There was something Napoleonic in his pose .	det_poss	11067
+Whoopi told the studio audience yesterday .	Whoopi told her studio audience yesterday .	det_poss	24808
+Over one million scientists and technologists use the products .	Over one million scientists and technologists use our products .	det_poss	11621
+The defendant waived the right to a speedy trial .	The defendant waived his right to a speedy trial .	det_poss	7352
+Padilla appealed the suspension .	Padilla appealed his suspension .	det_poss	9799
+The tent dresses possessed grace .	His tent dresses possessed grace .	det_poss	18506
+The hotel has eight-inch walls between rooms .	His hotel has eight-inch walls between rooms .	det_poss	25966
+" My dad is the hero , " Marie Osmond told Winfrey .	" My dad is my hero , " Marie Osmond told Winfrey .	det_poss	1465
+But neither artist needed the arm twisted .	But neither artist needed his arm twisted .	det_poss	13439
+So how does this population growth affect the world ?	So how does this population growth affect our world ?	det_poss	6825
+Benazir Bhutto was planning to visit the family in Dubai .	Benazir Bhutto was planning to visit her family in Dubai .	det_poss	5597
+He has been honoured for the services to sport .	He has been honoured for his services to sport .	det_poss	17208
+This is a part of the heart .	This is a part of my heart .	det_poss	14970
+The memorial will be November 12 .	Her memorial will be November 12 .	det_poss	6630
+The cause was complications of Alzheimer 's disease , the family said .	The cause was complications of Alzheimer 's disease , his family said .	det_poss	19039
+" I have never been dishonest with the audience , " he said .	" I have never been dishonest with my audience , " he said .	det_poss	18182
+The IAC shares will probably be worth more this way .	His IAC shares will probably be worth more this way .	det_poss	16366
+The kid just said a freaking sentence .	My kid just said a freaking sentence .	det_poss	25281
+The style complements the high-minded Anglican intellectual approach of Dr Williams in Canterbury .	His style complements the high-minded Anglican intellectual approach of Dr Williams in Canterbury .	det_poss	16187
+The daughter ... has always preferred my husband over me .	My daughter ... has always preferred my husband over me .	det_poss	9615
+It is never a bad idea to improve the skill set .	It is never a bad idea to improve your skill set .	det_poss	18698
+People have always fallen in love with the son .	People have always fallen in love with her son .	det_poss	9333
+I have let the country down .	I have let my country down .	det_poss	20644
+Bhutto said the party might join other opposition groups in resigning from parliament .	Bhutto said her party might join other opposition groups in resigning from parliament .	det_poss	2532
+She served the country well and was taken too soon .	She served her country well and was taken too soon .	det_poss	12611
+Don 't forget the friends .	Don 't forget your friends .	det_poss	15199
+The stepchildren visited once or twice a month .	His stepchildren visited once or twice a month .	det_poss	13109
+And the rebound contractor , Mike , seemed responsive and sympathetic .	And our rebound contractor , Mike , seemed responsive and sympathetic .	det_poss	22708
+" The eyes are full of tears , " Don Davis said .	" My eyes are full of tears , " Don Davis said .	det_poss	14126
+Want to see how the news knowledge stacks up ?	Want to see how your news knowledge stacks up ?	det_poss	23957
+One of the sons was wounded .	One of his sons was wounded .	det_poss	25232
+Big tears filled the eyes .	Big tears filled his eyes .	det_poss	2960
+We have six new healthy grandbabies and the daughter is fine .	We have six new healthy grandbabies and my daughter is fine .	det_poss	8451
+The doctor told me I had been given a second chance at life .	My doctor told me I had been given a second chance at life .	det_poss	23460
+Is Iraq 's Sadr Mending The Ways ?	Is Iraq 's Sadr Mending His Ways ?	det_poss	20054
+" It was never the intention to hurt Agbonlahor , " Carvalho said .	" It was never my intention to hurt Agbonlahor , " Carvalho said .	det_poss	12376
+I am just doing the job and do not ask questions .	I am just doing my job and do not ask questions .	det_poss	13361
+I glanced at the Ford E-350 on the screen .	I glanced at the Ford E-350 on his screen .	det_poss	2411
+" " The family has been without food for a week .	" " Our family has been without food for a week .	det_poss	14349
+The daughter is in rehab .	Your daughter is in rehab .	det_poss	5394
+Then look at how these firms match the criteria .	Then look at how these firms match your criteria .	det_poss	11844
+Benazir was the eldest of the children .	Benazir was the eldest of his children .	det_poss	23388
+The history of success under Belichick did not hurt .	His history of success under Belichick did not hurt .	det_poss	13119
+Mr. Herman credits Gordon 's mother with the recovery .	Mr. Herman credits Gordon 's mother with his recovery .	det_poss	18614
+The light even came into the car .	The light even came into my car .	det_poss	25061
+She was taken to hospital with 12 shotgun pellets embedded in the leg .	She was taken to hospital with 12 shotgun pellets embedded in her leg .	det_poss	6523
+That is the boy 's room over there .	That is my boy 's room over there .	det_poss	7447
+The fist-pumping passion showed unlike ever before .	Her fist-pumping passion showed unlike ever before .	det_poss	14391
+Twenty of the ministers lost their seats in Thursday 's vote .	Twenty of his ministers lost their seats in Thursday 's vote .	det_poss	4883
+Around the same time , the marriage was crumbling .	Around the same time , his marriage was crumbling .	det_poss	23329
+" I cannot tell you the appreciation , " Miles said .	" I cannot tell you my appreciation , " Miles said .	det_poss	18528
+But the gangsta outlook is intact .	But his gangsta outlook is intact .	det_poss	11973
+He showed what was really in the heart and what he really wanted .	He showed what was really in his heart and what he really wanted .	det_poss	1492
+Calls to the manager and publicist were not immediately returned .	Calls to her manager and publicist were not immediately returned .	det_poss	7041
+" I like getting the hands dirty , " he said .	" I like getting my hands dirty , " he said .	det_poss	20458
+" Keep the minds open , " Shumate said .	" Keep your minds open , " Shumate said .	det_poss	10536
+Jack wiped the eyes .	Jack wiped his eyes .	det_poss	15931
+It is both fair and accurate to say the record is mixed .	It is both fair and accurate to say his record is mixed .	det_poss	2462
+The prices range from $ 1,500 to $ 10,000 a piece .	Her prices range from $ 1,500 to $ 10,000 a piece .	det_poss	22659
+The seven-times world championship-winning German chose the moment carefully .	The seven-times world championship-winning German chose his moment carefully .	det_poss	24054
+None of us want to tell people about the mistakes .	None of us want to tell people about our mistakes .	det_poss	12749
+Do we fight for the principles .	Do we fight for our principles .	det_poss	15802
+Bush said the U.S. engagement will stretch beyond the presidency .	Bush said the U.S. engagement will stretch beyond his presidency .	det_poss	1754
+And we stood in the kitchen .	And we stood in my kitchen .	det_poss	16803
+The team outshot 13-3 to that point .	His team outshot 13-3 to that point .	det_poss	13183
+The fees are exorbitant but the salary derisory .	The fees are exorbitant but her salary derisory .	det_poss	17256
+In 2002 , he announced the retirement from political life .	In 2002 , he announced his retirement from political life .	det_poss	6625
+The children did not die but children all around us were dying .	My children did not die but children all around us were dying .	det_poss	18713
+It was written indelibly into the memory .	It was written indelibly into my memory .	det_poss	23163
+The next day , she collapsed on the way to the bathroom .	The next day , she collapsed on her way to the bathroom .	det_poss	10083
+She is pursuing child support from the ex-husband .	She is pursuing child support from her ex-husband .	det_poss	24435
+The body makes cholesterol on its own .	Your body makes cholesterol on its own .	det_poss	10479
+It clouds the reason , absolutely .	It clouds your reason , absolutely .	det_poss	636
+The compellin first-hand account was riveting .	Her compellin first-hand account was riveting .	det_poss	26061
+She already sometimes bends the spine in an unnatural curve .	She already sometimes bends her spine in an unnatural curve .	det_poss	3570
+There are no misunderstandings on the part .	There are no misunderstandings on our part .	det_poss	24573
+The car 's not OK , but I am .	My car 's not OK , but I am .	det_poss	7459
+Davone plays with a chip on the shoulder .	Davone plays with a chip on his shoulder .	det_poss	1418
+Nevertheless the children were not taking any chances .	Nevertheless his children were not taking any chances .	det_poss	21444
+Chris Bosh led Toronto with 41 points , tying the career high .	Chris Bosh led Toronto with 41 points , tying his career high .	det_poss	19628
+The victim told police that the attackers had yelled racial epithets .	The victim told police that her attackers had yelled racial epithets .	det_poss	24953
+And it probably decreases the chances of finding someone I love .	And it probably decreases my chances of finding someone I love .	det_poss	20363
+Is Frank Lampard in the team ?	Is Frank Lampard in your team ?	det_poss	5917
+" We are trying to win the division , " Dungy said .	" We are trying to win our division , " Dungy said .	det_poss	14403
+Wilson takes the painting seriously .	Wilson takes her painting seriously .	det_poss	17680
+I look forward to the questions and our chat .	I look forward to your questions and our chat .	det_poss	20776
+In the book , that is wrong .	In my book , that is wrong .	det_poss	15301
+It emerged later that she had bitten the tongue .	It emerged later that she had bitten her tongue .	det_poss	16626
+The One-Sheet gives you some background on hurricanes .	Our One-Sheet gives you some background on hurricanes .	det_poss	17025
+The image supports theories that two people were involved in the killing .	The image supports theories that two people were involved in her killing .	det_poss	6542
+They want the money and the cable companies ' money .	They want your money and the cable companies ' money .	det_poss	20999
+The life is good because we are together .	Our life is good because we are together .	det_poss	24571
+Chang does not even know the name .	Chang does not even know his name .	det_poss	24477
+The supporters considered him a political visionary .	His supporters considered him a political visionary .	det_poss	21209
+He feels the idea has been spurned .	He feels his idea has been spurned .	det_poss	11040
+" " The team is not very young .	" " Our team is not very young .	det_poss	4535
+The 19-year-old showed no reaction as the sentence was read out .	The 19-year-old showed no reaction as his sentence was read out .	det_poss	20778
+She accepted a tissue to wipe the face .	She accepted a tissue to wipe her face .	det_poss	12350
+The breathing stopped as he entered a quiescence beyond sleep .	His breathing stopped as he entered a quiescence beyond sleep .	det_poss	8614
+Obama has raised more than $ 58 million for the White House bid .	Obama has raised more than $ 58 million for his White House bid .	det_poss	4259
+Laura and I are deeply saddened by the death .	Laura and I are deeply saddened by his death .	det_poss	13094
+So why not give the credit ?	So why not give her credit ?	det_poss	10394
+The premise was simple .	My premise was simple .	det_poss	15010
+The accident ended the fencing career .	The accident ended his fencing career .	det_poss	15934
+They arrived at the house , separately , a week later .	They arrived at her house , separately , a week later .	det_poss	10203
+Are you up on the junmai daiginjo ?	Are you up on your junmai daiginjo ?	det_poss	5579
+The lead is 41 percent to 27 percent over Obama among men .	Her lead is 41 percent to 27 percent over Obama among men .	det_poss	11562
+He is visiting the family in Alexandria .	He is visiting his family in Alexandria .	det_poss	10912
+The performance in future debates is equally important .	His performance in future debates is equally important .	det_poss	7677
+Who cooks Christmas dinner in the house ?	Who cooks Christmas dinner in your house ?	det_poss	1510
+Steffy 's play against Villanova belied the inexperience .	Steffy 's play against Villanova belied his inexperience .	det_poss	15613
+But Gordon did not only cite Spears in the order .	But Gordon did not only cite Spears in his order .	det_poss	20340
+The high is 59 in 2000 .	His high is 59 in 2000 .	det_poss	15037
+It totally blew the mind .	It totally blew my mind .	det_poss	4531
+The law was on the side and Price knew it .	The law was on his side and Price knew it .	det_poss	24187
+Safin is safely realistic about the chances here .	Safin is safely realistic about his chances here .	det_poss	2099
+He could meet the family in the north .	He could meet his family in the north .	det_poss	22785
+Take the content away ?	Take your content away ?	det_poss	12171
+A bald man came on with the juggling balls .	A bald man came on with his juggling balls .	det_poss	2690
+It is a small way of showing we are not insulting the intelligence .	It is a small way of showing we are not insulting his intelligence .	det_poss	811
+Send the suggestions on the form below .	Send your suggestions on the form below .	det_poss	11677
+A grenade struck the Humvee in Baghdad .	A grenade struck his Humvee in Baghdad .	det_poss	6316
+Both the states have gone through complex paths of development .	Both our states have gone through complex paths of development .	det_poss	5788
+She typed an e-mail on the BlackBerry .	She typed an e-mail on her BlackBerry .	det_poss	592
+Prize winning is nice but it is never been the goal .	Prize winning is nice but it is never been my goal .	det_poss	4294
+You need to stand up for yourself - and the money .	You need to stand up for yourself - and your money .	det_poss	5134
+The world record points total is 7,291 .	Her world record points total is 7,291 .	det_poss	4928
+That is why he chose the words carefully last week .	That is why he chose his words carefully last week .	det_poss	2676
+You Name The Deal !	You Name Your Deal !	det_poss	15167
+Certainly , it gives you more bang for the buck .	Certainly , it gives you more bang for your buck .	det_poss	9286
+The answer : well , there you may have a point .	His answer : well , there you may have a point .	det_poss	13320
+Speak to the Local Authority or waste disposal contractor .	Speak to your Local Authority or waste disposal contractor .	det_poss	23473
+The trophies and other memorabilia can be seen today at the Potschefstroom Museum .	His trophies and other memorabilia can be seen today at the Potschefstroom Museum .	det_poss	16484
+Ecstasy , cocaine and alcohol were also found in the bloodstream .	Ecstasy , cocaine and alcohol were also found in his bloodstream .	det_poss	13858
+So did one of the sisters .	So did one of her sisters .	det_poss	9249
+We want both PGTI and the Asian Tour on the side .	We want both PGTI and the Asian Tour on our side .	det_poss	20833
+He has a bunch of department videos to set him on the way .	He has a bunch of department videos to set him on his way .	det_poss	1899
+But prosecutors who led that case say Giuliani overstates the role .	But prosecutors who led that case say Giuliani overstates his role .	det_poss	24401
+The most straightforward strategy is to talk to the child .	The most straightforward strategy is to talk to your child .	det_poss	23042
+Rita Rudner has added additional dates to the run at Harrah 's .	Rita Rudner has added additional dates to her run at Harrah 's .	det_poss	2050
+However , the advisers said she would ignore the request .	However , her advisers said she would ignore the request .	det_poss	19723
+The companion , Sanford Katz , died in 2005 .	Her companion , Sanford Katz , died in 2005 .	det_poss	9137
+Some of the powers , particularly over government appointments , are reinstated .	Some of his powers , particularly over government appointments , are reinstated .	det_poss	21039
+The politics have remained fairly liberal .	His politics have remained fairly liberal .	det_poss	6114
+This week he stepped up the criticism of Mr Zapatero .	This week he stepped up his criticism of Mr Zapatero .	det_poss	5389
+They are making the job awful easy .	They are making my job awful easy .	det_poss	23871
+The family and friends are in awe .	Our family and friends are in awe .	det_poss	22236
+He has two teenage sons from the marriage to Savio .	He has two teenage sons from his marriage to Savio .	det_poss	10795
+It is a little nutsy right now , the life .	It is a little nutsy right now , my life .	det_poss	14746
+Are you celebrating the diamond anniversary ?	Are you celebrating your diamond anniversary ?	det_poss	8456
+Last year , she met Onita Misa , the case manager .	Last year , she met Onita Misa , her case manager .	det_poss	7853
+The leadership in HIV / AIDS vaccine research is invaluable .	Her leadership in HIV / AIDS vaccine research is invaluable .	det_poss	9549
+He hit my dad on the shoulder .	He hit my dad on his shoulder .	det_poss	11004
+Why should I change the name ?	Why should I change my name ?	det_poss	21403
+" " It is a good use of the taxpayers ' money .	" " It is a good use of our taxpayers ' money .	det_poss	8472
+But the boy-racer heart betrayed him .	But his boy-racer heart betrayed him .	det_poss	18685
+There , he recalled the time filming in Afghanistan .	There , he recalled his time filming in Afghanistan .	det_poss	21621
+Include the name and phone number where you can be contacted .	Include your name and phone number where you can be contacted .	det_poss	23129
+To rebuild the pelvis , surgeons used tissue from the twin .	To rebuild her pelvis , surgeons used tissue from the twin .	det_poss	20462
+" We have got the back , " it said .	" We have got your back , " it said .	det_poss	13641
+Instead , the Glasgow is full of characters .	Instead , my Glasgow is full of characters .	det_poss	25971
+The siblings and I had one another .	My siblings and I had one another .	det_poss	11901
+Kerry Collins started in the place .	Kerry Collins started in his place .	det_poss	1720
+Park increases the powers with constitutional changes .	Park increases his powers with constitutional changes .	det_poss	986
+This is why we pay the fees .	This is why we pay our fees .	det_poss	10986
+After getting the master 's , she taught the children of crop pickers .	After getting her master 's , she taught the children of crop pickers .	det_poss	8705
+I joined the peaceful demonstrations to show the support .	I joined the peaceful demonstrations to show my support .	det_poss	10899
+I could still see the breath .	I could still see my breath .	det_poss	6634
+But he also blamed the police for the death .	But he also blamed the police for her death .	det_poss	21236
+The university 's gymnasium and its Institute for Entrepreneurial Studies bear the name .	The university 's gymnasium and its Institute for Entrepreneurial Studies bear his name .	det_poss	21293
+I understood the frustration .	I understood his frustration .	det_poss	15074
+The tattoos on the neck and arms are obscured by sores and lesions .	The tattoos on his neck and arms are obscured by sores and lesions .	det_poss	1442
+May saw the product as liberating .	May saw his product as liberating .	det_poss	21855
+He was much happier staying at home sorting out scrap in the overalls .	He was much happier staying at home sorting out scrap in his overalls .	det_poss	13504
+In the past year we have seen the family three times .	In the past year we have seen my family three times .	det_poss	8638
+But Chambers has the limits .	But Chambers has his limits .	det_poss	16511
+Even some of the players were not necessarily believers .	Even some of his players were not necessarily believers .	det_poss	3203
+And if the journalists knew their story , Ms Bhutto knew the script .	And if the journalists knew their story , Ms Bhutto knew her script .	det_poss	18391
+There went the heart again .	There went my heart again .	det_poss	9484
+The findings are both dramatic and powerful .	Our findings are both dramatic and powerful .	det_poss	18417
+" The children need 100 percent of their family , " Winkler said .	" My children need 100 percent of their family , " Winkler said .	det_poss	2206
+Saturday and asked to use the vehicle .	Saturday and asked to use her vehicle .	det_poss	14844
+Davydenko said during the exchange , Dercq asked him about the condition .	Davydenko said during the exchange , Dercq asked him about his condition .	det_poss	6108
+The secretary clasped the hand tenderly as she departed .	The secretary clasped his hand tenderly as she departed .	det_poss	10958
+I mean , it is like brushing the teeth .	I mean , it is like brushing my teeth .	det_poss	24049
+Strangely however maths is not the thing .	Strangely however maths is not his thing .	det_poss	8425
+The marks trail down the back and legs .	The marks trail down her back and legs .	det_poss	4293
+The arrest and guilty plea were reported Aug. 27 by Roll Call .	His arrest and guilty plea were reported Aug. 27 by Roll Call .	det_poss	15336
+Doing so can throw off the body 's internal rhythm .	Doing so can throw off your body 's internal rhythm .	det_poss	20501
+The detractors were not so easily thwarted .	Her detractors were not so easily thwarted .	det_poss	7982
+We were not permitted even the tiniest peekaboo at the back .	We were not permitted even the tiniest peekaboo at his back .	det_poss	19023
+The street-side theater can accommodate barely 10 red plastic chairs .	His street-side theater can accommodate barely 10 red plastic chairs .	det_poss	15390
+I had lived the life according to Mr Prescott 's tenets .	I had lived my life according to Mr Prescott 's tenets .	det_poss	25550
+She said thoughts about the future are painful .	She said thoughts about his future are painful .	det_poss	19430
+He said police threatened him and even questioned the paternity rights .	He said police threatened him and even questioned his paternity rights .	det_poss	1135
+The trouble was her overdeveloped sense of smell .	Her trouble was her overdeveloped sense of smell .	det_poss	3497
+Neither Peterson nor the attorney could be reached for comment Thursday night .	Neither Peterson nor his attorney could be reached for comment Thursday night .	det_poss	21034
+the Plan Was To Watch Initially And Then Attack .	our Plan Was To Watch Initially And Then Attack .	det_poss	12395
+The face was unshaven .	His face was unshaven .	det_poss	12291
+ATLANTA -- John Smoltz has accomplished plenty in the career .	ATLANTA -- John Smoltz has accomplished plenty in his career .	det_poss	2790
+In the new commercial , Hartgrave spells out the story .	In the new commercial , Hartgrave spells out his story .	det_poss	15057
+The server whirls and turns to the co-workers .	The server whirls and turns to her co-workers .	det_poss	4098
+Needs improvement Cameron Mathison started the night whining about the schedule again .	Needs improvement Cameron Mathison started the night whining about his schedule again .	det_poss	11427
+The orgone accumulators eventually caught the attention of the FDA .	His orgone accumulators eventually caught the attention of the FDA .	det_poss	3482
+The end was nigh !	Our end was nigh !	det_poss	3310
+The office said the plan was to set off car bombs .	Her office said the plan was to set off car bombs .	det_poss	20422
+Sparling , the assistant was there .	Sparling , his assistant was there .	det_poss	3209
+He had served less than four months of the term .	He had served less than four months of his term .	det_poss	12393
+One glaring sign of the troubles ahead was the election Tuesday .	One glaring sign of the troubles ahead was his election Tuesday .	det_poss	9664
+Todd leaned forward in the chair .	Todd leaned forward in his chair .	det_poss	11019
+So I have got to make the changes , too .	So I have got to make my changes , too .	det_poss	25984
+I take the number .	I take his number .	det_poss	7189
+Haneef 's main aim in appealing was to clear the name .	Haneef 's main aim in appealing was to clear his name .	det_poss	24195
+The ankle made me reconsider the walk .... for about a minute .	My ankle made me reconsider the walk .... for about a minute .	det_poss	1378
+He is only got a little over a year left in the term .	He is only got a little over a year left in his term .	det_poss	5489
+WHAT is the stuff worth ?	WHAT is your stuff worth ?	det_poss	3685
+I do not like to let the guard down .	I do not like to let my guard down .	det_poss	23107
+The party is in power today ; her daughter-in-law is the party chief .	Her party is in power today ; her daughter-in-law is the party chief .	det_poss	306
+" Music is the therapy , " he says .	" Music is my therapy , " he says .	det_poss	3692
+Do the homework .	Do your homework .	det_poss	25837
+Laughing and driving even as a man clung to the windshield .	Laughing and driving even as a man clung to her windshield .	det_poss	11582
+Does the child need a tutor ?	Does your child need a tutor ?	det_poss	17912
+Bush camp used the footage to question the ability .	Bush camp used the footage to question his ability .	det_poss	15344
+She was the guardian , friend and protector .	She was our guardian , friend and protector .	det_poss	3554
+She later died from the injuries .	She later died from her injuries .	det_poss	24279
+Afterward , he bade good night and made the exit .	Afterward , he bade good night and made his exit .	det_poss	19930
+What is the thought on that ?	What is your thought on that ?	det_poss	7789
+The friends nodded , laughing .	His friends nodded , laughing .	det_poss	2159
+The machines have gone ahead of us .	Our machines have gone ahead of us .	det_poss	26029
+" The voice is fine , " he added .	" His voice is fine , " he added .	det_poss	12348
+She suffered months of enslavement before escaping the captors .	She suffered months of enslavement before escaping her captors .	det_poss	9567
+Show the talent to everybody .	Show your talent to everybody .	det_poss	26037
+The emergency surgery saved the solar energy panel and the space station .	His emergency surgery saved the solar energy panel and the space station .	det_poss	21998
+Today 's announcement has risen out of the discussions .	Today 's announcement has risen out of our discussions .	det_poss	19545
+Though the eyesight is failing , she examined every picture thoroughly .	Though her eyesight is failing , she examined every picture thoroughly .	det_poss	20097
+Duh , as the kids would say .	Duh , as my kids would say .	det_poss	14978
+Both the appointment and the organisation caused a storm .	Both her appointment and the organisation caused a storm .	det_poss	20998
+The speech was broadcast simultaneously on BBC One and ITV1 .	Her speech was broadcast simultaneously on BBC One and ITV1 .	det_poss	4292
+How do you like the sex kittens to age ?	How do you like your sex kittens to age ?	det_poss	14454
+Some country radio stations have been playing the songs .	Some country radio stations have been playing her songs .	det_poss	22181
+The account could not be independently confirmed .	His account could not be independently confirmed .	det_poss	22795
+That is part of the change we need in the politics .	That is part of the change we need in our politics .	det_poss	18314
+We pray that the judgment is free of arrogance .	We pray that our judgment is free of arrogance .	det_poss	12845
+For the sister-in-law the loan is just another fixed-income investment in her portfolio .	For his sister-in-law the loan is just another fixed-income investment in her portfolio .	det_poss	16806
+After feeding , I moved the truck closer to the barn .	After feeding , I moved my truck closer to the barn .	det_poss	6552
+The relationship with Jolie was recently rumoured to be in trouble .	His relationship with Jolie was recently rumoured to be in trouble .	det_poss	14731
+After the hunt , she figures she can endure anything .	After her hunt , she figures she can endure anything .	det_poss	25648
+The recommendation does not go far enough in the mind .	The recommendation does not go far enough in my mind .	det_poss	9084
+He spent that week with the family at the hospital .	He spent that week with his family at the hospital .	det_poss	19876
+Last year America grew the economy while also reducing greenhouse gases .	Last year America grew our economy while also reducing greenhouse gases .	det_poss	4504
+The assumptions are specific to the East Coast of America .	His assumptions are specific to the East Coast of America .	det_poss	11506
+Ahsha Rolle only had the Grandstand crowd going for the today .	Ahsha Rolle only had the Grandstand crowd going for her today .	det_poss	11070
+That is one tradition they could bring back in the book .	That is one tradition they could bring back in my book .	det_poss	8493
+But this is also the vision of himself .	But this is also his vision of himself .	det_poss	25096
+I appreciate members of the Cabinet who have joined us today .	I appreciate members of my Cabinet who have joined us today .	det_poss	18112
+It is hard to describe the extent of the injuries .	It is hard to describe the extent of his injuries .	det_poss	11617
+The kids ' team can make a play sooner or later .	My kids ' team can make a play sooner or later .	det_poss	2211
+If it becomes hip , so will the country .	If it becomes hip , so will your country .	det_poss	14939
+" We can pay the bills , " Ms. Black said .	" We can pay our bills , " Ms. Black said .	det_poss	5407
+I like the cut of the jibski .	I like the cut of his jibski .	det_poss	12182
+Anyway , thank you all for the hospitality .	Anyway , thank you all for your hospitality .	det_poss	25934
+For years , he kept the stories to himself .	For years , he kept his stories to himself .	det_poss	12649
+One of the aims is whole-day schooling .	One of her aims is whole-day schooling .	det_poss	4943
+Am I at fault , or are the friends ?	Am I at fault , or are my friends ?	det_poss	24223
+The confirmation hearings grew contentious over his 2002 memo waiving anti-torture laws .	His confirmation hearings grew contentious over his 2002 memo waiving anti-torture laws .	det_poss	13422
+Drew was not home , but the kids were .	Drew was not home , but his kids were .	det_poss	11885
+The umbrella finally gags on its hairball and dies .	My umbrella finally gags on its hairball and dies .	det_poss	12080
+Did you do anything with the feet ?	Did you do anything with your feet ?	det_poss	8082
+I saved the life !	I saved your life !	det_poss	14027
+The daughter 's iPod and purse were in the car .	His daughter 's iPod and purse were in the car .	det_poss	25213
+The input into this is really making a difference .	Our input into this is really making a difference .	det_poss	9882
+This war will define the priorities well into the future .	This war will define our priorities well into the future .	det_poss	9592
+She was hit by pellets at the top of the leg .	She was hit by pellets at the top of her leg .	det_poss	8120
+He said one of the foxes is 14 years old .	He said one of his foxes is 14 years old .	det_poss	25156
+I think it is a big issue for the country .	I think it is a big issue for our country .	det_poss	22437
+He injured the neck in a collision during a 1991 game .	He injured his neck in a collision during a 1991 game .	det_poss	781
+Almost every night , he sneaks out for the fix .	Almost every night , he sneaks out for his fix .	det_poss	6093
+Find out the family history of eye disease .	Find out your family history of eye disease .	det_poss	23217
+He traveled the country preaching the virtues of the ideology .	He traveled the country preaching the virtues of his ideology .	det_poss	14621
+There was no telephone listing for him or the family in Adrian .	There was no telephone listing for him or his family in Adrian .	det_poss	4723
+This is especially relevant now in the life and times .	This is especially relevant now in our life and times .	det_poss	10571
+But a leopard can change the spots .	But a leopard can change his spots .	det_poss	1707
+" " By the guidelines it is a medium-sized spill .	" " By our guidelines it is a medium-sized spill .	det_poss	3089
+His wife continued the studies in occupational therapy .	His wife continued her studies in occupational therapy .	det_poss	1679
+Why are the daughters dead ?	Why are my daughters dead ?	det_poss	3185
+What exactly is the responsibility ?	What exactly is your responsibility ?	det_poss	15124
+Then , through the anger , she heard something .	Then , through her anger , she heard something .	det_poss	1958
+Now you can do all that while sitting at the desk .	Now you can do all that while sitting at your desk .	det_poss	9229
+That is where I got the name .	That is where I got my name .	det_poss	19523
+I do not think it is all the fault .	I do not think it is all his fault .	det_poss	24559
+What is the vision for Europe ?	What is your vision for Europe ?	det_poss	101
+For example , after finishing a report , reset the speedometer .	For example , after finishing a report , reset your speedometer .	det_poss	15006
+Australian Opposition Leader Kevin Rudd addresses supporters at the party ?	Australian Opposition Leader Kevin Rudd addresses supporters at his party ?	det_poss	3396
+He also agreed to give slightly more information about the reasoning .	He also agreed to give slightly more information about his reasoning .	det_poss	5600
+The pediatrician ultimately sent him to see Lane .	His pediatrician ultimately sent him to see Lane .	det_poss	7919
+, Cashman made the point .	, Cashman made his point .	det_poss	7243
+A videotape showing the beheading was later distributed on the Internet .	A videotape showing his beheading was later distributed on the Internet .	det_poss	1617
+The story is truly heart wrenching , every parent 's worst nightmare .	His story is truly heart wrenching , every parent 's worst nightmare .	det_poss	320
+Cappuccino said Everett was alert and aware of the extent of the injuries .	Cappuccino said Everett was alert and aware of the extent of his injuries .	det_poss	3420
+As Rawlings spoke , Barry consoled him by rubbing the shoulders .	As Rawlings spoke , Barry consoled him by rubbing his shoulders .	det_poss	21712
+A lot of the teasing is about the job .	A lot of the teasing is about my job .	det_poss	1964
+The cause was a stroke , the granddaughter Daisy Colchie Eniex said .	The cause was a stroke , her granddaughter Daisy Colchie Eniex said .	det_poss	19763
+To the mind , the best tights are by Falke .	To my mind , the best tights are by Falke .	det_poss	15394
+Authorities seized the passport in January .	Authorities seized her passport in January .	det_poss	1441
+The status was not immediately known .	His status was not immediately known .	det_poss	19874
+With the victory he vaulted from eighth to third in the standings .	With his victory he vaulted from eighth to third in the standings .	det_poss	6707
+Does this man dye the beard ?	Does this man dye his beard ?	det_poss	20764
+Insurance companies have a stranglehold on the health .	Insurance companies have a stranglehold on our health .	det_poss	25911
+Mr LaHaye may yet get the Antichrist .	Mr LaHaye may yet get his Antichrist .	det_poss	23513
+Have The Say wants to find out what interests you .	Have Your Say wants to find out what interests you .	det_poss	22946
+It simply means picking the spots .	It simply means picking his spots .	det_poss	344
+I told them I need the sleep .	I told them I need my sleep .	det_poss	22343
+The heart soon restarted and they could finally operate to remove the RPG .	His heart soon restarted and they could finally operate to remove the RPG .	det_poss	3144

@@ -1,0 +1,500 @@
+Olivo said Reyes would not leave him alone .	Olivo said Reyes would not leave them alone .	pron_sing_plur	1106
+May God be with her .	May God be with them .	pron_sing_plur	870
+Paul won 15 games for me .	Paul won 15 games for us .	pron_sing_plur	2791
+But the court would be poorer without him .	But the court would be poorer without them .	pron_sing_plur	2466
+Some students taunt him .	Some students taunt them .	pron_sing_plur	2370
+Nobody feels sorry for me anymore .	Nobody feels sorry for us anymore .	pron_sing_plur	2415
+Plame maintains the White House quietly outed her to reporters .	Plame maintains the White House quietly outed them to reporters .	pron_sing_plur	108
+Two sons , Ashley and Laurence Noble , died before him .	Two sons , Ashley and Laurence Noble , died before them .	pron_sing_plur	251
+Clooney 's friend Sarah Larson was with him .	Clooney 's friend Sarah Larson was with them .	pron_sing_plur	1875
+For him , this was a big step in the right direction .	For them , this was a big step in the right direction .	pron_sing_plur	199
+Tell me your thoughts on this topic .	Tell us your thoughts on this topic .	pron_sing_plur	2821
+The fuel is the bigger issue for him .	The fuel is the bigger issue for them .	pron_sing_plur	2997
+Brown was injured when Bulls center Ben Wallace fell into him .	Brown was injured when Bulls center Ben Wallace fell into them .	pron_sing_plur	997
+1 and spent an hour with him .	1 and spent an hour with them .	pron_sing_plur	609
+That made him late in deciding to kick the field goal .	That made them late in deciding to kick the field goal .	pron_sing_plur	482
+Patterson told him to lay off the Japanese angle ; Caniff protested .	Patterson told them to lay off the Japanese angle ; Caniff protested .	pron_sing_plur	1007
+Give me freedom !	Give us freedom !	pron_sing_plur	1594
+Brett Favre had a real , real similar quality about him .	Brett Favre had a real , real similar quality about them .	pron_sing_plur	774
+" " Dinner is On Me !	" " Dinner is On Us !	pron_sing_plur	2096
+Technology has made many things available to me .	Technology has made many things available to us .	pron_sing_plur	1152
+One : Mr Denard had shot him .	One : Mr Denard had shot them .	pron_sing_plur	1657
+Nicolas Sarkozy 's showboating has made him very popular at home .	Nicolas Sarkozy 's showboating has made them very popular at home .	pron_sing_plur	2131
+In the case of Ron Paul , the Internet has harnessed him .	In the case of Ron Paul , the Internet has harnessed them .	pron_sing_plur	624
+Behind him , two water tanks gleam in the sun .	Behind them , two water tanks gleam in the sun .	pron_sing_plur	1422
+Molly calmed the baby and put him back to sleep .	Molly calmed the baby and put them back to sleep .	pron_sing_plur	3200
+Simpson screamed at him .	Simpson screamed at them .	pron_sing_plur	2129
+Minnesota released him in March .	Minnesota released them in March .	pron_sing_plur	2899
+But fate had other plans for him .	But fate had other plans for them .	pron_sing_plur	1153
+Scandinavian EU members have also voiced concern about him .	Scandinavian EU members have also voiced concern about them .	pron_sing_plur	653
+But Jol insists the pressure will not affect him .	But Jol insists the pressure will not affect them .	pron_sing_plur	3131
+Zarabozo had blow gun darts and knives on him when authorities found them .	Zarabozo had blow gun darts and knives on them when authorities found them .	pron_sing_plur	1138
+That gave me that mentality and the guys were excited .	That gave us that mentality and the guys were excited .	pron_sing_plur	1576
+The book has him chain-smoking .	The book has them chain-smoking .	pron_sing_plur	2230
+Now , this is so big for him , man .	Now , this is so big for them , man .	pron_sing_plur	1614
+Some want him to play fewer calypsos .	Some want them to play fewer calypsos .	pron_sing_plur	694
+The Tokyo trip helped persuade him to sign on with Goldman .	The Tokyo trip helped persuade them to sign on with Goldman .	pron_sing_plur	867
+The court also ordered him to pay £ 2,000 costs .	The court also ordered them to pay £ 2,000 costs .	pron_sing_plur	1952
+Foreigners love him .	Foreigners love them .	pron_sing_plur	2254
+Which brings me back to the beginning .	Which brings us back to the beginning .	pron_sing_plur	892
+Still , the fans love him .	Still , the fans love them .	pron_sing_plur	2291
+But the golden age of the DVD player is behind me .	But the golden age of the DVD player is behind us .	pron_sing_plur	877
+Angie gives her a withering look .	Angie gives them a withering look .	pron_sing_plur	2472
+Pray for me .	Pray for us .	pron_sing_plur	1016
+That gives him 10 victories on the season .	That gives them 10 victories on the season .	pron_sing_plur	1813
+Thompson did not try to stop him .	Thompson did not try to stop them .	pron_sing_plur	1870
+That was all the scrambling required of him .	That was all the scrambling required of them .	pron_sing_plur	1694
+For her , the outlook is none too bright .	For them , the outlook is none too bright .	pron_sing_plur	1829
+Kids with crazy haircuts and parents with tattoos do not rattle her either .	Kids with crazy haircuts and parents with tattoos do not rattle them either .	pron_sing_plur	629
+That left him 181 points behind Johnson .	That left them 181 points behind Johnson .	pron_sing_plur	2491
+, who would hire her .	, who would hire them .	pron_sing_plur	2330
+Philippines President Gloria Arroyo was to see him on Tuesday .	Philippines President Gloria Arroyo was to see them on Tuesday .	pron_sing_plur	2293
+Ebling noticed the cars in front of him were shaking .	Ebling noticed the cars in front of them were shaking .	pron_sing_plur	1162
+The assembled business executives and dignitaries gave him a standing ovation .	The assembled business executives and dignitaries gave them a standing ovation .	pron_sing_plur	2678
+Much of that Humvee disintegrated into fragments that rained down around me .	Much of that Humvee disintegrated into fragments that rained down around us .	pron_sing_plur	2156
+CNN and NBC were among the organizations that settled with him .	CNN and NBC were among the organizations that settled with them .	pron_sing_plur	3218
+Persistence led him to two dishes served over rice .	Persistence led them to two dishes served over rice .	pron_sing_plur	358
+Another young man joined me .	Another young man joined us .	pron_sing_plur	3212
+Both fathers agreed to let their children go with her .	Both fathers agreed to let their children go with them .	pron_sing_plur	2892
+The government is still trying to find him .	The government is still trying to find them .	pron_sing_plur	1951
+Hibi said Abe had been taking medication to help him sleep .	Hibi said Abe had been taking medication to help them sleep .	pron_sing_plur	1973
+John Richardson is letting me know .	John Richardson is letting us know .	pron_sing_plur	2058
+Go and ask him .	Go and ask them .	pron_sing_plur	973
+" Everybody 's watching him , " Haynes said .	" Everybody 's watching them , " Haynes said .	pron_sing_plur	378
+The local Conservative association called on him to stand down .	The local Conservative association called on them to stand down .	pron_sing_plur	2198
+There had previously been speculation that health troubles prompted him to step down .	There had previously been speculation that health troubles prompted them to step down .	pron_sing_plur	634
+Such wrongs should have earned him six points .	Such wrongs should have earned them six points .	pron_sing_plur	1726
+The sergeant needed to talk over something that was worrying him .	The sergeant needed to talk over something that was worrying them .	pron_sing_plur	2679
+Which brings him back to that other shoe dropping .	Which brings them back to that other shoe dropping .	pron_sing_plur	1864
+The season of sniffles will soon be upon me .	The season of sniffles will soon be upon us .	pron_sing_plur	2305
+This is not a race to find him .	This is not a race to find them .	pron_sing_plur	51
+Friends tried to cheer him up .	Friends tried to cheer them up .	pron_sing_plur	514
+Prosecutors have accused him of being the Qaeda driver for Osama bin Laden .	Prosecutors have accused them of being the Qaeda driver for Osama bin Laden .	pron_sing_plur	3076
+Her hold on them is solid but certainly not unshakable .	Them hold on them is solid but certainly not unshakable .	pron_sing_plur	1551
+Leave me guys out !	Leave us guys out !	pron_sing_plur	830
+Not incidentally , the orchestra played magnificently for him .	Not incidentally , the orchestra played magnificently for them .	pron_sing_plur	2037
+The BBC 's Peter Bowes has been to Seattle to meet him .	The BBC 's Peter Bowes has been to Seattle to meet them .	pron_sing_plur	3051
+Fox News aired a short TV interview with him Friday .	Fox News aired a short TV interview with them Friday .	pron_sing_plur	592
+Seem to be arguing about what to do with me .	Seem to be arguing about what to do with us .	pron_sing_plur	1831
+Maybe Pimco gave him more love .	Maybe Pimco gave them more love .	pron_sing_plur	2790
+Art experts would agree with her .	Art experts would agree with them .	pron_sing_plur	1305
+There was no information about who killed him or why .	There was no information about who killed them or why .	pron_sing_plur	2942
+But illegal acts were carried out against me too .	But illegal acts were carried out against us too .	pron_sing_plur	3166
+Tim Ewart fills me in on the distant discovery .	Tim Ewart fills us in on the distant discovery .	pron_sing_plur	808
+So many people have helped me tremendously along the way .	So many people have helped us tremendously along the way .	pron_sing_plur	203
+No store will let her return used shoes .	No store will let them return used shoes .	pron_sing_plur	2465
+Malasics said the experience will not deter him from going camping .	Malasics said the experience will not deter them from going camping .	pron_sing_plur	421
+Something to focus him .	Something to focus them .	pron_sing_plur	2057
+Then again , this is nothing new for him .	Then again , this is nothing new for them .	pron_sing_plur	1028
+No one has heard from her since .	No one has heard from them since .	pron_sing_plur	2903
+Cambodia and Vietnam might also want to question him .	Cambodia and Vietnam might also want to question them .	pron_sing_plur	2253
+Mr Purcell denies all the charges against him .	Mr Purcell denies all the charges against them .	pron_sing_plur	635
+Officials in the Manhattan district attorney 's office charged her with second-degree murder .	Officials in the Manhattan district attorney 's office charged them with second-degree murder .	pron_sing_plur	2610
+One hole later , Ochoa proved him correct .	One hole later , Ochoa proved them correct .	pron_sing_plur	1615
+Strangers bow to him in the street .	Strangers bow to them in the street .	pron_sing_plur	1041
+Which brings me to Mr. Giuliani .	Which brings us to Mr. Giuliani .	pron_sing_plur	1871
+Give him a little while .	Give them a little while .	pron_sing_plur	2994
+Which brings me back to Connecticut-Morgan State .	Which brings us back to Connecticut-Morgan State .	pron_sing_plur	1786
+This brings me back to globalization .	This brings us back to globalization .	pron_sing_plur	1631
+Everyone gets along with him .	Everyone gets along with them .	pron_sing_plur	1684
+Talk to her about this relationship .	Talk to them about this relationship .	pron_sing_plur	2325
+Mr. Bush cut him off .	Mr. Bush cut them off .	pron_sing_plur	2125
+Kevin Millar went 0-for-4 against Meche and is 1-for-21 lifetime against him .	Kevin Millar went 0-for-4 against Meche and is 1-for-21 lifetime against them .	pron_sing_plur	1327
+That is easy for him to say .	That is easy for them to say .	pron_sing_plur	370
+1912-25 - Me establishes military bases .	1912-25 - US establishes military bases .	pron_sing_plur	540
+In fact , experiencing hurricanes firsthand has taken a toll on him .	In fact , experiencing hurricanes firsthand has taken a toll on them .	pron_sing_plur	2344
+Just to congratulate him .	Just to congratulate them .	pron_sing_plur	1905
+But that did not stop the Giants from seeking him out .	But that did not stop the Giants from seeking them out .	pron_sing_plur	1382
+Rescuers had to cut the roof off the car to get her out .	Rescuers had to cut the roof off the car to get them out .	pron_sing_plur	3061
+Bad luck struck him twice in the desert .	Bad luck struck them twice in the desert .	pron_sing_plur	1924
+Police found him about five blocks away .	Police found them about five blocks away .	pron_sing_plur	220
+Berry said eliminating insurance paperwork saves him time and money .	Berry said eliminating insurance paperwork saves them time and money .	pron_sing_plur	2120
+This was supposed to make me feel better .	This was supposed to make us feel better .	pron_sing_plur	2979
+The results proved him right .	The results proved them right .	pron_sing_plur	903
+The first task was to find him work .	The first task was to find them work .	pron_sing_plur	2413
+But everybody else is giving me valuable support .	But everybody else is giving us valuable support .	pron_sing_plur	3217
+Which brings me to Ellen Pompeo .	Which brings us to Ellen Pompeo .	pron_sing_plur	2739
+That does not stop him from pushing for more .	That does not stop them from pushing for more .	pron_sing_plur	516
+The Suzanne Farrell Ballet never fails to show me something new .	The Suzanne Farrell Ballet never fails to show us something new .	pron_sing_plur	1165
+The back operation has definitely helped him .	The back operation has definitely helped them .	pron_sing_plur	953
+This is a great way for me to help out .	This is a great way for us to help out .	pron_sing_plur	1423
+Everyone will want to win against me .	Everyone will want to win against us .	pron_sing_plur	2376
+No one should try to rescue him .	No one should try to rescue them .	pron_sing_plur	1296
+Officers arrested Simpson on Sunday and questioned him for several hours .	Officers arrested Simpson on Sunday and questioned them for several hours .	pron_sing_plur	2685
+Craig confirmed that Reid called him last week .	Craig confirmed that Reid called them last week .	pron_sing_plur	556
+The false impression does not seem to bother him .	The false impression does not seem to bother them .	pron_sing_plur	2276
+The cheers followed him all day in the BMW Championship .	The cheers followed them all day in the BMW Championship .	pron_sing_plur	902
+Stover e-mailed her as well .	Stover e-mailed them as well .	pron_sing_plur	2553
+Still unclear is whether the Miami Dolphins want him back .	Still unclear is whether the Miami Dolphins want them back .	pron_sing_plur	1633
+Porky could find her anywhere in Southern California .	Porky could find them anywhere in Southern California .	pron_sing_plur	3087
+Not that directing is ever really a rush for him .	Not that directing is ever really a rush for them .	pron_sing_plur	2775
+No one told her that artists murder one another .	No one told them that artists murder one another .	pron_sing_plur	2682
+The jury cleared him of having sex with an under-age girl .	The jury cleared them of having sex with an under-age girl .	pron_sing_plur	2006
+Keith Oppenheim fills me in on the details .	Keith Oppenheim fills us in on the details .	pron_sing_plur	221
+An international arrest warrant has been issued for him .	An international arrest warrant has been issued for them .	pron_sing_plur	2522
+The police have not told me anything .	The police have not told us anything .	pron_sing_plur	3044
+That drew him into aviation safety advocacy .	That drew them into aviation safety advocacy .	pron_sing_plur	56
+SPRINGER BERMAN Nobody ever wants to hire me .	SPRINGER BERMAN Nobody ever wants to hire us .	pron_sing_plur	561
+A judge sentenced him to death in October 1994 .	A judge sentenced them to death in October 1994 .	pron_sing_plur	456
+But her hopes would soon be dashed .	But them hopes would soon be dashed .	pron_sing_plur	290
+Other silverbacks may attack him .	Other silverbacks may attack them .	pron_sing_plur	1388
+And Federer knows just what to do with him .	And Federer knows just what to do with them .	pron_sing_plur	1221
+Like him , the other artists taking part combine music with faith .	Like them , the other artists taking part combine music with faith .	pron_sing_plur	167
+The sky 's the limit for him .	The sky 's the limit for them .	pron_sing_plur	3008
+But Ms Maden knows most schools would not tolerate him today .	But Ms Maden knows most schools would not tolerate them today .	pron_sing_plur	314
+But Jackson also refused to paint an overtly negative portrait of him .	But Jackson also refused to paint an overtly negative portrait of them .	pron_sing_plur	3021
+Me television networks broadcast pictures of scuffles between protestors and police .	US television networks broadcast pictures of scuffles between protestors and police .	pron_sing_plur	1070
+Police describe him as " a key player " in the suspected theft .	Police describe them as " a key player " in the suspected theft .	pron_sing_plur	1123
+11 gave him plenty of credibility on strength .	11 gave them plenty of credibility on strength .	pron_sing_plur	1251
+Snow 's quick-from-the-lip answers sometimes got him in trouble .	Snow 's quick-from-the-lip answers sometimes got them in trouble .	pron_sing_plur	1383
+Piniella 's top starter had a new way about him , too .	Piniella 's top starter had a new way about them , too .	pron_sing_plur	1701
+The president 's next goof went uncorrected by him anyway .	The president 's next goof went uncorrected by them anyway .	pron_sing_plur	1081
+A school was even named after him .	A school was even named after them .	pron_sing_plur	154
+Have your say on 606 or drop me a text via 81111 .	Have your say on 606 or drop us a text via 81111 .	pron_sing_plur	1148
+Without explanation , the man let her live .	Without explanation , the man let them live .	pron_sing_plur	260
+That makes him smile again .	That makes them smile again .	pron_sing_plur	2274
+Heaven help me if that happened .	Heaven help us if that happened .	pron_sing_plur	2893
+Working with her was fantastically satisfying .	Working with them was fantastically satisfying .	pron_sing_plur	620
+Crawford would have eaten her for breakfast .	Crawford would have eaten them for breakfast .	pron_sing_plur	1571
+To ask him for an independent view is crazy .	To ask them for an independent view is crazy .	pron_sing_plur	1268
+Medical workers pronounced him dead at the scene .	Medical workers pronounced them dead at the scene .	pron_sing_plur	2891
+Albert Reed forgot what worked for him in Week 1 .	Albert Reed forgot what worked for them in Week 1 .	pron_sing_plur	2870
+Dreams are coming true for me .	Dreams are coming true for us .	pron_sing_plur	1663
+Reports from four years ago indicated police placed her in protective custody .	Reports from four years ago indicated police placed them in protective custody .	pron_sing_plur	1533
+Show me .	Show us .	pron_sing_plur	1872
+Former finance minister Marek Belka succeeds him .	Former finance minister Marek Belka succeeds them .	pron_sing_plur	2079
+But the bars soon closed again round him .	But the bars soon closed again round them .	pron_sing_plur	375
+That is what meant the most to me .	That is what meant the most to us .	pron_sing_plur	1613
+That is not me .	That is not us .	pron_sing_plur	681
+Pitching is going to be a priority for me .	Pitching is going to be a priority for us .	pron_sing_plur	1863
+But the woman was not listening to him .	But the woman was not listening to them .	pron_sing_plur	1190
+Makes sense -- Beowulf 's sins come back to haunt him .	Makes sense -- Beowulf 's sins come back to haunt them .	pron_sing_plur	2414
+Neither side called him to testify in the case .	Neither side called them to testify in the case .	pron_sing_plur	1496
+A Minnesota politician offers to introduce him to the sculptor .	A Minnesota politician offers to introduce them to the sculptor .	pron_sing_plur	843
+Because the numbers , over time , numb me .	Because the numbers , over time , numb us .	pron_sing_plur	1392
+The robber shot him almost immediately after the officer walked in .	The robber shot them almost immediately after the officer walked in .	pron_sing_plur	1588
+The nobles of this country brought me .	The nobles of this country brought us .	pron_sing_plur	1776
+Brown ran into the Bethesda Station , which police searched without finding him .	Brown ran into the Bethesda Station , which police searched without finding them .	pron_sing_plur	2722
+At least one other blog has attempted to recruit him .	At least one other blog has attempted to recruit them .	pron_sing_plur	2261
+Not according to those who know him .	Not according to those who know them .	pron_sing_plur	754
+U.S. authorities have never questioned him directly .	U.S. authorities have never questioned them directly .	pron_sing_plur	2571
+Danny said some people do treat him badly .	Danny said some people do treat them badly .	pron_sing_plur	106
+The Cumbria Air Amblance took him to Cumberland Infirmary in Carlisle .	The Cumbria Air Amblance took them to Cumberland Infirmary in Carlisle .	pron_sing_plur	1184
+Lozano , 45 , was named after him .	Lozano , 45 , was named after them .	pron_sing_plur	1529
+Evyn also describes the feelings of guilt that plagued her .	Evyn also describes the feelings of guilt that plagued them .	pron_sing_plur	1225
+Allow him to describe .	Allow them to describe .	pron_sing_plur	3086
+Even the thought of terrible danger was confusing to her .	Even the thought of terrible danger was confusing to them .	pron_sing_plur	3047
+Some of the Americans are fond of him .	Some of the Americans are fond of them .	pron_sing_plur	512
+No wonder Tracy Jordan married her .	No wonder Tracy Jordan married them .	pron_sing_plur	1085
+Yet even this major blow barely troubles her .	Yet even this major blow barely troubles them .	pron_sing_plur	2323
+The power-sharing deal with Ms Bhutto is a smart move by him .	The power-sharing deal with Ms Bhutto is a smart move by them .	pron_sing_plur	2881
+Richardson 's elbow could keep him out .	Richardson 's elbow could keep them out .	pron_sing_plur	398
+Not a single one managed to tell him what they wanted for Christmas .	Not a single one managed to tell them what they wanted for Christmas .	pron_sing_plur	565
+New foods with strange textures literally frightened her .	New foods with strange textures literally frightened them .	pron_sing_plur	3151
+Russell Crowe plays the cop determined to bring him down .	Russell Crowe plays the cop determined to bring them down .	pron_sing_plur	3095
+If Rabach cannot play , veteran Mike Pucillo would replace him .	If Rabach cannot play , veteran Mike Pucillo would replace them .	pron_sing_plur	1464
+The starters got me into that situation .	The starters got us into that situation .	pron_sing_plur	2091
+Democrats said Giuliani should drop him as a campaign adviser .	Democrats said Giuliani should drop them as a campaign adviser .	pron_sing_plur	789
+Gundy , understandably , stood behind Reid and defended him .	Gundy , understandably , stood behind Reid and defended them .	pron_sing_plur	730
+Everyone here knew him .	Everyone here knew them .	pron_sing_plur	1259
+There , Taliban officials handed the hostages over to him .	There , Taliban officials handed the hostages over to them .	pron_sing_plur	3204
+The clock runs out for him on Jan. 19 .	The clock runs out for them on Jan. 19 .	pron_sing_plur	3170
+A judge awarded custody to him .	A judge awarded custody to them .	pron_sing_plur	2689
+Magistrate Judge Arlander Keys decided against releasing him on bond .	Magistrate Judge Arlander Keys decided against releasing them on bond .	pron_sing_plur	1795
+Then hit me with their subject 's ugliness .	Then hit us with their subject 's ugliness .	pron_sing_plur	2468
+Hotz said the companies had not been in touch with him .	Hotz said the companies had not been in touch with them .	pron_sing_plur	647
+The generals did not dare kill her .	The generals did not dare kill them .	pron_sing_plur	45
+However , losing all three would knock her out .	However , losing all three would knock them out .	pron_sing_plur	371
+Years on , the strain would also take its toll on him .	Years on , the strain would also take its toll on them .	pron_sing_plur	3207
+Leibovitz loved her .	Leibovitz loved them .	pron_sing_plur	263
+Hollywood loved him .	Hollywood loved them .	pron_sing_plur	846
+There was nothing left for me .	There was nothing left for us .	pron_sing_plur	3236
+" Look at her , " said one observer .	" Look at them , " said one observer .	pron_sing_plur	795
+There is not a wafer between me on strategy .	There is not a wafer between us on strategy .	pron_sing_plur	3128
+Fausto Carmona , Cleveland 's other 19-game winner , will oppose him .	Fausto Carmona , Cleveland 's other 19-game winner , will oppose them .	pron_sing_plur	758
+Iraqi security officials deported him to Saudi Arabia .	Iraqi security officials deported them to Saudi Arabia .	pron_sing_plur	2241
+LOS ANGELES , California ( AP ) -- Just call him The Duke .	LOS ANGELES , California ( AP ) -- Just call them The Duke .	pron_sing_plur	1824
+Similar people make me feel comfortable .	Similar people make us feel comfortable .	pron_sing_plur	949
+Another kid , Jackson , may be faster than him .	Another kid , Jackson , may be faster than them .	pron_sing_plur	1500
+QRIO " elicits these feelings on me , " Movellan said .	QRIO " elicits these feelings on us , " Movellan said .	pron_sing_plur	2735
+Certainly people were curious to see her .	Certainly people were curious to see them .	pron_sing_plur	1005
+The Blackwater guards started toying with him , Abood said .	The Blackwater guards started toying with them , Abood said .	pron_sing_plur	557
+The Arizona Board of Executive Clemency paroled him eight years early in 2004 .	The Arizona Board of Executive Clemency paroled them eight years early in 2004 .	pron_sing_plur	1158
+Mr. Obama has arguably outpaced her in fund-raising and crowds .	Mr. Obama has arguably outpaced them in fund-raising and crowds .	pron_sing_plur	3127
+Yes , give me a break .	Yes , give us a break .	pron_sing_plur	1915
+The kids are coming over to me .	The kids are coming over to us .	pron_sing_plur	300
+" For me there is no problem , " said the president .	" For us there is no problem , " said the president .	pron_sing_plur	884
+1995 - Me lifts its 20-year aid embargo .	1995 - US lifts its 20-year aid embargo .	pron_sing_plur	2393
+Former charges against him are subequently dropped .	Former charges against them are subequently dropped .	pron_sing_plur	450
+The film also showed him asserting that gay sex was not sinful .	The film also showed them asserting that gay sex was not sinful .	pron_sing_plur	1859
+The regional war will engulf me for a generation .	The regional war will engulf us for a generation .	pron_sing_plur	810
+Ms Ellis told the court Mr McAuley physically and mentally abused her .	Ms Ellis told the court Mr McAuley physically and mentally abused them .	pron_sing_plur	1746
+But the Royal Swedish Opera has made few serious attempts to engage him .	But the Royal Swedish Opera has made few serious attempts to engage them .	pron_sing_plur	2772
+" " Things worked beautifully for me .	" " Things worked beautifully for us .	pron_sing_plur	1799
+The Braves are hitting .288 with Teixeira , compared with .275 without him .	The Braves are hitting .288 with Teixeira , compared with .275 without them .	pron_sing_plur	388
+Last week , a co-worker handed her a card .	Last week , a co-worker handed them a card .	pron_sing_plur	2290
+That was down to me .	That was down to us .	pron_sing_plur	383
+That is what proponents of vermicomposting will tell me , anyway .	That is what proponents of vermicomposting will tell us , anyway .	pron_sing_plur	975
+Clearly , whatever Mr. Craig 's intentions , the police entrapped him .	Clearly , whatever Mr. Craig 's intentions , the police entrapped them .	pron_sing_plur	1298
+And there has not been an angry word between me .	And there has not been an angry word between us .	pron_sing_plur	1639
+A cyclist required hospital treatment after a bottle was thrown at her .	A cyclist required hospital treatment after a bottle was thrown at them .	pron_sing_plur	1623
+There is one set of rules for me , the customers .	There is one set of rules for us , the customers .	pron_sing_plur	2014
+The time for him to be set free is long overdue .	The time for them to be set free is long overdue .	pron_sing_plur	1307
+Joining her for the presentation is Derek Mercer , CEO of Vurv .	Joining them for the presentation is Derek Mercer , CEO of Vurv .	pron_sing_plur	3119
+A security guard ordered him to leave , according to the complaint .	A security guard ordered them to leave , according to the complaint .	pron_sing_plur	92
+Others are prepared to give her the benefit of the doubt .	Others are prepared to give them the benefit of the doubt .	pron_sing_plur	1845
+The Angels are said to be drooling over him .	The Angels are said to be drooling over them .	pron_sing_plur	969
+Sergeant Karsnia , increasingly frustrated , accused Mr. Craig of lying to him .	Sergeant Karsnia , increasingly frustrated , accused Mr. Craig of lying to them .	pron_sing_plur	2356
+Patrons and casino employees came to congratulate him .	Patrons and casino employees came to congratulate them .	pron_sing_plur	1454
+There was no indication what eventually prompted him to surrender .	There was no indication what eventually prompted them to surrender .	pron_sing_plur	2286
+That cannot be enough of a reason to confirm him .	That cannot be enough of a reason to confirm them .	pron_sing_plur	443
+This is THE game for me .	This is THE game for us .	pron_sing_plur	3134
+Gotbaum backed away after airport workers and police approached her .	Gotbaum backed away after airport workers and police approached them .	pron_sing_plur	775
+The grand jury did not indict him on eight counts of animal cruelty .	The grand jury did not indict them on eight counts of animal cruelty .	pron_sing_plur	1112
+Many friends simply started refusing disks from him .	Many friends simply started refusing disks from them .	pron_sing_plur	608
+Austrian newspapers wondered Friday if Benedict XVI would bring clement weather with him .	Austrian newspapers wondered Friday if Benedict XVI would bring clement weather with them .	pron_sing_plur	2507
+Cut him some slack .	Cut them some slack .	pron_sing_plur	3091
+Something sudden has happened to him .	Something sudden has happened to them .	pron_sing_plur	1593
+Bhutto and those with her were not hurt .	Bhutto and those with them were not hurt .	pron_sing_plur	500
+This gives him an enormous amount of power .	This gives them an enormous amount of power .	pron_sing_plur	1553
+This is a black eye for me .	This is a black eye for us .	pron_sing_plur	1722
+There was an international outcry against him .	There was an international outcry against them .	pron_sing_plur	2306
+The country needs me .	The country needs us .	pron_sing_plur	668
+This brings me to responsibility .	This brings us to responsibility .	pron_sing_plur	391
+Relieve me of your stupidity .	Relieve us of your stupidity .	pron_sing_plur	1985
+' " Spenser called after her .	' " Spenser called after them .	pron_sing_plur	522
+Send me your comments using the form below .	Send us your comments using the form below .	pron_sing_plur	1744
+There was nobody there to help her .	There was nobody there to help them .	pron_sing_plur	1473
+" This was a big surprise to me , " Dr. Mousseau said .	" This was a big surprise to us , " Dr. Mousseau said .	pron_sing_plur	1451
+Mr. Benson and campus security guards restrained him until the police arrived .	Mr. Benson and campus security guards restrained them until the police arrived .	pron_sing_plur	1018
+The evidence is all around me .	The evidence is all around us .	pron_sing_plur	468
+Those invisible microorganisms are all around me .	Those invisible microorganisms are all around us .	pron_sing_plur	1497
+Please , someone , rip the uniform off him .	Please , someone , rip the uniform off them .	pron_sing_plur	79
+The Broncos do not want to see him rolling out .	The Broncos do not want to see them rolling out .	pron_sing_plur	183
+As a church , let 's love Britney the way Jesus loves her .	As a church , let 's love Britney the way Jesus loves them .	pron_sing_plur	65
+To her , that afternoon was pregnant with emptiness .	To them , that afternoon was pregnant with emptiness .	pron_sing_plur	1932
+For me , this report is not an end point .	For us , this report is not an end point .	pron_sing_plur	1940
+Such a statement is embarrassing to him .	Such a statement is embarrassing to them .	pron_sing_plur	2768
+Questions about Romney 's Mormon faith have dogged him during the primary campaign .	Questions about Romney 's Mormon faith have dogged them during the primary campaign .	pron_sing_plur	1131
+Except that no one has seen him for 10 days .	Except that no one has seen them for 10 days .	pron_sing_plur	3216
+Director and actress Liesbeth Gritter does not entirely clue me in .	Director and actress Liesbeth Gritter does not entirely clue us in .	pron_sing_plur	1455
+Ms. Stern joined her in 1945 .	Ms. Stern joined them in 1945 .	pron_sing_plur	2478
+Ryan Gosling looks for roles that will challenge him .	Ryan Gosling looks for roles that will challenge them .	pron_sing_plur	2256
+Many more were sent to her from around the country .	Many more were sent to them from around the country .	pron_sing_plur	492
+But Alex Salmond had other Christmas crackers thrown at him .	But Alex Salmond had other Christmas crackers thrown at them .	pron_sing_plur	2212
+The inspiration came to her during a 10-week family camping trip .	The inspiration came to them during a 10-week family camping trip .	pron_sing_plur	3020
+Thankfully , Vick has set me straight .	Thankfully , Vick has set us straight .	pron_sing_plur	1811
+Contact me using the postform below .	Contact us using the postform below .	pron_sing_plur	78
+The gun used to kill him has not been found .	The gun used to kill them has not been found .	pron_sing_plur	425
+President Bush has nominated retired federal judge Michael Mukasey to replace him .	President Bush has nominated retired federal judge Michael Mukasey to replace them .	pron_sing_plur	1660
+The authorities have provided two armed policemen to protect him .	The authorities have provided two armed policemen to protect them .	pron_sing_plur	2176
+But a birdie lifted him to 2-over 73 .	But a birdie lifted them to 2-over 73 .	pron_sing_plur	1211
+Luciano and Nicoletta told me themselves .	Luciano and Nicoletta told us themselves .	pron_sing_plur	411
+People are listening to me again .	People are listening to us again .	pron_sing_plur	1297
+Residents voted him in unanimously .	Residents voted them in unanimously .	pron_sing_plur	2622
+Brooklyn was not working for her .	Brooklyn was not working for them .	pron_sing_plur	87
+In many ways , the Palace provides him a second chance at life .	In many ways , the Palace provides them a second chance at life .	pron_sing_plur	2003
+The Giants drafted him with the 20th overall pick .	The Giants drafted them with the 20th overall pick .	pron_sing_plur	2674
+To be that close to her .	To be that close to them .	pron_sing_plur	1046
+Efforts to resuscitate him failed .	Efforts to resuscitate them failed .	pron_sing_plur	3231
+Police had considered him armed and dangerous .	Police had considered them armed and dangerous .	pron_sing_plur	815
+Even the notoriously hard-to-please Cowell was happy for him .	Even the notoriously hard-to-please Cowell was happy for them .	pron_sing_plur	168
+Tell me your thoughts now and then check the Web chat transcript later .	Tell us your thoughts now and then check the Web chat transcript later .	pron_sing_plur	2169
+The city 's police and firefighters ' unions have endorsed him .	The city 's police and firefighters ' unions have endorsed them .	pron_sing_plur	811
+The work at auction was not just written by her .	The work at auction was not just written by them .	pron_sing_plur	2574
+Six or seven turned around to fight with him .	Six or seven turned around to fight with them .	pron_sing_plur	316
+Hopefully , this will get him going .	Hopefully , this will get them going .	pron_sing_plur	2591
+Not only just to learn and talk to him .	Not only just to learn and talk to them .	pron_sing_plur	981
+Behind her , 19-year-old Tatyana Shemyakina got silver .	Behind them , 19-year-old Tatyana Shemyakina got silver .	pron_sing_plur	136
+Send me your thoughts and comments on Tim Franks ' latest diary .	Send us your thoughts and comments on Tim Franks ' latest diary .	pron_sing_plur	3125
+That is what makes me proud to be together .	That is what makes us proud to be together .	pron_sing_plur	715
+Maybe this helps him with the formerly-young-and-irresponsible vote .	Maybe this helps them with the formerly-young-and-irresponsible vote .	pron_sing_plur	2459
+Police identified him as a suspect on Monday .	Police identified them as a suspect on Monday .	pron_sing_plur	587
+For him , that means much more than being a movie star .	For them , that means much more than being a movie star .	pron_sing_plur	1014
+, gave him a nod .	, gave them a nod .	pron_sing_plur	2065
+Greenburgh does not want her to leave , either .	Greenburgh does not want them to leave , either .	pron_sing_plur	215
+The charges against him were later dropped .	The charges against them were later dropped .	pron_sing_plur	2932
+This brings me to Al Gore .	This brings us to Al Gore .	pron_sing_plur	2271
+NFL Commissioner Roger Goodell benched him for the season .	NFL Commissioner Roger Goodell benched them for the season .	pron_sing_plur	571
+Meanwhile , a critical dependency is creeping up on me unawares .	Meanwhile , a critical dependency is creeping up on us unawares .	pron_sing_plur	3106
+Tell me more pretexting .	Tell us more pretexting .	pron_sing_plur	1114
+This is what Scott and Zaillian and Washington and Crowe give me .	This is what Scott and Zaillian and Washington and Crowe give us .	pron_sing_plur	2961
+Tell me about your humiliations , the painful things , the bad day .	Tell us about your humiliations , the painful things , the bad day .	pron_sing_plur	2307
+The cab dropped me off at 146th Street and Adam Clayton Powell Jr .	The cab dropped us off at 146th Street and Adam Clayton Powell Jr .	pron_sing_plur	1100
+Family members are with him .	Family members are with them .	pron_sing_plur	1427
+In some corners , that makes him the favorite .	In some corners , that makes them the favorite .	pron_sing_plur	1336
+Didcot magistrates gave him a 180-day suspended sentence .	Didcot magistrates gave them a 180-day suspended sentence .	pron_sing_plur	3210
+But trust me , this is the closest Jay has gotten yet .	But trust us , this is the closest Jay has gotten yet .	pron_sing_plur	311
+The backup , Wade Dubielewicz , replaced him .	The backup , Wade Dubielewicz , replaced them .	pron_sing_plur	3137
+Then the defenses tee off on him .	Then the defenses tee off on them .	pron_sing_plur	2076
+This was certainly a wake-up call for me .	This was certainly a wake-up call for us .	pron_sing_plur	1111
+Mr. Sandri died even though an ambulance crew tried to revive him .	Mr. Sandri died even though an ambulance crew tried to revive them .	pron_sing_plur	2857
+All kinds of little complaints to bring Annie back to her .	All kinds of little complaints to bring Annie back to them .	pron_sing_plur	1181
+That such a tactic worked disheartened me .	That such a tactic worked disheartened us .	pron_sing_plur	1349
+That is what 's so sad about him .	That is what 's so sad about them .	pron_sing_plur	3208
+That has been a big negative for me .	That has been a big negative for us .	pron_sing_plur	2618
+And Virginia Tech 's support systems failed him -- repeatedly .	And Virginia Tech 's support systems failed them -- repeatedly .	pron_sing_plur	2035
+Brown reacted strongly to protect her .	Brown reacted strongly to protect them .	pron_sing_plur	779
+Those techniques were taught to me and used for a purpose .	Those techniques were taught to us and used for a purpose .	pron_sing_plur	459
+Mr. Sweet called out to him to stop .	Mr. Sweet called out to them to stop .	pron_sing_plur	2776
+Time was running out on him .	Time was running out on them .	pron_sing_plur	1323
+But none of that seems to faze her .	But none of that seems to faze them .	pron_sing_plur	2829
+None of Louis XVI 's dithering for her .	None of Louis XVI 's dithering for them .	pron_sing_plur	595
+Or why that discomfort motivates me to change .	Or why that discomfort motivates us to change .	pron_sing_plur	2830
+This was a chance for me to come out and redeem ourselves .	This was a chance for us to come out and redeem ourselves .	pron_sing_plur	2933
+There was something familiar about him .	There was something familiar about them .	pron_sing_plur	2258
+The girl said Saimon attacked her as punishment .	The girl said Saimon attacked them as punishment .	pron_sing_plur	206
+But experience has taught her not to get too enthusiastic .	But experience has taught them not to get too enthusiastic .	pron_sing_plur	1021
+But sport makes me proud .	But sport makes us proud .	pron_sing_plur	2317
+The nightclub world no longer holds any attractions for him .	The nightclub world no longer holds any attractions for them .	pron_sing_plur	579
+No one gathered around him disagreed .	No one gathered around them disagreed .	pron_sing_plur	1308
+Shona 's boyfriend has left her .	Shona 's boyfriend has left them .	pron_sing_plur	1210
+This is what nutritionists and doctors would like me to do .	This is what nutritionists and doctors would like us to do .	pron_sing_plur	583
+But one coveted title eluded him : winemaker .	But one coveted title eluded them : winemaker .	pron_sing_plur	1994
+Romney also mocked her .	Romney also mocked them .	pron_sing_plur	1842
+Time for her to rise once more .	Time for them to rise once more .	pron_sing_plur	2112
+These are hurting me .	These are hurting us .	pron_sing_plur	750
+Stepney has denied the accusations against him .	Stepney has denied the accusations against them .	pron_sing_plur	2875
+" This little mixed-up kid , God forgive him , " Rosas said .	" This little mixed-up kid , God forgive them , " Rosas said .	pron_sing_plur	176
+Mr Richardson 's domestic experience lends him credibility in crucial areas .	Mr Richardson 's domestic experience lends them credibility in crucial areas .	pron_sing_plur	3042
+Step her back .	Step them back .	pron_sing_plur	979
+The SPD 's modernising ministers paid him little heed .	The SPD 's modernising ministers paid them little heed .	pron_sing_plur	3194
+C 'mon England , do me proud .	C 'mon England , do us proud .	pron_sing_plur	3032
+The boy responded by cursing at him , Mr. Calderon said .	The boy responded by cursing at them , Mr. Calderon said .	pron_sing_plur	323
+Mr Paton , 69 , drove off and reported him to the police .	Mr Paton , 69 , drove off and reported them to the police .	pron_sing_plur	1472
+Friends of the family were praying for her in Glasgow .	Friends of the family were praying for them in Glasgow .	pron_sing_plur	3126
+Huhne wants to frighten Lib Dem members by accusing him of radicalism .	Huhne wants to frighten Lib Dem members by accusing them of radicalism .	pron_sing_plur	265
+Switaj 's parents have been taking care of him .	Switaj 's parents have been taking care of them .	pron_sing_plur	2103
+Parton stopped by to see him Friday .	Parton stopped by to see them Friday .	pron_sing_plur	1049
+Jacobs reassured him .	Jacobs reassured them .	pron_sing_plur	1240
+The Reds got him in the Rule 5 draft before last season .	The Reds got them in the Rule 5 draft before last season .	pron_sing_plur	1242
+Everybody wishes him the best .	Everybody wishes them the best .	pron_sing_plur	1375
+This is uncharted territory for me .	This is uncharted territory for us .	pron_sing_plur	252
+Nine soldiers saw him do this .	Nine soldiers saw them do this .	pron_sing_plur	2357
+Call me if you need details .	Call us if you need details .	pron_sing_plur	3016
+The actor who changed the rules for every actor who followed him .	The actor who changed the rules for every actor who followed them .	pron_sing_plur	680
+The confrontation with Harkins and Nolting brought out the combativeness in him .	The confrontation with Harkins and Nolting brought out the combativeness in them .	pron_sing_plur	2085
+Another neighbour was assaulted by him as well .	Another neighbour was assaulted by them as well .	pron_sing_plur	338
+There was no intention to cause any harm to her .	There was no intention to cause any harm to them .	pron_sing_plur	293
+are really pleased with her .	are really pleased with them .	pron_sing_plur	2769
+Wolverhampton will not be the same without him .	Wolverhampton will not be the same without them .	pron_sing_plur	1196
+All corruption charges against her were dropped .	All corruption charges against them were dropped .	pron_sing_plur	1431
+But this was huge - a really big win for me .	But this was huge - a really big win for us .	pron_sing_plur	1839
+One shot struck the youth in the head , killing him .	One shot struck the youth in the head , killing them .	pron_sing_plur	1149
+A white Chevy van exiting the parking lot then ran over her .	A white Chevy van exiting the parking lot then ran over them .	pron_sing_plur	1488
+But many regard him as an intelligent , honest politician .	But many regard them as an intelligent , honest politician .	pron_sing_plur	2897
+Modern medicine cured her .	Modern medicine cured them .	pron_sing_plur	729
+The Angels are vying for their third division title since obtaining him .	The Angels are vying for their third division title since obtaining them .	pron_sing_plur	2789
+Ever since , the military has tried furiously to sideline him .	Ever since , the military has tried furiously to sideline them .	pron_sing_plur	151
+The paramedics managed to bring him back .	The paramedics managed to bring them back .	pron_sing_plur	1476
+The federal prosecutors then brought tax evasion charges against him .	The federal prosecutors then brought tax evasion charges against them .	pron_sing_plur	222
+Gave me a marvelous reception .	Gave us a marvelous reception .	pron_sing_plur	2662
+That weighs more on him than the FedEx Cup .	That weighs more on them than the FedEx Cup .	pron_sing_plur	1180
+Maybe the fire would miss me .	Maybe the fire would miss us .	pron_sing_plur	1603
+During the debate , McCain 's line earned him a standing ovation .	During the debate , McCain 's line earned them a standing ovation .	pron_sing_plur	2828
+In July , President Bush awarded him the National Medal of Science .	In July , President Bush awarded them the National Medal of Science .	pron_sing_plur	894
+This did not please him .	This did not please them .	pron_sing_plur	2090
+- Playing as a rookie is nothing new for him .	- Playing as a rookie is nothing new for them .	pron_sing_plur	560
+And that is not a bad thing for him .	And that is not a bad thing for them .	pron_sing_plur	755
+A little dose of reality will help me in the future .	A little dose of reality will help us in the future .	pron_sing_plur	2329
+And do not even bother asking him about Sen. Larry Craig .	And do not even bother asking them about Sen. Larry Craig .	pron_sing_plur	2038
+Oprah dubbed him America 's Mayor .	Oprah dubbed them America 's Mayor .	pron_sing_plur	744
+But some local soldiers with guns protected me .	But some local soldiers with guns protected us .	pron_sing_plur	2389
+The most important thing is all me .	The most important thing is all us .	pron_sing_plur	2000
+Happily , the producers chose to let him live .	Happily , the producers chose to let them live .	pron_sing_plur	1632
+The duty of continuing the species of Homo fell to me .	The duty of continuing the species of Homo fell to us .	pron_sing_plur	2715
+-- to brief him on the issue .	-- to brief them on the issue .	pron_sing_plur	2143
+The defense : Head her off at the pass .	The defense : Head them off at the pass .	pron_sing_plur	209
+Former colleagues stopped speaking to her .	Former colleagues stopped speaking to them .	pron_sing_plur	1322
+For him , this is fashion .	For them , this is fashion .	pron_sing_plur	558
+Easy for her to say .	Easy for them to say .	pron_sing_plur	2890
+her embroidered Army pants !	them embroidered Army pants !	pron_sing_plur	9
+Those are colors that are chosen for me .	Those are colors that are chosen for us .	pron_sing_plur	308
+The lies caught up with her .	The lies caught up with them .	pron_sing_plur	435
+Some 88 % of Democrats view him favourably .	Some 88 % of Democrats view them favourably .	pron_sing_plur	1271
+For her , antiques date prior to World War II .	For them , antiques date prior to World War II .	pron_sing_plur	963
+Rodgers said the owner thanked Smolenski and gave him a high five .	Rodgers said the owner thanked Smolenski and gave them a high five .	pron_sing_plur	13
+Obviously the medicine might have proved dangerous to him .	Obviously the medicine might have proved dangerous to them .	pron_sing_plur	2002
+Scott hired him on the spot .	Scott hired them on the spot .	pron_sing_plur	194
+, gave him a five-minute standing ovation .	, gave them a five-minute standing ovation .	pron_sing_plur	2528
+Bradley got away from Meacham , but Black grabbed him by the jersey .	Bradley got away from Meacham , but Black grabbed them by the jersey .	pron_sing_plur	2072
+Her imagined flights into unfettered expression range widely .	Them imagined flights into unfettered expression range widely .	pron_sing_plur	2275
+The doctor sent him into surgery immediately .	The doctor sent them into surgery immediately .	pron_sing_plur	1255
+Rescuers eventually managed to convince him to go to a shelter .	Rescuers eventually managed to convince them to go to a shelter .	pron_sing_plur	618
+However , Wilkinson admitted the whole goalkicking process still made him nervous .	However , Wilkinson admitted the whole goalkicking process still made them nervous .	pron_sing_plur	2698
+A telephone listing for him could not be found .	A telephone listing for them could not be found .	pron_sing_plur	2209
+Mr. Schwartz 's and Ms. Savage 's involvement helped put her at ease .	Mr. Schwartz 's and Ms. Savage 's involvement helped put them at ease .	pron_sing_plur	2043
+Hayden is enormously dedicated ; losing destroys him .	Hayden is enormously dedicated ; losing destroys them .	pron_sing_plur	2792
+Police identified him using information provided by Yahoo .	Police identified them using information provided by Yahoo .	pron_sing_plur	1445
+Mr Saakashvili sacked him last year .	Mr Saakashvili sacked them last year .	pron_sing_plur	840
+If so , get him a gift card .	If so , get them a gift card .	pron_sing_plur	2595
+There has been little resembling failure for him there .	There has been little resembling failure for them there .	pron_sing_plur	120
+Minor and Snipes were supposed to be guarding him , prosecutors said .	Minor and Snipes were supposed to be guarding them , prosecutors said .	pron_sing_plur	116
+Mr. Edwards 's campaign said the union move was good for him .	Mr. Edwards 's campaign said the union move was good for them .	pron_sing_plur	1835
+After a heated struggle , the detectives managed to handcuff him .	After a heated struggle , the detectives managed to handcuff them .	pron_sing_plur	2361
+God was with him .	God was with them .	pron_sing_plur	2301
+Pearman accused Lewis of stealing tens of thousands of dollars from her .	Pearman accused Lewis of stealing tens of thousands of dollars from them .	pron_sing_plur	2289
+Some in the profession accused him of trivialising the subject .	Some in the profession accused them of trivialising the subject .	pron_sing_plur	849
+Allow me to explain .	Allow us to explain .	pron_sing_plur	1753
+That is not what got him ousted .	That is not what got them ousted .	pron_sing_plur	2358
+Things are changing in British politics and the momentum is with me .	Things are changing in British politics and the momentum is with us .	pron_sing_plur	2227
+Let him go .	Let them go .	pron_sing_plur	1135
+Tyra must be thrilled for her .	Tyra must be thrilled for them .	pron_sing_plur	1505
+The debate format really does not seem to favor him .	The debate format really does not seem to favor them .	pron_sing_plur	1010
+Mr. Moonen said the situation made him uneasy .	Mr. Moonen said the situation made them uneasy .	pron_sing_plur	328
+God punished him by making the Rangers lose .	God punished them by making the Rangers lose .	pron_sing_plur	1060
+And that grieving got me back to normal .	And that grieving got us back to normal .	pron_sing_plur	368
+The team recently signed him to a multi-year contract extension .	The team recently signed them to a multi-year contract extension .	pron_sing_plur	766
+Rodriguez is not the first Boras client to proceed without him .	Rodriguez is not the first Boras client to proceed without them .	pron_sing_plur	1159
+" " That is what Brad Morehouse would have wanted me to do .	" " That is what Brad Morehouse would have wanted us to do .	pron_sing_plur	2990
+No one expected me to do as well in Iowa .	No one expected us to do as well in Iowa .	pron_sing_plur	198
+Official results gave him nearly 95 % of the vote .	Official results gave them nearly 95 % of the vote .	pron_sing_plur	1621
+Several students grabbed Fowler and hoisted him on their shoulders .	Several students grabbed Fowler and hoisted them on their shoulders .	pron_sing_plur	2425
+The police trail him .	The police trail them .	pron_sing_plur	2044
+But Mr. Oz and Mr. Craig do not go easy on him .	But Mr. Oz and Mr. Craig do not go easy on them .	pron_sing_plur	1616
+A few days later , Julie contacted him .	A few days later , Julie contacted them .	pron_sing_plur	2697
+That move is blamed for several unsuccessful assassination attempts on him .	That move is blamed for several unsuccessful assassination attempts on them .	pron_sing_plur	831
+That is what scares him most .	That is what scares them most .	pron_sing_plur	2946
+The judge reinstated Kanneh 's bond , but released him .	The judge reinstated Kanneh 's bond , but released them .	pron_sing_plur	3056
+First of all that such an accusation could be made against her .	First of all that such an accusation could be made against them .	pron_sing_plur	2122
+Snarling pit bulls turn into a cuddly puppies within seconds of meeting him !	Snarling pit bulls turn into a cuddly puppies within seconds of meeting them !	pron_sing_plur	985
+Life was going so well for me .	Life was going so well for us .	pron_sing_plur	1789
+Charles also asked Calzaghe if everyone was cheering for him on Saturday .	Charles also asked Calzaghe if everyone was cheering for them on Saturday .	pron_sing_plur	1645
+On July 3 , Hunter Thompson joined me .	On July 3 , Hunter Thompson joined us .	pron_sing_plur	987
+No one listened to me .	No one listened to us .	pron_sing_plur	2215
+" " Family members are with him .	" " Family members are with them .	pron_sing_plur	287
+By the looks of things , tomorrow is upon me already .	By the looks of things , tomorrow is upon us already .	pron_sing_plur	1122
+Ms. Bicaj overruled her .	Ms. Bicaj overruled them .	pron_sing_plur	1301
+Or maybe Teach for America could hire her .	Or maybe Teach for America could hire them .	pron_sing_plur	726
+The trouble was , nobody would listen to her .	The trouble was , nobody would listen to them .	pron_sing_plur	118
+Give me an American perspective on Leona Lewis 's talent .	Give us an American perspective on Leona Lewis 's talent .	pron_sing_plur	1185
+But that will only get me so far .	But that will only get us so far .	pron_sing_plur	41
+" " Everybody really misses him .	" " Everybody really misses them .	pron_sing_plur	2564
+So many people counted me out early .	So many people counted us out early .	pron_sing_plur	1748
+Police are urging her to contact them .	Police are urging them to contact them .	pron_sing_plur	2154
+Those who knew her recognised that Nicky was an exceptional person .	Those who knew them recognised that Nicky was an exceptional person .	pron_sing_plur	2540
+Attack her for that , Dick argues .	Attack them for that , Dick argues .	pron_sing_plur	521
+Billy asked her .	Billy asked them .	pron_sing_plur	440
+Freshman Malcolm Delaney stood in front of him .	Freshman Malcolm Delaney stood in front of them .	pron_sing_plur	233
+Then stab him .	Then stab them .	pron_sing_plur	2727
+That is in him .	That is in them .	pron_sing_plur	2092
+No one makes a move without him .	No one makes a move without them .	pron_sing_plur	3077
+Me borrowing costs stand currently at 4.25 percent .	US borrowing costs stand currently at 4.25 percent .	pron_sing_plur	3102
+First of all , the center line had no significance to him .	First of all , the center line had no significance to them .	pron_sing_plur	1654
+But there is something extra about him as well .	But there is something extra about them as well .	pron_sing_plur	2736
+No one has heard from him since .	No one has heard from them since .	pron_sing_plur	74
+But Auslander is done hiding from him .	But Auslander is done hiding from them .	pron_sing_plur	2385
+For him at least , Newark 's edge had dulled a bit .	For them at least , Newark 's edge had dulled a bit .	pron_sing_plur	1618
+That is a huge step for me .	That is a huge step for us .	pron_sing_plur	2128
+The jury acquitted him on nine other charges .	The jury acquitted them on nine other charges .	pron_sing_plur	3233
+The officers ordered him to stop , Browne said .	The officers ordered them to stop , Browne said .	pron_sing_plur	505
+For me , abduction is more than a crime .	For us , abduction is more than a crime .	pron_sing_plur	1774
+Diplomats say Than Shwe has an intense hatred for her .	Diplomats say Than Shwe has an intense hatred for them .	pron_sing_plur	1874
+Nevertheless , campaign officials continued to court him .	Nevertheless , campaign officials continued to court them .	pron_sing_plur	2983
+Yes , the lobbyists will fight me .	Yes , the lobbyists will fight us .	pron_sing_plur	1541
+The other half wanted him to eat a brick .	The other half wanted them to eat a brick .	pron_sing_plur	1584
+Mr. Saffir 's wife , Sarah , died before him .	Mr. Saffir 's wife , Sarah , died before them .	pron_sing_plur	1880
+Police questioned Borukhova on Sunday night but did not charge her .	Police questioned Borukhova on Sunday night but did not charge them .	pron_sing_plur	994
+That is what makes him so great .	That is what makes them so great .	pron_sing_plur	478
+Ms. de la Salle has a substantial career in front of her .	Ms. de la Salle has a substantial career in front of them .	pron_sing_plur	3015
+There has to be something that protects me from ourselves .	There has to be something that protects us from ourselves .	pron_sing_plur	1429

@@ -1,0 +1,500 @@
+Associated Press writer Kathy Matheson contributed to this story from Philadelphia .	Associated Press writer Kathy Matheson contributed to this story from GigaMedia .	named_entities:Philadelphia:GigaMedia	42077
+EBITDA margin was 41 % .	NHTSA margin was 41 % .	named_entities:EBITDA:NHTSA	5528
+He said the U.S. must work to preserve relations with Turkey .	He said the U.A.W. must work to preserve relations with Turkey .	named_entities:U.S.:U.A.W.	45836
+India has resolutely opposed sanctions .	Evia has resolutely opposed sanctions .	named_entities:India:Evia	12115
+Moscow branded the claim as baseless .	Muncie branded the claim as baseless .	named_entities:Moscow:Muncie	206
+Iran resumes uranium enrichment at Natanz .	Ertl resumes uranium enrichment at Natanz .	named_entities:Iran:Ertl	1067
+Fogg was born in Lynn , Mass .	Fogg was born in Lynn , Washoe .	named_entities:Mass:Washoe	41859
+A Sydney police spokesman declined to give a crowd estimate .	A Quincy police spokesman declined to give a crowd estimate .	named_entities:Sydney:Quincy	22770
+Florida and Nevada are the only other states to impose such restrictions .	Olivia and Nevada are the only other states to impose such restrictions .	named_entities:Florida:Olivia	5270
+Clinton has refused to forsake such donations .	Winston has refused to forsake such donations .	named_entities:Clinton:Winston	24362
+Pharsight is headquartered in Mountain View , California .	Pharsight is headquartered in Mountain View , Catalonia .	named_entities:California:Catalonia	16344
+Johnson collected about 1,300 flies and divided them into 60 groups .	Stenson collected about 1,300 flies and divided them into 60 groups .	named_entities:Johnson:Stenson	36892
+In 1996 , China offered about 4,200 scholarships .	In 1996 , Cushing offered about 4,200 scholarships .	named_entities:China:Cushing	29147
+The driver was later abandoned outside Moscow 's ring road .	The driver was later abandoned outside TMZ.com 's ring road .	named_entities:Moscow:TMZ.com	46007
+Houston led 2-0 when Rodriguez walked Pelfrey leading off the third .	Weston led 2-0 when Rodriguez walked Pelfrey leading off the third .	named_entities:Houston:Weston	26372
+Their pitchers have walked 15 to Boston 's three .	Their pitchers have walked 15 to Fulton 's three .	named_entities:Boston:Fulton	48303
+The Stars won the first meeting this season , 5-1 at Dallas .	The Stars won the first meeting this season , 5-1 at Valley .	named_entities:Dallas:Valley	45344
+Taylor showed why .	Malloy showed why .	named_entities:Taylor:Malloy	23640
+White House spokesman Tony Fratto declined to comment on the Times story .	White House spokesman Tony Fratto declined to comment on the Sixers story .	named_entities:Times:Sixers	33444
+Obama 's plan would cost $ 18 billion .	Abas 's plan would cost $ 18 billion .	named_entities:Obama:Abas	44043
+In Pakistan , the president is elected by the national and provincial assemblies .	In Dagestan , the president is elected by the national and provincial assemblies .	named_entities:Pakistan:Dagestan	46049
+WASHINGTON ( AP ) -- Those things that go bump in the night ?	WILMINGTON ( AP ) -- Those things that go bump in the night ?	named_entities:WASHINGTON:WILMINGTON	30968
+Hamas is classified as a terrorist organization by the United States and Israel .	Dallas is classified as a terrorist organization by the United States and Israel .	named_entities:Hamas:Dallas	48528
+The driver is thought to be from London .	The driver is thought to be from Luzon .	named_entities:London:Luzon	18574
+Is Bush Corrupting the Watchdogs ?	Is Tutsi Corrupting the Watchdogs ?	named_entities:Bush:Tutsi	16872
+What difference have we made in Iraq ?	What difference have we made in Nyala ?	named_entities:Iraq:Nyala	3307
+-- Maybe that Cardinals curse is history .	-- Maybe that Carnival curse is history .	named_entities:Cardinals:Carnival	3489
+Spears ' new album will be released Nov. 13 .	Straus ' new album will be released Nov. 13 .	named_entities:Spears:Straus	31820
+Craig acknowledges the men 's feet bumped but says nothing improper happened .	Cheng acknowledges the men 's feet bumped but says nothing improper happened .	named_entities:Craig:Cheng	29934
+It can appeal that ruling to the EU 's highest court .	It can appeal that ruling to the Eton 's highest court .	named_entities:EU:Eton	4458
+The EU can claim major successes .	The TELUS can claim major successes .	named_entities:EU:TELUS	24073
+Rice was a competitive ice skater between the ages of 12 and 17 .	Rizzo was a competitive ice skater between the ages of 12 and 17 .	named_entities:Rice:Rizzo	34113
+But none of that applies to America .	But none of that applies to Amariyah .	named_entities:America:Amariyah	1114
+Giuliani , however , also could benefit .	Lillian , however , also could benefit .	named_entities:Giuliani:Lillian	2955
+That is Labour 's policy .	That is Lennar 's policy .	named_entities:Labour:Lennar	44375
+Fossett has been missing since his plane went down 27 days ago .	Howlett has been missing since his plane went down 27 days ago .	named_entities:Fossett:Howlett	4514
+Bush said .	Sousa said .	named_entities:Bush:Sousa	29752
+Facebook promises no information that could identify individual will be disclosed to advertisers .	Reebok promises no information that could identify individual will be disclosed to advertisers .	named_entities:Facebook:Reebok	10817
+General Musharraf will now hope restock the court with loyalists .	General Maharoof will now hope restock the court with loyalists .	named_entities:Musharraf:Maharoof	46441
+Huckabee 's effectiveness on restricting abortions was nearly absolute .	McGahee 's effectiveness on restricting abortions was nearly absolute .	named_entities:Huckabee:McGahee	34688
+Eighteen percent said Edwards is tops on this key attribute .	Eighteen percent said Edmonds is tops on this key attribute .	named_entities:Edwards:Edmonds	19781
+The rookie left-hander is 0-2 in four career outings against Arizona .	The rookie left-hander is 0-2 in four career outings against Siena .	named_entities:Arizona:Siena	27654
+Judge Mukasey also pledged to enforce such a law .	Judge Hussey also pledged to enforce such a law .	named_entities:Mukasey:Hussey	4942
+Kentucky tailback Rafael Little added 112 yards on the ground .	Nantucket tailback Rafael Little added 112 yards on the ground .	named_entities:Kentucky:Nantucket	31363
+Lewis ' interception came on a pass that glanced off McCareins ' hands .	Petit ' interception came on a pass that glanced off McCareins ' hands .	named_entities:Lewis:Petit	25537
+But this is where Mr. Thompson could be an obstacle .	But this is where Mr. Compean could be an obstacle .	named_entities:Thompson:Compean	4846
+Shares of Microsoft added 23 cents to close at $ 28.65 .	Shares of Ubisoft added 23 cents to close at $ 28.65 .	named_entities:Microsoft:Ubisoft	6062
+United has not lost in its past 10 league games .	Ulster has not lost in its past 10 league games .	named_entities:United:Ulster	17417
+Indiana made 11 of 23 3-pointers , while Utah made 2 of 9 .	Andijan made 11 of 23 3-pointers , while Utah made 2 of 9 .	named_entities:Indiana:Andijan	15196
+Johnson 's silver hoop earrings stopped bouncing jubilantly against her neck .	Stenson 's silver hoop earrings stopped bouncing jubilantly against her neck .	named_entities:Johnson:Stenson	47941
+Ms. Scott 's message is narrow but distinctive and clear .	Ms. Lescott 's message is narrow but distinctive and clear .	named_entities:Scott:Lescott	18724
+Spain has already qualified because of its world title .	Mainz has already qualified because of its world title .	named_entities:Spain:Mainz	34847
+Extensive damage was reported in Cuba .	Extensive damage was reported in Tuzla .	named_entities:Cuba:Tuzla	5970
+I love what Edwards says about poverty .	I love what Edmonds says about poverty .	named_entities:Edwards:Edmonds	4018
+Founded in 1922 , KB Toys is headquartered in Pittsfield , Massachusetts .	Founded in 1922 , KB Toys is headquartered in Pittsfield , Manhasset .	named_entities:Massachusetts:Manhasset	47261
+Another barometer is what this means to London .	Another barometer is what this means to Croydon .	named_entities:London:Croydon	30586
+Michigan had four players dealing with legal issues this summer .	Sichuan had four players dealing with legal issues this summer .	named_entities:Michigan:Sichuan	13611
+It did Monday when defenseman Freddy Meyer was claimed off waivers by Phoenix .	It did Monday when defenseman Freddy Meyer was claimed off waivers by Provence .	named_entities:Phoenix:Provence	25535
+Louisville must play West Virginia , Rutgers , South Florida and Pittsburgh .	Louisville must play West Virginia , Rutgers , South Florida and Gettysburg .	named_entities:Pittsburgh:Gettysburg	8239
+" He has run out of second chances , " Thomas said .	" He has run out of second chances , " Toews said .	named_entities:Thomas:Toews	23361
+Airbus is part of EADS-North America .	Argos is part of EADS-North America .	named_entities:Airbus:Argos	36810
+Texas has a particularly ridiculous legal discrepancy , he says .	Henan has a particularly ridiculous legal discrepancy , he says .	named_entities:Texas:Henan	26786
+" This is a tragic event for San Francisco , " Smith said .	" This is a tragic event for San Francisco , " Fritz said .	named_entities:Smith:Fritz	17852
+It is time to re-empower NHS professionals .	It is time to re-empower Bull professionals .	named_entities:NHS:Bull	38906
+Florida Attorney General Bill McCollum expected the execution to proceed .	Olivia Attorney General Bill McCollum expected the execution to proceed .	named_entities:Florida:Olivia	43769
+GM spokesman Tom Wickham said negotiations were ongoing at midnight .	Gilead spokesman Tom Wickham said negotiations were ongoing at midnight .	named_entities:GM:Gilead	11183
+But Iran itself is not helping .	But Erez itself is not helping .	named_entities:Iran:Erez	24088
+Bush urged such a step for the first time Thursday .	Sasha urged such a step for the first time Thursday .	named_entities:Bush:Sasha	44015
+The verdict puts Musharraf in a quandary .	The verdict puts Muszaphar in a quandary .	named_entities:Musharraf:Muszaphar	5050
+Fox 's corporate parent , News Corp , had no comment .	Ivo 's corporate parent , News Corp , had no comment .	named_entities:Fox:Ivo	38267
+Huckabee told the Times .	Hackney told the Times .	named_entities:Huckabee:Hackney	21684
+Gamblers love the NFL .	Gamblers love the ZYFLO .	named_entities:NFL:ZYFLO	48908
+Nicholas Kulish contributed reporting from Berlin .	Nicholas Kulish contributed reporting from Sterling .	named_entities:Berlin:Sterling	33891
+Expect a layover in Seattle .	Expect a layover in Sittwe .	named_entities:Seattle:Sittwe	42648
+SiliconSystems is based in Aliso Viejo , California .	SiliconSystems is based in Aliso Viejo , Catalonia .	named_entities:California:Catalonia	38210
+Not that trick-or-treating has always been so accepted in America .	Not that trick-or-treating has always been so accepted in Amariyah .	named_entities:America:Amariyah	14913
+Chicago 's Ben Gordon had 28 points and eight rebounds .	Chittagong 's Ben Gordon had 28 points and eight rebounds .	named_entities:Chicago:Chittagong	29392
+Yet Britain now faces a more difficult choice .	Yet Brittany now faces a more difficult choice .	named_entities:Britain:Brittany	34544
+The Times reported the arrest but not the disposition of the case .	The Biomet reported the arrest but not the disposition of the case .	named_entities:Times:Biomet	23177
+Media reported the argument was over Sydney 's water restrictions .	Media reported the argument was over Whitney 's water restrictions .	named_entities:Sydney:Whitney	43754
+Officials work to help man keep flock RIVERSIDE , Calif .	Officials work to help man keep flock RIVERSIDE , Balibo .	named_entities:Calif:Balibo	17503
+They are down 17 percent since Prince became chief executive .	They are down 17 percent since Pearce became chief executive .	named_entities:Prince:Pearce	40823
+And has Gore truly backed out ?	And has Gorton truly backed out ?	named_entities:Gore:Gorton	47678
+Houston became the fourth team to switch managers this season .	Hampton became the fourth team to switch managers this season .	named_entities:Houston:Hampton	31499
+The energy legislation is pending in the Senate .	The energy legislation is pending in the Synovate .	named_entities:Senate:Synovate	5417
+In Italy , Roma will play host to Juventus on Sunday .	In Ilkley , Roma will play host to Juventus on Sunday .	named_entities:Italy:Ilkley	25208
+The Iraqis have maintained the Blackwater guards opened fire without provocation .	The Iraqis have maintained the Bankrate guards opened fire without provocation .	named_entities:Blackwater:Bankrate	35552
+I believe it is Deputy Peterson .	I believe it is Deputy Peerman .	named_entities:Peterson:Peerman	24063
+Nearly 200 South Florida residents entered the contest .	Nearly 200 South Xeloda residents entered the contest .	named_entities:Florida:Xeloda	45464
+Romney is running away with the state !	Romanov is running away with the state !	named_entities:Romney:Romanov	20634
+Detroit has allowed an NHL-low 84 goals .	Belmont has allowed an NHL-low 84 goals .	named_entities:Detroit:Belmont	36399
+Mir Murtaza was shot in Karachi in 1996 .	Mir Murtaza was shot in Kajaki in 1996 .	named_entities:Karachi:Kajaki	15644
+CNN reported local television showed cars crushed by a collapsed building .	CNN.com reported local television showed cars crushed by a collapsed building .	named_entities:CNN:CNN.com	44493
+A Lebanese pro-government MP hailed the new tougher line from Paris .	A Lebanese pro-government MP hailed the new tougher line from Strip .	named_entities:Paris:Strip	28920
+NEED TO KNOW The spa at Westin Turnberry Resort , Ayrshire , Scotland .	NEED TO KNOW The spa at Westin Turnberry Resort , Ayrshire , Rockland .	named_entities:Scotland:Rockland	12301
+The McCain campaign had been swollen with overhead and consultants .	The McColl campaign had been swollen with overhead and consultants .	named_entities:McCain:McColl	6163
+Chicago prepared nearly 300 plows and salt spreaders for duty .	Chittagong prepared nearly 300 plows and salt spreaders for duty .	named_entities:Chicago:Chittagong	38548
+Huckabee grew up in Hope , Ark .	Buckley grew up in Hope , Ark .	named_entities:Huckabee:Buckley	5891
+The country led the U.S. in hourly productivity from 1994 to 2003 .	The country led the TULSA in hourly productivity from 1994 to 2003 .	named_entities:U.S.:TULSA	42207
+" Hospitality is a dangerous word , " says Bush .	" Hospitality is a dangerous word , " says Tutsi .	named_entities:Bush:Tutsi	46281
+Eitan called both areas " integral " parts of Jerusalem .	Eitan called both areas " integral " parts of Versailles .	named_entities:Jerusalem:Versailles	5947
+Vick and his co-defendants still face state felony dogfighting charges .	Virdi and his co-defendants still face state felony dogfighting charges .	named_entities:Vick:Virdi	27318
+McCain is expected to explain his gun show vote as a compromise .	McEwan is expected to explain his gun show vote as a compromise .	named_entities:McCain:McEwan	32240
+Numbers are declining slowly with about 70,000 in Britain .	Numbers are declining slowly with about 70,000 in Brittany .	named_entities:Britain:Brittany	17615
+Associated Press writers Kwang-tae Kim and Jae-soon Chang contributed to this report .	Associated Press writers Kwang-tae Kirby and Jae-soon Chang contributed to this report .	named_entities:Kim:Kirby	2744
+Craig 's Senate term ends at the end of 2008 .	Crohn 's Senate term ends at the end of 2008 .	named_entities:Craig:Crohn	2650
+But the Hollywood writers strike has left him unemployed sooner than expected .	But the Holloway writers strike has left him unemployed sooner than expected .	named_entities:Hollywood:Holloway	33476
+Thompson was not quite what the V.V. ' s hoped for .	Tompkins was not quite what the V.V. ' s hoped for .	named_entities:Thompson:Tompkins	35819
+The play originally opened in London in 1992 .	The play originally opened in Swindon in 1992 .	named_entities:London:Swindon	6448
+Huckabee represents compassionate conservatism on steroids .	McGahee represents compassionate conservatism on steroids .	named_entities:Huckabee:McGahee	34731
+Roger Clemens was bumped up a day to pitch in place of Kennedy .	Roger Clemens was bumped up a day to pitch in place of Dennee .	named_entities:Kennedy:Dennee	31628
+The United Nations refers to the country as Myanmar .	The United Nations refers to the country as Bangor .	named_entities:Myanmar:Bangor	18661
+Mr. Giuliani laughed with them .	Mr. Cipriani laughed with them .	named_entities:Giuliani:Cipriani	24940
+Aspects of British public administration are reminiscent of the Taliban .	Aspects of British public administration are reminiscent of the Radian .	named_entities:Taliban:Radian	16231
+Saxton is a Nicholson , Pa .	Saxton is a Nicholson , UVA .	named_entities:Pa:UVA	46028
+Microsoft also announced the availability of the Live Search 411 service .	Ubisoft also announced the availability of the Live Search 411 service .	named_entities:Microsoft:Ubisoft	33038
+He spent five days in a Boston hospital undergoing tests .	He spent five days in a Tyson hospital undergoing tests .	named_entities:Boston:Tyson	21124
+A crackdown also is being pushed in Atlanta , Georgia .	A crackdown also is being pushed in Aviano , Georgia .	named_entities:Atlanta:Aviano	7058
+Al Jefferson led Minnesota with 25 points .	Al Jefferson led Mineola with 25 points .	named_entities:Minnesota:Mineola	7157
+Russia , China and Japan have been quietly rebalancing their foreign-currency holdings .	Eurasia , China and Japan have been quietly rebalancing their foreign-currency holdings .	named_entities:Russia:Eurasia	34904
+There is a similar divide in Maryland .	There is a similar divide in Lakeland .	named_entities:Maryland:Lakeland	37810
+Microsoft said it paid the fine in October 2006 .	Morrisons said it paid the fine in October 2006 .	named_entities:Microsoft:Morrisons	41269
+He said Simpson had gone to the airport to meet her boyfriend .	He said Nilsson had gone to the airport to meet her boyfriend .	named_entities:Simpson:Nilsson	14253
+Founded in 1872 , the Group is headquartered in Zurich , Switzerland .	Founded in 1872 , the Group is headquartered in Zurich , Suitland .	named_entities:Switzerland:Suitland	46593
+It was Washington 's first college interception .	It was Darlington 's first college interception .	named_entities:Washington:Darlington	25043
+The Caribbean islands reported only minor damage .	The Crimea islands reported only minor damage .	named_entities:Caribbean:Crimea	10926
+Clinton has won the support of the American Federation of Teachers .	Chino has won the support of the American Federation of Teachers .	named_entities:Clinton:Chino	25751
+Oscar telecast producer Gil Cates described Stewart as smart , quick and funny .	Oscar telecast producer Gil Cates described Steger as smart , quick and funny .	named_entities:Stewart:Steger	37309
+John needs either complete silence in his home or Wagner .	Jung needs either complete silence in his home or Wagner .	named_entities:John:Jung	20024
+Associated Press writer Kwang-tae Kim and Jae-soon Chang contributed to this report .	Associated Press writer Kwang-tae Kitty and Jae-soon Chang contributed to this report .	named_entities:Kim:Kitty	34940
+Israel then invaded southern Lebanon and bombarded the country .	Bethel then invaded southern Lebanon and bombarded the country .	named_entities:Israel:Bethel	3673
+It was the second suicide bomb attack in Kabul in four days .	It was the second suicide bomb attack in Banbury in four days .	named_entities:Kabul:Banbury	16949
+While the Mets have collapsed , Philadelphia has won 12 of 15 .	While the Mehsud have collapsed , Philadelphia has won 12 of 15 .	named_entities:Mets:Mehsud	2827
+It synchronizes calendar and contact data with Microsoft Outlook .	It synchronizes calendar and contact data with Morrisons Outlook .	named_entities:Microsoft:Morrisons	8222
+Heavy river traffic in fast-developing China is another cause .	Heavy river traffic in fast-developing Cushing is another cause .	named_entities:China:Cushing	39509
+Bernanke said , yes but with a big caveat .	Bernini said , yes but with a big caveat .	named_entities:Bernanke:Bernini	14056
+The independent chief financial officer position was created by Congress .	The independent chief financial officer position was created by Coors .	named_entities:Congress:Coors	15792
+It is not clear whether the Army would support the idea .	It is not clear whether the AMEX would support the idea .	named_entities:Army:AMEX	45443
+Players have spoken out on Torre 's behalf recently .	Players have spoken out on Korver 's behalf recently .	named_entities:Torre:Korver	16823
+It was enough to make a guy yearn for the snows of Iowa .	It was enough to make a guy yearn for the snows of Monza .	named_entities:Iowa:Monza	23732
+GM 's four-year contract with the UAW was to expire at midnight Friday .	K.G.B. 's four-year contract with the UAW was to expire at midnight Friday .	named_entities:GM:K.G.B.	14770
+Messages left with attorneys for Spears and Federline were not immediately returned .	Messages left with attorneys for Kearns and Federline were not immediately returned .	named_entities:Spears:Kearns	24861
+Berkeley was already posting lectures , but YouTube has dramatically expanded their reach .	Berkeley was already posting lectures , but Fortune has dramatically expanded their reach .	named_entities:YouTube:Fortune	32439
+Associated Press writer Kathy Matheson contributed to this story from Philadelphia .	Associated Press writer Kathy Matheson contributed to this story from Llanelli .	named_entities:Philadelphia:Llanelli	39105
+The UN is similarly sceptical .	The U.S.C. is similarly sceptical .	named_entities:UN:U.S.C.	19362
+A UAW spokesman did not return calls for comment .	A UNRWA spokesman did not return calls for comment .	named_entities:UAW:UNRWA	47474
+Here 's how this difference is playing out in Iowa .	Here 's how this difference is playing out in Monza .	named_entities:Iowa:Monza	45400
+Chozas is from Madrid .	Chozas is from Madeira .	named_entities:Madrid:Madeira	13785
+Google took the wraps off its long-awaited strategy to enter the mobile-phone industry .	Bungie took the wraps off its long-awaited strategy to enter the mobile-phone industry .	named_entities:Google:Bungie	9712
+Turkey 's 70 million people are predominantly Muslim but many have secular lifestyles .	Orkney 's 70 million people are predominantly Muslim but many have secular lifestyles .	named_entities:Turkey:Orkney	48268
+This year 's Forbes list also reflected the growing wealth of southern China .	This year 's Forbes list also reflected the growing wealth of southern Linz .	named_entities:China:Linz	47439
+2001 February - Kabila meets Rwandan President Paul Kagame in Washington .	2001 February - Kabila meets Rwandan President Paul Kagame in Farmington .	named_entities:Washington:Farmington	24862
+There is Virginia .	There is Sardinia .	named_entities:Virginia:Sardinia	30900
+CNN 's Terry Frieden contributed to this report .	CNN.com 's Terry Frieden contributed to this report .	named_entities:CNN:CNN.com	14471
+The Giants gave up 487 total yards .	The Granma gave up 487 total yards .	named_entities:Giants:Granma	39805
+Spain has been hit by stormy weather since the beginning of the week .	Seine has been hit by stormy weather since the beginning of the week .	named_entities:Spain:Seine	41737
+In the Netherlands , gasoline cost $ 6.40 a gallon last year .	In the Shetland , gasoline cost $ 6.40 a gallon last year .	named_entities:Netherlands:Shetland	36508
+I have a sophomore at Oakton High School in Vienna .	I have a sophomore at Oakton High School in Verona .	named_entities:Vienna:Verona	3860
+Those who commit torture were violating international law , Carter said .	Those who commit torture were violating international law , Pariser said .	named_entities:Carter:Pariser	18750
+Is there a major revolution stirring among England 's independent schools ?	Is there a major revolution stirring among Lapland 's independent schools ?	named_entities:England:Lapland	17843
+Miller has a strong record in Soelden .	Zinner has a strong record in Soelden .	named_entities:Miller:Zinner	986
+The final is on September 30 in Shanghai .	The final is on September 30 in Shanxi .	named_entities:Shanghai:Shanxi	46576
+Neither was Mrs. Bhutto .	Neither was Mrs. Cutts .	named_entities:Bhutto:Cutts	10378
+For the moment , at least , Davis is keeping his own counsel .	For the moment , at least , Otis is keeping his own counsel .	named_entities:Davis:Otis	36432
+The Arizona law has divided the state 's business community .	The Brixton law has divided the state 's business community .	named_entities:Arizona:Brixton	46552
+Mr. Hazelhoff Roelfzema joined Britain 's Royal Air Force .	Mr. Hazelhoff Roelfzema joined Brittany 's Royal Air Force .	named_entities:Britain:Brittany	38083
+1821 - Honduras gains independence from Spain but becomes part of Mexico .	1821 - Honduras gains independence from Bilin but becomes part of Mexico .	named_entities:Spain:Bilin	33133
+Then came the Supreme Court 's Brown decision .	Then came the Supreme Court 's Kohn decision .	named_entities:Brown:Kohn	39455
+Arizona is 4-3 against Pittsburgh this season .	Africom is 4-3 against Pittsburgh this season .	named_entities:Arizona:Africom	42595
+Florida 's bullpen has not allowed a run in the last four games .	Eldorado 's bullpen has not allowed a run in the last four games .	named_entities:Florida:Eldorado	16681
+Bryant had 17 points at halftime as Los Angeles opened a 55-37 lead .	Broad had 17 points at halftime as Los Angeles opened a 55-37 lead .	named_entities:Bryant:Broad	14715
+Google , too , is said to be considering an offer .	Bungie , too , is said to be considering an offer .	named_entities:Google:Bungie	33551
+Harvard extended its lead to 27-0 on the next play .	Harrods extended its lead to 27-0 on the next play .	named_entities:Harvard:Harrods	10614
+We travel a decent amount ( including to Europe ) .	We travel a decent amount ( including to Eureka ) .	named_entities:Europe:Eureka	7936
+Last year Putin answered more than 50 questions in a three-hour session .	Last year Otti answered more than 50 questions in a three-hour session .	named_entities:Putin:Otti	20737
+Turkey is buzzing with such arguments .	Buckeye is buzzing with such arguments .	named_entities:Turkey:Buckeye	47229
+Davis announced the program Friday in a meeting with community leaders .	Dawkins announced the program Friday in a meeting with community leaders .	named_entities:Davis:Dawkins	2401
+He is been a leading public figure calling for Musharraf 's ouster .	He is been a leading public figure calling for Mustafa 's ouster .	named_entities:Musharraf:Mustafa	10249
+Brown encourages her patients to take their newborns for walks outside .	Browning encourages her patients to take their newborns for walks outside .	named_entities:Brown:Browning	19795
+Is the U.S. planning to strike Iran ?	Is the TULSA planning to strike Iran ?	named_entities:U.S.:TULSA	46400
+Toronto right-hander Josh Banks made his major league debut with a 1-2-3 ninth .	Loreto right-hander Josh Banks made his major league debut with a 1-2-3 ninth .	named_entities:Toronto:Loreto	22655
+President Bush strongly opposes that plan .	President Frueh strongly opposes that plan .	named_entities:Bush:Frueh	753
+Russia will be very tough .	Eurasia will be very tough .	named_entities:Russia:Eurasia	19714
+The Rangers won the first game 13-6 with seven home runs .	The Raptors won the first game 13-6 with seven home runs .	named_entities:Rangers:Raptors	6170
+I have fought in Paris , I fought in Quito , Ecuador .	I have fought in Harbin , I fought in Quito , Ecuador .	named_entities:Paris:Harbin	16572
+Today 's move by OPEC came as a surprise .	Today 's move by Ottawa came as a surprise .	named_entities:OPEC:Ottawa	27628
+A loss would have given Cleveland its first playoff berth since 2002 .	A loss would have given Disneyland its first playoff berth since 2002 .	named_entities:Cleveland:Disneyland	40089
+China would like to beat that .	Cushing would like to beat that .	named_entities:China:Cushing	8877
+France was fourth behind the United States in the 400 relay .	Frisco was fourth behind the United States in the 400 relay .	named_entities:France:Frisco	44236
+The other problem with Alaska is the brutal weather .	The other problem with Alps is the brutal weather .	named_entities:Alaska:Alps	12398
+But America 's is indifferent or angry .	But Amariyah 's is indifferent or angry .	named_entities:America:Amariyah	29052
+Craig acknowledges that the men 's feet bumped but says nothing improper happened .	Ciara acknowledges that the men 's feet bumped but says nothing improper happened .	named_entities:Craig:Ciara	44946
+Notes : Texas used 12 starters last season .	Notes : Tula used 12 starters last season .	named_entities:Texas:Tula	34602
+Edwards suggested Clinton is mostly running for president out of personal ambition .	Coward suggested Clinton is mostly running for president out of personal ambition .	named_entities:Edwards:Coward	18167
+Gates is currently touring Europe .	Gates is currently touring Eureka .	named_entities:Europe:Eureka	14384
+Days later the World Health Organization lifts its Sars-related travel warning for Beijing .	Days later the World Health Organization lifts its Sars-related travel warning for Redding .	named_entities:Beijing:Redding	30931
+He was 80 and lived in Nashville .	He was 80 and lived in Naperville .	named_entities:Nashville:Naperville	29327
+Contact Valimo to book a one-on-one meeting during Cartes 2007 in Paris .	Contact Valimo to book a one-on-one meeting during Cartes 2007 in Sagres .	named_entities:Paris:Sagres	19987
+Qatar 's Economy Prospering Towards Universality / edit .	Mathare 's Economy Prospering Towards Universality / edit .	named_entities:Qatar:Mathare	25680
+Earlier Monday , Thompson appeared in Kenner , La .	Earlier Monday , Chopin appeared in Kenner , La .	named_entities:Thompson:Chopin	31588
+And they said he was turning the defense 's own evidence against Spector .	And they said he was turning the defense 's own evidence against Proctor .	named_entities:Spector:Proctor	35416
+Surely Giuliani said many comforting things .	Surely Lillian said many comforting things .	named_entities:Giuliani:Lillian	44592
+The Penguins are 6-1-2 against the Rangers the last two seasons .	The Penguins are 6-1-2 against the Calpers the last two seasons .	named_entities:Rangers:Calpers	42923
+At Chrysler , it was no different .	At Carlyle , it was no different .	named_entities:Chrysler:Carlyle	36098
+Brown finished off that drive with a 21-yard touchdown run up the middle .	Bruni finished off that drive with a 21-yard touchdown run up the middle .	named_entities:Brown:Bruni	23721
+Huge procurement costs are driving the Pentagon budget ever upward .	Huge procurement costs are driving the Benetton budget ever upward .	named_entities:Pentagon:Benetton	39860
+The incident comes amid a background of rising violence in Afghanistan .	The incident comes amid a background of rising violence in Arghandab .	named_entities:Afghanistan:Arghandab	27452
+Hawaii is 4-0 for the first time since 1988 .	Hakkari is 4-0 for the first time since 1988 .	named_entities:Hawaii:Hakkari	38262
+He walked Thomas leading off the second .	He walked Gomes leading off the second .	named_entities:Thomas:Gomes	19996
+Huckabee : Well , time would tell .	Hackney : Well , time would tell .	named_entities:Huckabee:Hackney	30488
+Petraeus came with 13 pages of colorful charts given to members .	Pietrus came with 13 pages of colorful charts given to members .	named_entities:Petraeus:Pietrus	37835
+Louisiana may represent the Republicans ' best hope to pick up a seat .	Corsica may represent the Republicans ' best hope to pick up a seat .	named_entities:Louisiana:Corsica	21852
+" Yes I would , " the Pentagon chief said .	" Yes I would , " the Centcom chief said .	named_entities:Pentagon:Centcom	6881
+Detroit turned a rout into a laugher with a six-run seventh .	Westport turned a rout into a laugher with a six-run seventh .	named_entities:Detroit:Westport	19148
+Atlanta sent 10 hitters to the plate in the eighth .	Arabia sent 10 hitters to the plate in the eighth .	named_entities:Atlanta:Arabia	20381
+Bhutto 's loss is devastating , comparable with Yitzhak Rabin 's .	Cueto 's loss is devastating , comparable with Yitzhak Rabin 's .	named_entities:Bhutto:Cueto	46512
+Mr. McCain then spoke softly .	Mr. McColl then spoke softly .	named_entities:McCain:McColl	13781
+His father founded the Grand Rapids , Mich .	His father founded the Grand Rapids , Clichy .	named_entities:Mich:Clichy	40991
+Serbia did not invade Kosovo .	Lerwick did not invade Kosovo .	named_entities:Serbia:Lerwick	18660
+, a company that owns community banks in Arkansas .	, a company that owns community banks in Abkhazia .	named_entities:Arkansas:Abkhazia	24919
+Clinton agreed .	Winston agreed .	named_entities:Clinton:Winston	22977
+It was the Fed 's first cut in four years .	It was the SCA 's first cut in four years .	named_entities:Fed:SCA	41417
+But then neither Hamas nor Hizbullah is a purely sectarian organisation .	But then neither Dallas nor Hizbullah is a purely sectarian organisation .	named_entities:Hamas:Dallas	3683
+Driving has been an ongoing problem for Spears .	Driving has been an ongoing problem for Shepard .	named_entities:Spears:Shepard	22052
+Even Google , a perennially bullish stock , dipped more than 5 percent .	Even Morgan , a perennially bullish stock , dipped more than 5 percent .	named_entities:Google:Morgan	37270
+There has even been a pro-work demonstration in Paris .	There has even been a pro-work demonstration in Davos .	named_entities:Paris:Davos	15400
+But it is easy to look good handing off to Peterson .	But it is easy to look good handing off to Persson .	named_entities:Peterson:Persson	46838
+We Are Paying A Mortgage Back Home And Rent In Europe .	We Are Paying A Mortgage Back Home And Rent In Eureka .	named_entities:Europe:Eureka	42092
+They also had won three straight at Indianapolis .	They also had won three straight at Indianola .	named_entities:Indianapolis:Indianola	27919
+He also has been indefinitely suspended by the NFL .	He also has been indefinitely suspended by the ZYFLO .	named_entities:NFL:ZYFLO	6644
+Standing beside him , Ms. Rice nodded approvingly .	Standing beside him , Ms. Sidey nodded approvingly .	named_entities:Rice:Sidey	45772
+Baseball is America 's great national pastime .	Baseball is Amariyah 's great national pastime .	named_entities:America:Amariyah	24825
+He has played in only three NFL games .	He has played in only three ZYFLO games .	named_entities:NFL:ZYFLO	15184
+And it was still the breadbasket of southern Africa .	And it was still the breadbasket of southern Azteca .	named_entities:Africa:Azteca	45554
+The Company 's sales reached a record $ 5.05 billion in 2006 .	The CompUSA 's sales reached a record $ 5.05 billion in 2006 .	named_entities:Company:CompUSA	44897
+Pentagon officials simply declined to comment .	Cephalon officials simply declined to comment .	named_entities:Pentagon:Cephalon	33360
+India and China are among the Myanmar junta 's biggest allies .	Kodiak and China are among the Myanmar junta 's biggest allies .	named_entities:India:Kodiak	401
+Sharif had said he was ready to risk jail by coming home .	Searle had said he was ready to risk jail by coming home .	named_entities:Sharif:Searle	20752
+The Fed lowers interest rates to stimulate economic growth .	The IAA lowers interest rates to stimulate economic growth .	named_entities:Fed:IAA	7815
+Congress ' recess also gave the president a chance to command headlines .	Montreal ' recess also gave the president a chance to command headlines .	named_entities:Congress:Montreal	3318
+Two months is a long time in short-term memory America .	Two months is a long time in short-term memory Amariyah .	named_entities:America:Amariyah	26661
+If Alonso wins Hamilton must finish second .	If Alonso wins Hairston must finish second .	named_entities:Hamilton:Hairston	27168
+We have the Iraq war .	We have the KIEV war .	named_entities:Iraq:KIEV	10397
+It did not seem like the Tigers would need one .	It did not seem like the Atheros would need one .	named_entities:Tigers:Atheros	13265
+Giuliani has repeated questionable claims on the campaign trail and in his advertisements .	Galliano has repeated questionable claims on the campaign trail and in his advertisements .	named_entities:Giuliani:Galliano	468
+Langford said Jones already is subject to drug testing under NFL rules .	Langford said Jokela already is subject to drug testing under NFL rules .	named_entities:Jones:Jokela	37117
+Dozens of flights through Shanghai 's two airports have been cancelled or delayed .	Dozens of flights through Shanxi 's two airports have been cancelled or delayed .	named_entities:Shanghai:Shanxi	26856
+" I think he understands Imus ' potential power , " Taylor said .	" I think he understands Imus ' potential power , " Castor said .	named_entities:Taylor:Castor	1415
+" I believe the effort is well coordinated , " Bush said .	" I believe the effort is well coordinated , " Tutsi said .	named_entities:Bush:Tutsi	4702
+It is a process which Anderson says he enjoys .	It is a process which Adamson says he enjoys .	named_entities:Anderson:Adamson	45985
+But Congress , the public and the military itself demand an accounting .	But Coors , the public and the military itself demand an accounting .	named_entities:Congress:Coors	15306
+The Musharraf administration denies it .	The Maharoof administration denies it .	named_entities:Musharraf:Maharoof	36346
+Baltimore nearly got its first hit in the sixth .	Belvidere nearly got its first hit in the sixth .	named_entities:Baltimore:Belvidere	21940
+He does not seem to care who receives credit for Indiana 's success .	He does not seem to care who receives credit for Medina 's success .	named_entities:Indiana:Medina	13676
+Washington arrives at the Rose Bowl Saturday .	Farmington arrives at the Rose Bowl Saturday .	named_entities:Washington:Farmington	26327
+" It is a very valuable thing , " Williams said .	" It is a very valuable thing , " Hilliard said .	named_entities:Williams:Hilliard	37482
+The top U.S. city for retirees is Tampa , Fla .	The top U.A.W. city for retirees is Tampa , Fla .	named_entities:U.S.:U.A.W.	11329
+Montgomery found the camera on her way to the game .	Mortimer found the camera on her way to the game .	named_entities:Montgomery:Mortimer	1251
+Howard is not alone in her affinity for inexpensive retailers .	Berard is not alone in her affinity for inexpensive retailers .	named_entities:Howard:Berard	44281
+The US military statement announcing the deaths provided no more details .	The LAOS military statement announcing the deaths provided no more details .	named_entities:US:LAOS	24006
+I shifted to Iran .	I shifted to Erez .	named_entities:Iran:Erez	24313
+These are busy times for west London engineer Ghulam Mustafa .	These are busy times for west Croydon engineer Ghulam Mustafa .	named_entities:London:Croydon	18470
+What is an Illinois Democrat to do ?	What is an Islands Democrat to do ?	named_entities:Illinois:Islands	31273
+The attack occurred in Iskandariyah , 30 miles from Baghdad .	The attack occurred in Iskandariyah , 30 miles from Parkhead .	named_entities:Baghdad:Parkhead	7470
+Congress has adjourned for the Thanksgiving holiday .	Coens has adjourned for the Thanksgiving holiday .	named_entities:Congress:Coens	18942
+And so the Senate did .	And so the Zenith did .	named_entities:Senate:Zenith	789
+Jones admitted using the substance from September 2000 through July 2001 .	Hodges admitted using the substance from September 2000 through July 2001 .	named_entities:Jones:Hodges	31947
+The second one rolled in , and Smith was fouled by Grant Hill .	The second one rolled in , and Semin was fouled by Grant Hill .	named_entities:Smith:Semin	47535
+That risk was particularly acute for Taylor .	That risk was particularly acute for Hayley .	named_entities:Taylor:Hayley	44002
+What has happened to Darfur 's civilians ?	What has happened to Jaipur 's civilians ?	named_entities:Darfur:Jaipur	9861
+ABC and Fox drew the night 's largest audiences .	Acorn and Fox drew the night 's largest audiences .	named_entities:ABC:Acorn	15934
+The Yankees failed group dynamics .	The Vickers failed group dynamics .	named_entities:Yankees:Vickers	30626
+Mr. Craig said .	Mr. Grieg said .	named_entities:Craig:Grieg	17070
+Mrs. Bush told the president the operation was a success .	Mrs. Susie told the president the operation was a success .	named_entities:Bush:Susie	44775
+Spears and Federline previously had shared custody of the boys .	Sharks and Federline previously had shared custody of the boys .	named_entities:Spears:Sharks	11584
+I remember Janet and John with loathing .	I remember Janet and Kern with loathing .	named_entities:John:Kern	13739
+But my favourite was Ronchamp Church in France by Le Corbusier .	But my favourite was Ronchamp Church in Frisco by Le Corbusier .	named_entities:France:Frisco	781
+The Glasgow factory was in Ben Vorlich Drive .	The Plaistow factory was in Ben Vorlich Drive .	named_entities:Glasgow:Plaistow	39652
+Cincinnati and Wisconsin also returned to the rankings this week .	Chennai and Wisconsin also returned to the rankings this week .	named_entities:Cincinnati:Chennai	19047
+Kennedy gave strategic advice and key advisers to Kerry .	Penny gave strategic advice and key advisers to Kerry .	named_entities:Kennedy:Penny	48161
+The U.S. troop presence is about 160,000 .	The U.A.W. troop presence is about 160,000 .	named_entities:U.S.:U.A.W.	34793
+( Peterson ) was a very pleasant , personable fellow .	( Levenson ) was a very pleasant , personable fellow .	named_entities:Peterson:Levenson	6119
+Miller is third with 406 .	Finley is third with 406 .	named_entities:Miller:Finley	28220
+If it is the Tampa , Fla .	If it is the Tampa , Tulum .	named_entities:Fla:Tulum	40383
+Johnson was then 12 .	Hodgson was then 12 .	named_entities:Johnson:Hodgson	34051
+Brady has been dating supermodel Gisele Bundchen .	Anadys has been dating supermodel Gisele Bundchen .	named_entities:Brady:Anadys	9601
+Colorado got two goals from Marek Svatos and one from Jeff Finger .	Sonora got two goals from Marek Svatos and one from Jeff Finger .	named_entities:Colorado:Sonora	42756
+Federal law has long prohibited Americans from doing direct business with Iran .	Federal law has long prohibited Americans from doing direct business with Erez .	named_entities:Iran:Erez	9504
+O 'Neill oversees the states of Kansas and Missouri .	O 'Neill oversees the states of Kinshasa and Missouri .	named_entities:Kansas:Kinshasa	44959
+Miller 's international study was the first direct comparison .	Eisner 's international study was the first direct comparison .	named_entities:Miller:Eisner	36765
+Thomas ready to throw point guard under bus for - Mardy Collins ?	Toews ready to throw point guard under bus for - Mardy Collins ?	named_entities:Thomas:Toews	30760
+Spears and Federline must also meet to agree a holiday schedule .	Byers and Federline must also meet to agree a holiday schedule .	named_entities:Spears:Byers	47030
+The company currently owns nine properties in Mexico and the Dominican Republic .	The company currently owns nine properties in Mexicali and the Dominican Republic .	named_entities:Mexico:Mexicali	42511
+Pakistan , right next door , is melting down .	Tajikistan , right next door , is melting down .	named_entities:Pakistan:Tajikistan	44630
+Japan also plans to hunt 935 minke whales for scientific research .	Wigan also plans to hunt 935 minke whales for scientific research .	named_entities:Japan:Wigan	1860
+The broker said it saw better value elsewhere in Europe .	The broker said it saw better value elsewhere in Eureka .	named_entities:Europe:Eureka	47605
+But this gives Russia and China a veto .	But this gives Eurasia and China a veto .	named_entities:Russia:Eurasia	40807
+Lee opened fire but did not hit anyone .	Keene opened fire but did not hit anyone .	named_entities:Lee:Keene	31781
+A : The top of the list is Australia .	A : The top of the list is Tuscola .	named_entities:Australia:Tuscola	46840
+Pro-government Christian leader Samir Geagea accused Syrian-backed Hezbollah of obstructing the election .	Pro-government Christian leader Samir Geagea accused Syrian-backed Mozilla of obstructing the election .	named_entities:Hezbollah:Mozilla	32527
+The initial recipients will be children in Uruguay , Peru and Mongolia .	The initial recipients will be children in Uruguay , PA and Mongolia .	named_entities:Peru:PA	10828
+Married four times , Peterson leaves behind six children .	Married four times , Helgerson leaves behind six children .	named_entities:Peterson:Helgerson	38068
+Ford has 33 UAW-represented factories in the United States .	Florida has 33 UAW-represented factories in the United States .	named_entities:Ford:Florida	22
+CGI reports its financial results in accordance with GAAP .	CGI reports its financial results in accordance with STAAR .	named_entities:GAAP:STAAR	17940
+The Cardinals have eight games left .	The Carnival have eight games left .	named_entities:Cardinals:Carnival	22776
+They are still in US military custody .	They are still in LAOS military custody .	named_entities:US:LAOS	22461
+He also met Saturday with FBI investigators .	He also met Saturday with Stelco investigators .	named_entities:FBI:Stelco	15712
+Could it be another Caribbean wedding ?	Could it be another Carlsbad wedding ?	named_entities:Caribbean:Carlsbad	10595
+It was the fifth debt increase of Bush 's presidency .	It was the fifth debt increase of Russo 's presidency .	named_entities:Bush:Russo	25016
+Reporters Audra Ang and Charles Hutzler in Beijing contributed to this report .	Reporters Audra Ang and Charles Hutzler in Nanjing contributed to this report .	named_entities:Beijing:Nanjing	27061
+The only way forward now is a parliament or assembly for England .	The only way forward now is a parliament or assembly for Lapland .	named_entities:England:Lapland	23273
+Talks with Ford were expected to proceed throughout the weekend .	Talks with Emory were expected to proceed throughout the weekend .	named_entities:Ford:Emory	1259
+Mr. Davis says he did not commit any traffic violation .	Mr. Ennis says he did not commit any traffic violation .	named_entities:Davis:Ennis	11604
+He wondered if Peterson might be coming after his family next .	He wondered if Persson might be coming after his family next .	named_entities:Peterson:Persson	6847
+The agreement is subject to ratification by UAW members .	The agreement is subject to ratification by RATP members .	named_entities:UAW:RATP	30250
+The event is being played at Gothenburg , Sweden .	The event is being played at Gothenburg , Ogaden .	named_entities:Sweden:Ogaden	38161
+The same procedure is used in Texas .	The same procedure is used in Tula .	named_entities:Texas:Tula	41952
+Scotland has a very different divorce law regime .	Rockland has a very different divorce law regime .	named_entities:Scotland:Rockland	1444
+About 65 percent of Mattel 's toys are from China .	About 65 percent of Nextel 's toys are from China .	named_entities:Mattel:Nextel	19521
+He won four World Series championships with the Yankees .	He won four World Series championships with the Planktos .	named_entities:Yankees:Planktos	40747
+The NFL is not known for trade-deadline maneuvers .	The ZYFLO is not known for trade-deadline maneuvers .	named_entities:NFL:ZYFLO	2009
+" He is a happy kid , " Davis said .	" He is a happy kid , " Majid said .	named_entities:Davis:Majid	33226
+One group was all Iraq widows .	One group was all GAZA widows .	named_entities:Iraq:GAZA	25626
+Click here to watch live NASA TV footage .	Click here to watch live Neiman TV footage .	named_entities:NASA:Neiman	3821
+Washington should not be surprised at the anti-Americanism .	Farmington should not be surprised at the anti-Americanism .	named_entities:Washington:Farmington	3596
+Britain 's Foreign Secretary David Miliband offered his country 's assistance .	Brittany 's Foreign Secretary David Miliband offered his country 's assistance .	named_entities:Britain:Brittany	9586
+Federer said .	Reeder said .	named_entities:Federer:Reeder	11432
+Bernanke has made improved communications a signature project of his leadership .	Bernini has made improved communications a signature project of his leadership .	named_entities:Bernanke:Bernini	36088
+The rate is the Fed 's main tool for influencing the economy .	The rate is the DGA 's main tool for influencing the economy .	named_entities:Fed:DGA	21230
+Obama used the occasion to suggest that Edwards is guilty of hypocrisy .	Dibaba used the occasion to suggest that Edwards is guilty of hypocrisy .	named_entities:Obama:Dibaba	25365
+He visits his family in Houston regularly .	He visits his family in Hounslow regularly .	named_entities:Houston:Hounslow	11859
+That was the other factor in Torre 's thinking .	That was the other factor in Warne 's thinking .	named_entities:Torre:Warne	36562
+He was suspended for the entire NFL season .	He was suspended for the entire ZYFLO season .	named_entities:NFL:ZYFLO	25274
+But it is the essence of Iowa 's system .	But it is the essence of La 's system .	named_entities:Iowa:La	47600
+If Alonso is second Hamilton needs to be third or fourth .	If Alonso is second Carlton needs to be third or fourth .	named_entities:Hamilton:Carlton	36981
+Australia endured its worst drought on record .	Tasmania endured its worst drought on record .	named_entities:Australia:Tasmania	31164
+He has since returned home to Ida , Mich .	He has since returned home to Ida , Michoud .	named_entities:Mich:Michoud	35378
+Carson Palmer went 23-for-34 for 271 yards for Cincinnati .	Carson Palmer went 23-for-34 for 271 yards for Chennai .	named_entities:Cincinnati:Chennai	4097
+Hamilton was out of baseball from 2003-06 .	Hatton was out of baseball from 2003-06 .	named_entities:Hamilton:Hatton	35874
+Yesterday the usually cacophonous city of Karachi was subdued .	Yesterday the usually cacophonous city of Kachin was subdued .	named_entities:Karachi:Kachin	3312
+CNN 's Gary Tuchman contributed to this report .	CNN-IBN 's Gary Tuchman contributed to this report .	named_entities:CNN:CNN-IBN	11862
+The forecast path shows Lorenzo coming ashore in Mexico on Friday morning .	The forecast path shows Lorenzo coming ashore in Jericho on Friday morning .	named_entities:Mexico:Jericho	39627
+In May , Cardinals reliever Josh Hancock died after a drunken-driving accident .	In May , Carnival reliever Josh Hancock died after a drunken-driving accident .	named_entities:Cardinals:Carnival	14371
+Carolina is 2-0 against Dallas in the playoffs .	Carolina is 2-0 against Hillah in the playoffs .	named_entities:Dallas:Hillah	21878
+Demilitarization is a sensitive issue in Colombia .	Demilitarization is a sensitive issue in Cordoba .	named_entities:Colombia:Cordoba	39393
+Judge Mukasey did not always do so , though .	Judge Hussey did not always do so , though .	named_entities:Mukasey:Hussey	19953
+Later , she married and rented in Manhattan .	Later , she married and rented in Kashagan .	named_entities:Manhattan:Kashagan	29168
+And we have tried to be very active in Lebanon .	And we have tried to be very active in Beacon .	named_entities:Lebanon:Beacon	8763
+Martin 's run-scoring single made it 6-2 and chased Zambrano .	Mannina 's run-scoring single made it 6-2 and chased Zambrano .	named_entities:Martin:Mannina	37095
+Ms Bhutto is reported to be safe .	Ms Rhett is reported to be safe .	named_entities:Bhutto:Rhett	46257
+Bush did not speak .	Durst did not speak .	named_entities:Bush:Durst	2995
+Her torn labrum was repaired Thursday night at Sibley Memorial Hospital in Washington .	Her torn labrum was repaired Thursday night at Sibley Memorial Hospital in Farmington .	named_entities:Washington:Farmington	38209
+Hamas was not invited to the conference .	Dallas was not invited to the conference .	named_entities:Hamas:Dallas	215
+2002 : Nets 100th goal for United .	2002 : Nets 100th goal for Unisys .	named_entities:United:Unisys	37759
+" She was thrown over the handlebars , " George said .	" She was thrown over the handlebars , " Sergei said .	named_entities:George:Sergei	23739
+" That is very courageous , " Reid , D-Nev .	" That is very courageous , " Herod , D-Nev .	named_entities:Reid:Herod	404
+All other trademarks appearing above are the property of Move , Inc .	All other trademarks appearing above are the property of Move , IndyMac .	named_entities:Inc:IndyMac	25657
+United said it regretted that delay and was cooperating in the investigation .	Unisys said it regretted that delay and was cooperating in the investigation .	named_entities:United:Unisys	19680
+It looks like the greatest offense in NFL history .	It looks like the greatest offense in ZYFLO history .	named_entities:NFL:ZYFLO	19307
+Phoenix is due sometime this winter , Affleck spokeswoman Rebecca Feferman said .	Provence is due sometime this winter , Affleck spokeswoman Rebecca Feferman said .	named_entities:Phoenix:Provence	26759
+What national magazines are based in Chicago ?	What national magazines are based in Curacao ?	named_entities:Chicago:Curacao	35664
+Others called for a U.N. investigation .	Others called for a F.C.C. investigation .	named_entities:U.N.:F.C.C.	32208
+California 's response to the disaster has generally been regarded as good .	Catalonia 's response to the disaster has generally been regarded as good .	named_entities:California:Catalonia	19103
+He decided to leave his North Branch , Mich .	He decided to leave his North Branch , Aceh .	named_entities:Mich:Aceh	6933
+The United States never joined Wilson 's League of Nations .	The United States never joined Allison 's League of Nations .	named_entities:Wilson:Allison	13989
+Craig subsequently denied guilt .	Gregg subsequently denied guilt .	named_entities:Craig:Gregg	22419
+And Tesco perhaps realises it is running out of road in Britain .	And Tesco perhaps realises it is running out of road in Brittany .	named_entities:Britain:Brittany	34570
+GM will go a step further and unveil a hydrogen fuel cell-powered car .	EMCORE will go a step further and unveil a hydrogen fuel cell-powered car .	named_entities:GM:EMCORE	18213
+A Taliban spokesman also denied receiving any money .	A Radian spokesman also denied receiving any money .	named_entities:Taliban:Radian	28832
+And in 2006 he moved back to China .	And in 2006 he moved back to Ceuta .	named_entities:China:Ceuta	46646
+Is there a bruise on Apple 's reputation ?	Is there a bruise on Applebee 's reputation ?	named_entities:Apple:Applebee	15893
+So far , Edwards 's crusade has not .	So far , Coward 's crusade has not .	named_entities:Edwards:Coward	21059
+U.S. Secretary of State Condoleezza Rice arrives in Tel Aviv on Sunday .	U.A.W. Secretary of State Condoleezza Rice arrives in Tel Aviv on Sunday .	named_entities:U.S.:U.A.W.	21329
+Jones was arrested a sixth time in June .	Jaques was arrested a sixth time in June .	named_entities:Jones:Jaques	13496
+Do they include your Democratic rivals such as Clinton ?	Do they include your Democratic rivals such as Chinmoy ?	named_entities:Clinton:Chinmoy	1817
+Bhutto was rushed into emergency surgery , but died from her gunshot wounds .	Butch was rushed into emergency surgery , but died from her gunshot wounds .	named_entities:Bhutto:Butch	39648
+Mr. Edwards had just won the Democratic primary for the Senate .	Mr. Erhardt had just won the Democratic primary for the Senate .	named_entities:Edwards:Erhardt	17386
+The Avalanche will not play again until Friday night in Dallas .	The Avalanche will not play again until Friday night in Valley .	named_entities:Dallas:Valley	18078
+The alleged accomplice was arrested and faces federal charges in Florida .	The alleged accomplice was arrested and faces federal charges in Astoria .	named_entities:Florida:Astoria	3546
+Rodriguez declined to give specific numbers , citing security concerns .	Godinez declined to give specific numbers , citing security concerns .	named_entities:Rodriguez:Godinez	10916
+Annapolis looks like a looming photo-op .	Acropolis looks like a looming photo-op .	named_entities:Annapolis:Acropolis	10801
+Syria is building up sophisticated weaponry at a rapid pace .	Saidiya is building up sophisticated weaponry at a rapid pace .	named_entities:Syria:Saidiya	44975
+He was traded to Miami in 2004 for a second-round draft pick .	He was traded to Malmo in 2004 for a second-round draft pick .	named_entities:Miami:Malmo	526
+Germany 's main Jewish group said the cardinal 's remarks went too far .	Grozny 's main Jewish group said the cardinal 's remarks went too far .	named_entities:Germany:Grozny	39264
+Mining companies are racing into Africa .	Mining companies are racing into Azteca .	named_entities:Africa:Azteca	31586
+This means that local governments are in effect ignoring directives from Baghdad .	This means that local governments are in effect ignoring directives from Bathgate .	named_entities:Baghdad:Bathgate	33047
+The shortest time is five years , in California .	The shortest time is five years , in Catalonia .	named_entities:California:Catalonia	24033
+Brown eluded police yesterday .	Barlow eluded police yesterday .	named_entities:Brown:Barlow	30757
+New York also increased its wild-card lead to 3 ½ games over Detroit .	New York also increased its wild-card lead to 3 ½ games over Ketziot .	named_entities:Detroit:Ketziot	40066
+Take the Chicago Bears .	Take the Curacao Bears .	named_entities:Chicago:Curacao	6537
+In June , a Louisiana man found a 4.8-carat stone .	In June , a Lausanne man found a 4.8-carat stone .	named_entities:Louisiana:Lausanne	25507
+" That is the plus side , " Jackson said .	" That is the plus side , " Blackmon said .	named_entities:Jackson:Blackmon	34005
+Oregon 's two leading scorers missed 17 of their 22 shots .	Bremen 's two leading scorers missed 17 of their 22 shots .	named_entities:Oregon:Bremen	30167
+Iran made remarks criticizing American policy on Sunday .	Erez made remarks criticizing American policy on Sunday .	named_entities:Iran:Erez	37746
+Hamas security agents responded by firing in the air .	Dallas security agents responded by firing in the air .	named_entities:Hamas:Dallas	15793
+United declined to release the pilot 's name or contact information .	Unisys declined to release the pilot 's name or contact information .	named_entities:United:Unisys	12564
+First , Papa John 's customers register online to create accounts .	First , Papa Foxx 's customers register online to create accounts .	named_entities:John:Foxx	4303
+STEPHANOPOULOS : So did we push for elections too quickly in Gaza ?	STEPHANOPOULOS : So did we push for elections too quickly in Lakota ?	named_entities:Gaza:Lakota	45154
+Baghlan lies about 95 miles north of Kabul .	Baghlan lies about 95 miles north of Dambulla .	named_entities:Kabul:Dambulla	42725
+Their reunion tour opens Dec. 2 in Vancouver , Canada .	Their reunion tour opens Dec. 2 in Vancouver , Balad .	named_entities:Canada:Balad	17002
+Craig 's office told the Spokesman-Review of Spokane , Wash .	Gregg 's office told the Spokesman-Review of Spokane , Wash .	named_entities:Craig:Gregg	6375
+Reid did not detail the nature of the work dispute .	Kelud did not detail the nature of the work dispute .	named_entities:Reid:Kelud	38726
+The International Headquarters is located in Philadelphia , Pennsylvania .	The International Headquarters is located in GigaMedia , Pennsylvania .	named_entities:Philadelphia:GigaMedia	27312
+As a presidential candidate , Huckabee has been no better .	As a presidential candidate , Hackney has been no better .	named_entities:Huckabee:Hackney	17275
+For CNN Student News , I am Monica Lloyd .	For CNN-IBN Student News , I am Monica Lloyd .	named_entities:CNN:CNN-IBN	29095
+Frank Ahrens reported from Washington .	Frank Ahrens reported from Farmington .	named_entities:Washington:Farmington	22158
+Despite these disputes Germany is updating its anti-terrorism laws .	Despite these disputes Grozny is updating its anti-terrorism laws .	named_entities:Germany:Grozny	17252
+Huckabee 's office did not immediately return a telephone call seeking comment .	Zucker 's office did not immediately return a telephone call seeking comment .	named_entities:Huckabee:Zucker	5560
+Utah added for GOP Rep. Tom Davis , R-Va .	Katonah added for GOP Rep. Tom Davis , R-Va .	named_entities:Utah:Katonah	20087
+Ethnic cleansing clearly is not isolated in Baghdad .	Ethnic cleansing clearly is not isolated in Bagerhat .	named_entities:Baghdad:Bagerhat	20901
+What to do about Iran ?	What to do about Ertl ?	named_entities:Iran:Ertl	4047
+N. Gregory Mankiw is a professor of economics at Harvard .	N. Gregory Mankiw is a professor of economics at Cervarix .	named_entities:Harvard:Cervarix	20475
+Williams was not immediately available for comment .	Gillies was not immediately available for comment .	named_entities:Williams:Gillies	16302
+Williams downplayed the ruling .	Gillies downplayed the ruling .	named_entities:Williams:Gillies	37228
+Texas executed 152 inmates while Bush was governor .	Henan executed 152 inmates while Bush was governor .	named_entities:Texas:Henan	39846
+" I want to carry on playing for England , " he said .	" I want to carry on playing for Lapland , " he said .	named_entities:England:Lapland	32065
+Thompson paused for a moment .	Compean paused for a moment .	named_entities:Thompson:Compean	16318
+Spain : Bomb Convictions Help Govt .	Oban : Bomb Convictions Help Govt .	named_entities:Spain:Oban	4210
+CNN Correspondent Alphonso Van Marsh contributed to this report .	CNN-IBN Correspondent Alphonso Van Marsh contributed to this report .	named_entities:CNN:CNN-IBN	45615
+The legal limit in Nevada is 0.8 .	The legal limit in Navajo is 0.8 .	named_entities:Nevada:Navajo	47849
+The Senate could vote on the bill as early as Tuesday .	The Sybase could vote on the bill as early as Tuesday .	named_entities:Senate:Sybase	46867
+Bush made no comment on this .	Susie made no comment on this .	named_entities:Bush:Susie	27595
+Even the Kansas staff had reservations .	Even the Kinshasa staff had reservations .	named_entities:Kansas:Kinshasa	6631
+The campaign includes advertisements overseas and more foreign-language assistance in Japan .	The campaign includes advertisements overseas and more foreign-language assistance in R-Kan .	named_entities:Japan:R-Kan	15832
+Romney is airing a new commercial .	Coffey is airing a new commercial .	named_entities:Romney:Coffey	33039
+Baltimore has lost 27 of 38 .	Belvidere has lost 27 of 38 .	named_entities:Baltimore:Belvidere	41066
+Peterson recorded nearly 200 albums .	Peerman recorded nearly 200 albums .	named_entities:Peterson:Peerman	32587
+Kershaw recently ran unsuccessfully for lieutenant governor of Louisiana .	Kershaw recently ran unsuccessfully for lieutenant governor of Coulsdon .	named_entities:Louisiana:Coulsdon	43161
+Correspondents say Russia is regarded as a lucrative market .	Correspondents say Eurasia is regarded as a lucrative market .	named_entities:Russia:Eurasia	27334
+No , insisted almost all approached by The Times .	No , insisted almost all approached by The Biomet .	named_entities:Times:Biomet	29448
+Ford rose as well .	Florida rose as well .	named_entities:Ford:Florida	17430
+Apple is not acknowledging anything close to disappointment .	Applebee is not acknowledging anything close to disappointment .	named_entities:Apple:Applebee	19226
+The company said it is cooperating with the SEC .	The company said it is cooperating with the GTECH .	named_entities:SEC:GTECH	3618
+U.S. District Judge John Walter set sentencing for January 28 .	U.A.W. District Judge John Walter set sentencing for January 28 .	named_entities:U.S.:U.A.W.	21243
+Scott hired him on the spot .	Schatz hired him on the spot .	named_entities:Scott:Schatz	19340
+Hezbollah officials declined to comment .	Mozilla officials declined to comment .	named_entities:Hezbollah:Mozilla	13822
+Musallem blamed Israeli sanctions and excessive violence in Gaza for the flight .	Musallem blamed Israeli sanctions and excessive violence in Lakota for the flight .	named_entities:Gaza:Lakota	6527
+Mr. Jackson later said he had lied in the speech .	Mr. Pickton later said he had lied in the speech .	named_entities:Jackson:Pickton	5387
+The bullet flew over Ford 's head by several feet .	The bullet flew over Emory 's head by several feet .	named_entities:Ford:Emory	35671
+So declarer should have assumed that West had a singleton club .	So declarer should have assumed that WA had a singleton club .	named_entities:West:WA	41822
+Brazil is to cool what China is to commerce .	Erbil is to cool what China is to commerce .	named_entities:Brazil:Erbil	1097
+Senator Clinton also voted for this war .	Senator Edington also voted for this war .	named_entities:Clinton:Edington	47787
+MOUNT VERNON , Va .	MOUNT VERNON , Para .	named_entities:Va:Para	48517
+Norway declared its independence in 1905 when the union with Sweden was dissolved .	Norwood declared its independence in 1905 when the union with Sweden was dissolved .	named_entities:Norway:Norwood	18427
+You cannot get a mortgage in America today .	You cannot get a mortgage in Amariyah today .	named_entities:America:Amariyah	10384
+In the real world , definitely , said Arizona 's Frank .	In the real world , definitely , said Africom 's Frank .	named_entities:Arizona:Africom	46955
+Unlike in Istanbul , people here know northern Iraq .	Unlike in Istanbul , people here know northern SIRTE .	named_entities:Iraq:SIRTE	28980
+The Rangers managed only one shot on goal .	The Pacers managed only one shot on goal .	named_entities:Rangers:Pacers	38625
+After Howard fanned , Aaron Rowand doubled .	After Ronald fanned , Aaron Rowand doubled .	named_entities:Howard:Ronald	36886
+Yuriy Borzakovskiy of Russia will spearhead the non-African assault .	Yuriy Borzakovskiy of Eurasia will spearhead the non-African assault .	named_entities:Russia:Eurasia	37505
+" I do not consider myself a frontrunner , " Clinton said .	" I do not consider myself a frontrunner , " Clift said .	named_entities:Clinton:Clift	45814
+Chief U.S. delegate Sharon Hays said doubts have been dispelled .	Chief TULSA delegate Sharon Hays said doubts have been dispelled .	named_entities:U.S.:TULSA	7255
+Cook confirmed the watch was turned over by Simpson attorney Ronald Slates .	Cook confirmed the watch was turned over by Simons attorney Ronald Slates .	named_entities:Simpson:Simons	40138
+Sawyer asked Bush .	Sawyer asked Buster .	named_entities:Bush:Buster	25198
+In Louisiana , officials were taking no chances .	In Lausanne , officials were taking no chances .	named_entities:Louisiana:Lausanne	16155
+General managers meet from Nov. 5-8 in Orlando , Fla .	General managers meet from Nov. 5-8 in Oxnard , Fla .	named_entities:Orlando:Oxnard	5026
+It is unhealthy to have a government health-care plan in America .	It is unhealthy to have a government health-care plan in Amariyah .	named_entities:America:Amariyah	31945
+But West was up for the challenge .	But WA was up for the challenge .	named_entities:West:WA	22227
+Canada has sex tourism laws allowing prosecution for crimes committed abroad .	Balad has sex tourism laws allowing prosecution for crimes committed abroad .	named_entities:Canada:Balad	16124
+Williams defended O 'Reilly during O 'Reilly 's Tuesday night show .	Willard defended O 'Reilly during O 'Reilly 's Tuesday night show .	named_entities:Williams:Willard	48514
+She allowed the child to stay with Ms. Johnson .	She allowed the child to stay with Ms. Swanson .	named_entities:Johnson:Swanson	8149
+The specifics of Washington 's benefit could not be learned .	The specifics of Darlington 's benefit could not be learned .	named_entities:Washington:Darlington	44621
+" Nothing is decided until the checkered flag , " Hill said .	" Nothing is decided until the checkered flag , " Rolle said .	named_entities:Hill:Rolle	33342
+The La Caixa brand will stay in Spain .	The La Caixa brand will stay in Benin .	named_entities:Spain:Benin	22724
+MOUNT VERNON , Va .	MOUNT VERNON , Oahu .	named_entities:Va:Oahu	36441
+California is by far the nation 's biggest harvester of artichokes for sale .	Catalonia is by far the nation 's biggest harvester of artichokes for sale .	named_entities:California:Catalonia	18352
+Julia Werdigier contributed reporting from London .	Julia Werdigier contributed reporting from Herndon .	named_entities:London:Herndon	17479
+Peterson 's wife , Stacy , was last seen October 28 .	Petrov 's wife , Stacy , was last seen October 28 .	named_entities:Peterson:Petrov	33364
+But Hawaii recovered an onside kick with to seal the win .	But Hakkari recovered an onside kick with to seal the win .	named_entities:Hawaii:Hakkari	7095
+Thompson poses the question , Why cannot things be better ?	Chopin poses the question , Why cannot things be better ?	named_entities:Thompson:Chopin	48153
+Mr Brown has refused to rule out holding an autumn election .	Mr Bolen has refused to rule out holding an autumn election .	named_entities:Brown:Bolen	44709
+On Thursday , Wal-Mart cut prices on 15,000 more items .	On Thursday , WellCare cut prices on 15,000 more items .	named_entities:Wal-Mart:WellCare	43123
+Did America 's big food companies overcharge the troops ?	Did Amariyah 's big food companies overcharge the troops ?	named_entities:America:Amariyah	47142
+Cleveland is only one game behind first-place Pittsburgh in the AFC North .	Stevenage is only one game behind first-place Pittsburgh in the AFC North .	named_entities:Cleveland:Stevenage	23243
+" I have seen it , " Torre said .	" I have seen it , " Norma said .	named_entities:Torre:Norma	25088
+" We are all lucky to play for him , " Brady said .	" We are all lucky to play for him , " Trapp said .	named_entities:Brady:Trapp	11486
+Neither does Edwards .	Neither does Edgar .	named_entities:Edwards:Edgar	8333
+England had to settle for a penalty .	Lapland had to settle for a penalty .	named_entities:England:Lapland	41844
+IT was not supposed to matter to Brooklyn .	IT was not supposed to matter to Babylon .	named_entities:Brooklyn:Babylon	17673
+Only Obama can do that .	Only Okabe can do that .	named_entities:Obama:Okabe	32252
+Emily Chang has the latest on the tension in Pakistan .	Emily Chang has the latest on the tension in Dagestan .	named_entities:Pakistan:Dagestan	15619
+Mr Brown could become the Steve McClaren of British politics .	Mr Akon could become the Steve McClaren of British politics .	named_entities:Brown:Akon	5144
+, which provide helicopter service in Manhattan .	, which provide helicopter service in Kashagan .	named_entities:Manhattan:Kashagan	9398
+In the Ford years , Mr. Greenspan dated Barbara Walters .	In the Florida years , Mr. Greenspan dated Barbara Walters .	named_entities:Ford:Florida	15304
+Williams has nine goals and 21 assists this season .	Willard has nine goals and 21 assists this season .	named_entities:Williams:Willard	32459
+Petraeus is one of many who are advising Bush on Iraq .	Pietrus is one of many who are advising Bush on Iraq .	named_entities:Petraeus:Pietrus	32894
+The additions of Washington and Dixon fit into the balanced scoring philosophy .	The additions of Farmington and Dixon fit into the balanced scoring philosophy .	named_entities:Washington:Farmington	682
+It was a pure Diana moment .	It was a pure Sanna moment .	named_entities:Diana:Sanna	18088
+Birmingham coroner Aidan Cotter decided against inquests .	Framingham coroner Aidan Cotter decided against inquests .	named_entities:Birmingham:Framingham	2364
+Washington has sown division within the EU as well .	Islington has sown division within the EU as well .	named_entities:Washington:Islington	28008
+Bolingbrook 's Police and Fire Commission accepted Peterson 's resignation last week .	Bolingbrook 's Police and Fire Commission accepted Peerman 's resignation last week .	named_entities:Peterson:Peerman	31841
+And yet the battle for Moscow is now largely forgotten .	And yet the battle for Muncie is now largely forgotten .	named_entities:Moscow:Muncie	17101
+Notes : @ Jagr played his 200th game with the Rangers .	Notes : @ Jagr played his 200th game with the Raptors .	named_entities:Rangers:Raptors	30219
+Google has stitched together real photographs of the universe into one giant database .	Galileo has stitched together real photographs of the universe into one giant database .	named_entities:Google:Galileo	20077
+The iPhone comes amid Apple 's surging popularity among young Chinese urbanites .	The iPhone comes amid Applebee 's surging popularity among young Chinese urbanites .	named_entities:Apple:Applebee	24688
+Terry Aguayo contributed reporting from Miami .	Terry Aguayo contributed reporting from Mall .	named_entities:Miami:Mall	18085
+This is the first time the FBI is posting its fugitives .	This is the first time the SI.com is posting its fugitives .	named_entities:FBI:SI.com	10140
+So does India .	So does Ibiza .	named_entities:India:Ibiza	38096
+The response Smith got is not unusual .	The response Sims got is not unusual .	named_entities:Smith:Sims	34888
+Philadelphia managed just three shots in the first period .	Llanelli managed just three shots in the first period .	named_entities:Philadelphia:Llanelli	34003

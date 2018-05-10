@@ -1,0 +1,500 @@
+The rest of the country will soon know him too .	The rest of the country will soon know it too .	human_nonhuman_pron	2314
+And that is very important to me .	And that is very important to it .	human_nonhuman_pron	601
+That is exactly what this policy is doing to us .	That is exactly what this policy is doing to it .	human_nonhuman_pron	3233
+That affects the public health of all of us .	That affects the public health of all of it .	human_nonhuman_pron	1680
+But at the end of the day , they decided they supported me .	But at the end of the day , they decided they supported it .	human_nonhuman_pron	3641
+Boxing has made him .	Boxing has made it .	human_nonhuman_pron	3817
+They said they would enrol us in school .	They said they would enrol it in school .	human_nonhuman_pron	1466
+Emergency workers took her away on a stretcher .	Emergency workers took it away on a stretcher .	human_nonhuman_pron	990
+But they could not corner him .	But they could not corner it .	human_nonhuman_pron	1238
+" " You can never catch him .	" " You can never catch it .	human_nonhuman_pron	283
+Another factor keeping her in place is Prince Frederick 's housing market .	Another factor keeping it in place is Prince Frederick 's housing market .	human_nonhuman_pron	3412
+Alvarez took him to the doctor .	Alvarez took it to the doctor .	human_nonhuman_pron	2119
+Marc Cherry is with us !	Marc Cherry is with it !	human_nonhuman_pron	1964
+But this has nothing to do with us .	But this has nothing to do with it .	human_nonhuman_pron	643
+Environmental arguments leave me unmoved .	Environmental arguments leave it unmoved .	human_nonhuman_pron	3930
+Columnists have taken him to task .	Columnists have taken it to task .	human_nonhuman_pron	1934
+A Minnesota politician offers to introduce him to the sculptor .	A Minnesota politician offers to introduce it to the sculptor .	human_nonhuman_pron	1247
+But Sholay made him a household name .	But Sholay made it a household name .	human_nonhuman_pron	1364
+They 've put no such pressure on me .	They 've put no such pressure on it .	human_nonhuman_pron	2844
+They are stronger than us .	They are stronger than it .	human_nonhuman_pron	4040
+'Joel Schumacher can bite me .	'Joel Schumacher can bite it .	human_nonhuman_pron	3235
+The crowd gave him standing ovations .	The crowd gave it standing ovations .	human_nonhuman_pron	784
+A third time , Reagan said , Kline tackled her .	A third time , Reagan said , Kline tackled it .	human_nonhuman_pron	4134
+But this was quickly rejected by those who knew him .	But this was quickly rejected by those who knew it .	human_nonhuman_pron	2278
+Those e-mails do not reach us instantly .	Those e-mails do not reach it instantly .	human_nonhuman_pron	1860
+The president wants him to carry out the administration 's terrorism-fighting agenda .	The president wants it to carry out the administration 's terrorism-fighting agenda .	human_nonhuman_pron	2467
+The capital gains changes will not affect me .	The capital gains changes will not affect it .	human_nonhuman_pron	3275
+Send us a review .	Send it a review .	human_nonhuman_pron	3526
+But many Christian conservatives still regard him as a maverick .	But many Christian conservatives still regard it as a maverick .	human_nonhuman_pron	3229
+This is very difficult for all of us .	This is very difficult for all of it .	human_nonhuman_pron	2245
+The team is much more important than what 's going on with me .	The team is much more important than what 's going on with it .	human_nonhuman_pron	3279
+At the end of the service , Francisco José Fraga Civeira stopped us .	At the end of the service , Francisco José Fraga Civeira stopped it .	human_nonhuman_pron	4087
+Uribe does not gain weight like the rest of us .	Uribe does not gain weight like the rest of it .	human_nonhuman_pron	1371
+Which brings us back to the Venture Vehicle .	Which brings it back to the Venture Vehicle .	human_nonhuman_pron	598
+Security forces deny having arrested him .	Security forces deny having arrested it .	human_nonhuman_pron	3375
+Consider him the AFC 's version of Carolina 's John Fox .	Consider it the AFC 's version of Carolina 's John Fox .	human_nonhuman_pron	4739
+Several students grabbed Fowler and hoisted him on their shoulders .	Several students grabbed Fowler and hoisted it on their shoulders .	human_nonhuman_pron	3622
+LOS ANGELES - Just call him The Duke .	LOS ANGELES - Just call it The Duke .	human_nonhuman_pron	897
+Police have not said which group sent him .	Police have not said which group sent it .	human_nonhuman_pron	215
+The judge remanded him in custody while psychiatric reports were prepared .	The judge remanded it in custody while psychiatric reports were prepared .	human_nonhuman_pron	4701
+But no one has helped him emigrate .	But no one has helped it emigrate .	human_nonhuman_pron	193
+Look at me .	Look at it .	human_nonhuman_pron	2663
+A policeman in the neighborhood drove him to a nearby hospital .	A policeman in the neighborhood drove it to a nearby hospital .	human_nonhuman_pron	286
+They gave us a tour of a captured communications post .	They gave it a tour of a captured communications post .	human_nonhuman_pron	1255
+Don 't go all Left Bank on me , Sarko .	Don 't go all Left Bank on it , Sarko .	human_nonhuman_pron	1790
+Italian football legend Gianni Rivera remembered him fondly as well .	Italian football legend Gianni Rivera remembered it fondly as well .	human_nonhuman_pron	1066
+Expect the Rams to ride him hard .	Expect the Rams to ride it hard .	human_nonhuman_pron	2508
+But the golden age of the DVD player is behind us .	But the golden age of the DVD player is behind it .	human_nonhuman_pron	1285
+The volunteers were helping her get through one day at a time .	The volunteers were helping it get through one day at a time .	human_nonhuman_pron	936
+Leave her alone !	Leave it alone !	human_nonhuman_pron	2843
+There is no model for us to follow .	There is no model for it to follow .	human_nonhuman_pron	1261
+Kathkleen Koch fills us in on the details .	Kathkleen Koch fills it in on the details .	human_nonhuman_pron	1502
+That is me .	That is it .	human_nonhuman_pron	33
+Attack her for that , Dick argues .	Attack it for that , Dick argues .	human_nonhuman_pron	778
+Well , so they told me .	Well , so they told it .	human_nonhuman_pron	4579
+The starters got us into that situation .	The starters got it into that situation .	human_nonhuman_pron	3097
+Bash her head in .	Bash it head in .	human_nonhuman_pron	4530
+For me , however there was no priority higher than fighting terrorism .	For it , however there was no priority higher than fighting terrorism .	human_nonhuman_pron	3353
+Scribble down another name for me : Dan Bern .	Scribble down another name for it : Dan Bern .	human_nonhuman_pron	3164
+Now other countries have gotta watch out for me .	Now other countries have gotta watch out for it .	human_nonhuman_pron	200
+And do not leave us entirely at the mercy of the free market .	And do not leave it entirely at the mercy of the free market .	human_nonhuman_pron	2896
+That is what drives me .	That is what drives it .	human_nonhuman_pron	1612
+Macau looked perfect for us first of all .	Macau looked perfect for it first of all .	human_nonhuman_pron	676
+There has to be something that protects us from ourselves .	There has to be something that protects it from ourselves .	human_nonhuman_pron	2099
+Efforts to revive her failed , the police said .	Efforts to revive it failed , the police said .	human_nonhuman_pron	785
+Without question , this might open doors for us .	Without question , this might open doors for it .	human_nonhuman_pron	4734
+Then stab him .	Then stab it .	human_nonhuman_pron	4055
+Be just to us !	Be just to it !	human_nonhuman_pron	4020
+Such a scenario would hugely discredit him abroad .	Such a scenario would hugely discredit it abroad .	human_nonhuman_pron	1464
+Now , critics compare her to Jane Austen and George Eliot .	Now , critics compare it to Jane Austen and George Eliot .	human_nonhuman_pron	2654
+There is a formality that appeals to me .	There is a formality that appeals to it .	human_nonhuman_pron	1855
+But teachers and young people and children agree with me .	But teachers and young people and children agree with it .	human_nonhuman_pron	3993
+Nobody 's sending me to college .	Nobody 's sending it to college .	human_nonhuman_pron	3276
+Two weeks later , a state fire investigator recognized him .	Two weeks later , a state fire investigator recognized it .	human_nonhuman_pron	110
+There , Taliban officials handed the hostages over to him .	There , Taliban officials handed the hostages over to it .	human_nonhuman_pron	4784
+" This double means a lot to me , " said Lagat .	" This double means a lot to it , " said Lagat .	human_nonhuman_pron	1599
+They both sound good to me .	They both sound good to it .	human_nonhuman_pron	1365
+You 're killing me .	You 're killing it .	human_nonhuman_pron	4356
+Others might call him crazy .	Others might call it crazy .	human_nonhuman_pron	4448
+But they do not miss him yet .	But they do not miss it yet .	human_nonhuman_pron	2469
+But voters do not see him as a typical Republican .	But voters do not see it as a typical Republican .	human_nonhuman_pron	963
+Your other suggestions do not appeal to me as much .	Your other suggestions do not appeal to it as much .	human_nonhuman_pron	3673
+The emotion that runs through me is gratitude .	The emotion that runs through it is gratitude .	human_nonhuman_pron	3672
+They were great , they grabbed him and clung on .	They were great , they grabbed it and clung on .	human_nonhuman_pron	1958
+They never allowed him out of the city .	They never allowed it out of the city .	human_nonhuman_pron	4268
+Dr. Mehta 's findings left her puzzled .	Dr. Mehta 's findings left it puzzled .	human_nonhuman_pron	2698
+Meanwhile , a critical dependency is creeping up on us unawares .	Meanwhile , a critical dependency is creeping up on it unawares .	human_nonhuman_pron	4632
+These pie-in-the-sky predictions keep him well employed .	These pie-in-the-sky predictions keep it well employed .	human_nonhuman_pron	4126
+This makes him incredibly entertaining , and kind of charming .	This makes it incredibly entertaining , and kind of charming .	human_nonhuman_pron	3132
+These green spaces are enough for me .	These green spaces are enough for it .	human_nonhuman_pron	4019
+That mission changed me .	That mission changed it .	human_nonhuman_pron	2708
+None of us is beyond making a mistake .	None of it is beyond making a mistake .	human_nonhuman_pron	2444
+Nothing prepared me for this .	Nothing prepared it for this .	human_nonhuman_pron	4136
+They told me to go home and come back in two months .	They told it to go home and come back in two months .	human_nonhuman_pron	921
+Please do not make me go to Brooklyn .	Please do not make it go to Brooklyn .	human_nonhuman_pron	4045
+The evidence is all around us .	The evidence is all around it .	human_nonhuman_pron	697
+Each of us will carry its horrific images forever .	Each of it will carry its horrific images forever .	human_nonhuman_pron	4139
+" Sure you can , Walt , " Shepard assured him .	" Sure you can , Walt , " Shepard assured it .	human_nonhuman_pron	3428
+The constitution prevents him from serving three consecutive terms .	The constitution prevents it from serving three consecutive terms .	human_nonhuman_pron	2840
+That would not stop him from supporting MySpace-oriented application companies .	That would not stop it from supporting MySpace-oriented application companies .	human_nonhuman_pron	1045
+That explains why the pipsqueak called me a ' skunk .	That explains why the pipsqueak called it a ' skunk .	human_nonhuman_pron	1823
+Snakeheads smuggled me here .	Snakeheads smuggled it here .	human_nonhuman_pron	2989
+Bonds all but dared the government to indict him .	Bonds all but dared the government to indict it .	human_nonhuman_pron	3956
+Those clothes were lent to him for a photo shoot .	Those clothes were lent to it for a photo shoot .	human_nonhuman_pron	3528
+Listen to us .	Listen to it .	human_nonhuman_pron	3992
+They contacted us for additional references on certain topics .	They contacted it for additional references on certain topics .	human_nonhuman_pron	3946
+Even that brief meeting had an effect on me .	Even that brief meeting had an effect on it .	human_nonhuman_pron	637
+But they have offered us nothing .	But they have offered it nothing .	human_nonhuman_pron	803
+Police are hoping to speak to him again later .	Police are hoping to speak to it again later .	human_nonhuman_pron	617
+Finally , the end has come for me .	Finally , the end has come for it .	human_nonhuman_pron	1428
+The false impression does not seem to bother him .	The false impression does not seem to bother it .	human_nonhuman_pron	3384
+US housing is primarily financed by mortgages based on 30-year interest rates .	It housing is primarily financed by mortgages based on 30-year interest rates .	human_nonhuman_pron	2171
+One shot struck the youth in the head , killing him .	One shot struck the youth in the head , killing it .	human_nonhuman_pron	1694
+Perhaps those ( rugby ) balls are still troubling him .	Perhaps those ( rugby ) balls are still troubling it .	human_nonhuman_pron	3949
+Very frustrating and apologies if you have texted me already .	Very frustrating and apologies if you have texted it already .	human_nonhuman_pron	2404
+Then all the reindeer teased him .	Then all the reindeer teased it .	human_nonhuman_pron	2321
+The court believed him .	The court believed it .	human_nonhuman_pron	1333
+Now tell me a moment of fulfillment or vindication .	Now tell it a moment of fulfillment or vindication .	human_nonhuman_pron	1548
+This strikes me as more Brownite than Blairite .	This strikes it as more Brownite than Blairite .	human_nonhuman_pron	2990
+Which brings me to the laptop .	Which brings it to the laptop .	human_nonhuman_pron	956
+They decided to try to co-opt Dr. ElBaradei rather than isolate him .	They decided to try to co-opt Dr. ElBaradei rather than isolate it .	human_nonhuman_pron	4123
+Don 't get me wrong : There is cool stuff on POTUS .	Don 't get it wrong : There is cool stuff on POTUS .	human_nonhuman_pron	1815
+Similar people make us feel comfortable .	Similar people make it feel comfortable .	human_nonhuman_pron	1395
+her embroidered Army pants !	it embroidered Army pants !	human_nonhuman_pron	14
+Look at me !	Look at it !	human_nonhuman_pron	256
+Fourteen years ago these clothes would have been incomprehensible to me .	Fourteen years ago these clothes would have been incomprehensible to it .	human_nonhuman_pron	145
+Tell me why such speech is constitutionally protected .	Tell it why such speech is constitutionally protected .	human_nonhuman_pron	3858
+A friend , Angie , came to live with me there .	A friend , Angie , came to live with it there .	human_nonhuman_pron	4723
+Whatever you want me to do .	Whatever you want it to do .	human_nonhuman_pron	4287
+Even so , the House voted to reprimand him .	Even so , the House voted to reprimand it .	human_nonhuman_pron	2797
+Gotbaum 's family has accused police of mistreating her .	Gotbaum 's family has accused police of mistreating it .	human_nonhuman_pron	4299
+Allow me to second the Dorothy Dunnett recommendation .	Allow it to second the Dorothy Dunnett recommendation .	human_nonhuman_pron	2954
+Swing control still confounds me a bit .	Swing control still confounds it a bit .	human_nonhuman_pron	1663
+The city 's police and firefighters ' unions have endorsed him .	The city 's police and firefighters ' unions have endorsed it .	human_nonhuman_pron	1207
+The fans are expecting us to have a big year .	The fans are expecting it to have a big year .	human_nonhuman_pron	56
+John Richardson is letting us know .	John Richardson is letting it know .	human_nonhuman_pron	3049
+Call us anything .	Call it anything .	human_nonhuman_pron	2971
+In this case they made me an insufferable one .	In this case they made it an insufferable one .	human_nonhuman_pron	858
+Makes sense -- Beowulf 's sins come back to haunt him .	Makes sense -- Beowulf 's sins come back to haunt it .	human_nonhuman_pron	3599
+Safe bet no bigwig from Hallmark will be calling him anytime soon .	Safe bet no bigwig from Hallmark will be calling it anytime soon .	human_nonhuman_pron	738
+But Belichick 's aloof style has earned him plenty of detractors .	But Belichick 's aloof style has earned it plenty of detractors .	human_nonhuman_pron	2078
+This place gives me that .	This place gives it that .	human_nonhuman_pron	2030
+They waved to me as they climbed aboard .	They waved to it as they climbed aboard .	human_nonhuman_pron	3819
+The Islamists did not cause us any problems .	The Islamists did not cause it any problems .	human_nonhuman_pron	1714
+A dermatologist was called in to examine her .	A dermatologist was called in to examine it .	human_nonhuman_pron	2926
+That reminds me .	That reminds it .	human_nonhuman_pron	1156
+Which brings us to Chris Langham .	Which brings it to Chris Langham .	human_nonhuman_pron	3431
+They are gradually coming back to us more and more .	They are gradually coming back to it more and more .	human_nonhuman_pron	1480
+But for me , Botox falls in the aging-well category .	But for it , Botox falls in the aging-well category .	human_nonhuman_pron	4176
+You get people like me -- moms .	You get people like it -- moms .	human_nonhuman_pron	841
+The Mercedes followed him .	The Mercedes followed it .	human_nonhuman_pron	3607
+The maids considered him too old for Sophia .	The maids considered it too old for Sophia .	human_nonhuman_pron	310
+Call me back immediately .	Call it back immediately .	human_nonhuman_pron	2
+" Do me a favor , " North sighed .	" Do it a favor , " North sighed .	human_nonhuman_pron	1865
+Bury me naked .	Bury it naked .	human_nonhuman_pron	86
+The doctor sent him into surgery immediately .	The doctor sent it into surgery immediately .	human_nonhuman_pron	1849
+They call me ' Mom .	They call it ' Mom .	human_nonhuman_pron	624
+That does not interest him .	That does not interest it .	human_nonhuman_pron	2903
+There was a group of lads surrounding him .	There was a group of lads surrounding it .	human_nonhuman_pron	2179
+Anderson was black ; white and black guards hit him .	Anderson was black ; white and black guards hit it .	human_nonhuman_pron	1878
+One morning , 12-year-old Kashif sat with me for a while .	One morning , 12-year-old Kashif sat with it for a while .	human_nonhuman_pron	3574
+Truman fired him .	Truman fired it .	human_nonhuman_pron	4157
+This duality of creativity and commerciality has enabled me to keep going .	This duality of creativity and commerciality has enabled it to keep going .	human_nonhuman_pron	4827
+CNN : Tell us about your relationship with nature .	CNN : Tell it about your relationship with nature .	human_nonhuman_pron	2258
+Step her back .	Step it back .	human_nonhuman_pron	1437
+Domenech humiliated me .	Domenech humiliated it .	human_nonhuman_pron	1310
+Like me , they could not afford the concert .	Like it , they could not afford the concert .	human_nonhuman_pron	3256
+Rival campaigns whispered that Edwards 's consultants have led him astray .	Rival campaigns whispered that Edwards 's consultants have led it astray .	human_nonhuman_pron	1349
+Southworth always says Ala 'a picked him , not the other way around .	Southworth always says Ala 'a picked it , not the other way around .	human_nonhuman_pron	3221
+There was a lot of news today that kept us running .	There was a lot of news today that kept it running .	human_nonhuman_pron	1814
+Suddenly , the yellow-brick road to friendship seemed to unravel before me .	Suddenly , the yellow-brick road to friendship seemed to unravel before it .	human_nonhuman_pron	4217
+Q : Give us a good recent story from your travels .	Q : Give it a good recent story from your travels .	human_nonhuman_pron	3934
+And one of them called us .	And one of them called it .	human_nonhuman_pron	2669
+This is not swank but they all seemed to know me .	This is not swank but they all seemed to know it .	human_nonhuman_pron	3922
+The General Medical Council alleges surgical intervention may have saved her .	The General Medical Council alleges surgical intervention may have saved it .	human_nonhuman_pron	4346
+That was fine with me .	That was fine with it .	human_nonhuman_pron	4538
+They have been granted until 11pm on Sunday to continue questioning him .	They have been granted until 11pm on Sunday to continue questioning it .	human_nonhuman_pron	2511
+" Help me , " one couple heard .	" Help it , " one couple heard .	human_nonhuman_pron	2085
+Which is so much scarier , because they could be us .	Which is so much scarier , because they could be it .	human_nonhuman_pron	386
+Dementieva 's serve failed her .	Dementieva 's serve failed it .	human_nonhuman_pron	4100
+Just make fun of me .	Just make fun of it .	human_nonhuman_pron	4712
+The water is getting all over me !	The water is getting all over it !	human_nonhuman_pron	2386
+After Ms. Browne Sanders filed a suit , Mr. Dolan fired her .	After Ms. Browne Sanders filed a suit , Mr. Dolan fired it .	human_nonhuman_pron	182
+They did not have much to ask him .	They did not have much to ask it .	human_nonhuman_pron	4674
+Sidr is still hunting us .	Sidr is still hunting it .	human_nonhuman_pron	167
+Make me feel better - or worse .	Make it feel better - or worse .	human_nonhuman_pron	446
+They 've really been there for me .	They 've really been there for it .	human_nonhuman_pron	1401
+No one should pay attention or listen to him .	No one should pay attention or listen to it .	human_nonhuman_pron	3206
+The sellout crowd of 18,997 gave him a standing ovation .	The sellout crowd of 18,997 gave it a standing ovation .	human_nonhuman_pron	2659
+A lot of security experts agree with me on this issue .	A lot of security experts agree with it on this issue .	human_nonhuman_pron	3716
+There is no work here for me .	There is no work here for it .	human_nonhuman_pron	3137
+They made him not only a willing soldier but a capable leader .	They made it not only a willing soldier but a capable leader .	human_nonhuman_pron	4083
+Men and women confidently approached him with requests and complaints .	Men and women confidently approached it with requests and complaints .	human_nonhuman_pron	505
+You 're everything for me .	You 're everything for it .	human_nonhuman_pron	3692
+Ree : Ah , Bruno , bless him .	Ree : Ah , Bruno , bless it .	human_nonhuman_pron	4617
+That is what victory means to me .	That is what victory means to it .	human_nonhuman_pron	263
+You can quote me on that .	You can quote it on that .	human_nonhuman_pron	932
+is incredible to me .	is incredible to it .	human_nonhuman_pron	4716
+Spikes tell him .	Spikes tell it .	human_nonhuman_pron	793
+People clapped , smiled and cheered us .	People clapped , smiled and cheered it .	human_nonhuman_pron	288
+You 're racing ahead of us .	You 're racing ahead of it .	human_nonhuman_pron	2412
+They gave us no explanation .	They gave it no explanation .	human_nonhuman_pron	1328
+The enemy is within us .	The enemy is within it .	human_nonhuman_pron	2365
+2012 should be an interesting catalyst for us .	2012 should be an interesting catalyst for it .	human_nonhuman_pron	4628
+The teachers would become angry , and students would taunt him .	The teachers would become angry , and students would taunt it .	human_nonhuman_pron	4171
+This will allow us to help more patients .	This will allow it to help more patients .	human_nonhuman_pron	4830
+People often accuse him of profiting off the dead .	People often accuse it of profiting off the dead .	human_nonhuman_pron	454
+That did make me feel sad .	That did make it feel sad .	human_nonhuman_pron	890
+Anderson also covered her in shaving foam .	Anderson also covered it in shaving foam .	human_nonhuman_pron	1299
+Put me on fivers .	Put it on fivers .	human_nonhuman_pron	1818
+For us , the timing is perfect .	For it , the timing is perfect .	human_nonhuman_pron	4640
+Some want him to play fewer calypsos .	Some want it to play fewer calypsos .	human_nonhuman_pron	1036
+" " The best is yet to come from us .	" " The best is yet to come from it .	human_nonhuman_pron	600
+That made him late in deciding to kick the field goal .	That made it late in deciding to kick the field goal .	human_nonhuman_pron	722
+A pep talk from mom cheered him up .	A pep talk from mom cheered it up .	human_nonhuman_pron	2006
+All of those things are the same to me .	All of those things are the same to it .	human_nonhuman_pron	4447
+Here , gang toughs assaulted him with a baseball bat .	Here , gang toughs assaulted it with a baseball bat .	human_nonhuman_pron	4389
+That means a lot to him .	That means a lot to it .	human_nonhuman_pron	3638
+Johan studied me for a second .	Johan studied it for a second .	human_nonhuman_pron	1038
+Anybody who replaces her has got to be better .	Anybody who replaces it has got to be better .	human_nonhuman_pron	2005
+The hardest thing for me was downshifting .	The hardest thing for it was downshifting .	human_nonhuman_pron	1455
+Peters 's peers know him now .	Peters 's peers know it now .	human_nonhuman_pron	1607
+Most of us are all sort of ready .	Most of it are all sort of ready .	human_nonhuman_pron	496
+Absolutely everything was " whack , " according to her .	Absolutely everything was " whack , " according to it .	human_nonhuman_pron	371
+Suddenly Ms. Adams 's natural volubility abandoned her .	Suddenly Ms. Adams 's natural volubility abandoned it .	human_nonhuman_pron	415
+Ryan Barnes tackled him for a big loss .	Ryan Barnes tackled it for a big loss .	human_nonhuman_pron	2824
+They hired him .	They hired it .	human_nonhuman_pron	4037
+The rest of the girls stared at me in disbelief .	The rest of the girls stared at it in disbelief .	human_nonhuman_pron	3873
+This caused us considerable distress and embarrassment for no good reason .	This caused it considerable distress and embarrassment for no good reason .	human_nonhuman_pron	4248
+They are bombing us .	They are bombing it .	human_nonhuman_pron	4303
+Tell us , please !	Tell it , please !	human_nonhuman_pron	1078
+The rest of us are trying to gain that experience .	The rest of it are trying to gain that experience .	human_nonhuman_pron	2742
+That was a natural way for us to go .	That was a natural way for it to go .	human_nonhuman_pron	3652
+This is disgusting to me .	This is disgusting to it .	human_nonhuman_pron	4459
+Tell me more .	Tell it more .	human_nonhuman_pron	3069
+Laura Bush , too , encouraged her .	Laura Bush , too , encouraged it .	human_nonhuman_pron	241
+In a nutshell , habeas corpus is what separates us from savages .	In a nutshell , habeas corpus is what separates it from savages .	human_nonhuman_pron	3803
+At McGill , Prof. Martin Puhvel was Beowulf 's accomplice in torturing me .	At McGill , Prof. Martin Puhvel was Beowulf 's accomplice in torturing it .	human_nonhuman_pron	76
+Which brings us back to Mr. Riechers .	Which brings it back to Mr. Riechers .	human_nonhuman_pron	3874
+Send us your experiences using the form below .	Send it your experiences using the form below .	human_nonhuman_pron	1081
+Much harder is pulling him out without leaving traces .	Much harder is pulling it out without leaving traces .	human_nonhuman_pron	2516
+Feed Me by Shaun Raviv .	Feed It by Shaun Raviv .	human_nonhuman_pron	3149
+You got to be kidding me .	You got to be kidding it .	human_nonhuman_pron	2105
+" The events in Louisiana have saddened me , " the president said .	" The events in Louisiana have saddened it , " the president said .	human_nonhuman_pron	1953
+The other men 's gazes shift up from the ground to study him .	The other men 's gazes shift up from the ground to study it .	human_nonhuman_pron	1604
+Obviously things are not going right for us right now .	Obviously things are not going right for it right now .	human_nonhuman_pron	4599
+But that is just me .	But that is just it .	human_nonhuman_pron	3400
+Nobody feels sorry for us anymore .	Nobody feels sorry for it anymore .	human_nonhuman_pron	3600
+Angie gives her a withering look .	Angie gives it a withering look .	human_nonhuman_pron	3680
+Wish us luck !	Wish it luck !	human_nonhuman_pron	4445
+A daughter also predeceased him .	A daughter also predeceased it .	human_nonhuman_pron	1971
+A flood of embarrassment knocked me sideways .	A flood of embarrassment knocked it sideways .	human_nonhuman_pron	492
+Wild horses could not drag me away .	Wild horses could not drag it away .	human_nonhuman_pron	1810
+They will not lie to me .	They will not lie to it .	human_nonhuman_pron	191
+No one volunteered to rush me to an emergency room .	No one volunteered to rush it to an emergency room .	human_nonhuman_pron	3189
+The judge reinstated Kanneh 's bond , but released him .	The judge reinstated Kanneh 's bond , but released it .	human_nonhuman_pron	4558
+Little things used to tick me off .	Little things used to tick it off .	human_nonhuman_pron	3474
+Leave us guys out !	Leave it guys out !	human_nonhuman_pron	1232
+Complications caused us to stumble occasionally .	Complications caused it to stumble occasionally .	human_nonhuman_pron	2832
+Lily Allen 's hair has gone all chip pan on us .	Lily Allen 's hair has gone all chip pan on it .	human_nonhuman_pron	1968
+Doherty 's drug use has frequently landed him in court .	Doherty 's drug use has frequently landed it in court .	human_nonhuman_pron	1579
+West 's travel often took him far from American Indian culture .	West 's travel often took it far from American Indian culture .	human_nonhuman_pron	1306
+The performance should earn him an Oscar nomination as well .	The performance should earn it an Oscar nomination as well .	human_nonhuman_pron	2369
+Feminists have criticized her for not being assertive enough .	Feminists have criticized it for not being assertive enough .	human_nonhuman_pron	1023
+They are going to welcome us .	They are going to welcome it .	human_nonhuman_pron	3878
+You cannot see her anymore .	You cannot see it anymore .	human_nonhuman_pron	1124
+For me this is a new situation .	For it this is a new situation .	human_nonhuman_pron	3283
+Syria and others have to leave us alone .	Syria and others have to leave it alone .	human_nonhuman_pron	4727
+& They thanked me .	& They thanked it .	human_nonhuman_pron	3730
+The officer said that Craig solicited him for sex .	The officer said that Craig solicited it for sex .	human_nonhuman_pron	3895
+But that is not because of the two of us .	But that is not because of the two of it .	human_nonhuman_pron	3183
+Romney also mocked her .	Romney also mocked it .	human_nonhuman_pron	2724
+But Lowell smiled when the scene was described to him .	But Lowell smiled when the scene was described to it .	human_nonhuman_pron	2200
+The young people of Willmar are very lucky to have her .	The young people of Willmar are very lucky to have it .	human_nonhuman_pron	1662
+Don 't get me wrong .	Don 't get it wrong .	human_nonhuman_pron	744
+But your answer really helped me a lot .	But your answer really helped it a lot .	human_nonhuman_pron	60
+The officers backed up and ordered him to stop , police said .	The officers backed up and ordered it to stop , police said .	human_nonhuman_pron	3796
+And do not even get us started on their randy sex lives .	And do not even get it started on their randy sex lives .	human_nonhuman_pron	3771
+The cab dropped us off at 146th Street and Adam Clayton Powell Jr .	The cab dropped it off at 146th Street and Adam Clayton Powell Jr .	human_nonhuman_pron	1626
+In New York , those are reasons to send him packing .	In New York , those are reasons to send it packing .	human_nonhuman_pron	403
+Don 't get us wrong .	Don 't get it wrong .	human_nonhuman_pron	4685
+You 've shown me that is not true .	You 've shown it that is not true .	human_nonhuman_pron	1185
+They then took him back to Puerto Cabezas .	They then took it back to Puerto Cabezas .	human_nonhuman_pron	1486
+To me , the impact of Sputnik was transforming .	To it , the impact of Sputnik was transforming .	human_nonhuman_pron	815
+They were there with us at home .	They were there with it at home .	human_nonhuman_pron	1806
+Which brings him back to that other shoe dropping .	Which brings it back to that other shoe dropping .	human_nonhuman_pron	2765
+Niemi was unsighted and the midfielder 's daisy-cutter deceived him .	Niemi was unsighted and the midfielder 's daisy-cutter deceived it .	human_nonhuman_pron	2529
+But her designs aren 't just for the big-breasted .	But it designs aren 't just for the big-breasted .	human_nonhuman_pron	426
+a mental problem if somebody asked me .	a mental problem if somebody asked it .	human_nonhuman_pron	4161
+They want us to making S.U.O. beanies , special unit officers .	They want it to making S.U.O. beanies , special unit officers .	human_nonhuman_pron	2186
+The image haunted him .	The image haunted it .	human_nonhuman_pron	1670
+Another young man joined us .	Another young man joined it .	human_nonhuman_pron	4794
+Emma was the glue that bound us .	Emma was the glue that bound it .	human_nonhuman_pron	3121
+And Virginia Tech 's support systems failed him -- repeatedly .	And Virginia Tech 's support systems failed it -- repeatedly .	human_nonhuman_pron	3013
+They have no intention of leaving us alone .	They have no intention of leaving it alone .	human_nonhuman_pron	4318
+Nobody liked him .	Nobody liked it .	human_nonhuman_pron	622
+No matter - Cresta seems well equipped to help me .	No matter - Cresta seems well equipped to help it .	human_nonhuman_pron	1414
+Most of us here struggled for years against this .	Most of it here struggled for years against this .	human_nonhuman_pron	4534
+That is really what drove us .	That is really what drove it .	human_nonhuman_pron	2649
+The friends helped him carry items out .	The friends helped it carry items out .	human_nonhuman_pron	376
+They coaxed her to come home .	They coaxed it to come home .	human_nonhuman_pron	2500
+The police attended and gave me a crime reference number .	The police attended and gave it a crime reference number .	human_nonhuman_pron	3811
+Then they asked her to meet prospective husbands .	Then they asked it to meet prospective husbands .	human_nonhuman_pron	4629
+For me , that was special .	For it , that was special .	human_nonhuman_pron	2081
+Three days later , Karzai fired him .	Three days later , Karzai fired it .	human_nonhuman_pron	3868
+G. G. blackmailed him .	G. G. blackmailed it .	human_nonhuman_pron	3471
+October always takes me by surprise .	October always takes it by surprise .	human_nonhuman_pron	1967
+Teach her Dutch by podcast .	Teach it Dutch by podcast .	human_nonhuman_pron	1278
+This is where the American people expect us to fight .	This is where the American people expect it to fight .	human_nonhuman_pron	3088
+Jacobs reassured him .	Jacobs reassured it .	human_nonhuman_pron	1825
+Fabulous 2008 can get under way fine without me .	Fabulous 2008 can get under way fine without it .	human_nonhuman_pron	2204
+That is what makes him the best coach in the business .	That is what makes it the best coach in the business .	human_nonhuman_pron	3359
+Now they are trying to kill me .	Now they are trying to kill it .	human_nonhuman_pron	162
+Finally a hospice accepted all three of us .	Finally a hospice accepted all three of it .	human_nonhuman_pron	4571
+Rescuers were not able to resuscitate her .	Rescuers were not able to resuscitate it .	human_nonhuman_pron	2331
+This is not an ego trip for me .	This is not an ego trip for it .	human_nonhuman_pron	1034
+Friends tried to cheer him up .	Friends tried to cheer it up .	human_nonhuman_pron	768
+There are 28 of us .	There are 28 of it .	human_nonhuman_pron	3129
+A chunk of wood hit him in the leg .	A chunk of wood hit it in the leg .	human_nonhuman_pron	1603
+If you do not believe me , here is the website .	If you do not believe it , here is the website .	human_nonhuman_pron	2272
+But the rest of us shouldn 't be penalized for that .	But the rest of it shouldn 't be penalized for that .	human_nonhuman_pron	1361
+The pace was not going to kill me .	The pace was not going to kill it .	human_nonhuman_pron	830
+US soldiers have helicopters , ours do not .	It soldiers have helicopters , ours do not .	human_nonhuman_pron	2489
+The government had denied him permission to visit since then .	The government had denied it permission to visit since then .	human_nonhuman_pron	1705
+They will find her .	They will find it .	human_nonhuman_pron	63
+And that was quite a guiding principle for me .	And that was quite a guiding principle for it .	human_nonhuman_pron	2944
+They would have killed us .	They would have killed it .	human_nonhuman_pron	274
+The government is still trying to find him .	The government is still trying to find it .	human_nonhuman_pron	2891
+Cooking makes me feel whole and in harmony .	Cooking makes it feel whole and in harmony .	human_nonhuman_pron	2864
+Whenever Mr. Davis appeared onstage , they eagerly applauded him .	Whenever Mr. Davis appeared onstage , they eagerly applauded it .	human_nonhuman_pron	3435
+BUSH : You can ask me another question .	BUSH : You can ask it another question .	human_nonhuman_pron	3377
+Others accuse him of pandering for attention .	Others accuse it of pandering for attention .	human_nonhuman_pron	1346
+Some wanted to hug him .	Some wanted to hug it .	human_nonhuman_pron	4240
+The BBC 's Peter Bowes has been to Seattle to meet him .	The BBC 's Peter Bowes has been to Seattle to meet it .	human_nonhuman_pron	4551
+Williams went back to Jacqueline Kellibrew and shot her .	Williams went back to Jacqueline Kellibrew and shot it .	human_nonhuman_pron	3424
+Everyone should be getting the same as me .	Everyone should be getting the same as it .	human_nonhuman_pron	388
+That made me cry even more .	That made it cry even more .	human_nonhuman_pron	3433
+But Edwards challenged her for that vote .	But Edwards challenged it for that vote .	human_nonhuman_pron	1785
+A guy just walked past me with a gun .	A guy just walked past it with a gun .	human_nonhuman_pron	356
+So Matt gives me a really hard time all the time .	So Matt gives it a really hard time all the time .	human_nonhuman_pron	4488
+They are dangerous opponents for us .	They are dangerous opponents for it .	human_nonhuman_pron	4725
+-- to brief him on the issue .	-- to brief it on the issue .	human_nonhuman_pron	3185
+The judge ordered her to pay $ 350 in fines .	The judge ordered it to pay $ 350 in fines .	human_nonhuman_pron	3592
+TYSON : Glenn , that is easy for us to say .	TYSON : Glenn , that is easy for it to say .	human_nonhuman_pron	363
+- who is determined to bring him down .	- who is determined to bring it down .	human_nonhuman_pron	3203
+In many cases the survivors have suffered more than any of us .	In many cases the survivors have suffered more than any of it .	human_nonhuman_pron	4557
+The half brother said the mother beat him and the girl .	The half brother said the mother beat it and the girl .	human_nonhuman_pron	1488
+Some in the profession accused him of trivialising the subject .	Some in the profession accused it of trivialising the subject .	human_nonhuman_pron	1257
+That is what a racist is to me .	That is what a racist is to it .	human_nonhuman_pron	3635
+Everyone is accusing me .	Everyone is accusing it .	human_nonhuman_pron	2459
+The SPD 's modernising ministers paid him little heed .	The SPD 's modernising ministers paid it little heed .	human_nonhuman_pron	4767
+And thank you for helping me to pursue a dream .	And thank you for helping it to pursue a dream .	human_nonhuman_pron	367
+Neither are the rest of us .	Neither are the rest of it .	human_nonhuman_pron	1137
+But what happened then remains alive for me .	But what happened then remains alive for it .	human_nonhuman_pron	1613
+The patient watched us file in .	The patient watched it file in .	human_nonhuman_pron	1167
+They were provoking me throughout the game .	They were provoking it throughout the game .	human_nonhuman_pron	4473
+There are a lot of teams that would trade places with us .	There are a lot of teams that would trade places with it .	human_nonhuman_pron	227
+Let 's give him a chance .	Let 's give it a chance .	human_nonhuman_pron	197
+Tell us how that came about .	Tell it how that came about .	human_nonhuman_pron	2009
+Seem to be arguing about what to do with us .	Seem to be arguing about what to do with it .	human_nonhuman_pron	2705
+The bus struck and killed her .	The bus struck and killed it .	human_nonhuman_pron	1377
+For us , those two things have been tarnished .	For it , those two things have been tarnished .	human_nonhuman_pron	4281
+Everywhere , they shamed and mocked us .	Everywhere , they shamed and mocked it .	human_nonhuman_pron	3200
+They want to see him around , making a difference .	They want to see it around , making a difference .	human_nonhuman_pron	2445
+The Senate narrowly confirmed him late Thursday , 53-40 .	The Senate narrowly confirmed it late Thursday , 53-40 .	human_nonhuman_pron	1769
+Everything 's coming so much easier to me .	Everything 's coming so much easier to it .	human_nonhuman_pron	4068
+The teacher paced back and forth , trying to avoid him .	The teacher paced back and forth , trying to avoid it .	human_nonhuman_pron	3265
+Malasics said the experience will not deter him from going camping .	Malasics said the experience will not deter it from going camping .	human_nonhuman_pron	629
+Philippines President Gloria Arroyo was to see him on Tuesday .	Philippines President Gloria Arroyo was to see it on Tuesday .	human_nonhuman_pron	3403
+For me , New York is the greatest eating city of them all .	For it , New York is the greatest eating city of them all .	human_nonhuman_pron	281
+For me too many novels die about half-way through .	For it too many novels die about half-way through .	human_nonhuman_pron	1492
+That is the the imbalance that has him worried .	That is the the imbalance that has it worried .	human_nonhuman_pron	4521
+None of us were comfortable with that .	None of it were comfortable with that .	human_nonhuman_pron	3787
+that is just fun for me .	that is just fun for it .	human_nonhuman_pron	1194
+Show me .	Show it .	human_nonhuman_pron	1537
+Us as neighbours seem to care but no authorities , nobody ever listens .	It as neighbours seem to care but no authorities , nobody ever listens .	human_nonhuman_pron	2802
+You do not allow her to have friends .	You do not allow it to have friends .	human_nonhuman_pron	2784
+That was incredibly intimidating for me .	That was incredibly intimidating for it .	human_nonhuman_pron	816
+The court also ordered him to pay £ 2,000 costs .	The court also ordered it to pay £ 2,000 costs .	human_nonhuman_pron	2893
+Mr. Battsek 's demeanor has helped him cross the ocean without much turbulence .	Mr. Battsek 's demeanor has helped it cross the ocean without much turbulence .	human_nonhuman_pron	3570
+This brings me back to celebrity chefs .	This brings it back to celebrity chefs .	human_nonhuman_pron	3270
+Which brings us back to Mr. Obama .	Which brings it back to Mr. Obama .	human_nonhuman_pron	3790
+Put me down for 100 years !	Put it down for 100 years !	human_nonhuman_pron	338
+So Crowe decided to educate me .	So Crowe decided to educate it .	human_nonhuman_pron	3587
+The gun used to kill him has not been found .	The gun used to kill it has not been found .	human_nonhuman_pron	633
+The news scares me .	The news scares it .	human_nonhuman_pron	67
+Then tell us about your favorite non-alcoholic beverage .	Then tell it about your favorite non-alcoholic beverage .	human_nonhuman_pron	34
+The people who are in charge of me are happy .	The people who are in charge of it are happy .	human_nonhuman_pron	937
+Watching him brings to mind a duck wielding a light saber .	Watching it brings to mind a duck wielding a light saber .	human_nonhuman_pron	1901
+Tell us your experiences now .	Tell it your experiences now .	human_nonhuman_pron	2550
+Thank you all for letting me come by .	Thank you all for letting it come by .	human_nonhuman_pron	874
+That makes him one of the few .	That makes it one of the few .	human_nonhuman_pron	4556
+" " Things worked beautifully for us .	" " Things worked beautifully for it .	human_nonhuman_pron	2657
+They 've become a part of me .	They 've become a part of it .	human_nonhuman_pron	814
+Thank her for looking out for you .	Thank it for looking out for you .	human_nonhuman_pron	3683
+You could also try asking him .	You could also try asking it .	human_nonhuman_pron	2189
+Only one other car accompanied him .	Only one other car accompanied it .	human_nonhuman_pron	4523
+Please note that these arguments are not necessarily shared by me .	Please note that these arguments are not necessarily shared by it .	human_nonhuman_pron	4121
+They all call him Grandpa .	They all call it Grandpa .	human_nonhuman_pron	1380
+Makes sense to me .	Makes sense to it .	human_nonhuman_pron	2443
+Marry Me is out now on Beggars Banquet .	Marry It is out now on Beggars Banquet .	human_nonhuman_pron	3633
+That is what makes him so great .	That is what makes it so great .	human_nonhuman_pron	716
+They are arresting me .	They are arresting it .	human_nonhuman_pron	1495
+This has got nothing to do with ( me ) .	This has got nothing to do with ( it ) .	human_nonhuman_pron	4384
+OK , that kinda creeped me out .	OK , that kinda creeped it out .	human_nonhuman_pron	2996
+Look right at me !	Look right at it !	human_nonhuman_pron	2206
+Many expected him to fail utterly .	Many expected it to fail utterly .	human_nonhuman_pron	275
+They invite me to stay for supper too .	They invite it to stay for supper too .	human_nonhuman_pron	4088
+You will find me in the bathroom .	You will find it in the bathroom .	human_nonhuman_pron	593
+Such wrongs should have earned him six points .	Such wrongs should have earned it six points .	human_nonhuman_pron	2540
+Other theories include her drink being spiked .	Other theories include it drink being spiked .	human_nonhuman_pron	1784
+Please use the form below to contact us .	Please use the form below to contact it .	human_nonhuman_pron	1213
+Adults just call him a good man .	Adults just call it a good man .	human_nonhuman_pron	645
+This is surreal for me .	This is surreal for it .	human_nonhuman_pron	41
+Denzel Washington told a story that stuck with me .	Denzel Washington told a story that stuck with it .	human_nonhuman_pron	808
+Tony asks her .	Tony asks it .	human_nonhuman_pron	1107
+Write him .	Write it .	human_nonhuman_pron	3879
+Every single thing about me was old and unsexy .	Every single thing about it was old and unsexy .	human_nonhuman_pron	1979
+The King is one of us .	The King is one of it .	human_nonhuman_pron	4525
+You are everything to me .	You are everything to it .	human_nonhuman_pron	2640
+This is the man who nearly killed me .	This is the man who nearly killed it .	human_nonhuman_pron	2766
+In the end they just stopped asking me .	In the end they just stopped asking it .	human_nonhuman_pron	1007
+" " This is very difficult for me .	" " This is very difficult for it .	human_nonhuman_pron	1193
+For me , junk food and elections are intrinsically linked .	For it , junk food and elections are intrinsically linked .	human_nonhuman_pron	1127
+Follow me .	Follow it .	human_nonhuman_pron	1106
+" This is not an ' us versus them .	" This is not an ' it versus them .	human_nonhuman_pron	4258
+Mr. Giuliani had recommended him for the job .	Mr. Giuliani had recommended it for the job .	human_nonhuman_pron	4586
+Jackson 's attorney , Sara E. Kopecki , tried to calm him down .	Jackson 's attorney , Sara E. Kopecki , tried to calm it down .	human_nonhuman_pron	1729
+The cops tasered him .	The cops tasered it .	human_nonhuman_pron	950
+You just learn from watching him .	You just learn from watching it .	human_nonhuman_pron	665
+Thank you very much , President Ahmadinejad , for joining us here today .	Thank you very much , President Ahmadinejad , for joining it here today .	human_nonhuman_pron	2121
+Send us your thoughts and comments on Tim Franks ' latest diary .	Send it your thoughts and comments on Tim Franks ' latest diary .	human_nonhuman_pron	4660
+That will be the best scenario for me .	That will be the best scenario for it .	human_nonhuman_pron	2422
+To me that is wrong .	To it that is wrong .	human_nonhuman_pron	1111
+Detective Rodriguez is now assigned to track him down .	Detective Rodriguez is now assigned to track it down .	human_nonhuman_pron	1029
+Maybe the fire would miss us .	Maybe the fire would miss it .	human_nonhuman_pron	2362
+The guys had to carry me out every night .	The guys had to carry it out every night .	human_nonhuman_pron	2013
+" That is sad for me , " Michaels said .	" That is sad for it , " Michaels said .	human_nonhuman_pron	1385
+Send us your comments and predictions using the form below .	Send it your comments and predictions using the form below .	human_nonhuman_pron	3755
+You should teach him .	You should teach it .	human_nonhuman_pron	3234
+Hear me !	Hear it !	human_nonhuman_pron	1016
+" They called me crazy , " says Chambers .	" They called it crazy , " says Chambers .	human_nonhuman_pron	1100
+They should give them to me for this .	They should give them to it for this .	human_nonhuman_pron	1566
+Alicia proved me wrong .	Alicia proved it wrong .	human_nonhuman_pron	4832
+But one thing has continued to fascinate him about golf .	But one thing has continued to fascinate it about golf .	human_nonhuman_pron	1065
+Forget about loving him .	Forget about loving it .	human_nonhuman_pron	713
+A safari in Africa has zero appeal to me .	A safari in Africa has zero appeal to it .	human_nonhuman_pron	276
+The next day , the investigators returned to question him further .	The next day , the investigators returned to question it further .	human_nonhuman_pron	3236
+Don 't put me on hold .	Don 't put it on hold .	human_nonhuman_pron	2151
+An Apache gunship was behind us .	An Apache gunship was behind it .	human_nonhuman_pron	242
+" Look at me , " Jacobs said last month .	" Look at it , " Jacobs said last month .	human_nonhuman_pron	2836
+After a heated struggle , the detectives managed to handcuff him .	After a heated struggle , the detectives managed to handcuff it .	human_nonhuman_pron	3519
+KRS-One gave him an approving nod .	KRS-One gave it an approving nod .	human_nonhuman_pron	3551
+Color me confused .	Color it confused .	human_nonhuman_pron	4080
+When they were finished , Ms. Wabulasa said , they shot him anyway .	When they were finished , Ms. Wabulasa said , they shot it anyway .	human_nonhuman_pron	3286
+You do not call me for a dialogue .	You do not call it for a dialogue .	human_nonhuman_pron	51
+Tell me exactly where you are .	Tell it exactly where you are .	human_nonhuman_pron	1717
+The council have not met us at all .	The council have not met it at all .	human_nonhuman_pron	3933
+That hurts me .	That hurts it .	human_nonhuman_pron	448
+The price of gas will make us wince .	The price of gas will make it wince .	human_nonhuman_pron	4018
+That would work on an individual basis for me , too .	That would work on an individual basis for it , too .	human_nonhuman_pron	202
+The woman-child glanced at me then .	The woman-child glanced at it then .	human_nonhuman_pron	3891
+Being here allows me to listen .	Being here allows it to listen .	human_nonhuman_pron	1457
+In August 2005 , Lynn Sherr called me .	In August 2005 , Lynn Sherr called it .	human_nonhuman_pron	3288
+They would call us names .	They would call it names .	human_nonhuman_pron	3366
+Some of the movies truly took us back to the 1960s .	Some of the movies truly took it back to the 1960s .	human_nonhuman_pron	4622
+Everyone else let go but me .	Everyone else let go but it .	human_nonhuman_pron	961
+But they have kept us safe these last six years .	But they have kept it safe these last six years .	human_nonhuman_pron	3524
+Love me .	Love it .	human_nonhuman_pron	2243
+The concept of kin eluded me .	The concept of kin eluded it .	human_nonhuman_pron	3656
+You could hardly blame him for being nervous .	You could hardly blame it for being nervous .	human_nonhuman_pron	3434
+There were constant reminders all around us .	There were constant reminders all around it .	human_nonhuman_pron	3262
+There are enough clever people in power without me .	There are enough clever people in power without it .	human_nonhuman_pron	636
+Okay , give us a little credit .	Okay , give it a little credit .	human_nonhuman_pron	1154
+The polls have been quite volatile for us .	The polls have been quite volatile for it .	human_nonhuman_pron	3422
+But Redford directed him .	But Redford directed it .	human_nonhuman_pron	1908
+They told him so much .	They told it so much .	human_nonhuman_pron	278
+But research tells us otherwise .	But research tells it otherwise .	human_nonhuman_pron	3597
+A soccer team stopped on a practice pitch to watch him pass .	A soccer team stopped on a practice pitch to watch it pass .	human_nonhuman_pron	1198
+The generals did not dare kill her .	The generals did not dare kill it .	human_nonhuman_pron	68
+Nevertheless , campaign officials continued to court him .	Nevertheless , campaign officials continued to court it .	human_nonhuman_pron	4442
+That makes me wonder what has happened to this country .	That makes it wonder what has happened to this country .	human_nonhuman_pron	2900
+Smoke and heat drove him back outside .	Smoke and heat drove it back outside .	human_nonhuman_pron	4187
+Muldrow did not react when County Judge John Conrad sentenced her .	Muldrow did not react when County Judge John Conrad sentenced it .	human_nonhuman_pron	2475
+The hunt continues to find him .	The hunt continues to find it .	human_nonhuman_pron	2285
+Don 't misunderstand me .	Don 't misunderstand it .	human_nonhuman_pron	4831
+Allow him to describe .	Allow it to describe .	human_nonhuman_pron	4603
+Nicolas Sarkozy 's showboating has made him very popular at home .	Nicolas Sarkozy 's showboating has made it very popular at home .	human_nonhuman_pron	3166
+And that suggests these voters feel some connection to him .	And that suggests these voters feel some connection to it .	human_nonhuman_pron	2416
+The other children played on that and tormented him at school .	The other children played on that and tormented it at school .	human_nonhuman_pron	1683
+Yes , you heard me -- 2 trillion !	Yes , you heard it -- 2 trillion !	human_nonhuman_pron	846
+Tell us now .	Tell it now .	human_nonhuman_pron	1600
+Peterson committed suicide as authorities pursued him .	Peterson committed suicide as authorities pursued it .	human_nonhuman_pron	70
+Yes ( count me among them ) .	Yes ( count it among them ) .	human_nonhuman_pron	170
+" This is not Armageddon to us , " Randolph said .	" This is not Armageddon to it , " Randolph said .	human_nonhuman_pron	4238
+They want to ... teach us all a lesson .	They want to ... teach it all a lesson .	human_nonhuman_pron	1413
+There was no intention to cause any harm to her .	There was no intention to cause any harm to it .	human_nonhuman_pron	439
+Cambodia and Vietnam might also want to question him .	Cambodia and Vietnam might also want to question it .	human_nonhuman_pron	3355
+This defendant mutilated her .	This defendant mutilated it .	human_nonhuman_pron	3953
+Call him a freak , a genius , an alleged pedophile .	Call it a freak , a genius , an alleged pedophile .	human_nonhuman_pron	3590

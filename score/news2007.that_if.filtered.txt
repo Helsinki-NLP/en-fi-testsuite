@@ -1,0 +1,556 @@
+Sarkozy says that civil servants who retire will not be replaced .	Sarkozy asks if civil servants who retire will not be replaced .	that_if	1
+Gravel says that he absolutely must focus now on his briefing papers .	Gravel asks if he absolutely must focus now on his briefing papers .	that_if	3
+, said that he was running next to Shay when he stopped .	, asked if he was running next to Shay when he stopped .	that_if	4
+Other analysts said that figure seemed reasonable .	Other analysts asked if figure seemed reasonable .	that_if	6
+I say that baseball is lucky the games are too late for kids .	I ask if baseball is lucky the games are too late for kids .	that_if	8
+Williams said that selflessness has allowed the line to grow closer .	Williams asked if selflessness has allowed the line to grow closer .	that_if	12
+The textbooks say that diversity is important , she says .	The textbooks ask if diversity is important , she says .	that_if	13
+But Turkish officials say that recent diplomatic efforts have failed .	But Turkish officials ask if recent diplomatic efforts have failed .	that_if	14
+The officer said that I was O.K. I said yes .	The officer asked if I was O.K. I said yes .	that_if	15
+But many others said that Mrs. Clinton 's words had inspired them .	But many others asked if Mrs. Clinton 's words had inspired them .	that_if	16
+Local residents say that Sir Paul is not mobbed during his visits .	Local residents ask if Sir Paul is not mobbed during his visits .	that_if	18
+Deputy First Minister Martin McGuinness said that it would be an incredible event .	Deputy First Minister Martin McGuinness asked if it would be an incredible event .	that_if	22
+She said that any hearing would be political and anti-Semitic .	She asked if any hearing would be political and anti-Semitic .	that_if	24
+The parents said that they were bitterly disappointed with the sentence .	The parents asked if they were bitterly disappointed with the sentence .	that_if	25
+Turkey , however , has said that no strikes are imminent .	Turkey , however , has asked if no strikes are imminent .	that_if	26
+The family said that the failures contributed to his death .	The family asked if the failures contributed to his death .	that_if	27
+Mr. Kenig said that stores are where he does research .	Mr. Kenig asked if stores are where he does research .	that_if	29
+She said that her group had used rocks to make some traps inoperable .	She asked if her group had used rocks to make some traps inoperable .	that_if	34
+She is even said that these lobbyists represent real Americans .	She is even asked if these lobbyists represent real Americans .	that_if	35
+People close to Craig said that means until the judge rules .	People close to Craig asked if means until the judge rules .	that_if	38
+Investigators say that there could be more victims .	Investigators ask if there could be more victims .	that_if	39
+He said that youth and nervousness had contributed to Hamilton 's difficulties .	He asked if youth and nervousness had contributed to Hamilton 's difficulties .	that_if	40
+Mitt Romney says that experience is why he detests " gotcha " journalism .	Mitt Romney asks if experience is why he detests " gotcha " journalism .	that_if	42
+Those against the damages changes say that they encourage infringement .	Those against the damages changes ask if they encourage infringement .	that_if	44
+She says that she saw two wounds that were bleeding profusely .	She asks if she saw two wounds that were bleeding profusely .	that_if	45
+" I would say that we are still learning , " he said .	" I would ask if we are still learning , " he said .	that_if	46
+He recently said that voters like characters in politics .	He recently asked if voters like characters in politics .	that_if	47
+But sources say that potential buyers have already been identified .	But sources ask if potential buyers have already been identified .	that_if	48
+And let me also say that there are some myths about SCHIP .	And let me also ask if there are some myths about SCHIP .	that_if	50
+But the Tories and Liberal Democrats said that his position was untenable .	But the Tories and Liberal Democrats asked if his position was untenable .	that_if	51
+Security experts say that RBN provides " bulletproof " Web sites to criminals .	Security experts ask if RBN provides " bulletproof " Web sites to criminals .	that_if	53
+But he says that he was never much of a lefty .	But he asks if he was never much of a lefty .	that_if	54
+But family and friends say that what happened was out of character .	But family and friends ask if what happened was out of character .	that_if	56
+Mr. Glickman said that both men lived modestly .	Mr. Glickman asked if both men lived modestly .	that_if	57
+She said that he was certified .	She asked whether he was certified .	that_if	58
+A motorist stopped around 7 p.m. and said that they were stranded .	A motorist stopped around 7 p.m. and asked if they were stranded .	that_if	59
+We say that a lot .	We ask if a lot .	that_if	60
+He said that both could be released as early as Wednesday .	He asked if both could be released as early as Wednesday .	that_if	61
+Prosecutors say that she helped dispose of Davis 's body .	Prosecutors ask if she helped dispose of Davis 's body .	that_if	62
+A pathologist says that the exhumed body shows signs of murder .	A pathologist asks if the exhumed body shows signs of murder .	that_if	66
+Mr. Walker said that the arrangement would not increase Magna 's operating costs .	Mr. Walker asked if the arrangement would not increase Magna 's operating costs .	that_if	68
+Some observers have said that Jiang still held sway over crucial choices .	Some observers have asked if Jiang still held sway over crucial choices .	that_if	69
+He said that he had resigned for unspecified health reasons .	He asked if he had resigned for unspecified health reasons .	that_if	71
+The company 's critics said that the bankruptcy filing was expected .	The company 's critics asked if the bankruptcy filing was expected .	that_if	74
+They said that decision had been left to the courts .	They asked if decision had been left to the courts .	that_if	75
+Some said that there was not enough equipment made available early enough .	Some asked if there was not enough equipment made available early enough .	that_if	76
+State TV said that the clash involved Juventus fans .	State TV asked if the clash involved Juventus fans .	that_if	77
+I always say that our lives should be our blessings , our prayers .	I always ask if our lives should be our blessings , our prayers .	that_if	78
+Everyone says that something must be done , but what ?	Everyone asks if something must be done , but what ?	that_if	80
+I will say that Juan has a multiyear deal with us .	I will ask if Juan has a multiyear deal with us .	that_if	81
+On Monday , he said that he had resigned for unspecified health reasons .	On Monday , he asked if he had resigned for unspecified health reasons .	that_if	82
+Wood said that a threat to the integrity of tennis existed .	Wood asked if a threat to the integrity of tennis existed .	that_if	84
+He said that no documents had been exchanged .	He asked if no documents had been exchanged .	that_if	86
+You can say that again , Michael .	You can ask if again , Michael .	that_if	87
+Many legal experts say that trend is likely to continue .	Many legal experts ask if trend is likely to continue .	that_if	89
+You can say that again , Mrs. President-Elect .	You can ask if again , Mrs. President-Elect .	that_if	90
+Some farmers might say that they are being shafted .	Some farmers might ask if they are being shafted .	that_if	91
+Diplomats and dissidents say that the death toll is much higher .	Diplomats and dissidents ask if the death toll is much higher .	that_if	94
+Neighbors said that Ms. Bryant had two children and five grandchildren .	Neighbors asked if Ms. Bryant had two children and five grandchildren .	that_if	95
+Interpol said that more than 350 people supplied tips to authorities worldwide .	Interpol asked if more than 350 people supplied tips to authorities worldwide .	that_if	97
+They said that 46,000 online applications had been processed since 1 September .	They asked if 46,000 online applications had been processed since 1 September .	that_if	99
+We have said that we do not need the merger to go forward .	We have asked if we do not need the merger to go forward .	that_if	100
+The agent says that the others have mostly sold to retirees .	The agent asks if the others have mostly sold to retirees .	that_if	102
+You could say that also sums up Iraq since 2003 .	You could ask if also sums up Iraq since 2003 .	that_if	103
+And they say that handbags are an easier option than buying clothes .	And they ask if handbags are an easier option than buying clothes .	that_if	105
+Authorities said that the crater was made Saturday by a falling meteorite .	Authorities asked if the crater was made Saturday by a falling meteorite .	that_if	106
+The newcomers say that the giants are no longer innovative .	The newcomers ask if the giants are no longer innovative .	that_if	108
+Mr Sloan said that Dixon had used four knives in total .	Mr Sloan asked if Dixon had used four knives in total .	that_if	109
+Menino said that decision was made by the team .	Menino asked if decision was made by the team .	that_if	112
+I always say that you have to build a springboard .	I always ask if you have to build a springboard .	that_if	115
+No federal law says that employers must let moms pump at work .	No federal law asks if employers must let moms pump at work .	that_if	116
+It said that Russell Reynolds Associates is searching for a replacement .	It asked if Russell Reynolds Associates is searching for a replacement .	that_if	117
+As we pass my hotel Mom says that I am staying there .	As we pass my hotel Mom asks if I am staying there .	that_if	118
+You might say that May has become a Rorschach of German identity .	You might ask if May has become a Rorschach of German identity .	that_if	119
+She said that she was honored to get the endorsement .	She asked if she was honored to get the endorsement .	that_if	120
+She said that it would not happen in California .	She asked if it would not happen in California .	that_if	122
+She said that she would not meet General Musharraf .	She asked if she would not meet General Musharraf .	that_if	123
+She said that many herbal medicines have quietly been outlawed as well .	She asked if many herbal medicines have quietly been outlawed as well .	that_if	124
+He said that identical material posted to his Sina blog was not blocked .	He asked if identical material posted to his Sina blog was not blocked .	that_if	125
+Cheh said that Alexander and Bowser need to do more research .	Cheh asked if Alexander and Bowser need to do more research .	that_if	126
+Columbia officials say that figure includes legal fees .	Columbia officials ask if figure includes legal fees .	that_if	127
+Some witnesses say that Fatah partly provoked the violence .	Some witnesses ask if Fatah partly provoked the violence .	that_if	128
+Roe said that this was a typical seasonal shift .	Roe asked if this was a typical seasonal shift .	that_if	129
+She said that helps make sure parents are prepared .	She asked if helps make sure parents are prepared .	that_if	130
+They both said that it was love at first sight .	They both asked if it was love at first sight .	that_if	136
+She said that the spirits still visit sometimes when she dances .	She asked if the spirits still visit sometimes when she dances .	that_if	139
+He said that the election was still winnable .	He asked if the election was still winnable .	that_if	140
+The ad says that BioStem will be acquired by Cryobanks International Inc .	The ad asks if BioStem will be acquired by Cryobanks International Inc .	that_if	141
+He said that he would do so on a later date .	He asked if he would do so on a later date .	that_if	142
+Finance minister P Chidambaram said that foreign investment was still welcome .	Finance minister P Chidambaram asked if foreign investment was still welcome .	that_if	145
+Simpson has said that he was only reclaiming possessions that had been stolen .	Simpson has asked if he was only reclaiming possessions that had been stolen .	that_if	146
+He said that his party would not accept an " unlawful " outcome .	He asked if his party would not accept an " unlawful " outcome .	that_if	147
+Military officials say that lightly armed Afghan police officers need strengthening .	Military officials ask if lightly armed Afghan police officers need strengthening .	that_if	148
+Police said that the cause of the fire was not known .	Police asked if the cause of the fire was not known .	that_if	149
+And I have said that many times .	And I have asked if many times .	that_if	151
+This week state officials said that one man had died .	This week state officials asked if one man had died .	that_if	153
+Aguisn said that there is no indication of foul play .	Aguisn asked if there is no indication of foul play .	that_if	154
+It says that men also experience grief when the last child departs .	It asks if men also experience grief when the last child departs .	that_if	158
+Common sense says that you do .	Common sense asks if you do .	that_if	160
+A police spokeswoman said that investigations into the attack were continuing .	A police spokeswoman asked if investigations into the attack were continuing .	that_if	162
+I said that he still considers himself a Republican .	I asked whether he still considers himself a Republican .	that_if	163
+Rothwell said that minor strokes should now be classified as medical emergencies .	Rothwell asked if minor strokes should now be classified as medical emergencies .	that_if	166
+He also says that he is misunderstood .	He also asks if he is misunderstood .	that_if	167
+Reid and other Democrats said that proposal does not go far enough .	Reid and other Democrats asked if proposal does not go far enough .	that_if	169
+Green says that he has had only two concussions .	Green asks if he has had only two concussions .	that_if	170
+You say that it is obvious that Henry V never said these words .	You ask if it is obvious that Henry V never said these words .	that_if	171
+Mr. Godinez said that he did .	Mr. Godinez asked if he did .	that_if	172
+Security experts say that RBN provides " bulletproof " websites to criminals .	Security experts ask if RBN provides " bulletproof " websites to criminals .	that_if	173
+Wang said that he believed sanctions would not be helpful .	Wang asked if he believed sanctions would not be helpful .	that_if	174
+Analysts said that his pre-budget was largely in line with market expectations .	Analysts asked if his pre-budget was largely in line with market expectations .	that_if	175
+Mr McBride said that they were affectionate and loving parents .	Mr McBride asked if they were affectionate and loving parents .	that_if	176
+Craig has since said that his guilty plea was a mistake .	Craig has since asked if his guilty plea was a mistake .	that_if	177
+Mr Goose said that the DNA match was an exact one .	Mr Goose asked if the DNA match was an exact one .	that_if	178
+Officials said that such an increase was merely a hypothetical .	Officials asked if such an increase was merely a hypothetical .	that_if	180
+He said that he would collect witness statements to corroborate the charge .	He asked if he would collect witness statements to corroborate the charge .	that_if	182
+She is already said that they can sleep in her room .	She is already asked if they can sleep in her room .	that_if	185
+Fenty has said that he plans to appeal to the Supreme Court .	Fenty has asked if he plans to appeal to the Supreme Court .	that_if	187
+He said that about 2,000 people were still in detention .	He asked if about 2,000 people were still in detention .	that_if	188
+The firm said that Mastercard remained the sole defendant in the lawsuit .	The firm asked if Mastercard remained the sole defendant in the lawsuit .	that_if	189
+But she says that the breathy baby-doll ?	But she asks if the breathy baby-doll ?	that_if	191
+They both said that mail-forwarding arrangements should be made early .	They both asked if mail-forwarding arrangements should be made early .	that_if	192
+But he said that there was still plenty of room to improve .	But he asked if there was still plenty of room to improve .	that_if	195
+Growers say that seal sends a powerful message to consumers .	Growers ask if seal sends a powerful message to consumers .	that_if	196
+He also said that he had not been affected by the altitude .	He also asked if he had not been affected by the altitude .	that_if	197
+Then he said that Joe had to autograph something for him .	Then he asked if Joe had to autograph something for him .	that_if	199
+Petraeus said that al-Qaida 's fear of the councils was obvious .	Petraeus asked if al-Qaida 's fear of the councils was obvious .	that_if	200
+Who says that only winners win ?	Who asks if only winners win ?	that_if	201
+The National Weather Service said that winds will weaken Wednesday .	The National Weather Service asked if winds will weaken Wednesday .	that_if	202
+She said that her building sold 80 percent of its apartments .	She asked if her building sold 80 percent of its apartments .	that_if	203
+Defense attorneys also said that Nelthrope received a disability pension .	Defense attorneys also asked if Nelthrope received a disability pension .	that_if	204
+Police say that the cardboard figures have helped cut crime in other areas .	Police ask if the cardboard figures have helped cut crime in other areas .	that_if	205
+One reporter said that he would prefer there be no replay .	One reporter asked if he would prefer there be no replay .	that_if	206
+It said that Middle America deserved a car to smile about .	It asked if Middle America deserved a car to smile about .	that_if	208
+But he says that this baby was not cheap to grow .	But he asks if this baby was not cheap to grow .	that_if	210
+Lyons said that officials have recovered the stolen weapons .	Lyons asked if officials have recovered the stolen weapons .	that_if	211
+McCain said that perhaps they were all up past Thompson 's bedtime .	McCain asked if perhaps they were all up past Thompson 's bedtime .	that_if	212
+It is sometimes said that Jews were chosen to suffer .	It is sometimes asked if Jews were chosen to suffer .	that_if	216
+Eight said that human factors were principally driving the rise .	Eight asked if human factors were principally driving the rise .	that_if	217
+The People Power Party said that it would pardon them all .	The People Power Party asked if it would pardon them all .	that_if	218
+American officials have said that no Americans were hurt .	American officials have asked if no Americans were hurt .	that_if	221
+Another 31 per cent said that it makes no difference .	Another 31 per cent asked if it makes no difference .	that_if	222
+Today , Wangchuck says that glacier is all but gone .	Today , Wangchuck asks if glacier is all but gone .	that_if	223
+Botstein says that his fund-raising requires more than stroking graduates .	Botstein asks if his fund-raising requires more than stroking graduates .	that_if	224
+A Merrill Lynch spokesman said that the lawsuit had no merit .	A Merrill Lynch spokesman asked if the lawsuit had no merit .	that_if	226
+They say that people want change .	They ask if people want change .	that_if	227
+Ms Earley said that even this might be insufficient .	Ms Earley asked if even this might be insufficient .	that_if	228
+No one has said that he is .	No one has asked if he is .	that_if	229
+A senior police official said that they were detained for questioning .	A senior police official asked if they were detained for questioning .	that_if	230
+He also said that the fighters there are not affiliated with al-Qaeda .	He also asked if the fighters there are not affiliated with al-Qaeda .	that_if	231
+" " People always say that we should keep going .	" " People always ask if we should keep going .	that_if	233
+Hamas says that the meetings are pointless and that Israel is insincere .	Hamas asks if the meetings are pointless and that Israel is insincere .	that_if	234
+Police said that some of the group had been wearing tracksuits .	Police asked if some of the group had been wearing tracksuits .	that_if	235
+My 17-year old said that we would figure it out .	My 17-year old asked if we would figure it out .	that_if	238
+She also said that she dreamed of having children .	She also asked if she dreamed of having children .	that_if	239
+No one said that he was dropping out this week .	No one asked if he was dropping out this week .	that_if	242
+But they say that Mr. Hu has sought to retain Mr. Zeng .	But they ask if Mr. Hu has sought to retain Mr. Zeng .	that_if	244
+But he also said that the enclosure had passed safety inspections .	But he also asked if the enclosure had passed safety inspections .	that_if	246
+But then he said that they would be prosecuted .	But then he asked if they would be prosecuted .	that_if	247
+We have said that all along .	We have asked if all along .	that_if	249
+Fire officials said that they did not consider the leak suspicious .	Fire officials asked if they did not consider the leak suspicious .	that_if	250
+Iraqis say that civilians were killed .	Iraqis ask if civilians were killed .	that_if	251
+Law enforcement agencies say that the websites are hard to close .	Law enforcement agencies ask if the websites are hard to close .	that_if	252
+Public health officials say that the problem is genetic and cultural .	Public health officials ask if the problem is genetic and cultural .	that_if	253
+Government officials have said that approach would be misguided .	Government officials have asked if approach would be misguided .	that_if	255
+Song has said that more consultation was required on the alleged program .	Song has asked if more consultation was required on the alleged program .	that_if	256
+But Afghan officials said that the Karzai administration is now re-evaluating that stance .	But Afghan officials asked if the Karzai administration is now re-evaluating that stance .	that_if	257
+He said that he discovered the sett , near Newton , while bird-watching .	He asked if he discovered the sett , near Newton , while bird-watching .	that_if	258
+She said that I would share one of my stories with her .	She asked if I would share one of my stories with her .	that_if	260
+One might say that times have changed .	One might ask if times have changed .	that_if	262
+His widow says that those who ordered the killing must also face justice .	His widow asks if those who ordered the killing must also face justice .	that_if	263
+Mr. Boyd said that delays and disruptions were inevitable .	Mr. Boyd asked if delays and disruptions were inevitable .	that_if	264
+He says that he makes " no apologies " for his lobbying clients .	He asks if he makes " no apologies " for his lobbying clients .	that_if	265
+Williams said that he was overwhelmed by his responsibilities on defense .	Williams asked if he was overwhelmed by his responsibilities on defense .	that_if	266
+She also said that her client is not charged with murder .	She also asked if her client is not charged with murder .	that_if	267
+You say that you were right , but your tone was wrong .	You ask if you were right , but your tone was wrong .	that_if	268
+The lawmakers said that Rep. Tom Lantos , D-Calif .	The lawmakers asked if Rep. Tom Lantos , D-Calif .	that_if	270
+The gallery said that security has been tightened .	The gallery asked if security has been tightened .	that_if	271
+Now it is been said that you can never go home again .	Now it is been asked if you can never go home again .	that_if	273
+Mr Setiawan said that he had lost the letter .	Mr Setiawan asked if he had lost the letter .	that_if	275
+But Carroll said that issue would not play nationally .	But Carroll asked if issue would not play nationally .	that_if	276
+One might say that it was a wrong step in the right direction .	One might ask if it was a wrong step in the right direction .	that_if	277
+Police say that they were dropped off by a boat .	Police ask if they were dropped off by a boat .	that_if	278
+China said that the group may reconvene in 48 hours .	China asked if the group may reconvene in 48 hours .	that_if	279
+I always said that decisions of this kind would be for me .	I always asked if decisions of this kind would be for me .	that_if	280
+Iannucci said that he was intending to make another series .	Iannucci asked if he was intending to make another series .	that_if	282
+A trooper said that he had found another body .	A trooper asked if he had found another body .	that_if	283
+They definitely said that it would be in the speech .	They definitely asked if it would be in the speech .	that_if	284
+The RSPB says that it is concerned particularly about gamekeeping practices in Perthshire .	The RSPB asks if it is concerned particularly about gamekeeping practices in Perthshire .	that_if	285
+He said that he and Puno plan to meet again next week .	He asked if he and Puno plan to meet again next week .	that_if	286
+He said that the polls were misleading .	He asked if the polls were misleading .	that_if	287
+He said that it was not likely to have been food poisoning .	He asked if it was not likely to have been food poisoning .	that_if	288
+He said that a £ 95 voluntary test had saved his life .	He asked if a £ 95 voluntary test had saved his life .	that_if	290
+Residents say that even where racism lurks , it is restrained .	Residents ask if even where racism lurks , it is restrained .	that_if	291
+We say that Bronco nation is growing .	We ask if Bronco nation is growing .	that_if	292
+He also said that Stacy frequently asked him for a divorce .	He also asked if Stacy frequently asked him for a divorce .	that_if	294
+The new filing said that investigation was continuing .	The new filing asked if investigation was continuing .	that_if	295
+The FAA has said that staffing levels are adequate despite controllers ' complaints .	The FAA has asked if staffing levels are adequate despite controllers ' complaints .	that_if	296
+Analysts have said that figure might increase .	Analysts have asked if figure might increase .	that_if	297
+Erdogan has said that the authorisation will not mean immediate military action .	Erdogan has asked if the authorisation will not mean immediate military action .	that_if	298
+It is said that big voices win out at the Met .	It is asked if big voices win out at the Met .	that_if	300
+But construction industry insiders said that Bob the Builder would survive unscathed .	But construction industry insiders asked if Bob the Builder would survive unscathed .	that_if	301
+Reuben says that approach helps children become accepting of others .	Reuben asks if approach helps children become accepting of others .	that_if	302
+He said that BAE would give full support to the board .	He asked if BAE would give full support to the board .	that_if	304
+He said that we all possess a mantra unique to us .	He asked if we all possess a mantra unique to us .	that_if	305
+The hospital says that acinetobacter is common , as is staph bacteria .	The hospital asks if acinetobacter is common , as is staph bacteria .	that_if	307
+He said that more jobs would be created in key operating areas .	He asked if more jobs would be created in key operating areas .	that_if	308
+Police officers said that they found fingerprints that matched Ingram 's .	Police officers asked if they found fingerprints that matched Ingram 's .	that_if	309
+Prince said that he could perform at my tenth anniversary show in London .	Prince asked if he could perform at my tenth anniversary show in London .	that_if	311
+The spokesman said that Terra Firma intended to retain a majority stake .	The spokesman asked if Terra Firma intended to retain a majority stake .	that_if	312
+Dad said that Uncle Harry got a lot of mail .	Dad asked if Uncle Harry got a lot of mail .	that_if	313
+He said that everything is fine .	He asked if everything is fine .	that_if	314
+But Fry said that Button is delighted with Brawn 's appointment .	But Fry asked if Button is delighted with Brawn 's appointment .	that_if	315
+The law also said that other states could then adopt California 's standards .	The law also asked if other states could then adopt California 's standards .	that_if	317
+This month the former president said that abroad .	This month the former president asked if abroad .	that_if	318
+The museum said that it would be closed for a few days .	The museum asked if it would be closed for a few days .	that_if	320
+Many environmentalists say that Mendocino has been a responsible logger .	Many environmentalists ask if Mendocino has been a responsible logger .	that_if	321
+White House officials have said that Abramoff overstated his access with the administration .	White House officials have asked if Abramoff overstated his access with the administration .	that_if	322
+One could say that this is close to becoming self-conscious .	One could ask if this is close to becoming self-conscious .	that_if	323
+Mr. Piecyk said that problems were widespread within Sprint .	Mr. Piecyk asked if problems were widespread within Sprint .	that_if	326
+He said that issue did not come up over lunch .	He asked if issue did not come up over lunch .	that_if	328
+Turkey says that this would plunge relations with America into deep crisis .	Turkey asks if this would plunge relations with America into deep crisis .	that_if	329
+Others say that view is narrow-minded .	Others ask if view is narrow-minded .	that_if	330
+" I cannot say that I do , " Giuliani said .	" I cannot ask if I do , " Giuliani said .	that_if	332
+The organisation says that the daily lives of many Iraqis continue to deteriorate .	The organisation asks if the daily lives of many Iraqis continue to deteriorate .	that_if	338
+QUESTION : Secretary Rice said that failure is not an option .	QUESTION : Secretary Rice asked if failure is not an option .	that_if	340
+But I would not have said that Fenton was at all cowardly .	But I would not have asked if Fenton was at all cowardly .	that_if	341
+He Said That The Political Dispute Is Merely A Disagreement Between Allies .	He Asked if The Political Dispute Is Merely A Disagreement Between Allies .	that_if	342
+Police said that the cause of the explosion was not yet clear .	Police asked if the cause of the explosion was not yet clear .	that_if	343
+Mauresmo said that her training regime has been necessarily limited this season .	Mauresmo asked if her training regime has been necessarily limited this season .	that_if	345
+They said that no specific plans had been established .	They asked if no specific plans had been established .	that_if	346
+Oliveira said that Ted Beckham had surgery and was in intensive care .	Oliveira asked if Ted Beckham had surgery and was in intensive care .	that_if	347
+The statement said that the convicts are all from Baghdad .	The statement asked if the convicts are all from Baghdad .	that_if	350
+He says that he can do the dishes this week .	He asks if he can do the dishes this week .	that_if	351
+I have said that I am happy at the club .	I have asked if I am happy at the club .	that_if	352
+Police officials said that officers searched the site .	Police officials asked if officers searched the site .	that_if	353
+Mr. Chelios said that finding parts was not an issue .	Mr. Chelios asked if finding parts was not an issue .	that_if	355
+Gates said that Harvey 's response was not aggressive enough .	Gates asked if Harvey 's response was not aggressive enough .	that_if	356
+She said that there was a big difference now .	She asked if there was a big difference now .	that_if	357
+Police said that there were no suspicious circumstances .	Police asked if there were no suspicious circumstances .	that_if	358
+Lawson said that Pakistan would also need some luck this time .	Lawson asked if Pakistan would also need some luck this time .	that_if	361
+Deasy said that no memo announcing Tedesco 's resignation had been circulated .	Deasy asked if no memo announcing Tedesco 's resignation had been circulated .	that_if	363
+The military said that 80 civilians and 11 security personnel were killed .	The military asked if 80 civilians and 11 security personnel were killed .	that_if	364
+So you cannot say that this market has gotten ahead of itself .	So you cannot ask if this market has gotten ahead of itself .	that_if	365
+It said that style and quality mattered .	It asked if style and quality mattered .	that_if	367
+But he also says that his defense is capable of tackling more effectively .	But he also asks if his defense is capable of tackling more effectively .	that_if	368
+Critics will say that the neocons already tried that - in Iraq .	Critics will ask if the neocons already tried that - in Iraq .	that_if	369
+Western conservationists say that humpback populations are still vulnerable .	Western conservationists ask if humpback populations are still vulnerable .	that_if	370
+A spokesman said that no weapons were involved .	A spokesman asked if no weapons were involved .	that_if	371
+And the board says that only vets may float horses ' teeth .	And the board asks if only vets may float horses ' teeth .	that_if	373
+Mr. Hsu said that the trend is growing .	Mr. Hsu asked if the trend is growing .	that_if	374
+But she said that the building is now offering even better incentives .	But she asked if the building is now offering even better incentives .	that_if	375
+Our correspondent says that the festival has never been a problem before .	Our correspondent asks if the festival has never been a problem before .	that_if	376
+They say that cocaine increases self-confidence and creates a type of euphoria .	They ask if cocaine increases self-confidence and creates a type of euphoria .	that_if	377
+From the start , the president said that the increase would be temporary .	From the start , the president asked if the increase would be temporary .	that_if	378
+It also says that Iran has started up more than 1,300 centrifuge machines .	It also asks if Iran has started up more than 1,300 centrifuge machines .	that_if	379
+Mr. Kaplan said that CBS had enlisted as much security as possible .	Mr. Kaplan asked if CBS had enlisted as much security as possible .	that_if	380
+In all , Kawasaki says that the KLR650 got 50 improvements .	In all , Kawasaki asks if the KLR650 got 50 improvements .	that_if	381
+FedEx has said that the drivers are independent contractors .	FedEx has asked if the drivers are independent contractors .	that_if	383
+They say that they " tell stories " about what might happen .	They ask if they " tell stories " about what might happen .	that_if	384
+I would say that that briefing was optimistic .	I would ask if that briefing was optimistic .	that_if	386
+The committee said that CBGB owed $ 75,000 in unpaid rent increases .	The committee asked if CBGB owed $ 75,000 in unpaid rent increases .	that_if	387
+Indeed , one person said that Sallie Mae 's projections are too high .	Indeed , one person asked if Sallie Mae 's projections are too high .	that_if	388
+But aides later said that he did not .	But aides later asked if he did not .	that_if	389
+Mr Nicholson said that the council 's decision denied parents that reassurance .	Mr Nicholson asked if the council 's decision denied parents that reassurance .	that_if	390
+Swiss said that it had paid compensation to the families of the victims .	Swiss asked if it had paid compensation to the families of the victims .	that_if	391
+The dissenting scientists say that both those claims were incorrect .	The dissenting scientists ask if both those claims were incorrect .	that_if	392
+She said that Mills dissuaded her from hiring a lawyer .	She asked if Mills dissuaded her from hiring a lawyer .	that_if	393
+He said that Shawn possibly liked where he was at .	He asked if Shawn possibly liked where he was at .	that_if	395
+Iran has consistently said that its nuclear program is for peaceful use .	Iran has consistently asked if its nuclear program is for peaceful use .	that_if	396
+Mr Green said that he would stay until a replacement was found .	Mr Green asked if he would stay until a replacement was found .	that_if	397
+Police said that she last saw her son on Boxing Day .	Police asked if she last saw her son on Boxing Day .	that_if	399
+She said that the lawsuit lacked any merit .	She asked if the lawsuit lacked any merit .	that_if	400
+However , suppliers said that connoisseurs remain willing to splash out .	However , suppliers asked if connoisseurs remain willing to splash out .	that_if	402
+said that he was well-known in Afghanistan for what he was doing .	asked if he was well-known in Afghanistan for what he was doing .	that_if	404
+Mr. Haberman said that debates over franchise and chain stores are nothing new .	Mr. Haberman asked if debates over franchise and chain stores are nothing new .	that_if	406
+, said that Iraq was making the United States safer .	, asked whether Iraq was making the United States safer .	that_if	407
+She said that dairy production had a huge effect by producing greenhouse gases .	She asked if dairy production had a huge effect by producing greenhouse gases .	that_if	409
+American officials said that other measures indicated that civilian deaths had dropped .	American officials asked if other measures indicated that civilian deaths had dropped .	that_if	411
+She said that Aset did not offer a diploma in pre-school practice .	She asked if Aset did not offer a diploma in pre-school practice .	that_if	413
+However , the government says that such a march is illegal .	However , the government asks if such a march is illegal .	that_if	414
+But he said that customer response had been overwhelmingly positive .	But he asked if customer response had been overwhelmingly positive .	that_if	415
+He said that three of his Sunni school-friends had recently left the school .	He asked if three of his Sunni school-friends had recently left the school .	that_if	416
+You might say that it has sentimental value .	You might ask if it has sentimental value .	that_if	418
+Manning said that he was unsure what his practice routine would be Friday .	Manning asked if he was unsure what his practice routine would be Friday .	that_if	420
+Researchers said that number unavailable Thursday .	Researchers asked if number unavailable Thursday .	that_if	421
+She said that we needed to talk .	She asked if we needed to talk .	that_if	422
+He says that the motes - the scales have fallen from his eyes .	He asks if the motes - the scales have fallen from his eyes .	that_if	423
+The president said that he could support the bill with some changes .	The president asked if he could support the bill with some changes .	that_if	426
+I said that she wanted one , and she said she did .	I asked if she wanted one , and she said she did .	that_if	427
+He said that he intended to give his full ruling next week .	He asked if he intended to give his full ruling next week .	that_if	428
+Oil-rich Iran says that its program is for peaceful purposes .	Oil-rich Iran asks if its program is for peaceful purposes .	that_if	431
+She said that legal fees had left her £ 1.5 million in debt .	She asked if legal fees had left her £ 1.5 million in debt .	that_if	432
+Experts said that house prices could never fall nationwide .	Experts asked if house prices could never fall nationwide .	that_if	433
+Mr. Ferguson said that the volume of litigation has tapered off .	Mr. Ferguson asked if the volume of litigation has tapered off .	that_if	434
+It said that 12 miners were still unaccounted for .	It asked if 12 miners were still unaccounted for .	that_if	436
+You could say that those that have survived are true winners .	You could ask if those that have survived are true winners .	that_if	437
+Network Rail said that it did not expect any delays or unnecessary disruptions .	Network Rail asked if it did not expect any delays or unnecessary disruptions .	that_if	438
+A spokesman for Mr Khan said that he was concerned at his plight .	A spokesman for Mr Khan asked if he was concerned at his plight .	that_if	441
+Mr Callahan said that Yahoo !	Mr Callahan asked if Yahoo !	that_if	442
+She said that the coach undressed first her and then herself .	She asked if the coach undressed first her and then herself .	that_if	443
+Patrushev said that his agency had learned how to counter British intelligence .	Patrushev asked if his agency had learned how to counter British intelligence .	that_if	444
+Cancer experts say that her dream could become a reality .	Cancer experts ask if her dream could become a reality .	that_if	446
+He said that some 80 percent of the state was affected .	He asked if some 80 percent of the state was affected .	that_if	447
+We cannot say that it does not cross the placenta .	We cannot ask if it does not cross the placenta .	that_if	449
+Police said that they doubted this .	Police asked if they doubted this .	that_if	451
+The police said that the robbery suspect eluded them .	The police asked if the robbery suspect eluded them .	that_if	452
+He said that Kee was paid about $ 8,000 .	He asked if Kee was paid about $ 8,000 .	that_if	453
+And he says that feeling could hit troop recruitment and retention hard .	And he asks if feeling could hit troop recruitment and retention hard .	that_if	454
+He said that 14 militants had also died in the clashes .	He asked if 14 militants had also died in the clashes .	that_if	455
+Mr Ferm said that McKenzie became suicidal and was depressed .	Mr Ferm asked if McKenzie became suicidal and was depressed .	that_if	456
+He said that his youth should excuse his actions .	He asked if his youth should excuse his actions .	that_if	457
+He also said that a 10-cent increase would be acceptable .	He also asked if a 10-cent increase would be acceptable .	that_if	458
+They say that a separate clash in the east killed one rebel .	They ask if a separate clash in the east killed one rebel .	that_if	461
+Officials say that he failed to make any payments .	Officials ask if he failed to make any payments .	that_if	462
+The Environment Agency says that quick fixes are not the answer .	The Environment Agency asks if quick fixes are not the answer .	that_if	463
+They say that 40 million livelihoods are at stake .	They ask if 40 million livelihoods are at stake .	that_if	464
+Mr Hester said that commercial property prices generally were falling .	Mr Hester asked if commercial property prices generally were falling .	that_if	465
+Even judges say that they are becoming .	Even judges ask if they are becoming .	that_if	466
+The report said that sales stood at Dh 456.8 million for 178 deals .	The report asked if sales stood at Dh 456.8 million for 178 deals .	that_if	467
+Some say that the Neanderthals were wiped out by a sudden cold snap .	Some ask if the Neanderthals were wiped out by a sudden cold snap .	that_if	468
+Mr Yang said that Yahoo !	Mr Yang asked if Yahoo !	that_if	469
+She said that her greatest teacher has simply been instinct .	She asked if her greatest teacher has simply been instinct .	that_if	471
+The broadcaster said that the conversations did not involve political or terrorist activity .	The broadcaster asked if the conversations did not involve political or terrorist activity .	that_if	472
+She said that she never felt a loss of control with Marbury .	She asked if she never felt a loss of control with Marbury .	that_if	474
+Proponents said that 10m children would then be covered .	Proponents asked if 10m children would then be covered .	that_if	475
+Ahsan said that he expected to be arrested later Saturday night .	Ahsan asked if he expected to be arrested later Saturday night .	that_if	477
+One said that she had not authorized the grant to be redirected .	One asked if she had not authorized the grant to be redirected .	that_if	478
+Analysts say that perhaps her weak spot is her inexperience in office .	Analysts ask if perhaps her weak spot is her inexperience in office .	that_if	479
+City attorney John Young said that constitutionally protected activity would be exempt .	City attorney John Young asked if constitutionally protected activity would be exempt .	that_if	480
+They said that cultural obstacles and other impediments prevent victims from coming forward .	They asked if cultural obstacles and other impediments prevent victims from coming forward .	that_if	481
+Then Mike will say that we need to talk to you .	Then Mike will ask if we need to talk to you .	that_if	483
+On Monday he said that he had resigned for unspecified health reasons .	On Monday he asked if he had resigned for unspecified health reasons .	that_if	484
+I remember she said that I had called my doctor yet .	I remember she asked if I had called my doctor yet .	that_if	485
+I said that when I was taken out of the team .	I asked if when I was taken out of the team .	that_if	486
+Lawyers typically say that such legal opinions are confidential .	Lawyers typically ask if such legal opinions are confidential .	that_if	489
+But she said that the tactic could backfire .	But she asked if the tactic could backfire .	that_if	490
+Workers said that the birds were being attacked by wild dogs .	Workers asked if the birds were being attacked by wild dogs .	that_if	491
+Another child said that she had been attacked because of her disability .	Another child asked if she had been attacked because of her disability .	that_if	492
+He said that security confinement could force some al-Qaeda elements to surrender .	He asked if security confinement could force some al-Qaeda elements to surrender .	that_if	498
+He said that the warm fall was an exception .	He asked if the warm fall was an exception .	that_if	500
+She will say that she will leave the rest of us alone .	She will ask if she will leave the rest of us alone .	that_if	501
+He says that the results could be consistent with occasional consumption of cocaine .	He asks if the results could be consistent with occasional consumption of cocaine .	that_if	502
+You could say that it is an appropriate use of police resources .	You could ask whether it is an appropriate use of police resources .	that_if	503
+Police have said that mobile phone interceptions are crucial to the investigation .	Police have asked if mobile phone interceptions are crucial to the investigation .	that_if	504
+A local official said that no evacuation had been ordered .	A local official asked if no evacuation had been ordered .	that_if	505
+Mr Beadle said that Jessica was starting to recover .	Mr Beadle asked if Jessica was starting to recover .	that_if	506
+One local man said that he had been robbed four times .	One local man asked if he had been robbed four times .	that_if	508
+The Attorney General says that statistic needs to change .	The Attorney General asks if statistic needs to change .	that_if	510
+But it said that it supported the new lasting power of attorney scheme .	But it asked if it supported the new lasting power of attorney scheme .	that_if	511
+But it said that post-Christmas buying could help boost the total .	But it asked if post-Christmas buying could help boost the total .	that_if	512
+Investigators said that Shaffer was acting deliberately .	Investigators asked if Shaffer was acting deliberately .	that_if	514
+Obey said that the provision was not an earmark under the rules .	Obey asked if the provision was not an earmark under the rules .	that_if	515
+He said that he had no regrets about becoming a double agent .	He asked if he had no regrets about becoming a double agent .	that_if	516
+Cashman said that he has remained in contact with Torre .	Cashman asked if he has remained in contact with Torre .	that_if	517
+Neighbours said that teenagers would frequently gather on the estate .	Neighbours asked if teenagers would frequently gather on the estate .	that_if	518
+But the Monster actress said that that does not normally happen .	But the Monster actress asked if that does not normally happen .	that_if	519
+Others have said that Christmas is a time for family .	Others have asked if Christmas is a time for family .	that_if	521
+He said that no date had been set for Osman 's arraignment .	He asked if no date had been set for Osman 's arraignment .	that_if	522
+He said that he planned to set out again into the mountains .	He asked if he planned to set out again into the mountains .	that_if	525
+And an executive at Disney said that it was not interested .	And an executive at Disney asked if it was not interested .	that_if	527
+He says that he did not use performance-enhancing drugs .	He asks if he did not use performance-enhancing drugs .	that_if	528
+They said that KKR had pledged funds for an acquisition strategy .	They asked if KKR had pledged funds for an acquisition strategy .	that_if	529
+The museum said that it was cancelling the American 's speech .	The museum asked if it was cancelling the American 's speech .	that_if	531
+He said that trains in the area usually go about 20 mph .	He asked if trains in the area usually go about 20 mph .	that_if	533
+He said that Jordan failed to discharge his duties as a commander .	He asked if Jordan failed to discharge his duties as a commander .	that_if	535
+The Sri Lankan captain said that Cook had shown great patience .	The Sri Lankan captain asked if Cook had shown great patience .	that_if	537
+Briggs said that the accident had changed him .	Briggs asked if the accident had changed him .	that_if	538
+Critics say that raises the possibility of conflicts of interest .	Critics ask if raises the possibility of conflicts of interest .	that_if	539
+Both players said that experience should make this transition smoother .	Both players asked if experience should make this transition smoother .	that_if	540
+A spokesman for the Scottish Government said that decision was now under review .	A spokesman for the Scottish Government asked if decision was now under review .	that_if	542
+Correspondents say that these military campaigns are deeply unpopular in Pakistan .	Correspondents ask if these military campaigns are deeply unpopular in Pakistan .	that_if	543
+Marbury has said that he had permission to leave .	Marbury has asked if he had permission to leave .	that_if	544
+Bissonnette has said that she and her family did nothing wrong .	Bissonnette has asked if she and her family did nothing wrong .	that_if	546
+Authorities say that the gunman had a history of violent confrontations .	Authorities ask if the gunman had a history of violent confrontations .	that_if	547
+A spokesman for the company said that it was intended as a joke .	A spokesman for the company asked if it was intended as a joke .	that_if	548
+Rhee also said that all 20 principal vacancies have been filled .	Rhee also asked if all 20 principal vacancies have been filled .	that_if	549
+He said that individual whistle-blowers could get a percentage of the fines .	He asked if individual whistle-blowers could get a percentage of the fines .	that_if	550
+But spokeswoman Kate Rich said that base has grown .	But spokeswoman Kate Rich asked if base has grown .	that_if	551
+Mr Smith said that she was a difficult patient and suffered from dementia .	Mr Smith asked if she was a difficult patient and suffered from dementia .	that_if	552
+Western conservationists say that humpback and fin whale populations are still vulnerable .	Western conservationists ask if humpback and fin whale populations are still vulnerable .	that_if	554
+He denies the charges against him and says that they are politically motivated .	He denies the charges against him and asks if they are politically motivated .	that_if	557
+Drummer Marky Ramone has since said that episode was overblown .	Drummer Marky Ramone has since asked if episode was overblown .	that_if	558
+Standard Life said that Resolution board was currently considering its proposal .	Standard Life asked if Resolution board was currently considering its proposal .	that_if	559
+, said that Congress should expand affordable financing .	, asked if Congress should expand affordable financing .	that_if	562
+The authorities have said that the charges could change .	The authorities have asked if the charges could change .	that_if	563
+They even say that every person has his own tree .	They even ask if every person has his own tree .	that_if	565
+People say that action should have been taken yesterday .	People ask if action should have been taken yesterday .	that_if	566
+He said that the confession was coerced and that he was innocent .	He asked if the confession was coerced and that he was innocent .	that_if	567
+But critics said that organization practiced inhumane training methods and exploited its animals .	But critics asked if organization practiced inhumane training methods and exploited its animals .	that_if	568
+They say that they get great support from the regiment .	They ask if they get great support from the regiment .	that_if	570
+She said that message was filtering down to younger people .	She asked if message was filtering down to younger people .	that_if	571
+She has said that the plan would not be run by the government .	She has asked if the plan would not be run by the government .	that_if	572
+She will say that it was senior citizens who made all the difference .	She will ask if it was senior citizens who made all the difference .	that_if	575
+Other students say that they do not have a choice .	Other students ask if they do not have a choice .	that_if	576
+Harris Whitbeck said that the idea would .	Harris Whitbeck asked whether the idea would .	that_if	577
+They said that the Senator could make his pitch live via satellite .	They asked if the Senator could make his pitch live via satellite .	that_if	578
+I have heard people say that I slowed down or almost stopped .	I have heard people ask if I slowed down or almost stopped .	that_if	579
+Italian press reports said that a warrant has been issued for his arrest .	Italian press reports asked if a warrant has been issued for his arrest .	that_if	582
+But they said that a 12-hour curfew was acceptable .	But they asked if a 12-hour curfew was acceptable .	that_if	585
+He also says that he regrets calling his autobiography I am not Spock .	He also asks if he regrets calling his autobiography I am not Spock .	that_if	586
+Officials say that he has helped bring explosives into Iraq .	Officials ask if he has helped bring explosives into Iraq .	that_if	587
+The Confederation of British Industry said that it would welcome a step-by-step approach .	The Confederation of British Industry asked if it would welcome a step-by-step approach .	that_if	588
+Clinton said that she was honored to get the endorsement .	Clinton asked if she was honored to get the endorsement .	that_if	590
+Iran says that all of its nuclear work is peaceful .	Iran asks if all of its nuclear work is peaceful .	that_if	591
+The kids say that place is haunted .	The kids ask if place is haunted .	that_if	593
+I would say that this is our new normal .	I would ask if this is our new normal .	that_if	596
+Officials said that she passed a mandatory Breathalyzer test after the shooting .	Officials asked if she passed a mandatory Breathalyzer test after the shooting .	that_if	601
+Ms. Dillman said that assignment gave her pause .	Ms. Dillman asked if assignment gave her pause .	that_if	602
+Several friends said that Ms. Stein had been in good spirits .	Several friends asked if Ms. Stein had been in good spirits .	that_if	603
+Defense attorney Wally Bugden said that he had to talk her into sex .	Defense attorney Wally Bugden asked if he had to talk her into sex .	that_if	606
+Reports said that Bernardo had been killed by farmers .	Reports asked if Bernardo had been killed by farmers .	that_if	607
+He said that Mr. Bush was " very disappointed " with the vote .	He asked if Mr. Bush was " very disappointed " with the vote .	that_if	608
+Peterson has said that Stacy ran off with another man .	Peterson has asked if Stacy ran off with another man .	that_if	611
+Musharraf also said that Bhutto was exaggerating her popular support .	Musharraf also asked if Bhutto was exaggerating her popular support .	that_if	612
+She said that John Edwards was parroting Republican talking points and slinging mud .	She asked if John Edwards was parroting Republican talking points and slinging mud .	that_if	614
+CBS News said that it was ready if a strike is called .	CBS News asked if it was ready if a strike is called .	that_if	617
+Sir Malcolm said that his plans were the unfinished business of devolution .	Sir Malcolm asked if his plans were the unfinished business of devolution .	that_if	619
+He said that an investigation into both deaths was proceeding .	He asked if an investigation into both deaths was proceeding .	that_if	620
+Brad would say that this statement absolutely reeks of hyperbole .	Brad would ask if this statement absolutely reeks of hyperbole .	that_if	621
+Every election year pundits ritualistically say that unions remain politically relevant .	Every election year pundits ritualistically ask whether unions remain politically relevant .	that_if	622
+The Orioles also said that right-hander Jaret Wright has left the team .	The Orioles also asked if right-hander Jaret Wright has left the team .	that_if	623
+, says that she cannot remember the last time she had sex .	, asks if she cannot remember the last time she had sex .	that_if	625
+Many said that his pandering to business was to blame .	Many asked if his pandering to business was to blame .	that_if	626
+Schmidt said that most of the cuts would come in Germany .	Schmidt asked if most of the cuts would come in Germany .	that_if	627
+The ABI said that its members would prefer 75 years as best practice .	The ABI asked if its members would prefer 75 years as best practice .	that_if	629
+But the BBC says that decision was far from unanimous .	But the BBC asks if decision was far from unanimous .	that_if	631
+Military officials said that many foreign fighters were among the dead .	Military officials asked if many foreign fighters were among the dead .	that_if	632
+Djokovic said that he has not been approached by anyone .	Djokovic asked if he has not been approached by anyone .	that_if	633
+He said that stepped-up border protection has also helped reduce supplies .	He asked if stepped-up border protection has also helped reduce supplies .	that_if	634
+CSX said that testing had not indicated a problem .	CSX asked if testing had not indicated a problem .	that_if	635
+Bonds says that Giants owner Peter Magowan broke the news to him .	Bonds asks if Giants owner Peter Magowan broke the news to him .	that_if	636
+The council says that the structure remains unsafe .	The council asks if the structure remains unsafe .	that_if	638
+The judge peered down at Bonds and said that he understood .	The judge peered down at Bonds and asked if he understood .	that_if	639
+On Friday he said that Simpson had called him to apologise .	On Friday he asked if Simpson had called him to apologise .	that_if	640
+" Everyone says that it is an absolute lie , " he said .	" Everyone asks if it is an absolute lie , " he said .	that_if	641
+State officials say that programs not limited to lower-income residents help them nevertheless .	State officials ask if programs not limited to lower-income residents help them nevertheless .	that_if	643
+They say that he has good days and bad days .	They ask if he has good days and bad days .	that_if	644
+Many have said that New York 's swirling winds were a bother too .	Many have asked if New York 's swirling winds were a bother too .	that_if	645
+Police said that they had found seven grams ( 0.25oz ) of marijuana .	Police asked if they had found seven grams ( 0.25oz ) of marijuana .	that_if	647
+But he said that the future might look different .	But he asked if the future might look different .	that_if	649
+Eyewitnesses said that she was sitting on a bench eating chips .	Eyewitnesses asked if she was sitting on a bench eating chips .	that_if	650
+He said that the British would be forced to listen .	He asked if the British would be forced to listen .	that_if	651
+She said that police intervened and ejected the assailant from the event .	She asked if police intervened and ejected the assailant from the event .	that_if	654
+The colonel said that the subject never came up .	The colonel asked if the subject never came up .	that_if	656
+You may say that you 'd never lose your cool like Carol Gotbaum .	You may ask if you 'd never lose your cool like Carol Gotbaum .	that_if	657
+I said that he had enough water for that many people .	I asked if he had enough water for that many people .	that_if	658
+Ward said that he expected to play against the Eagles .	Ward asked if he expected to play against the Eagles .	that_if	660
+I would say that he is been a little unfortunate .	I would ask if he is been a little unfortunate .	that_if	662
+Mr King said that it would be months before banks returned to normal .	Mr King asked if it would be months before banks returned to normal .	that_if	663
+Soldiers say that they no longer like wearing uniforms in public .	Soldiers ask if they no longer like wearing uniforms in public .	that_if	664
+Hoagland says that kind of confession is highly unusual .	Hoagland asks if kind of confession is highly unusual .	that_if	665
+She also said that she now owes her lawyers $ 3 million .	She also asked if she now owes her lawyers $ 3 million .	that_if	666
+The brothers say that Scrabulous has 18,000 registered users on the site .	The brothers ask if Scrabulous has 18,000 registered users on the site .	that_if	668
+" " Say that again ?	" " Ask if again ?	that_if	669
+He said that some companies were trumpeting relatively modest changes .	He asked if some companies were trumpeting relatively modest changes .	that_if	670
+He said that results were extremely variable .	He asked if results were extremely variable .	that_if	671
+He said that Mr Klein was close to his daughter .	He asked if Mr Klein was close to his daughter .	that_if	673
+She called the children over and said that they would like to study .	She called the children over and asked if they would like to study .	that_if	674
+The scientific consensus says that you cannot .	The scientific consensus asks if you cannot .	that_if	677
+The officer said that Craig solicited him for sex .	The officer asked if Craig solicited him for sex .	that_if	679
+The company said that it had removed all such bottles across Canada .	The company asked if it had removed all such bottles across Canada .	that_if	681
+But so far both sides say that no agreement has been reached .	But so far both sides ask if no agreement has been reached .	that_if	682
+He said that the film was reminiscent of 19th-century anti-clericalism .	He asked if the film was reminiscent of 19th-century anti-clericalism .	that_if	683
+Mr. Lee said that professionals ' camera choices influence consumer tastes .	Mr. Lee asked if professionals ' camera choices influence consumer tastes .	that_if	684
+Mr Lowman said that this would be a positive move .	Mr Lowman asked if this would be a positive move .	that_if	685
+Police sources have said that he never received treatment .	Police sources have asked if he never received treatment .	that_if	689
+You said that all readers who responded were against this .	You asked if all readers who responded were against this .	that_if	691
+The government said that action protected residents from any danger .	The government asked if action protected residents from any danger .	that_if	693
+Russian media said that one child was among the dead .	Russian media asked if one child was among the dead .	that_if	696
+The report said that these factors may have cost many lives .	The report asked if these factors may have cost many lives .	that_if	697
+The deputy said that someone else had been involved and might be dead .	The deputy asked if someone else had been involved and might be dead .	that_if	699
+It said that passage would be allowed for urgent humanitarian cases .	It asked if passage would be allowed for urgent humanitarian cases .	that_if	700
+Microsoft said that it refused to comment on rumour and speculation .	Microsoft asked if it refused to comment on rumour and speculation .	that_if	702
+It is said that things usually happen in three 's .	It is asked if things usually happen in three 's .	that_if	703
+But they said that this theory had since been discredited .	But they asked if this theory had since been discredited .	that_if	705
+Sheriff Carona said that the leave would take effect Friday .	Sheriff Carona asked if the leave would take effect Friday .	that_if	706
+I have said that time and time again .	I have asked if time and time again .	that_if	707
+Orange said that budding entrepreneurs needed more encouragement to succeed .	Orange asked if budding entrepreneurs needed more encouragement to succeed .	that_if	709
+He said that I would not be killed .	He asked if I would not be killed .	that_if	711
+Authorities say that two of these fires might have been started intentionally .	Authorities ask if two of these fires might have been started intentionally .	that_if	713
+She said that the floods had done lasting damage .	She asked if the floods had done lasting damage .	that_if	714
+Sotheby 's said that the buyer was Moussaieff Jewellers in London .	Sotheby 's asked if the buyer was Moussaieff Jewellers in London .	that_if	715
+I said that I could speak to other jammers he knew .	I asked if I could speak to other jammers he knew .	that_if	716
+Our correspondent says that court proceedings were temporarily suspended before order was restored .	Our correspondent asks if court proceedings were temporarily suspended before order was restored .	that_if	718
+They constantly said that they love Thailand and of course Thai food .	They constantly asked if they love Thailand and of course Thai food .	that_if	719
+City officials said that they were cooperating with the criminal inquiry .	City officials asked if they were cooperating with the criminal inquiry .	that_if	720
+They say that the immigrants do not offer any special skills .	They ask if the immigrants do not offer any special skills .	that_if	721
+He says that he can sleep with his glasses on .	He asks if he can sleep with his glasses on .	that_if	723
+But the commission said that period is too long .	But the commission asked if period is too long .	that_if	726
+Feinstein said that Bush could take military actions without advising Congress .	Feinstein asked whether Bush could take military actions without advising Congress .	that_if	731
+So how can we say that women are not free ?	So how can we ask if women are not free ?	that_if	733
+Another says that Neanderthals and modern Man intermingled and even interbred .	Another asks if Neanderthals and modern Man intermingled and even interbred .	that_if	734
+Iweala said that the demands by " Ufondu " continued .	Iweala asked if the demands by " Ufondu " continued .	that_if	736
+But it said that searches did take place when considered appropriate .	But it asked if searches did take place when considered appropriate .	that_if	738
+Mr. Samuels 's friends said that he was homeless .	Mr. Samuels 's friends asked if he was homeless .	that_if	740
+Police say that Tasers are valuable tools for avoiding dangerous struggles with suspects .	Police ask if Tasers are valuable tools for avoiding dangerous struggles with suspects .	that_if	742
+It is often said that Glasgow people never really " got " Jenners .	It is often asked if Glasgow people never really " got " Jenners .	that_if	743
+Mr. Smith said that each complaint is being evaluated case by case .	Mr. Smith asked if each complaint is being evaluated case by case .	that_if	744
+But he also said that traffic is a healthy sign .	But he also asked if traffic is a healthy sign .	that_if	745
+But party officials say that they expect no changes .	But party officials ask if they expect no changes .	that_if	747
+He said that the intensity of this campaign has only started .	He asked if the intensity of this campaign has only started .	that_if	748
+The study said that such major factors could be improved with more consultants .	The study asked if such major factors could be improved with more consultants .	that_if	750
+It also says that Discovery Stocks can trade in the shares .	It also asks if Discovery Stocks can trade in the shares .	that_if	752
+He was then said that he knew on which play Vilma was hurt .	He was then asked if he knew on which play Vilma was hurt .	that_if	754
+He said that commitment is not in the president 's plan .	He asked if commitment is not in the president 's plan .	that_if	755
+Bush also said that the U.S. will not abandon the Iraqi people .	Bush also asked if the U.S. will not abandon the Iraqi people .	that_if	756
+It said that net profit dropped 12 percent and announced 1,260 job cuts .	It asked if net profit dropped 12 percent and announced 1,260 job cuts .	that_if	759
+, said that he still eats two Big Macs every day .	, asked if he still eats two Big Macs every day .	that_if	760
+Israeli defence officials said that the government was examining the Hamas offer .	Israeli defence officials asked if the government was examining the Hamas offer .	that_if	761
+The study said that business leaders backed the contribution made by migrants .	The study asked if business leaders backed the contribution made by migrants .	that_if	763
+Studios said that the dispute would cost jobs if filming was stalled .	Studios asked if the dispute would cost jobs if filming was stalled .	that_if	764
+One said that Mr. Ban could bring South Korean business success to Sudan .	One asked if Mr. Ban could bring South Korean business success to Sudan .	that_if	765
+He said that they were swearing at the riot police .	He asked if they were swearing at the riot police .	that_if	766
+Kam said that Beijing organisers are considering recording an English version .	Kam asked if Beijing organisers are considering recording an English version .	that_if	767
+In the meeting , president Saleh said that investment requires stability .	In the meeting , president Saleh asked if investment requires stability .	that_if	768
+Friends said that he had lost his mind .	Friends asked whether he had lost his mind .	that_if	770
+Our deeds say that we own 240ft of land .	Our deeds ask if we own 240ft of land .	that_if	771
+The tourism group said that 4.98 million came for tourism .	The tourism group asked if 4.98 million came for tourism .	that_if	773
+Someone once said that New York gangsters are basically teenage girls with guns .	Someone once asked if New York gangsters are basically teenage girls with guns .	that_if	774
+Officials said that Mr. Tirado 's precise words were unclear .	Officials asked if Mr. Tirado 's precise words were unclear .	that_if	775
+Boston Scientific had said that ECRI illegally disclosed its trade secrets .	Boston Scientific had asked if ECRI illegally disclosed its trade secrets .	that_if	776
+Whoever says that Pakistan is not a failed state is delusional .	Whoever asks if Pakistan is not a failed state is delusional .	that_if	777
+He said that few companies thought to buy potentially negative domain names .	He asked if few companies thought to buy potentially negative domain names .	that_if	778
+It says that many Turks were also killed at the time .	It asks if many Turks were also killed at the time .	that_if	779
+Johnson & Johnson said that it had maintained its 46 percent market share .	Johnson & Johnson asked if it had maintained its 46 percent market share .	that_if	785
+Mr. Iwanowicz said that balance is essential .	Mr. Iwanowicz asked if balance is essential .	that_if	786
+But she also says that Vela provided something even more important .	But she also asks if Vela provided something even more important .	that_if	787
+He Also said That The Un Award Was not The Goal .	He Also asked if The Un Award Was not The Goal .	that_if	788
+Brancaccio said that adult acne is more prevalent in women than in men .	Brancaccio asked if adult acne is more prevalent in women than in men .	that_if	789
+But he said that state attorneys general cannot vouch for every police department .	But he asked if state attorneys general cannot vouch for every police department .	that_if	792
+It is said that nearly all men are soon bored by repetitive porn .	It is asked if nearly all men are soon bored by repetitive porn .	that_if	793
+Byrd said that he clicked with Shoppach , so Wedge kept them together .	Byrd asked if he clicked with Shoppach , so Wedge kept them together .	that_if	794
+Still , inmates interviewed said that stress accompanied aging in prison .	Still , inmates interviewed asked if stress accompanied aging in prison .	that_if	795
+The official said that the insurgents had better weapons than the Iraqi Army .	The official asked if the insurgents had better weapons than the Iraqi Army .	that_if	797
+British Gas said that 20,000 people moved to paperless billing last week .	British Gas asked if 20,000 people moved to paperless billing last week .	that_if	798
+Mr Davies said that this was because the industry needed such trading standards .	Mr Davies asked if this was because the industry needed such trading standards .	that_if	801
+An HMRC spokesman said that they had not .	An HMRC spokesman asked if they had not .	that_if	802
+The e-mail says that Vander Plaats has become a Romney supporter .	The e-mail asks if Vander Plaats has become a Romney supporter .	that_if	803
+A spokeswoman said that the visitors ' injuries were not serious .	A spokeswoman asked if the visitors ' injuries were not serious .	that_if	804
+She said that the magazine regularly received more than 600 poems a week .	She asked if the magazine regularly received more than 600 poems a week .	that_if	805
+5 Business item incorrectly said that Treasury bill rates rose .	5 Business item incorrectly asked if Treasury bill rates rose .	that_if	807
+Messina said that bleeding gums are nothing to ignore .	Messina asked if bleeding gums are nothing to ignore .	that_if	808
+We say that she is been sick .	We ask if she is been sick .	that_if	810
+Mr. Bokeria said that police permitted journalists to work .	Mr. Bokeria asked if police permitted journalists to work .	that_if	811
+She said that nine concrete footings of another required type were also missing .	She asked if nine concrete footings of another required type were also missing .	that_if	812
+Police said that they were keeping an open mind about the motive .	Police asked if they were keeping an open mind about the motive .	that_if	817
+You said that you can enforce your schedule .	You asked if you can enforce your schedule .	that_if	818
+Senior officials say that some 200 top-level targets are being prosecuted .	Senior officials ask if some 200 top-level targets are being prosecuted .	that_if	820
+Roger has said that he would recommend a suspended sentence .	Roger has asked if he would recommend a suspended sentence .	that_if	822
+However , the researchers said that parents should not be overly alarmed .	However , the researchers asked if parents should not be overly alarmed .	that_if	825
+He said that police were focusing their attention on the investigation .	He asked if police were focusing their attention on the investigation .	that_if	826
+Diners said that it left a bitter taste in the mouth .	Diners asked if it left a bitter taste in the mouth .	that_if	827
+Huckabee says that he raised taxes for roads only after a referendum .	Huckabee asks if he raised taxes for roads only after a referendum .	that_if	828
+( Mental Floss ) -- They say that truth is stranger than fiction .	( Mental Floss ) -- They ask if truth is stranger than fiction .	that_if	830
+Ivanov said that the system would be available worldwide by 2010 .	Ivanov asked if the system would be available worldwide by 2010 .	that_if	831
+But Lufti said that women everywhere fear that .	But Lufti asked if women everywhere fear that .	that_if	832

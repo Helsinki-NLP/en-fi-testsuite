@@ -1,0 +1,500 @@
+So I know .	So I do not know .	pos_neg	9590
+We have a Pakistan policy .	We do not have a Pakistan policy .	pos_neg	8116
+The reality , however , is clear-cut .	The reality , however , is not clear-cut .	pos_neg	21394
+It has so far responded .	It has not so far responded .	pos_neg	7589
+The woman was identified yesterday by federal prosecutors or the commission .	The woman was not identified yesterday by federal prosecutors or the commission .	pos_neg	10018
+We respect Scotland but we are scared .	We respect Scotland but we are not scared .	pos_neg	9304
+This , it turns out , is hyperbole .	This , it turns out , is not hyperbole .	pos_neg	15755
+You want your house tied up in litigation .	You do not want your house tied up in litigation .	pos_neg	3789
+The streets were always so crowded with cyclists .	The streets were not always so crowded with cyclists .	pos_neg	6734
+He had to do this .	He did not have to do this .	pos_neg	4063
+Hall was buying that logic .	Hall was not buying that logic .	pos_neg	8330
+We know how successful their attack was .	We do not know how successful their attack was .	pos_neg	15695
+We played hard .	We did not play hard .	pos_neg	13702
+Of course you 'd notice , but it mattered .	Of course you 'd notice , but it did not matter .	pos_neg	21109
+That attitude has fazed the Hollywood Prayer Network .	That attitude has not fazed the Hollywood Prayer Network .	pos_neg	21553
+It allows copying to a CD .	It does not allow copying to a CD .	pos_neg	500
+Those have been met .	Those have not been met .	pos_neg	18594
+That was the purpose of the team 's appeal .	That was not the purpose of the team 's appeal .	pos_neg	11177
+The cause of death is known .	The cause of death is not known .	pos_neg	13115
+This is the first time that Mr Mubarak has embraced nuclear power .	This is not the first time that Mr Mubarak has embraced nuclear power .	pos_neg	7422
+We have been on this stage in a while .	We have not been on this stage in a while .	pos_neg	11117
+The findings prove a direct cause-and-effect relationship .	The findings do not prove a direct cause-and-effect relationship .	pos_neg	458
+What you learned in the third grade .	What you did not learn in the third grade .	pos_neg	9709
+A sentencing date has been set .	A sentencing date has not been set .	pos_neg	42
+He is prohibited from receiving prize money from the championships .	He is not prohibited from receiving prize money from the championships .	pos_neg	19834
+But I am sure who will be electable .	But I am not sure who will be electable .	pos_neg	18483
+This has altered Rhode Island 's political complexion .	This has not altered Rhode Island 's political complexion .	pos_neg	9686
+" I think the Turks are bluffing , " Gates said .	" I do not think the Turks are bluffing , " Gates said .	pos_neg	11152
+But illegal immigrants are allowed to enlist .	But illegal immigrants are not allowed to enlist .	pos_neg	10860
+I care how old you are .	I do not care how old you are .	pos_neg	19755
+It works with Nextel-branded phones , the company said .	It does not work with Nextel-branded phones , the company said .	pos_neg	3333
+Police believe the cat was harmed but are continuing to investigate .	Police do not believe the cat was harmed but are continuing to investigate .	pos_neg	12310
+I am concerned with the draft .	I am not concerned with the draft .	pos_neg	2979
+It dips enough and is over .	It does not dip enough and is over .	pos_neg	24
+Dick Cheney is invited to the hunt .	Dick Cheney is not invited to the hunt .	pos_neg	21080
+So maybe it is the most important issue in the world .	So maybe it is not the most important issue in the world .	pos_neg	20020
+The problem stops at Ratatouille .	The problem does not stop at Ratatouille .	pos_neg	9872
+The United States and Cuba have full diplomatic relations .	The United States and Cuba do not have full diplomatic relations .	pos_neg	21379
+It is just physical ability .	It is not just physical ability .	pos_neg	7477
+But this is a stretch .	But this is not a stretch .	pos_neg	6851
+Gale was in good shape , she said .	Gale was not in good shape , she said .	pos_neg	2863
+Levin acknowledged that doing so is always easy .	Levin acknowledged that doing so is not always easy .	pos_neg	18507
+He has broken beyond that .	He has not broken beyond that .	pos_neg	18858
+It is like this is the only thing I can do .	It is not like this is the only thing I can do .	pos_neg	10231
+Somehow , though , that is what moves me .	Somehow , though , that is not what moves me .	pos_neg	1097
+I am so sure .	I am not so sure .	pos_neg	2706
+But history matters .	But history does not matter .	pos_neg	5640
+" The court is a rubber stamp , " Boldt said .	" The court is not a rubber stamp , " Boldt said .	pos_neg	8414
+It was a war against the army , he added .	It was not a war against the army , he added .	pos_neg	10287
+The boy has been officially identified .	The boy has not been officially identified .	pos_neg	296
+We care about these matters .	We do not care about these matters .	pos_neg	11310
+I stayed relaxed .	I did not stay relaxed .	pos_neg	17108
+The junta has commented on Gambari 's visit .	The junta has not commented on Gambari 's visit .	pos_neg	3886
+But I know that it is the same for all young people .	But I know that it is not the same for all young people .	pos_neg	9580
+A call to Esterday 's home was immediately returned .	A call to Esterday 's home was not immediately returned .	pos_neg	6027
+Alas , the Bill goes far enough .	Alas , the Bill does not go far enough .	pos_neg	2963
+The program is without its critics .	The program is not without its critics .	pos_neg	6393
+A. Lime Painted Lady has vanished .	A. Lime Painted Lady has not vanished .	pos_neg	7488
+It is just my decision .	It is not just my decision .	pos_neg	7836
+I thought I was the entrepreneurial type .	I did not think I was the entrepreneurial type .	pos_neg	691
+The rats discriminate .	The rats do not discriminate .	pos_neg	14029
+It was pure financials , although Nintendo was competitive in that respect .	It was not pure financials , although Nintendo was competitive in that respect .	pos_neg	14533
+Other days have worked so well .	Other days have not worked so well .	pos_neg	5673
+They coddle pests and I respect that .	They do not coddle pests and I respect that .	pos_neg	3341
+I had my license .	I did not have my license .	pos_neg	2065
+Either way , it was going in my mouth .	Either way , it was not going in my mouth .	pos_neg	8700
+They are a finishing point .	They are not a finishing point .	pos_neg	7682
+" This was Birmingham , this was Philadelphia , " he said .	" This was not Birmingham , this was Philadelphia , " he said .	pos_neg	11554
+He is used to losing .	He is not used to losing .	pos_neg	12761
+The administration has finalized standards for Real ID-compliant driver 's licenses .	The administration has not finalized standards for Real ID-compliant driver 's licenses .	pos_neg	1316
+That kind of management was there .	That kind of management was not there .	pos_neg	16893
+Well , we like to rush into things .	Well , we do not like to rush into things .	pos_neg	2997
+It helps that we lack reflective time .	It does not help that we lack reflective time .	pos_neg	9955
+I deserved all of this pain .	I did not deserve all of this pain .	pos_neg	12535
+Now , I know if it would have been successful .	Now , I do not know if it would have been successful .	pos_neg	5271
+And while we are on things he told us .	And while we are on things he did not tell us .	pos_neg	17127
+His sums simply add up .	His sums simply do not add up .	pos_neg	21802
+I never received anything in a shipment that was prescribed to me .	I never received anything in a shipment that was not prescribed to me .	pos_neg	14017
+As I said , I am part of the legislative branch .	As I said , I am not part of the legislative branch .	pos_neg	6330
+The name Cleavage Creek is new .	The name Cleavage Creek is not new .	pos_neg	9434
+There were many of those .	There were not many of those .	pos_neg	20885
+The storm hit Germany as hard as expected Thursday night .	The storm did not hit Germany as hard as expected Thursday night .	pos_neg	6041
+The extent of the woman 's injuries are known .	The extent of the woman 's injuries are not known .	pos_neg	22547
+Even then , his appeal diminished .	Even then , his appeal did not diminish .	pos_neg	18942
+It just happens .	It just does not happen .	pos_neg	7246
+It has happened .	It has not happened .	pos_neg	16543
+Scammers discriminate by age .	Scammers do not discriminate by age .	pos_neg	18618
+It was fast but coming slowly and more and more .	It was not fast but coming slowly and more and more .	pos_neg	18807
+He said it is dangerous , just tricky .	He said it is not dangerous , just tricky .	pos_neg	17150
+Finding uncertified companies feeding the market is difficult .	Finding uncertified companies feeding the market is not difficult .	pos_neg	12036
+Alcoa disclosed terms of the deal .	Alcoa did not disclose terms of the deal .	pos_neg	20971
+The UAW has determined when voting will begin , Gettelfinger said .	The UAW has not determined when voting will begin , Gettelfinger said .	pos_neg	8499
+It is our fault he balked the run in .	It is not our fault he balked the run in .	pos_neg	18604
+It was him .	It was not him .	pos_neg	5225
+This milestone really pleased me .	This milestone really did not please me .	pos_neg	17371
+The report addressed threats to federal prosecutors .	The report did not address threats to federal prosecutors .	pos_neg	1273
+The company gave specifics .	The company did not give specifics .	pos_neg	5262
+The close call deterred them .	The close call did not deter them .	pos_neg	13368
+I know what the point was .	I do not know what the point was .	pos_neg	2735
+, are tax-deductible .	, are not tax-deductible .	pos_neg	15373
+It is a big deal .	It is not a big deal .	pos_neg	3268
+" I believe it will happen , " he said .	" I do not believe it will happen , " he said .	pos_neg	479
+I understand what 's the problem .	I do not understand what 's the problem .	pos_neg	22280
+I know why she got so mad about that .	I do not know why she got so mad about that .	pos_neg	193
+Financial terms of Torre 's book were disclosed .	Financial terms of Torre 's book were not disclosed .	pos_neg	2554
+It matters whether Kurd or Turk .	It does not matter whether Kurd or Turk .	pos_neg	19666
+But Colorado 's tiebreaker victory certainly came easy .	But Colorado 's tiebreaker victory certainly did not come easy .	pos_neg	18683
+It was going to be a nothing-to-nothing game .	It was not going to be a nothing-to-nothing game .	pos_neg	3073
+Making it happen was easy .	Making it happen was not easy .	pos_neg	2901
+Spafford said the Olsons ' story was unique .	Spafford said the Olsons ' story was not unique .	pos_neg	8502
+Independents are a lock for Democrats .	Independents are not a lock for Democrats .	pos_neg	520
+That is enormous and it is well known .	That is enormous and it is not well known .	pos_neg	15298
+I know what 's wrong with me !	I do not know what 's wrong with me !	pos_neg	6776
+Ali seemed convinced .	Ali did not seem convinced .	pos_neg	6332
+It is understand terms between the parties were discussed .	It is understand terms between the parties were not discussed .	pos_neg	21776
+An after-hours message left Thursday with Spears ' attorney was immediately returned .	An after-hours message left Thursday with Spears ' attorney was not immediately returned .	pos_neg	11847
+Spears commented after the hearing .	Spears did not comment after the hearing .	pos_neg	12755
+Once begun , I stopped .	Once begun , I did not stop .	pos_neg	17072
+You have to live in the D.C. metro area .	You do not have to live in the D.C. metro area .	pos_neg	20730
+And it is just the dung .	And it is not just the dung .	pos_neg	18993
+I was ratting him out .	I was not ratting him out .	pos_neg	6419
+The identities of the victims were immediately released .	The identities of the victims were not immediately released .	pos_neg	3598
+And that is all provided that there is a recession .	And that is all provided that there is not a recession .	pos_neg	20332
+" It is just an urban problem , " Marianos said .	" It is not just an urban problem , " Marianos said .	pos_neg	22301
+It was immediately known if they had legal representation .	It was not immediately known if they had legal representation .	pos_neg	17758
+She has run a state .	She has not run a state .	pos_neg	2546
+You need to invent something to get rich .	You do not need to invent something to get rich .	pos_neg	21921
+The center is a secure facility .	The center is not a secure facility .	pos_neg	20380
+Hoekstra said Craig 's explanations were credible .	Hoekstra said Craig 's explanations were not credible .	pos_neg	11393
+They knew what was going on .	They did not know what was going on .	pos_neg	18093
+He owns a television or radio .	He does not own a television or radio .	pos_neg	3655
+That is a very sexy feature to demo .	That is not a very sexy feature to demo .	pos_neg	8871
+I am trying to go out and make the Ryder Cup team .	I am not trying to go out and make the Ryder Cup team .	pos_neg	6873
+The police used pepper spray or a Taser , Hill said .	The police did not use pepper spray or a Taser , Hill said .	pos_neg	16559
+" I have made a fortune , " McLaughlin says .	" I have not made a fortune , " McLaughlin says .	pos_neg	19777
+He had an altogether easy ride , however .	He did not have an altogether easy ride , however .	pos_neg	9610
+It was about having a manager above me .	It was not about having a manager above me .	pos_neg	6100
+The power companies clearly believe their sites are at risk .	The power companies clearly believe their sites are not at risk .	pos_neg	11344
+He responded to a phone message last evening .	He did not respond to a phone message last evening .	pos_neg	14716
+It is whether you get there .	It is not whether you get there .	pos_neg	10884
+It was impossible that six diamonds would have been makable .	It was not impossible that six diamonds would have been makable .	pos_neg	11779
+Mr. Ubben complained that Acxiom was maximizing shareholder value .	Mr. Ubben complained that Acxiom was not maximizing shareholder value .	pos_neg	16560
+White is a color .	White is not a color .	pos_neg	22063
+I know how he found out about it .	I do not know how he found out about it .	pos_neg	12489
+Other Republicans were convinced .	Other Republicans were not convinced .	pos_neg	22010
+They were kind , but in a good way .	They were not kind , but in a good way .	pos_neg	18812
+The bottom line : Supplements reduce cancer risk .	The bottom line : Supplements do not reduce cancer risk .	pos_neg	18541
+" No , I am more confident , " he said .	" No , I am not more confident , " he said .	pos_neg	8472
+He identified the player .	He did not identify the player .	pos_neg	4498
+She said Scheetz was available .	She said Scheetz was not available .	pos_neg	6462
+" " I am going to have a public discussion about it .	" " I am not going to have a public discussion about it .	pos_neg	9472
+The cabins , the studios , were there .	The cabins , the studios , were not there .	pos_neg	9870
+And that is the end of their problems .	And that is not the end of their problems .	pos_neg	5600
+I am a cop .	I am not a cop .	pos_neg	20240
+That fazed Bryant .	That did not faze Bryant .	pos_neg	10886
+The company statement provided details .	The company statement did not provide details .	pos_neg	11901
+Taliban commanders were available for comment .	Taliban commanders were not available for comment .	pos_neg	4952
+He got far .	He did not get far .	pos_neg	20966
+They discuss Israel or politics , they said .	They do not discuss Israel or politics , they said .	pos_neg	19440
+It is newsworthy .	It is not newsworthy .	pos_neg	19160
+" " We are making a documentary for the History Channel .	" " We are not making a documentary for the History Channel .	pos_neg	14005
+I think they call that a concussion .	I do not think they call that a concussion .	pos_neg	2188
+But I have a million dollars .	But I do not have a million dollars .	pos_neg	11302
+I believe she took her own life .	I do not believe she took her own life .	pos_neg	17292
+He was quite ready .	He was not quite ready .	pos_neg	11707
+Well , it has to be like that .	Well , it does not have to be like that .	pos_neg	2063
+If you show up , you lose .	If you do not show up , you lose .	pos_neg	13714
+The U.S. Army was immediately available for comment .	The U.S. Army was not immediately available for comment .	pos_neg	17114
+He believes the taxpayer should have to pay .	He does not believe the taxpayer should have to pay .	pos_neg	10544
+Unfortunately , I believe I would on this occasion .	Unfortunately , I do not believe I would on this occasion .	pos_neg	4569
+John has the same track record .	John does not have the same track record .	pos_neg	2970
+I am going to be repeating Republican talking points .	I am not going to be repeating Republican talking points .	pos_neg	12966
+It affected the Americans at the start .	It did not affect the Americans at the start .	pos_neg	5620
+I feel that way now in the NFL .	I do not feel that way now in the NFL .	pos_neg	21032
+And we felt like we upheld it last year .	And we did not feel like we upheld it last year .	pos_neg	7663
+It was immediately clear whether Chacon had an attorney .	It was not immediately clear whether Chacon had an attorney .	pos_neg	4410
+I care about that .	I do not care about that .	pos_neg	17264
+I shy away from that .	I do not shy away from that .	pos_neg	16089
+It is clear exactly what Colonel Selph is being investigated for .	It is not clear exactly what Colonel Selph is being investigated for .	pos_neg	22736
+I knew what a doll was .	I did not know what a doll was .	pos_neg	10275
+And so this is the end .	And so this is not the end .	pos_neg	12667
+She wants to give up , I can tell you .	She does not want to give up , I can tell you .	pos_neg	22197
+But Saks 's legal troubles are over .	But Saks 's legal troubles are not over .	pos_neg	1516
+This is going to be a simple operation .	This is not going to be a simple operation .	pos_neg	1942
+He has asked Coach Tom Coughlin why .	He has not asked Coach Tom Coughlin why .	pos_neg	776
+The opposition fielded a candidate .	The opposition did not field a candidate .	pos_neg	13425
+You have the mind to be a police officer .	You do not have the mind to be a police officer .	pos_neg	1868
+Names of the victims had been released .	Names of the victims had not been released .	pos_neg	21793
+A. It addressed the central issue .	A. It did not address the central issue .	pos_neg	4112
+Financial terms of the transactions were disclosed .	Financial terms of the transactions were not disclosed .	pos_neg	15190
+You get it .	You do not get it .	pos_neg	5986
+Family members say they believe DeOnt ¿ had a gun .	Family members say they do not believe DeOnt ¿ had a gun .	pos_neg	6487
+That is a problem .	That is not a problem .	pos_neg	14742
+Using smell as a branding technique is new .	Using smell as a branding technique is not new .	pos_neg	3814
+But in Patharghata , residents told CNN they were ready .	But in Patharghata , residents told CNN they were not ready .	pos_neg	3414
+But that is a legitimate position .	But that is not a legitimate position .	pos_neg	2205
+Please make me go to Brooklyn .	Please do not make me go to Brooklyn .	pos_neg	19149
+" I get it , " he said .	" I do not get it , " he said .	pos_neg	3522
+Urquhart said investigators had determined a motive in the slayings .	Urquhart said investigators had not determined a motive in the slayings .	pos_neg	3597
+We like to make a fight with Turkey .	We do not like to make a fight with Turkey .	pos_neg	2589
+The shift happened overnight .	The shift did not happen overnight .	pos_neg	7474
+LC : We are going to .	LC : We are not going to .	pos_neg	5669
+But it is the goal to kill people .	But it is not the goal to kill people .	pos_neg	20927
+" " He is shy about overcharging a case .	" " He is not shy about overcharging a case .	pos_neg	7375
+The United States has signed the treaty .	The United States has not signed the treaty .	pos_neg	11646
+I see how we can win .	I do not see how we can win .	pos_neg	12454
+The generals dared kill her .	The generals did not dare kill her .	pos_neg	315
+But it is always love at first surf for parents .	But it is not always love at first surf for parents .	pos_neg	15824
+It is always pollution .	It is not always pollution .	pos_neg	17160
+I know what fantasy world he was living in .	I do not know what fantasy world he was living in .	pos_neg	21720
+It was immediately clear when the center would open .	It was not immediately clear when the center would open .	pos_neg	18377
+Other details were immediately available .	Other details were not immediately available .	pos_neg	6266
+I worry about it .	I do not worry about it .	pos_neg	21545
+Yet adopting this or another proposed blend is simple .	Yet adopting this or another proposed blend is not simple .	pos_neg	4348
+They obviously enjoy what they are doing .	They obviously do not enjoy what they are doing .	pos_neg	205
+The company has given a cost for its transition .	The company has not given a cost for its transition .	pos_neg	1280
+But that is all !	But that is not all !	pos_neg	3531
+It was a fluke that they did well .	It was not a fluke that they did well .	pos_neg	12744
+I care .	I do not care .	pos_neg	6537
+We certainly wanted it to get to this point .	We certainly did not want it to get to this point .	pos_neg	6093
+It was Ryan 's job to worry about team chemistry .	It was not Ryan 's job to worry about team chemistry .	pos_neg	11091
+" It was just a brain signal , " Menon said .	" It was not just a brain signal , " Menon said .	pos_neg	18402
+This got a mention .	This did not get a mention .	pos_neg	21052
+If you like them , I have others .	If you do not like them , I have others .	pos_neg	19037
+I am gonna let ' em go .	I am not gonna let ' em go .	pos_neg	15716
+The diarist is always prescient .	The diarist is not always prescient .	pos_neg	13381
+It was because she needed the money .	It was not because she needed the money .	pos_neg	1353
+That means there are no buyers , Piazza said .	That does not mean there are no buyers , Piazza said .	pos_neg	10723
+However , I am ready for the full Chi experience .	However , I am not ready for the full Chi experience .	pos_neg	16714
+It is over .	It is not over .	pos_neg	2016
+Mr. Morris returned a call for comment on Friday .	Mr. Morris did not return a call for comment on Friday .	pos_neg	16197
+The malfunction is an immediate problem .	The malfunction is not an immediate problem .	pos_neg	5912
+But residents have given up hope .	But residents have not given up hope .	pos_neg	2455
+That is just a class issues .	That is not just a class issues .	pos_neg	14076
+And she fell off , he grinned .	And she did not fall off , he grinned .	pos_neg	4163
+He gave details .	He did not give details .	pos_neg	657
+The negativity enters us .	The negativity does not enter us .	pos_neg	21184
+And I mean that cynically .	And I do not mean that cynically .	pos_neg	1939
+" I know , " he added .	" I do not know , " he added .	pos_neg	7092
+This is about lobbyists .	This is not about lobbyists .	pos_neg	21648
+It means the game 's over for him .	It does not mean the game 's over for him .	pos_neg	5242
+" It is my world , " he said .	" It is not my world , " he said .	pos_neg	6439
+" I know , " with an expletive added .	" I do not know , " with an expletive added .	pos_neg	14256
+This is a get-rich scheme .	This is not a get-rich scheme .	pos_neg	947
+Apple was immediately available for comment .	Apple was not immediately available for comment .	pos_neg	14619
+We play boring rugby .	We do not play boring rugby .	pos_neg	22720
+Be fooled .	Be not fooled .	pos_neg	7378
+But the discovery itself was made in Mexico .	But the discovery itself was not made in Mexico .	pos_neg	20472
+So it is either a cultural mainstay or it is .	So it is either a cultural mainstay or it is not .	pos_neg	21317
+But it was good enough .	But it was not good enough .	pos_neg	7886
+The authorities identified the dead man .	The authorities did not identify the dead man .	pos_neg	21896
+We are upset about that .	We are not upset about that .	pos_neg	16437
+So I am 5 foot 10 .	So I am not 5 foot 10 .	pos_neg	14639
+But Pepper was totally wrong .	But Pepper was not totally wrong .	pos_neg	13202
+There is a straight line in it - everything is curved .	There is not a straight line in it - everything is curved .	pos_neg	17684
+The VA mileage rate has changed since 1977 .	The VA mileage rate has not changed since 1977 .	pos_neg	10934
+The Bush administration took issue with the findings .	The Bush administration did not take issue with the findings .	pos_neg	13284
+You need to apply for a license .	You do not need to apply for a license .	pos_neg	13072
+I grew up in a household where people talked about opera .	I did not grow up in a household where people talked about opera .	pos_neg	18830
+I am sure how to operate the pants .	I am not sure how to operate the pants .	pos_neg	5713
+This device bends the constitution but breaks it .	This device bends the constitution but does not break it .	pos_neg	21766
+He said no ; the guy is taken seriously .	He said no ; the guy is not taken seriously .	pos_neg	18566
+Maybe you have .	Maybe you have not .	pos_neg	4808
+It is the first warning about Avandia 's heart effects .	It is not the first warning about Avandia 's heart effects .	pos_neg	499
+I think the government is doing enough .	I do not think the government is doing enough .	pos_neg	546
+That meant subordinating national security to polling data .	That did not mean subordinating national security to polling data .	pos_neg	16659
+In Louisiana , the infrastructure was there .	In Louisiana , the infrastructure was not there .	pos_neg	8484
+It is likely to be .	It is not likely to be .	pos_neg	15971
+A private autopsy conducted for Gotbaum 's family has been completed .	A private autopsy conducted for Gotbaum 's family has not been completed .	pos_neg	20975
+Or bother .	Or do not bother .	pos_neg	22557
+He has played well over the past three weeks .	He has not played well over the past three weeks .	pos_neg	5138
+It is so good for experienced players .	It is not so good for experienced players .	pos_neg	9301
+It was a pretty goal .	It was not a pretty goal .	pos_neg	1112
+But you resort to violence .	But you do not resort to violence .	pos_neg	12438
+It is right ethically .	It is not right ethically .	pos_neg	16872
+Lawyers fighting the demolition say they have exhausted their legal options .	Lawyers fighting the demolition say they have not exhausted their legal options .	pos_neg	4505
+Clinton was the only Democratic candidate due at the picnic .	Clinton was not the only Democratic candidate due at the picnic .	pos_neg	4773
+Critics of the ordinance said it went far enough .	Critics of the ordinance said it did not go far enough .	pos_neg	431
+This is litter , it is murder .	This is not litter , it is murder .	pos_neg	16977
+She is trying her hardest on every point .	She is not trying her hardest on every point .	pos_neg	2500
+Kersteen says Polson 's using " re-elect " is right .	Kersteen says Polson 's using " re-elect " is not right .	pos_neg	5941
+It is vibrating .	It is not vibrating .	pos_neg	2794
+That difference was statistically significant .	That difference was not statistically significant .	pos_neg	11773
+Sometimes there are political guidelines ; sometimes there are .	Sometimes there are political guidelines ; sometimes there are not .	pos_neg	21765
+It is a new Alex .	It is not a new Alex .	pos_neg	18245
+, were answered .	, were not answered .	pos_neg	2467
+I believe people expect me to be perfect .	I do not believe people expect me to be perfect .	pos_neg	12635
+They are the only ones .	They are not the only ones .	pos_neg	18914
+He took care of himself .	He did not take care of himself .	pos_neg	10520
+Their sums simply add up .	Their sums simply do not add up .	pos_neg	15319
+( 1 ) Most know they are infected .	( 1 ) Most do not know they are infected .	pos_neg	1478
+But really , let 's get too carried away .	But really , let 's not get too carried away .	pos_neg	8598
+This was the girl power we had in mind .	This was not the girl power we had in mind .	pos_neg	9049
+Bush expected to cross paths with Ahmadinejad in the U.N. building .	Bush did not expect to cross paths with Ahmadinejad in the U.N. building .	pos_neg	1804
+But in doing so , they are starting from scratch .	But in doing so , they are not starting from scratch .	pos_neg	5387
+Iianl was so impressed .	Iianl was not so impressed .	pos_neg	585
+He doubted that there were dangerous men there .	He did not doubt that there were dangerous men there .	pos_neg	16752
+Laboratory results showed the disease was present .	Laboratory results showed the disease was not present .	pos_neg	18311
+Financial bubbles are benign .	Financial bubbles are not benign .	pos_neg	22265
+People who borrow this book are Heroes .	People who borrow this book are not Heroes .	pos_neg	8137
+So I was trying to melt out there .	So I was not trying to melt out there .	pos_neg	15144
+Yes , but expect miracles .	Yes , but do not expect miracles .	pos_neg	5122
+I hit a forehand for two and a half months .	I did not hit a forehand for two and a half months .	pos_neg	6319
+When they got here they discovered the streets were paved with gold .	When they got here they discovered the streets were not paved with gold .	pos_neg	18714
+Oh , no he is !	Oh , no he is not !	pos_neg	14975
+But they acknowledge that they know what would happen next .	But they acknowledge that they do not know what would happen next .	pos_neg	6050
+She got it .	She did not get it .	pos_neg	15533
+The answer is entirely clear .	The answer is not entirely clear .	pos_neg	10481
+Unfortunately that is going to happen .	Unfortunately that is not going to happen .	pos_neg	21179
+I am surprised .	I am not surprised .	pos_neg	6165
+Television replays proved that the ball had crossed the touchline .	Television replays proved that the ball had not crossed the touchline .	pos_neg	7787
+And I am doing that .	And I am not doing that .	pos_neg	18227
+But he came to participate .	But he did not come to participate .	pos_neg	12022
+Details about how the technology works were released .	Details about how the technology works were not released .	pos_neg	6306
+And it is just how he pitches .	And it is not just how he pitches .	pos_neg	2801
+The get-up is so bad after all .	The get-up is not so bad after all .	pos_neg	645
+It is only the Sanzar countries that value the Lions .	It is not only the Sanzar countries that value the Lions .	pos_neg	19367
+This is to say Lopez is without talent .	This is not to say Lopez is without talent .	pos_neg	1772
+Other details of the agreement are disclosed .	Other details of the agreement are not disclosed .	pos_neg	18051
+The site is intended to be a one-stop shop for travel .	The site is not intended to be a one-stop shop for travel .	pos_neg	20193
+But studies have always borne out the initial promise .	But studies have not always borne out the initial promise .	pos_neg	14387
+Clinton : I knew that .	Clinton : I did not know that .	pos_neg	19760
+The White House challenged Sammon 's account .	The White House did not challenge Sammon 's account .	pos_neg	16144
+Pritchard believed it .	Pritchard did not believe it .	pos_neg	2842
+The Lions have won a league championship since 1961 .	The Lions have not won a league championship since 1961 .	pos_neg	15262
+" It was actually a suicide note , " Phear continued .	" It was not actually a suicide note , " Phear continued .	pos_neg	13592
+They stopped at mangling his surname .	They did not stop at mangling his surname .	pos_neg	14323
+I know if I could do that .	I do not know if I could do that .	pos_neg	12852
+Whatever Wilde 's talents were , originality was one of them .	Whatever Wilde 's talents were , originality was not one of them .	pos_neg	161
+It affects what I am doing .	It does not affect what I am doing .	pos_neg	15404
+He elaborated on how the matter had been settled .	He did not elaborate on how the matter had been settled .	pos_neg	6322
+Alas , it was enough .	Alas , it was not enough .	pos_neg	15761
+He was afraid to experiment .	He was not afraid to experiment .	pos_neg	13699
+But Reaching The Podium Is Easy .	But Reaching The Podium Is Not Easy .	pos_neg	1514
+An after-hours call to Salinas ' spokeswoman was immediately returned .	An after-hours call to Salinas ' spokeswoman was not immediately returned .	pos_neg	12336
+Maybe this is working .	Maybe this is not working .	pos_neg	18768
+It is black and white , rather shades of grey .	It is not black and white , rather shades of grey .	pos_neg	18817
+It is going to be like that this year .	It is not going to be like that this year .	pos_neg	2138
+PLEASE invite me to breakfast .	PLEASE do not invite me to breakfast .	pos_neg	685
+I think there is an apology to cover that one .	I do not think there is an apology to cover that one .	pos_neg	3233
+Officials say the plane 's emergency locator was activated .	Officials say the plane 's emergency locator was not activated .	pos_neg	2171
+THEY come but they go .	THEY come but they do not go .	pos_neg	9300
+Bush said the legislation put the neediest children first .	Bush said the legislation did not put the neediest children first .	pos_neg	6674
+But he was averse to a bit of bluffing .	But he was not averse to a bit of bluffing .	pos_neg	21114
+The Republican base has moved closer to McCain .	The Republican base has not moved closer to McCain .	pos_neg	7081
+But he sounded confident .	But he did not sound confident .	pos_neg	17753
+Yet those were his own leanings .	Yet those were not his own leanings .	pos_neg	13294
+They are afraid , believe me .	They are not afraid , believe me .	pos_neg	22314
+But here we know that .	But here we do not know that .	pos_neg	22704
+The league table lies .	The league table does not lie .	pos_neg	7988
+You get to figure it out .	You do not get to figure it out .	pos_neg	9755
+These plans are cheap .	These plans are not cheap .	pos_neg	4369
+I am going to score every week .	I am not going to score every week .	pos_neg	10157
+It matters where Raikkonen finishes .	It does not matter where Raikkonen finishes .	pos_neg	2741
+I agree with sanctions on Myanmar .	I do not agree with sanctions on Myanmar .	pos_neg	10830
+The U.S. government confesses this reality .	The U.S. government does not confess this reality .	pos_neg	52
+" This is one of those , " Childress said .	" This is not one of those , " Childress said .	pos_neg	6797
+But Obama said that .	But Obama did not say that .	pos_neg	13760
+Most of these items are official .	Most of these items are not official .	pos_neg	18703
+Bollea 's injuries are life-threatening .	Bollea 's injuries are not life-threatening .	pos_neg	21851
+£ 250million in the red is sustainable .	£ 250million in the red is not sustainable .	pos_neg	396
+It gave details .	It did not give details .	pos_neg	10409
+" Our kids were just shot , " he added .	" Our kids were not just shot , " he added .	pos_neg	1823
+But the woman was listening to him .	But the woman was not listening to him .	pos_neg	8251
+You have to be a Christian to make that decision .	You do not have to be a Christian to make that decision .	pos_neg	11383
+But it is changing fast enough .	But it is not changing fast enough .	pos_neg	1745
+Historically , it has always been such an innocent experience .	Historically , it has not always been such an innocent experience .	pos_neg	21779
+They feel like guys are the competition .	They do not feel like guys are the competition .	pos_neg	4617
+The works have been recently appraised .	The works have not been recently appraised .	pos_neg	19055
+It is easy to play Serena and Venus .	It is not easy to play Serena and Venus .	pos_neg	10500
+But even this is ideal .	But even this is not ideal .	pos_neg	7882
+It is always .	It is not always .	pos_neg	21783
+The men targeted in the attacks were killed , police said .	The men targeted in the attacks were not killed , police said .	pos_neg	3272
+The White House responded to a request for comment on Sunday .	The White House did not respond to a request for comment on Sunday .	pos_neg	16021
+Michael Matthews was drafted in April .	Michael Matthews was not drafted in April .	pos_neg	21491
+But this needs to be the case .	But this does not need to be the case .	pos_neg	2585
+According to Judge Nancy Oesterle this is uncommon .	According to Judge Nancy Oesterle this is not uncommon .	pos_neg	15246
+These wines were without problems .	These wines were not without problems .	pos_neg	6034
+The suspect escaped and the vehicle was traced .	The suspect escaped and the vehicle was not traced .	pos_neg	360
+" I think so , " she said .	" I do not think so , " she said .	pos_neg	13922
+He sees it as the oppressed becoming the oppressor .	He does not see it as the oppressed becoming the oppressor .	pos_neg	1336
+Koizumi has said he intends to run .	Koizumi has said he does not intend to run .	pos_neg	3052
+That in itself is unusual .	That in itself is not unusual .	pos_neg	21791
+But it is just Law 's fault this is bad .	But it is not just Law 's fault this is bad .	pos_neg	16057
+But they want to bother with it .	But they do not want to bother with it .	pos_neg	8729
+Federici and Williams said the apology went far enough .	Federici and Williams said the apology did not go far enough .	pos_neg	1294
+They want to hand him over .	They do not want to hand him over .	pos_neg	4904
+The oyster was dodgy , Winner contradicts testily .	The oyster was not dodgy , Winner contradicts testily .	pos_neg	9086
+She bothered nobody .	She did not bother nobody .	pos_neg	9519
+This was a difficult sell .	This was not a difficult sell .	pos_neg	19716
+And you skipped a beat .	And you did not skip a beat .	pos_neg	1851
+The rifle regulations are at issue before the Supreme Court .	The rifle regulations are not at issue before the Supreme Court .	pos_neg	8757
+It is the first time that Chemistry.com has hit on this theme .	It is not the first time that Chemistry.com has hit on this theme .	pos_neg	12864
+I know why my daughter did what she did .	I do not know why my daughter did what she did .	pos_neg	6275
+The overall approach is a novelty .	The overall approach is not a novelty .	pos_neg	9146
+James Hansen agrees .	James Hansen does not agree .	pos_neg	21653
+But if you are an economist , that rational argument sounds wrong .	But if you are not an economist , that rational argument sounds wrong .	pos_neg	7509
+She was complaining , though .	She was not complaining , though .	pos_neg	21290
+" Our alumni are investment bankers , " he says .	" Our alumni are not investment bankers , " he says .	pos_neg	3726
+Most Tamils in areas controlled by the Tamil Tigers vote .	Most Tamils in areas controlled by the Tamil Tigers do not vote .	pos_neg	8337
+But experts are convinced by the findings .	But experts are not convinced by the findings .	pos_neg	5980
+That augurs well for a country aiming for high-tech status .	That does not augur well for a country aiming for high-tech status .	pos_neg	6667
+Company representatives were immediately available for comment .	Company representatives were not immediately available for comment .	pos_neg	15231
+It was clear why the ship began taking on water .	It was not clear why the ship began taking on water .	pos_neg	1174
+This was your typical dog show .	This was not your typical dog show .	pos_neg	6496
+They go to school .	They do not go to school .	pos_neg	12175
+But let the scarred and dusty boots fool you .	But do not let the scarred and dusty boots fool you .	pos_neg	9926
+I think five years is enough .	I do not think five years is enough .	pos_neg	7672
+Mr. Sarkozy has commented on the case .	Mr. Sarkozy has not commented on the case .	pos_neg	1421
+We fear for our planet .	We need not fear for our planet .	pos_neg	18244
+We are moving out of Iowa .	We are not moving out of Iowa .	pos_neg	19614
+Rwandan government officials were immediately available to comment .	Rwandan government officials were not immediately available to comment .	pos_neg	11109
+The concern is only for the children of immigrants .	The concern is not only for the children of immigrants .	pos_neg	4954
+He has started since Aug. 25 .	He has not started since Aug. 25 .	pos_neg	10454
+" " Upgrading is automatic .	" " Upgrading is not automatic .	pos_neg	7443
+It was a jolt .	It was not a jolt .	pos_neg	5577
+Two of our testers had sampled these elsewhere and were impressed .	Two of our testers had sampled these elsewhere and were not impressed .	pos_neg	19872
+To say this was inevitable is an understatement .	To say this was not inevitable is an understatement .	pos_neg	11842
+Some situations are so clear-cut .	Some situations are not so clear-cut .	pos_neg	13505
+I think you can make the same team go every year .	I do not think you can make the same team go every year .	pos_neg	14334
+They think it is negative .	They do not think it is negative .	pos_neg	9395
+We are here to rule the world .	We are not here to rule the world .	pos_neg	1258
+It is like it used to be .	It is not like it used to be .	pos_neg	17337
+The new style is working so well .	The new style is not working so well .	pos_neg	18607
+I think it is all his fault .	I do not think it is all his fault .	pos_neg	21488
+They take the actual process for granted .	They do not take the actual process for granted .	pos_neg	4972
+A prison sentence is mandatory under current law .	A prison sentence is not mandatory under current law .	pos_neg	2204
+The police said what the motive was .	The police did not say what the motive was .	pos_neg	4396
+The authorities said how the fire was set .	The authorities did not say how the fire was set .	pos_neg	14829
+The candidate himself was on the bill .	The candidate himself was not on the bill .	pos_neg	2987
+China is a superpower .	China is not a superpower .	pos_neg	2334
+Surprisingly , the Consumer Product Safety Commission recommends them .	Surprisingly , the Consumer Product Safety Commission does not recommend them .	pos_neg	14458
+It is fair to say that I exploited them .	It is not fair to say that I exploited them .	pos_neg	7668
+Big sister Paris was at the show .	Big sister Paris was not at the show .	pos_neg	12174
+That is exactly what happened .	That is not exactly what happened .	pos_neg	6101
+We wrote one postcard or buy one souvenir .	We did not write one postcard or buy one souvenir .	pos_neg	4064
+The world-famous San Diego Zoo was immediately threatened .	The world-famous San Diego Zoo was not immediately threatened .	pos_neg	1739
+Lawmakers were alone .	Lawmakers were not alone .	pos_neg	19525
+So far people seem to mind .	So far people do not seem to mind .	pos_neg	8819
+My room was ready 30 minutes after check-in time .	My room was not ready 30 minutes after check-in time .	pos_neg	9877
+It is an entire system or an entire schematic thing .	It is not an entire system or an entire schematic thing .	pos_neg	5820
+He is a person people really identify with .	He is not a person people really identify with .	pos_neg	1127
+I think he had really worked it out .	I do not think he had really worked it out .	pos_neg	13008
+It was to be .	It was not to be .	pos_neg	544
+" This is just my company , " he said .	" This is not just my company , " he said .	pos_neg	19293
+He gives a point .	He does not give a point .	pos_neg	18571
+It pushed for success .	It did not push for success .	pos_neg	7234
+But even that drastic surgery is 100 percent effective .	But even that drastic surgery is not 100 percent effective .	pos_neg	4731
+No motive had been determine and investigators had found a weapon .	No motive had been determine and investigators had not found a weapon .	pos_neg	16468
+But it was necessary .	But it was not necessary .	pos_neg	14898
+I am a student at Columbia .	I am not a student at Columbia .	pos_neg	13840
+But we are going to self-destruct .	But we are not going to self-destruct .	pos_neg	20623
+Calls to the management company , RiverBay Corporation , were immediately returned .	Calls to the management company , RiverBay Corporation , were not immediately returned .	pos_neg	4149
+The Prime Minister was a bottler .	The Prime Minister was not a bottler .	pos_neg	757
+" They are following you , " I said .	" They are not following you , " I said .	pos_neg	11285
+Three of the cases are students .	Three of the cases are not students .	pos_neg	17211
+A message seeking comment from Scarpa 's lawyer was immediately returned .	A message seeking comment from Scarpa 's lawyer was not immediately returned .	pos_neg	18125
+It disclosed the size of its greenhouse gas emissions .	It did not disclose the size of its greenhouse gas emissions .	pos_neg	2651
+" I was going to get cheated , " Zaun said .	" I was not going to get cheated , " Zaun said .	pos_neg	14114
+This is a handful of Klansmen and neo-Nazis but widespread anger .	This is not a handful of Klansmen and neo-Nazis but widespread anger .	pos_neg	767
+We need members of Congress telling our commanders what to do .	We do not need members of Congress telling our commanders what to do .	pos_neg	11464
+" Things are all well in New Orleans , " he said .	" Things are not all well in New Orleans , " he said .	pos_neg	2564
+However , the public area was full Tuesday .	However , the public area was not full Tuesday .	pos_neg	9882
+They look like great friends now .	They do not look like great friends now .	pos_neg	17354
+It worked out now .	It did not work out now .	pos_neg	2715
+But it is in the long-term best interests of our franchise .	But it is not in the long-term best interests of our franchise .	pos_neg	2865
+" I gamble , " said rapper Lil Wayne .	" I do not gamble , " said rapper Lil Wayne .	pos_neg	8903
+None of this stuff is emotional .	None of this stuff is not emotional .	pos_neg	12591
+Clinton has dodged all confrontations with Democratic interests .	Clinton has not dodged all confrontations with Democratic interests .	pos_neg	12709
+Who brought up the topic patient or doctor was asked .	Who brought up the topic patient or doctor was not asked .	pos_neg	4733
+You have to look like a Playboy bunny down there .	You do not have to look like a Playboy bunny down there .	pos_neg	22208
+The technology is immune to glitches , though .	The technology is not immune to glitches , though .	pos_neg	17526
+But he has to like it .	But he does not have to like it .	pos_neg	10017
+It was gut .	It was not gut .	pos_neg	7158
+People want to hear it .	People do not want to hear it .	pos_neg	2412
+But Chesney 's buying into all the hype .	But Chesney 's not buying into all the hype .	pos_neg	11790
+The NFL is a social club .	The NFL is not a social club .	pos_neg	8748
+Brooklyn was working for her .	Brooklyn was not working for her .	pos_neg	627
+His selection was by chance , company representatives said .	His selection was not by chance , company representatives said .	pos_neg	14531
+I know how many there were .	I do not know how many there were .	pos_neg	8592
+America belongs to them , America belongs to us .	America does not belong to them , America belongs to us .	pos_neg	288
+We have forgotten about you .	We have not forgotten about you .	pos_neg	3219
+My mother and father were amused .	My mother and father were not amused .	pos_neg	3924
+" " It is too late for ministers to think again .	" " It is not too late for ministers to think again .	pos_neg	16735
+Information about survivors was available .	Information about survivors was not available .	pos_neg	15056
+They are the people who perpetrate outrages like Virginia Tech .	They are not the people who perpetrate outrages like Virginia Tech .	pos_neg	12005
+You get that anywhere else .	You do not get that anywhere else .	pos_neg	18020
+Government officials were immediately available for comment on the allegations .	Government officials were not immediately available for comment on the allegations .	pos_neg	14056
+" It is just for people starting out , " she said .	" It is not just for people starting out , " she said .	pos_neg	22142
+The local market comes without challenges .	The local market does not come without challenges .	pos_neg	12925
+They fulfiled their promises .	They did not fulfill their promises .	pos_neg	21517
+The film presents new evidence of fraud .	The film does not present new evidence of fraud .	pos_neg	13078
+Calls placed to Henss ' residence were answered Monday .	Calls placed to Henss ' residence were not answered Monday .	pos_neg	490
+But that is strictly true : Schmidt-Jones is far from obscure .	But that is not strictly true : Schmidt-Jones is far from obscure .	pos_neg	20399
+But that is the case here .	But that is not the case here .	pos_neg	5882
+To be clear , there is a magic solution .	To be clear , there is not a magic solution .	pos_neg	13401
+" " I consider myself a mobilizer .	" " I do not consider myself a mobilizer .	pos_neg	836
+Because these activities guarantee income .	Because these activities do not guarantee income .	pos_neg	15071
+ComScore responded to a request to comment .	ComScore did not respond to a request to comment .	pos_neg	8509
+Forward- looking statements are statements that are historical facts .	Forward- looking statements are statements that are not historical facts .	pos_neg	21752

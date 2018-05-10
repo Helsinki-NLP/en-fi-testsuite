@@ -1,0 +1,500 @@
+When I arrived , he was parading 20 yards behind me .	When I arrived , he was parading 20 yards in front of me .	local_prep:behind:in_front_of	539
+They often go outside to discuss impact of the weather .	They often go inside to discuss impact of the weather .	local_prep:outside:inside	1182
+Officials outside China took a different view .	Officials inside China took a different view .	local_prep:outside:inside	438
+The receivers are a step above mediocre and the play-calling is unimaginative .	The receivers are a step below mediocre and the play-calling is unimaginative .	local_prep:above:below	143
+The war memorial is located outside my office .	The war memorial is located inside my office .	local_prep:outside:inside	182
+Jill Dando was murdered outside her west London home in April 1999 .	Jill Dando was murdered inside her west London home in April 1999 .	local_prep:outside:inside	577
+The rise in spending was slightly above forecasts for a 0.4 percent gain .	The rise in spending was slightly below forecasts for a 0.4 percent gain .	local_prep:above:below	288
+Can we expand life outside Earth 's cradle ?	Can we expand life inside Earth 's cradle ?	local_prep:outside:inside	322
+You can look outside my mouth if you want .	You can look inside my mouth if you want .	local_prep:outside:inside	1100
+Wertman 's days now are largely spent behind the TV .	Wertman 's days now are largely spent in front of the TV .	local_prep:behind:in_front_of	1090
+However , the sum paid is usually above its market value .	However , the sum paid is usually below its market value .	local_prep:above:below	1045
+Any BMI above 35 is considered obese .	Any BMI below 35 is considered obese .	local_prep:above:below	1086
+The defense surrendered 518 yards , which was 45 yards above its average .	The defense surrendered 518 yards , which was 45 yards below its average .	local_prep:above:below	205
+Shannon was so isolated -- all day alone behind a computer .	Shannon was so isolated -- all day alone in front of a computer .	local_prep:behind:in_front_of	977
+How do you know what 's going on outside that window ?	How do you know what 's going on inside that window ?	local_prep:outside:inside	934
+For this list we consulted experts both inside and outside the country .	For this list we consulted experts both inside and inside the country .	local_prep:outside:inside	1197
+The net 20 percent increase is eight points above the national average .	The net 20 percent increase is eight points below the national average .	local_prep:above:below	92
+That is about six inches above normal .	That is about six inches below normal .	local_prep:above:below	1262
+The museum is outside Hong Kong Park .	The museum is inside Hong Kong Park .	local_prep:outside:inside	383
+The jacket has a large hole in it just above the heart .	The jacket has a large hole in it just below the heart .	local_prep:above:below	739
+Meanwhile , there was turmoil outside the nascent campaign .	Meanwhile , there was turmoil inside the nascent campaign .	local_prep:outside:inside	846
+Outside the Kremlin , it is a different story .	Inside the Kremlin , it is a different story .	local_prep:outside:inside	406
+No other state is above 300 percent .	No other state is below 300 percent .	local_prep:above:below	305
+I did not have any connection outside of Burma .	I did not have any connection inside of Burma .	local_prep:outside:inside	467
+Sources outside Myanmar were unable to confirm these reports .	Sources inside Myanmar were unable to confirm these reports .	local_prep:outside:inside	555
+Prices are all above $ 1 million .	Prices are all below $ 1 million .	local_prep:above:below	1058
+The robot is not in danger because it lies outside the impact zone .	The robot is not in danger because it lies inside the impact zone .	local_prep:outside:inside	366
+A temporary cover was placed above the two toilets .	A temporary cover was placed below the two toilets .	local_prep:above:below	1138
+Offerman apologized inside and outside the courtroom Tuesday .	Offerman apologized inside and inside the courtroom Tuesday .	local_prep:outside:inside	278
+We want to move outside the camps but it is dangerous .	We want to move inside the camps but it is dangerous .	local_prep:outside:inside	530
+She does not disparage the father behind the son .	She does not disparage the father in front of the son .	local_prep:behind:in_front_of	904
+There were a few chilly vibes outside the ropes .	There were a few chilly vibes inside the ropes .	local_prep:outside:inside	396
+She held a protest sign behind her .	She held a protest sign in front of her .	local_prep:behind:in_front_of	1171
+That is 9 cents above the record set in May .	That is 9 cents below the record set in May .	local_prep:above:below	179
+Participants calling from outside the United States may dial 1-719-325-4778 .	Participants calling from inside the United States may dial 1-719-325-4778 .	local_prep:outside:inside	358
+Outside the bathroom , the tub was gigantic and hallucinatory in its whiteness .	Inside the bathroom , the tub was gigantic and hallucinatory in its whiteness .	local_prep:outside:inside	24
+That raised the possibility that the immune-suppressing protein was produced outside the joint .	That raised the possibility that the immune-suppressing protein was produced inside the joint .	local_prep:outside:inside	472
+Above data does not include any house advertising activity .	Below data does not include any house advertising activity .	local_prep:above:below	1246
+Local polls have put his popularity among residents at above 70 percent .	Local polls have put his popularity among residents at below 70 percent .	local_prep:above:below	44
+Still , he quickly gave the Americans considerable leeway to operate outside Pakistan .	Still , he quickly gave the Americans considerable leeway to operate inside Pakistan .	local_prep:outside:inside	1248
+The deal with XL covers all territories outside North America .	The deal with XL covers all territories inside North America .	local_prep:outside:inside	441
+Last winter , Glennon and Morgan met outside Cassell Coliseum often .	Last winter , Glennon and Morgan met inside Cassell Coliseum often .	local_prep:outside:inside	924
+There was , however , a prodigious talent for combat lurking outside him .	There was , however , a prodigious talent for combat lurking inside him .	local_prep:outside:inside	1188
+Outside each she discovered a different and increasing horror .	Inside each she discovered a different and increasing horror .	local_prep:outside:inside	54
+Those earning above £ 35,100 will pay marginally less than this year .	Those earning below £ 35,100 will pay marginally less than this year .	local_prep:above:below	998
+It is reproduced above for your delectation .	It is reproduced below for your delectation .	local_prep:above:below	878
+You could already see outside the house .	You could already see inside the house .	local_prep:outside:inside	96
+Bone marrow is the sponge-like material found outside our bones .	Bone marrow is the sponge-like material found inside our bones .	local_prep:outside:inside	935
+It felt like being outside an enormous brain .	It felt like being inside an enormous brain .	local_prep:outside:inside	409
+It is well above its 2007 average , -9 .	It is well below its 2007 average , -9 .	local_prep:above:below	70
+1110 : Some fans are already outside Old Trafford .	1110 : Some fans are already inside Old Trafford .	local_prep:outside:inside	1258
+Outside that time zone , it is undetectable .	Inside that time zone , it is undetectable .	local_prep:outside:inside	1041
+In mid-October , his campaign went days without a stop outside Washington .	In mid-October , his campaign went days without a stop inside Washington .	local_prep:outside:inside	644
+The public float remains above 56.6 % .	The public float remains below 56.6 % .	local_prep:above:below	186
+Of that , 51 percent came from outside the United States .	Of that , 51 percent came from inside the United States .	local_prep:outside:inside	339
+It January the company plans to open a restaurant outside the city .	It January the company plans to open a restaurant inside the city .	local_prep:outside:inside	957
+Outside the cities , it is a more encouraging picture .	Inside the cities , it is a more encouraging picture .	local_prep:outside:inside	1006
+The joy of Greece is outside of Athens .	The joy of Greece is inside of Athens .	local_prep:outside:inside	983
+One bullet hit the officer 's car about a foot above the window .	One bullet hit the officer 's car about a foot below the window .	local_prep:above:below	1225
+Outside the corridors of cells are bright and clean .	Inside the corridors of cells are bright and clean .	local_prep:outside:inside	766
+And I am gonna stand right outside the door here .	And I am gonna stand right inside the door here .	local_prep:outside:inside	353
+It is now framed and hung above the desk in my office .	It is now framed and hung below the desk in my office .	local_prep:above:below	116
+Mr. Berglund was not to go above the third floor .	Mr. Berglund was not to go below the third floor .	local_prep:above:below	1162
+She tried not to cry behind her four children .	She tried not to cry in front of her four children .	local_prep:behind:in_front_of	380
+The Buckeyes never let the Gators cut the lead above 10 points .	The Buckeyes never let the Gators cut the lead below 10 points .	local_prep:above:below	695
+But its pulse rate stays well above normal ( 2 : 55 ) .	But its pulse rate stays well below normal ( 2 : 55 ) .	local_prep:above:below	569
+The body was found underneath a mattress .	The body was found next to a mattress .	local_prep:underneath:next_to	623
+No cameras were allowed outside the courtroom .	No cameras were allowed inside the courtroom .	local_prep:outside:inside	767
+The remains were outside a crater near a building splattered with blood inside .	The remains were inside a crater near a building splattered with blood inside .	local_prep:outside:inside	561
+Revenue was slightly above analyst expectations of $ 1.52 billion .	Revenue was slightly below analyst expectations of $ 1.52 billion .	local_prep:above:below	788
+He said his family was outside when bombs started falling several days ago .	He said his family was inside when bombs started falling several days ago .	local_prep:outside:inside	1078
+Chatanooga 's rainfall is 17 inches above normal for the year .	Chatanooga 's rainfall is 17 inches below normal for the year .	local_prep:above:below	1221
+The prayer service will be held outside the state Capitol on Tuesday .	The prayer service will be held inside the state Capitol on Tuesday .	local_prep:outside:inside	184
+They noticed matted brush and found Rider 's vehicle above it .	They noticed matted brush and found Rider 's vehicle below it .	local_prep:above:below	504
+The sun at around 4 p.m. was about 40 degrees above the horizon .	The sun at around 4 p.m. was about 40 degrees below the horizon .	local_prep:above:below	1064
+Taking on the Oracle Academy programme has made us think outside the box .	Taking on the Oracle Academy programme has made us think inside the box .	local_prep:outside:inside	765
+Other young men appeared also behind the camera .	Other young men appeared also in front of the camera .	local_prep:behind:in_front_of	112
+It was above analyst expectations of 81,000 additions .	It was below analyst expectations of 81,000 additions .	local_prep:above:below	573
+Both our revenue and our earnings came in above our expectations .	Both our revenue and our earnings came in below our expectations .	local_prep:above:below	193
+Above that level , they say , the disturbance to animals is unacceptable .	Below that level , they say , the disturbance to animals is unacceptable .	local_prep:above:below	25
+Nearly a quarter of the offenders were born outside the United States .	Nearly a quarter of the offenders were born inside the United States .	local_prep:outside:inside	831
+He plans to vacation outside the city during the Games .	He plans to vacation inside the city during the Games .	local_prep:outside:inside	241
+He is calm and clinical behind goal .	He is calm and clinical in front of goal .	local_prep:behind:in_front_of	613
+The first two came from outside the blue line .	The first two came from inside the blue line .	local_prep:outside:inside	606
+Giuliani aides said Romney also increased taxes for workers who lived outside Massachusetts .	Giuliani aides said Romney also increased taxes for workers who lived inside Massachusetts .	local_prep:outside:inside	51
+Conversely , China 's 22.2 is well above the 40 reached in 2000 .	Conversely , China 's 22.2 is well below the 40 reached in 2000 .	local_prep:above:below	1159
+No private vehicles were allowed outside the airport .	No private vehicles were allowed inside the airport .	local_prep:outside:inside	962
+Outside the Abbey , the mood was no less restrained .	Inside the Abbey , the mood was no less restrained .	local_prep:outside:inside	624
+The mine is outside Carletonville , a town near Johannesburg .	The mine is inside Carletonville , a town near Johannesburg .	local_prep:outside:inside	1269
+What will happen outside Gaza ?	What will happen inside Gaza ?	local_prep:outside:inside	596
+Use the form above to describe what your life is like .	Use the form below to describe what your life is like .	local_prep:above:below	1206
+You no longer see yourself as odd or outside the norm .	You no longer see yourself as odd or inside the norm .	local_prep:outside:inside	912
+A freshman teacher steps outside her classroom and beckons him .	A freshman teacher steps inside her classroom and beckons him .	local_prep:outside:inside	274
+Fernando Alonso will start just behind Hamilton on the second row .	Fernando Alonso will start just in front of Hamilton on the second row .	local_prep:behind:in_front_of	808
+Later , the rooks walked outside to greet fans and sign autographs .	Later , the rooks walked inside to greet fans and sign autographs .	local_prep:outside:inside	938
+FORTUNE : So do personal accounts outside of Social Security ?	FORTUNE : So do personal accounts inside of Social Security ?	local_prep:outside:inside	1155
+The most public critics are taking aim from well outside the Beltway .	The most public critics are taking aim from well inside the Beltway .	local_prep:outside:inside	413
+Naples is a city bubbling with history just above the surface .	Naples is a city bubbling with history just below the surface .	local_prep:above:below	1000
+The child 's leg was amputated above the knee because of her injuries .	The child 's leg was amputated below the knee because of her injuries .	local_prep:above:below	110
+Silent pickets stand behind locked theater lobbies .	Silent pickets stand in front of locked theater lobbies .	local_prep:behind:in_front_of	86
+Above the quartet is a high window .	Below the quartet is a high window .	local_prep:above:below	323
+We know we have a big challenge behind us .	We know we have a big challenge in front of us .	local_prep:behind:in_front_of	350
+More than 200 islands nestle outside the reef .	More than 200 islands nestle inside the reef .	local_prep:outside:inside	1008
+New Jersey and Connecticut rank just above New York .	New Jersey and Connecticut rank just below New York .	local_prep:above:below	704
+More than 10 percent of Virginians were born outside of the United States .	More than 10 percent of Virginians were born inside of the United States .	local_prep:outside:inside	571
+Customers connect to the system through wireless hotspots installed outside the aircraft cabin .	Customers connect to the system through wireless hotspots installed inside the aircraft cabin .	local_prep:outside:inside	1108
+More than eight in 10 Skype users are outside of the United States .	More than eight in 10 Skype users are inside of the United States .	local_prep:outside:inside	706
+This was above the national average reduction of 13 % .	This was below the national average reduction of 13 % .	local_prep:above:below	49
+The camera crews were waiting behind the courthouse .	The camera crews were waiting in front of the courthouse .	local_prep:behind:in_front_of	273
+Now I remember the moments of homelessness outside Iraq .	Now I remember the moments of homelessness inside Iraq .	local_prep:outside:inside	76
+It hurt me outside so bad .	It hurt me inside so bad .	local_prep:outside:inside	1196
+Above the Fray Rosie as actress however , is apparently an easy sell .	Below the Fray Rosie as actress however , is apparently an easy sell .	local_prep:above:below	574
+Grieving students placed candles outside the school Thursday .	Grieving students placed candles inside the school Thursday .	local_prep:outside:inside	312
+Includes utility support structures outside of North America .	Includes utility support structures inside of North America .	local_prep:outside:inside	1150
+But Hendrick did not look outside his existing partners .	But Hendrick did not look inside his existing partners .	local_prep:outside:inside	632
+Outside the ballroom , he looks over his shoulder .	Inside the ballroom , he looks over his shoulder .	local_prep:outside:inside	386
+We met Maria Massuri outside her cottage .	We met Maria Massuri inside her cottage .	local_prep:outside:inside	395
+A municipal official said earlier that some students remained outside the school .	A municipal official said earlier that some students remained inside the school .	local_prep:outside:inside	513
+The van was parked outside a supplies shop at the time .	The van was parked inside a supplies shop at the time .	local_prep:outside:inside	1166
+Admirers signed books of condolence placed by vases of sunflowers outside the cathedral .	Admirers signed books of condolence placed by vases of sunflowers inside the cathedral .	local_prep:outside:inside	10
+Olsen took one touch and bounced his volley just outside the far post .	Olsen took one touch and bounced his volley just inside the far post .	local_prep:outside:inside	842
+The International Emmys honor excellence in TV production outside the United States .	The International Emmys honor excellence in TV production inside the United States .	local_prep:outside:inside	234
+You are 14,110 feet above sea level .	You are 14,110 feet below sea level .	local_prep:above:below	905
+Nights are well above freezing .	Nights are well below freezing .	local_prep:above:below	1036
+On Friday , oil settled above $ 90 .	On Friday , oil settled below $ 90 .	local_prep:above:below	290
+There were certainly some red flags waving behind directors .	There were certainly some red flags waving in front of directors .	local_prep:behind:in_front_of	724
+At least one O.J. supporter was outside the courthouse Tuesday .	At least one O.J. supporter was inside the courthouse Tuesday .	local_prep:outside:inside	710
+They attend Taylor High School about 10 miles outside Cincinnati .	They attend Taylor High School about 10 miles inside Cincinnati .	local_prep:outside:inside	744
+Outside the courtroom , Mr. DeVecchio 's supporters criticized the prosecution .	Inside the courtroom , Mr. DeVecchio 's supporters criticized the prosecution .	local_prep:outside:inside	411
+It has happened just outside the harbour .	It has happened just inside the harbour .	local_prep:outside:inside	1147
+Any reading above zero indicates growth in the region 's manufacturing sector .	Any reading below zero indicates growth in the region 's manufacturing sector .	local_prep:above:below	856
+Participants outside North America should dial ( 706 ) 643-3694 .	Participants inside North America should dial ( 706 ) 643-3694 .	local_prep:outside:inside	997
+The hotel is on West Broadway just above Grand Street .	The hotel is on West Broadway just below Grand Street .	local_prep:above:below	42
+High blood pressure was for readings above that .	High blood pressure was for readings below that .	local_prep:above:below	564
+There are around 500 people behind me .	There are around 500 people in front of me .	local_prep:behind:in_front_of	1028
+They fit the movie and they exist outside the movie .	They fit the movie and they exist inside the movie .	local_prep:outside:inside	501
+Another recent danger came right outside the airfield .	Another recent danger came right inside the airfield .	local_prep:outside:inside	233
+Others have intake lines in the river just above it .	Others have intake lines in the river just below it .	local_prep:above:below	1181
+The president could disapprove any waiver above 200 percent .	The president could disapprove any waiver below 200 percent .	local_prep:above:below	399
+And it has not been approved outside North America .	And it has not been approved inside North America .	local_prep:outside:inside	39
+It was then the pilots realized they were just feet above the Everglades .	It was then the pilots realized they were just feet below the Everglades .	local_prep:above:below	11
+Some people dragged me outside the car and took me to the hospital .	Some people dragged me inside the car and took me to the hospital .	local_prep:outside:inside	1009
+Happiness is not outside of us , but out there .	Happiness is not inside of us , but out there .	local_prep:outside:inside	647
+Their guy was acting absolutely above board .	Their guy was acting absolutely below board .	local_prep:above:below	563
+Roisin Murphy and Biffy Clyro have landed new entries outside the top 30 .	Roisin Murphy and Biffy Clyro have landed new entries inside the top 30 .	local_prep:outside:inside	779
+About 60 percent of the company 's sales are outside the United States .	About 60 percent of the company 's sales are inside the United States .	local_prep:outside:inside	1154
+The reading was above the 104.5 that analysts had expected .	The reading was below the 104.5 that analysts had expected .	local_prep:above:below	658
+It is 68 degrees outside the cave .	It is 68 degrees inside the cave .	local_prep:outside:inside	450
+Few people outside Iowa understand the caucus process .	Few people inside Iowa understand the caucus process .	local_prep:outside:inside	402
+It discovers the Van Allen radiation belts above Earth .	It discovers the Van Allen radiation belts below Earth .	local_prep:above:below	1214
+We cannot control speculation that is outside of the house .	We cannot control speculation that is inside of the house .	local_prep:outside:inside	588
+Flying above the radar does have it is benefits , too .	Flying below the radar does have it is benefits , too .	local_prep:above:below	568
+Above them is a large scallop shell .	Below them is a large scallop shell .	local_prep:above:below	1046
+Once outside the fitting room the colour is draining , the cut unflattering .	Once inside the fitting room the colour is draining , the cut unflattering .	local_prep:outside:inside	917
+Once outside the hotel , Sanchez has to write fast .	Once inside the hotel , Sanchez has to write fast .	local_prep:outside:inside	952
+" I had this really elaborate backstory outside me , " he says .	" I had this really elaborate backstory inside me , " he says .	local_prep:outside:inside	297
+He was found guilty and beheaded outside the Banqueting House at Whitehall .	He was found guilty and beheaded inside the Banqueting House at Whitehall .	local_prep:outside:inside	223
+And I can see she needs a life outside this disease .	And I can see she needs a life inside this disease .	local_prep:outside:inside	83
+Interest rates were above year-ago levels at 6.36 percent .	Interest rates were below year-ago levels at 6.36 percent .	local_prep:above:below	108
+" It is ridiculous , " she said outside a downtown Ottawa bookstore .	" It is ridiculous , " she said inside a downtown Ottawa bookstore .	local_prep:outside:inside	1055
+But it is well above the 5.8 percent peak reached in 1982 .	But it is well below the 5.8 percent peak reached in 1982 .	local_prep:above:below	355
+You transform behind all those eyes .	You transform in front of all those eyes .	local_prep:behind:in_front_of	608
+Please see above financial table for a reconciliation of adjusted EBITDA .	Please see below financial table for a reconciliation of adjusted EBITDA .	local_prep:above:below	137
+DStv created the first digital satellite broadcasting system outside the US .	DStv created the first digital satellite broadcasting system inside the US .	local_prep:outside:inside	1080
+A third colleague was moved to another job outside the bank .	A third colleague was moved to another job inside the bank .	local_prep:outside:inside	1224
+A third bullet casing was found outside the cabin , he said .	A third bullet casing was found inside the cabin , he said .	local_prep:outside:inside	204
+Please use the form above to send us your views .	Please use the form below to send us your views .	local_prep:above:below	127
+Last month 's figure is 30.8 percent above the rate in September 2006 .	Last month 's figure is 30.8 percent below the rate in September 2006 .	local_prep:above:below	484
+Hanford researchers went outside the clearwell a couple of weeks ago .	Hanford researchers went inside the clearwell a couple of weeks ago .	local_prep:outside:inside	367
+Hundreds more were deployed on Constitutional Avenue behind the presidential palace .	Hundreds more were deployed on Constitutional Avenue in front of the presidential palace .	local_prep:behind:in_front_of	993
+So where outside the circuitry are the ineffable qualia ?	So where inside the circuitry are the ineffable qualia ?	local_prep:outside:inside	354
+Much depends on what happens outside America .	Much depends on what happens inside America .	local_prep:outside:inside	1109
+England 's deficit drops above 300 .	England 's deficit drops below 300 .	local_prep:above:below	1252
+The canopy seems to float 90 feet above the ground .	The canopy seems to float 90 feet below the ground .	local_prep:above:below	554
+Yet he finds his worldview challenged outside his own school .	Yet he finds his worldview challenged inside his own school .	local_prep:outside:inside	692
+Two boys appear outside the door .	Two boys appear inside the door .	local_prep:outside:inside	280
+He left Egypt in the spring and remains outside the country .	He left Egypt in the spring and remains inside the country .	local_prep:outside:inside	663
+pants were down above his butt .	pants were down below his butt .	local_prep:above:below	796
+The International Emmys honour excellence in TV programming produced outside the US .	The International Emmys honour excellence in TV programming produced inside the US .	local_prep:outside:inside	581
+Especially if you are waiting on the group behind you .	Especially if you are waiting on the group in front of you .	local_prep:behind:in_front_of	1141
+The remaining bombs were found outside a downtown navy restaurant .	The remaining bombs were found inside a downtown navy restaurant .	local_prep:outside:inside	492
+Use the postform above to describe what your life is like .	Use the postform below to describe what your life is like .	local_prep:above:below	1032
+Cho began shooting outside Norris Hall about 20 minutes later .	Cho began shooting inside Norris Hall about 20 minutes later .	local_prep:outside:inside	255
+I ran outside to see others racing downstairs .	I ran inside to see others racing downstairs .	local_prep:outside:inside	1169
+None were outside the projected cut line .	None were inside the projected cut line .	local_prep:outside:inside	953
+He was arrested outside his apartment in Maplewood .	He was arrested inside his apartment in Maplewood .	local_prep:outside:inside	1175
+A septic river runs just outside the campus fence .	A septic river runs just inside the campus fence .	local_prep:outside:inside	982
+She never thought twice about finding work outside the farm .	She never thought twice about finding work inside the farm .	local_prep:outside:inside	1107
+The next day , the woods above the river were on fire .	The next day , the woods below the river were on fire .	local_prep:above:below	1128
+He cited softening prices and operating margins above its competitors .	He cited softening prices and operating margins below its competitors .	local_prep:above:below	503
+But perhaps that association has a small radius outside New York City .	But perhaps that association has a small radius inside New York City .	local_prep:outside:inside	79
+I am going back outside now .	I am going back inside now .	local_prep:outside:inside	1247
+They have been living outside their wrecked home in Sibelius Road ever since .	They have been living inside their wrecked home in Sibelius Road ever since .	local_prep:outside:inside	316
+A taxi stops outside the Bryant Park fashion shows in New York .	A taxi stops inside the Bryant Park fashion shows in New York .	local_prep:outside:inside	122
+Sure enough , he dropped above 185 pounds .	Sure enough , he dropped below 185 pounds .	local_prep:above:below	1040
+Eighteen protesters were arrested Tuesday outside U.N. headquarters .	Eighteen protesters were arrested Tuesday inside U.N. headquarters .	local_prep:outside:inside	146
+Ms. de la Salle has a substantial career behind her .	Ms. de la Salle has a substantial career in front of her .	local_prep:behind:in_front_of	1170
+I had girlfriends outside my marriage .	I had girlfriends inside my marriage .	local_prep:outside:inside	848
+" " The ex-prime minister is sitting right behind us .	" " The ex-prime minister is sitting right in front of us .	local_prep:behind:in_front_of	497
+Properties listed above the market price just sat there .	Properties listed below the market price just sat there .	local_prep:above:below	1011
+Wisconsin also fumbled outside its own 25 twice in the fourth quarter .	Wisconsin also fumbled inside its own 25 twice in the fourth quarter .	local_prep:outside:inside	390
+Click on the links above to read more about them .	Click on the links below to read more about them .	local_prep:above:below	47
+Money makes the journey outside Iraq that much harder .	Money makes the journey inside Iraq that much harder .	local_prep:outside:inside	326
+The Europeans seem willing to dangle another carrot behind Tehran .	The Europeans seem willing to dangle another carrot in front of Tehran .	local_prep:behind:in_front_of	607
+What is Net1 's strategy in expanding the UEPS technology outside South Africa ?	What is Net1 's strategy in expanding the UEPS technology inside South Africa ?	local_prep:outside:inside	1256
+Dozens of reporters and cameras gathered outside the courthouse to await his exit .	Dozens of reporters and cameras gathered inside the courthouse to await his exit .	local_prep:outside:inside	747
+67 Points Marking An Increase Of 16.48 Points Above The Pervious Closing .	67 Points Marking An Increase Of 16.48 Points Below The Pervious Closing .	local_prep:above:below	1114
+Oil prices have surged to record highs above $ 88 a barrel .	Oil prices have surged to record highs below $ 88 a barrel .	local_prep:above:below	425
+The index came in above its year-earlier level of 412.9 .	The index came in below its year-earlier level of 412.9 .	local_prep:above:below	1191
+Foreigners are outside these social controls .	Foreigners are inside these social controls .	local_prep:outside:inside	764
+Temperatures in Paris soared above 40C .	Temperatures in Paris soared below 40C .	local_prep:above:below	157
+One woman outside a school in Nairobi even fainted .	One woman inside a school in Nairobi even fainted .	local_prep:outside:inside	283
+Buses and armoured personnel carriers blocked the road outside her house .	Buses and armoured personnel carriers blocked the road inside her house .	local_prep:outside:inside	1123
+Outside Stadium , That Is .	Inside Stadium , That Is .	local_prep:outside:inside	687
+A bomber blew himself up just behind our truck .	A bomber blew himself up just in front of our truck .	local_prep:behind:in_front_of	309
+There were now signs it had recruited members outside Germany .	There were now signs it had recruited members inside Germany .	local_prep:outside:inside	229
+Suddenly , a leak springs from the ceiling , underneath the bathroom .	Suddenly , a leak springs from the ceiling , next to the bathroom .	local_prep:underneath:next_to	1099
+When Faubus pulled the Guard away , a crowd gathered outside the school .	When Faubus pulled the Guard away , a crowd gathered inside the school .	local_prep:outside:inside	939
+Cellini has also installed a Plexiglas screen behind the display .	Cellini has also installed a Plexiglas screen in front of the display .	local_prep:behind:in_front_of	637
+Many live above the poverty line and there is no electricity .	Many live below the poverty line and there is no electricity .	local_prep:above:below	1213
+Click on the topics above to watch highlights from the debate .	Click on the topics below to watch highlights from the debate .	local_prep:above:below	87
+The West was down 2.7 percent and 27.1 percent above a year earlier .	The West was down 2.7 percent and 27.1 percent below a year earlier .	local_prep:above:below	1023
+The gun was on the floor above her legs .	The gun was on the floor below her legs .	local_prep:above:below	296
+The visitors started brightly and were 7-0 up outside four minutes .	The visitors started brightly and were 7-0 up inside four minutes .	local_prep:outside:inside	488
+Then , the American firms had little foreign presence outside London .	Then , the American firms had little foreign presence inside London .	local_prep:outside:inside	48
+Most of the deaths occurred outside of Baghdad .	Most of the deaths occurred inside of Baghdad .	local_prep:outside:inside	352
+It says the discovery was made outside of any country 's territorial waters .	It says the discovery was made inside of any country 's territorial waters .	local_prep:outside:inside	149
+The rise was above economists ' expectations .	The rise was below economists ' expectations .	local_prep:above:below	1039
+That is the approximate world population outside the United States .	That is the approximate world population inside the United States .	local_prep:outside:inside	1167
+When it rained outside , it sprinkled outside the house .	When it rained outside , it sprinkled inside the house .	local_prep:outside:inside	289
+But outside of those tracks " Mirror " carries a positive charge .	But inside of those tracks " Mirror " carries a positive charge .	local_prep:outside:inside	460
+Students were told to stay outside their classrooms and buildings until further notice .	Students were told to stay inside their classrooms and buildings until further notice .	local_prep:outside:inside	302
+Outside the cake was a bag marked Gotham City Police Department .	Inside the cake was a bag marked Gotham City Police Department .	local_prep:outside:inside	206
+Great movie stars were " alive " outside the frame .	Great movie stars were " alive " inside the frame .	local_prep:outside:inside	239
+Nevertheless , the Nationals dropped to a season- worst 19 games above .500 .	Nevertheless , the Nationals dropped to a season- worst 19 games below .500 .	local_prep:above:below	1204
+Portions of estates above that threshold will be taxed at 45 percent .	Portions of estates below that threshold will be taxed at 45 percent .	local_prep:above:below	432
+It was not about having a manager above me .	It was not about having a manager below me .	local_prep:above:below	329
+Italian astronaut Paolo Nespoli will choreograph the outing from outside the station .	Italian astronaut Paolo Nespoli will choreograph the outing from inside the station .	local_prep:outside:inside	572
+A plaque was unveiled outside his former home .	A plaque was unveiled inside his former home .	local_prep:outside:inside	93
+That is above average .	That is below average .	local_prep:above:below	365
+The time was outside his world record 12.88 set last year .	The time was inside his world record 12.88 set last year .	local_prep:outside:inside	231
+Outside the major cities , the situation is far worse .	Inside the major cities , the situation is far worse .	local_prep:outside:inside	518
+The final selling price was $ 752,467 , well above most predictions .	The final selling price was $ 752,467 , well below most predictions .	local_prep:above:below	428
+But a little voice outside of my head said , Ugh .	But a little voice inside of my head said , Ugh .	local_prep:outside:inside	474
+Germany finished third , only 1.250 points behind the Americans .	Germany finished third , only 1.250 points in front of the Americans .	local_prep:behind:in_front_of	431
+The most vocal opposition has come from outside the assembly .	The most vocal opposition has come from inside the assembly .	local_prep:outside:inside	1052
+No subway ever ran above Duffield Street .	No subway ever ran below Duffield Street .	local_prep:above:below	776
+We pulled up behind a huge 19th-century abandoned beer factory .	We pulled up in front of a huge 19th-century abandoned beer factory .	local_prep:behind:in_front_of	629
+It spoke to something outside us .	It spoke to something inside us .	local_prep:outside:inside	900
+The parking area behind the salon was snow-covered .	The parking area in front of the salon was snow-covered .	local_prep:behind:in_front_of	154
+To my surprise he was standing outside his open front door .	To my surprise he was standing inside his open front door .	local_prep:outside:inside	975
+Gasoline prices have climbed above $ 3 a gallon .	Gasoline prices have climbed below $ 3 a gallon .	local_prep:above:below	719
+We just want to increase our interest outside the USA .	We just want to increase our interest inside the USA .	local_prep:outside:inside	220
+Participants outside North America should dial ( 706 ) 645-6519 .	Participants inside North America should dial ( 706 ) 645-6519 .	local_prep:outside:inside	670
+We have to focus on who is behind us .	We have to focus on who is in front of us .	local_prep:behind:in_front_of	16
+The answer lies a couple of miles outside the town .	The answer lies a couple of miles inside the town .	local_prep:outside:inside	705
+Those two alternatives involve dropping an empty box behind your home .	Those two alternatives involve dropping an empty box in front of your home .	local_prep:behind:in_front_of	85
+This was an England team that punched above its weight and exceeded expectations .	This was an England team that punched below its weight and exceeded expectations .	local_prep:above:below	757
+Readings above 50 mean more builders view market conditions as poor than favorable .	Readings below 50 mean more builders view market conditions as poor than favorable .	local_prep:above:below	990
+Only reporters with Olympic media accreditation can work outside the venues .	Only reporters with Olympic media accreditation can work inside the venues .	local_prep:outside:inside	598
+I put half the stack outside my third shirt .	I put half the stack inside my third shirt .	local_prep:outside:inside	251
+Let 's pick a multiple of 300 , well above the historical average .	Let 's pick a multiple of 300 , well below the historical average .	local_prep:above:below	552
+They suspected he escaped at that time using a tunnel underneath the property .	They suspected he escaped at that time using a tunnel next to the property .	local_prep:underneath:next_to	151
+And keep your hands outside the car .	And keep your hands inside the car .	local_prep:outside:inside	1037
+The fire was burning above that section .	The fire was burning below that section .	local_prep:above:below	636
+Police cars were parked outside the embassy .	Police cars were parked inside the embassy .	local_prep:outside:inside	319
+Authorities broke up the protest outside the electoral agency 's office .	Authorities broke up the protest inside the electoral agency 's office .	local_prep:outside:inside	99
+Now the action will cut to outside a building .	Now the action will cut to inside a building .	local_prep:outside:inside	200
+Italian astronaut Paolo Nespoli will choreograph the outing from outside the complex .	Italian astronaut Paolo Nespoli will choreograph the outing from inside the complex .	local_prep:outside:inside	523
+IT snowed last week outside Radio City Music Hall .	IT snowed last week inside Radio City Music Hall .	local_prep:outside:inside	908
+He is to coordinate the spacewalk from outside the station .	He is to coordinate the spacewalk from inside the station .	local_prep:outside:inside	948
+They took shelter outside when the tornado approached .	They took shelter inside when the tornado approached .	local_prep:outside:inside	394
+He does not panic behind goal .	He does not panic in front of goal .	local_prep:behind:in_front_of	895
+Sorrell declined to comment outside of court .	Sorrell declined to comment inside of court .	local_prep:outside:inside	1249
+Use the postform above to send us your views .	Use the postform below to send us your views .	local_prep:above:below	913
+And there is Mr. Wong reading the newspaper behind your eyes .	And there is Mr. Wong reading the newspaper in front of your eyes .	local_prep:behind:in_front_of	189
+See above for the complete list .	See below for the complete list .	local_prep:above:below	852
+Poindexter said to reporters outside the grand jury courtroom .	Poindexter said to reporters inside the grand jury courtroom .	local_prep:outside:inside	749
+She giggled when asked by reporters outside the courtroom if she was nervous .	She giggled when asked by reporters inside the courtroom if she was nervous .	local_prep:outside:inside	505
+IT IS the second-most visited contemporary art gallery outside London .	IT IS the second-most visited contemporary art gallery inside London .	local_prep:outside:inside	662
+Alcatel-Lucent 's third-quarter revenues totalled 4.35bn euros , slightly above market expectations .	Alcatel-Lucent 's third-quarter revenues totalled 4.35bn euros , slightly below market expectations .	local_prep:above:below	559
+No trip outside the Green Zone is remotely safe .	No trip inside the Green Zone is remotely safe .	local_prep:outside:inside	639
+Outside the United States , the demand for cigarettes is relatively flat .	Inside the United States , the demand for cigarettes is relatively flat .	local_prep:outside:inside	657
+There is hope now that ( opposition ) is stirring outside the country .	There is hope now that ( opposition ) is stirring inside the country .	local_prep:outside:inside	136
+Suicide bombers also receive support from networks outside Afghanistan .	Suicide bombers also receive support from networks inside Afghanistan .	local_prep:outside:inside	760
+Standing behind a video camera , Doyle cried .	Standing in front of a video camera , Doyle cried .	local_prep:behind:in_front_of	471
+Soon they were outside the theater 's chaos .	Soon they were inside the theater 's chaos .	local_prep:outside:inside	429
+Thousand of supporters had thronged the parking area behind the terminal .	Thousand of supporters had thronged the parking area in front of the terminal .	local_prep:behind:in_front_of	688
+The wedge forms just behind the return man .	The wedge forms just in front of the return man .	local_prep:behind:in_front_of	470
+Trusty made the call behind Fanning .	Trusty made the call in front of Fanning .	local_prep:behind:in_front_of	834
+Figures above 50 indicate expansion .	Figures below 50 indicate expansion .	local_prep:above:below	397
+Outside Europe , no region has been spared censorship or violence toward journalists .	Inside Europe , no region has been spared censorship or violence toward journalists .	local_prep:outside:inside	240
+Plans for sales outside Japan are not yet set .	Plans for sales inside Japan are not yet set .	local_prep:outside:inside	244
+" This whole case is absurd , " Piontkovsky said outside the courtroom .	" This whole case is absurd , " Piontkovsky said inside the courtroom .	local_prep:outside:inside	995
+You 're sitting about 4 inches above the pavement .	You 're sitting about 4 inches below the pavement .	local_prep:above:below	1026
+" " I do not think anybody outside the bus could have survived .	" " I do not think anybody inside the bus could have survived .	local_prep:outside:inside	1111
+George refused to make any comment outside the court .	George refused to make any comment inside the court .	local_prep:outside:inside	731
+A framed photo of Benito Mussolini and Saddam Hussein hang above his desk .	A framed photo of Benito Mussolini and Saddam Hussein hang below his desk .	local_prep:above:below	960
+He was coordinating the 6.5-hour spacewalk from outside the station .	He was coordinating the 6.5-hour spacewalk from inside the station .	local_prep:outside:inside	7
+A moment later , Strahan was outside the house .	A moment later , Strahan was inside the house .	local_prep:outside:inside	659
+All sides agree that what occurred outside the building was groundbreaking .	All sides agree that what occurred inside the building was groundbreaking .	local_prep:outside:inside	869
+There have to be activities outside the country .	There have to be activities inside the country .	local_prep:outside:inside	565
+The Huskies went outside early and often .	The Huskies went inside early and often .	local_prep:outside:inside	717
+Housing activity is now 30.8 percent above the level of a year ago .	Housing activity is now 30.8 percent below the level of a year ago .	local_prep:above:below	453
+But it got outside Portis 's head .	But it got inside Portis 's head .	local_prep:outside:inside	245
+But pilots are now barricaded outside their cockpits .	But pilots are now barricaded inside their cockpits .	local_prep:outside:inside	192
+He was arrested in Henderson , just outside Las Vegas .	He was arrested in Henderson , just inside Las Vegas .	local_prep:outside:inside	276
+( The one exception is the provision for credit losses discussed above ) .	( The one exception is the provision for credit losses discussed below ) .	local_prep:above:below	261
+Capacity use is 1.1 percentage points above its 1972-2006 average .	Capacity use is 1.1 percentage points below its 1972-2006 average .	local_prep:above:below	287
+Even outside the government , there are tensions .	Even inside the government , there are tensions .	local_prep:outside:inside	649
+This REIT has a dividend yield of slightly above 5 percent .	This REIT has a dividend yield of slightly below 5 percent .	local_prep:above:below	262
+An antenna array is suspended by cables above the bowl .	An antenna array is suspended by cables below the bowl .	local_prep:above:below	359
+That was 19.1 percent above the level of a year earlier .	That was 19.1 percent below the level of a year earlier .	local_prep:above:below	750
+About 60 percent of users are outside the United States .	About 60 percent of users are inside the United States .	local_prep:outside:inside	469
+The Phillies climbed 10 games above .500 for the first time .	The Phillies climbed 10 games below .500 for the first time .	local_prep:above:below	1087
+Investigators had not yet been outside the house by late morning .	Investigators had not yet been inside the house by late morning .	local_prep:outside:inside	128
+Cesc Fabregas set the Gunners on their way outside five minutes .	Cesc Fabregas set the Gunners on their way inside five minutes .	local_prep:outside:inside	211
+The government sponsors TV and radio stations aimed at audiences outside the US .	The government sponsors TV and radio stations aimed at audiences inside the US .	local_prep:outside:inside	1211
+It was about 100 feet above the river .	It was about 100 feet below the river .	local_prep:above:below	857
+The detective found the dead body of Betsy Smith outside the padlocked room .	The detective found the dead body of Betsy Smith inside the padlocked room .	local_prep:outside:inside	119
+The air outside the school bus-size chamber was immediately tested .	The air inside the school bus-size chamber was immediately tested .	local_prep:outside:inside	716
+The multi-storey outside Amsterdam 's central station accommodates bikes , not cars .	The multi-storey inside Amsterdam 's central station accommodates bikes , not cars .	local_prep:outside:inside	1004
+Seven people were outside the homes that were evacuated .	Seven people were inside the homes that were evacuated .	local_prep:outside:inside	538
+Two free-kicks brought reward outside the opening 10 minutes .	Two free-kicks brought reward inside the opening 10 minutes .	local_prep:outside:inside	1031
+What has he got behind him ?	What has he got in front of him ?	local_prep:behind:in_front_of	437
+Some 30 other women were shown fasting outside a medical clinic nearby .	Some 30 other women were shown fasting inside a medical clinic nearby .	local_prep:outside:inside	1163
+Anything outside these parameters is considered torture and not permitted .	Anything inside these parameters is considered torture and not permitted .	local_prep:outside:inside	737
+The president does not stand above the law .	The president does not stand below the law .	local_prep:above:below	1207
+Outside the campus gates on Broadway , crowds gathered .	Inside the campus gates on Broadway , crowds gathered .	local_prep:outside:inside	672
+Major works will be executed outside busy rush hours .	Major works will be executed inside busy rush hours .	local_prep:outside:inside	875
+That is just 9 cents above the record set in May .	That is just 9 cents below the record set in May .	local_prep:above:below	155
+Results were consistent with mineralization lying above the Rainbow pit .	Results were consistent with mineralization lying below the Rainbow pit .	local_prep:above:below	385
+Posters advertising Brokaw 's program will also appear outside the wrapped train .	Posters advertising Brokaw 's program will also appear inside the wrapped train .	local_prep:outside:inside	790
+But outside there is this tragic emptiness .	But inside there is this tragic emptiness .	local_prep:outside:inside	679
+Was there a serial downloader lurking outside Jammie Thomas ' window ?	Was there a serial downloader lurking inside Jammie Thomas ' window ?	local_prep:outside:inside	1097
+I cannot keep running outside every time the ground shakes .	I cannot keep running inside every time the ground shakes .	local_prep:outside:inside	125
+Interest rates were above year-ago levels at 6.24 percent .	Interest rates were below year-ago levels at 6.24 percent .	local_prep:above:below	892
+Above that level is the dead pool .	Below that level is the dead pool .	local_prep:above:below	4
+This was their first game outside Florida .	This was their first game inside Florida .	local_prep:outside:inside	228
+Most meteors vaporize about 50 miles above the Earth 's surface .	Most meteors vaporize about 50 miles below the Earth 's surface .	local_prep:above:below	345
+I try hard to stay above it all .	I try hard to stay below it all .	local_prep:above:below	218
+Outside the courtroom , Mrs. Sandy spoke once more of forgiveness .	Inside the courtroom , Mrs. Sandy spoke once more of forgiveness .	local_prep:outside:inside	718
+But Musharraf may not have many other options behind him .	But Musharraf may not have many other options in front of him .	local_prep:behind:in_front_of	1105
+The coffee store chain forecast 2008 earnings above many Wall Street estimates .	The coffee store chain forecast 2008 earnings below many Wall Street estimates .	local_prep:above:below	1232
+Five hundred people were estimated to be outside when the blast took place .	Five hundred people were estimated to be inside when the blast took place .	local_prep:outside:inside	840
+I do not really like to go outside the hotel .	I do not really like to go inside the hotel .	local_prep:outside:inside	901
+There is already a big crowd outside Interlagos .	There is already a big crowd inside Interlagos .	local_prep:outside:inside	170
+Outside the courthouse , his relatives lashed out at the prosecution .	Inside the courthouse , his relatives lashed out at the prosecution .	local_prep:outside:inside	500
+People outside the mall ran toward the exits when the blast went off .	People inside the mall ran toward the exits when the blast went off .	local_prep:outside:inside	1125
+Mrs Clinton is way out behind the Democratic field .	Mrs Clinton is way out in front of the Democratic field .	local_prep:behind:in_front_of	1143
+Olive had not even travelled outside of Bolton .	Olive had not even travelled inside of Bolton .	local_prep:outside:inside	464
+The profit was above expectations of Wall Street analysts .	The profit was below expectations of Wall Street analysts .	local_prep:above:below	529
+Jane 's fish bar arrives outside the lodge shortly before 1pm .	Jane 's fish bar arrives inside the lodge shortly before 1pm .	local_prep:outside:inside	73
+There tend to be many MMA competitions outside the UFC .	There tend to be many MMA competitions inside the UFC .	local_prep:outside:inside	216
+Boutique shopping , Colonial history and fine art are just outside the door .	Boutique shopping , Colonial history and fine art are just inside the door .	local_prep:outside:inside	664
+Edwards insisted he would shake up the power structure outside the Beltway .	Edwards insisted he would shake up the power structure inside the Beltway .	local_prep:outside:inside	373
+We are above that .	We are below that .	local_prep:above:below	340
+Crude oil prices fell after closing above $ 80 for the first time .	Crude oil prices fell after closing below $ 80 for the first time .	local_prep:above:below	531
+Part of the chopper 's tail jutted above the crowd .	Part of the chopper 's tail jutted below the crowd .	local_prep:above:below	13
+The man he heard struggling to stay above water thanked him .	The man he heard struggling to stay below water thanked him .	local_prep:above:below	925
+The raid took place outside his flat in Manchester city centre .	The raid took place inside his flat in Manchester city centre .	local_prep:outside:inside	969
+Five minutes later , the hallway outside the courtroom was empty .	Five minutes later , the hallway inside the courtroom was empty .	local_prep:outside:inside	1263
+Above the displays hang excerpts from Mr. Graham 's teachings .	Below the displays hang excerpts from Mr. Graham 's teachings .	local_prep:above:below	698
+Moore 's star sits behind 7007 Hollywood Blvd .	Moore 's star sits in front of 7007 Hollywood Blvd .	local_prep:behind:in_front_of	473
+Then there are the culprits outside the room itself .	Then there are the culprits inside the room itself .	local_prep:outside:inside	693
+Here the Mendells ' family income puts them above average .	Here the Mendells ' family income puts them below average .	local_prep:above:below	89
+With two outs , Loretta homered just outside the foul pole in left .	With two outs , Loretta homered just inside the foul pole in left .	local_prep:outside:inside	903
+A student has fired shots outside a northern California high school .	A student has fired shots inside a northern California high school .	local_prep:outside:inside	681
+Outside the Senate , Hillary has displayed the same singleness of purpose .	Inside the Senate , Hillary has displayed the same singleness of purpose .	local_prep:outside:inside	666
+He reversed the car and parked outside the tunnel .	He reversed the car and parked inside the tunnel .	local_prep:outside:inside	185
+But outside China , he is almost entirely unknown .	But inside China , he is almost entirely unknown .	local_prep:outside:inside	1218
+" No students outside the school have been injured , " Taylor said .	" No students inside the school have been injured , " Taylor said .	local_prep:outside:inside	811
+An ambulance stands outside SuccessTech Academy in Cleveland , Ohio .	An ambulance stands inside SuccessTech Academy in Cleveland , Ohio .	local_prep:outside:inside	610
+A protest rally was held outside the gun store yesterday .	A protest rally was held inside the gun store yesterday .	local_prep:outside:inside	910
+It is outside the hotel .	It is inside the hotel .	local_prep:outside:inside	725
+No-one dropped above 65 / 100 .	No-one dropped below 65 / 100 .	local_prep:above:below	697
+The Soyuz-FG rocket soared into a darkening sky above the Kazakh steppe .	The Soyuz-FG rocket soared into a darkening sky below the Kazakh steppe .	local_prep:above:below	1104
+Outside the courthouse , demonstrators gathered .	Inside the courthouse , demonstrators gathered .	local_prep:outside:inside	667
+Another day we drove to Masaya , just outside Granada .	Another day we drove to Masaya , just inside Granada .	local_prep:outside:inside	860
+But will this work outside Italy ?	But will this work inside Italy ?	local_prep:outside:inside	609
+Mobs swarm above the helicopters every time one is spotted .	Mobs swarm below the helicopters every time one is spotted .	local_prep:above:below	252
+Two witnesses detained him outside a shop until police arrived .	Two witnesses detained him inside a shop until police arrived .	local_prep:outside:inside	882
+But I would never glanced outside one .	But I would never glanced inside one .	local_prep:outside:inside	361
+Click on the links above to read what they have to say .	Click on the links below to read what they have to say .	local_prep:above:below	66
+The room described above costs $ 200 a night .	The room described below costs $ 200 a night .	local_prep:above:below	1139
+The Scots forced two impressive saves from Giedrius Arlauskis outside two minutes .	The Scots forced two impressive saves from Giedrius Arlauskis inside two minutes .	local_prep:outside:inside	160
+Later , outside the sanctuary , Fenty praised the D.C. police force .	Later , inside the sanctuary , Fenty praised the D.C. police force .	local_prep:outside:inside	976
+Educators , install dispensers of hand-sanitizer outside each classroom .	Educators , install dispensers of hand-sanitizer inside each classroom .	local_prep:outside:inside	1210
+Outside the delivery room we paced ; we bit our nails and waited .	Inside the delivery room we paced ; we bit our nails and waited .	local_prep:outside:inside	69
+Our challenge is to finish above those two .	Our challenge is to finish below those two .	local_prep:above:below	285
+A reading above 50 indicates expansion .	A reading below 50 indicates expansion .	local_prep:above:below	301
+That is the spirit I feel outside me today .	That is the spirit I feel inside me today .	local_prep:outside:inside	517
+The girl 's parents were outside when the man passed and honked .	The girl 's parents were inside when the man passed and honked .	local_prep:outside:inside	113
+Happy people have commitments to causes outside the self .	Happy people have commitments to causes inside the self .	local_prep:outside:inside	616
+The braking system comes from a supplier outside Chrysler .	The braking system comes from a supplier inside Chrysler .	local_prep:outside:inside	1220
+I believe in saying the same thing inside and outside Parliament .	I believe in saying the same thing inside and inside Parliament .	local_prep:outside:inside	522
+Think outside the box .	Think inside the box .	local_prep:outside:inside	379
+I thought they were right underneath it .	I thought they were right next to it .	local_prep:underneath:next_to	762
+Then , Karsnia said , Craig waved his hand underneath the divider .	Then , Karsnia said , Craig waved his hand next to the divider .	local_prep:underneath:next_to	12
+The astronauts outside the station spotted it drifting nearby .	The astronauts inside the station spotted it drifting nearby .	local_prep:outside:inside	602
+Not because I was above it .	Not because I was below it .	local_prep:above:below	459
+" " There will be a new center of influence outside the Kremlin .	" " There will be a new center of influence inside the Kremlin .	local_prep:outside:inside	815
+The soldiers were taken in an Oct. 21 ambush outside Turkish territory .	The soldiers were taken in an Oct. 21 ambush inside Turkish territory .	local_prep:outside:inside	284
+It is caused by turbulence outside the airway during inspiration .	It is caused by turbulence inside the airway during inspiration .	local_prep:outside:inside	824
+The rest are handled outside of the detention system .	The rest are handled inside of the detention system .	local_prep:outside:inside	1183
+It is like you are screaming outside all the time .	It is like you are screaming inside all the time .	local_prep:outside:inside	894
+Interest rates were above its year-earlier level of 6.15 percent .	Interest rates were below its year-earlier level of 6.15 percent .	local_prep:above:below	914
+Thousands of people are huddled outside their homes or emergency shelters .	Thousands of people are huddled inside their homes or emergency shelters .	local_prep:outside:inside	1018
+Of those , a quarter are from families with incomes above $ 130,000 .	Of those , a quarter are from families with incomes below $ 130,000 .	local_prep:above:below	861
+Another was about 300 yards away , behind the zoo cafe .	Another was about 300 yards away , in front of the zoo cafe .	local_prep:behind:in_front_of	414
+It is better that they are outside the city , not inside .	It is better that they are inside the city , not inside .	local_prep:outside:inside	268
+About 80 percent of the work be outside of the United States .	About 80 percent of the work be inside of the United States .	local_prep:outside:inside	1077
+.92 Points Marking An Increase Of 6.31 Points Above The Previous Closing .	.92 Points Marking An Increase Of 6.31 Points Below The Previous Closing .	local_prep:above:below	173
+It was 21.5 percent above the August 2006 index of 108.9 .	It was 21.5 percent below the August 2006 index of 108.9 .	local_prep:above:below	781
+She said , " Garry , get outside ' .	She said , " Garry , get inside ' .	local_prep:outside:inside	443
+Check the Antietam Web site ( see above ) for details .	Check the Antietam Web site ( see below ) for details .	local_prep:above:below	1203
+Coach Tom Coughlin noticed the storm of negativity brewing outside Giants Stadium .	Coach Tom Coughlin noticed the storm of negativity brewing inside Giants Stadium .	local_prep:outside:inside	485
+All endorsements are not created equally ( more on that above ) .	All endorsements are not created equally ( more on that below ) .	local_prep:above:below	804
+If you can do it outside it will be better .	If you can do it inside it will be better .	local_prep:outside:inside	891
+No one was allowed to go outside the zoo .	No one was allowed to go inside the zoo .	local_prep:outside:inside	21
+Freshman Malcolm Delaney stood behind him .	Freshman Malcolm Delaney stood in front of him .	local_prep:behind:in_front_of	81
+Clinton listening , hands clasped above her chin .	Clinton listening , hands clasped below her chin .	local_prep:above:below	27
+The Russian boy took advantage and it was outside the box .	The Russian boy took advantage and it was inside the box .	local_prep:outside:inside	601
+The blast happened outside an army residential complex , police said .	The blast happened inside an army residential complex , police said .	local_prep:outside:inside	232
+It is still 27 percent above its 52-week high .	It is still 27 percent below its 52-week high .	local_prep:above:below	55
+Oil closed above $ 80 a barrel for the first time Thursday .	Oil closed below $ 80 a barrel for the first time Thursday .	local_prep:above:below	325
+behind his leveled four-bedroom suburban home sits his tiny FEMA trailer .	In front of his leveled four-bedroom suburban home sits his tiny FEMA trailer .	local_prep:behind:in_front_of	617
+She left her book unopened behind her .	She left her book unopened in front of her .	local_prep:behind:in_front_of	176
+So what was reaction outside the Astronaut Office ?	So what was reaction inside the Astronaut Office ?	local_prep:outside:inside	1174
+Use the comment form above to submit your questions .	Use the comment form below to submit your questions .	local_prep:above:below	1075
+An explosive device has detonated underneath a car parked outside a school .	An explosive device has detonated next to a car parked outside a school .	local_prep:underneath:next_to	1227
+Their opponents had a winning percentage above .400 .	Their opponents had a winning percentage below .400 .	local_prep:above:below	368
+" No students outside the school have been injured , " he said .	" No students inside the school have been injured , " he said .	local_prep:outside:inside	526
+There still appears to be molten magma outside of it .	There still appears to be molten magma inside of it .	local_prep:outside:inside	927
+He stretched his legs behind him .	He stretched his legs in front of him .	local_prep:behind:in_front_of	622
+The forecast was above last month 's prediction of a 6.8 percent drop .	The forecast was below last month 's prediction of a 6.8 percent drop .	local_prep:above:below	142
+Outside of the covenants , is this activity legal ?	Inside of the covenants , is this activity legal ?	local_prep:outside:inside	95
+A reading above 50 indicates a positive confidence level .	A reading below 50 indicates a positive confidence level .	local_prep:above:below	661
+Miss Skattergoods said when Spenser had gone outside his cabin .	Miss Skattergoods said when Spenser had gone inside his cabin .	local_prep:outside:inside	219
+Fredrick Willis stands outside his corner classroom answering students ' questions .	Fredrick Willis stands inside his corner classroom answering students ' questions .	local_prep:outside:inside	1168
+A lot of work goes on outside the chamber .	A lot of work goes on inside the chamber .	local_prep:outside:inside	487
+Guan was kept waiting outside the courthouse during the proceedings .	Guan was kept waiting inside the courthouse during the proceedings .	local_prep:outside:inside	1148
+Dissidents outside Myanmar reported receiving news of up to eight deaths .	Dissidents inside Myanmar reported receiving news of up to eight deaths .	local_prep:outside:inside	984
+Many of these important factors are outside STERIS 's control .	Many of these important factors are inside STERIS 's control .	local_prep:outside:inside	162
+He was shot to death behind two of his seven children .	He was shot to death in front of two of his seven children .	local_prep:behind:in_front_of	169
+There were no queues outside the branches in central Leeds and Bournemouth .	There were no queues inside the branches in central Leeds and Bournemouth .	local_prep:outside:inside	562
+A significant quantity of petrol was discovered outside the house .	A significant quantity of petrol was discovered inside the house .	local_prep:outside:inside	458
+" I live well above my means , " Frank said .	" I live well below my means , " Frank said .	local_prep:above:below	684
+The child stayed outside the car .	The child stayed inside the car .	local_prep:outside:inside	576
+I am working hard but there is emptiness outside me .	I am working hard but there is emptiness inside me .	local_prep:outside:inside	1050
+Her right sock was outside out .	Her right sock was inside out .	local_prep:outside:inside	532
+Historically , anything above 3 % would be good .	Historically , anything below 3 % would be good .	local_prep:above:below	926
+But there was yet another chilling fact outside the dirt-floor dungeon .	But there was yet another chilling fact inside the dirt-floor dungeon .	local_prep:outside:inside	78
+Gary Buckland owns a sub-post office in Loughor , just outside Swansea .	Gary Buckland owns a sub-post office in Loughor , just inside Swansea .	local_prep:outside:inside	336
+She then dropped from view , falling back outside the SUV .	She then dropped from view , falling back inside the SUV .	local_prep:outside:inside	71
+He was attacked outside Greenvale Primary School in Selsdon , south London .	He was attacked inside Greenvale Primary School in Selsdon , south London .	local_prep:outside:inside	243
+No one outside the home was injured .	No one inside the home was injured .	local_prep:outside:inside	461
+Officials did not immediately confirm what was outside the vehicle .	Officials did not immediately confirm what was inside the vehicle .	local_prep:outside:inside	412
+Outside the truck was 1,000 pounds of explosives .	Inside the truck was 1,000 pounds of explosives .	local_prep:outside:inside	1151
+Outside the club the dance floor was never less than packed .	Inside the club the dance floor was never less than packed .	local_prep:outside:inside	967
+Dozens of police blocked the road behind the court building .	Dozens of police blocked the road in front of the court building .	local_prep:behind:in_front_of	971
+They are beating the crowd behind Traders Hotel .	They are beating the crowd in front of Traders Hotel .	local_prep:behind:in_front_of	583
+Above the control tower , tracks stretch out under dim lights .	Below the control tower , tracks stretch out under dim lights .	local_prep:above:below	915
+Kurdish officials had already confirmed the artillery attacks outside Iraq .	Kurdish officials had already confirmed the artillery attacks inside Iraq .	local_prep:outside:inside	1160
+The Phillies climbed 10 games above .500 for the first time this season .	The Phillies climbed 10 games below .500 for the first time this season .	local_prep:above:below	867
+Sons were beaten behind their mothers .	Sons were beaten in front of their mothers .	local_prep:behind:in_front_of	1185
+Tax revenues are coming in above expectations .	Tax revenues are coming in below expectations .	local_prep:above:below	362
+The price of oil is still above inflation-adjusted highs hit in early 1980 .	The price of oil is still below inflation-adjusted highs hit in early 1980 .	local_prep:above:below	403
+They must not have a BMI above 18.5 .	They must not have a BMI below 18.5 .	local_prep:above:below	650
+Mexicans pay way above average for all these services .	Mexicans pay way below average for all these services .	local_prep:above:below	614
+Peterson 's death also brought tributes from notable figures outside the jazz world .	Peterson 's death also brought tributes from notable figures inside the jazz world .	local_prep:outside:inside	167
+Journalists are not a cut above the rest .	Journalists are not a cut below the rest .	local_prep:above:below	743
+A spokesman for the British High Commission announced the ruling outside the courthouse .	A spokesman for the British High Commission announced the ruling inside the courthouse .	local_prep:outside:inside	547
+What it did was put him outside human society .	What it did was put him inside human society .	local_prep:outside:inside	1217
+His sentencing record is just slightly above the median in terms of severity .	His sentencing record is just slightly below the median in terms of severity .	local_prep:above:below	775
+The incident occurred at about 3 : 30 a.m. outside Kiosk nightclub .	The incident occurred at about 3 : 30 a.m. inside Kiosk nightclub .	local_prep:outside:inside	1178
+Who could survive outside this echo chamber of reverberating emotions ?	Who could survive inside this echo chamber of reverberating emotions ?	local_prep:outside:inside	307
+That was 24.5 percent above the level a year ago .	That was 24.5 percent below the level a year ago .	local_prep:above:below	723
+Nearby neighbors heard their cries for help echo outside the home .	Nearby neighbors heard their cries for help echo inside the home .	local_prep:outside:inside	1229
+This is above the candidates ' pay grade .	This is below the candidates ' pay grade .	local_prep:above:below	735
+The United States has an air base outside the Kyrgyz capital , Bishkek .	The United States has an air base inside the Kyrgyz capital , Bishkek .	local_prep:outside:inside	689
+Currently , the margin is just above 15 per cent .	Currently , the margin is just below 15 per cent .	local_prep:above:below	941
+A number above 50 indicates growth .	A number below 50 indicates growth .	local_prep:above:below	545
+Any figure above 50 denotes expansion .	Any figure below 50 denotes expansion .	local_prep:above:below	72
+His voice was barely above a whisper .	His voice was barely below a whisper .	local_prep:above:below	898
+Three were stopped before they got outside the outer boundary .	Three were stopped before they got inside the outer boundary .	local_prep:outside:inside	114
+Outside the furnace , this feedstock is broken down into hydrogen and carbon .	Inside the furnace , this feedstock is broken down into hydrogen and carbon .	local_prep:outside:inside	1134
+But most forecasters reckon the odds remain above 50 % .	But most forecasters reckon the odds remain below 50 % .	local_prep:above:below	612
+The members should have the charts behind them .	The members should have the charts in front of them .	local_prep:behind:in_front_of	376
+Those calling from outside North America should dial 1-303-262-2075 .	Those calling from inside North America should dial 1-303-262-2075 .	local_prep:outside:inside	237
+Above her are the words Marry Me , the album 's title .	Below her are the words Marry Me , the album 's title .	local_prep:above:below	408
+Outside the house , you only hear it .	Inside the house , you only hear it .	local_prep:outside:inside	826
+They said the tax should be restored for money earned above that level .	They said the tax should be restored for money earned below that level .	local_prep:above:below	1079
+What you are actually seeing is the darkness outside the case .	What you are actually seeing is the darkness inside the case .	local_prep:outside:inside	888
+Spending rose 0.3 percent , above expectations .	Spending rose 0.3 percent , below expectations .	local_prep:above:below	873
+" " I was sitting in a chair floating above the mountains .	" " I was sitting in a chair floating below the mountains .	local_prep:above:below	1186
+The market 's annual growth rate has been above 20 percent since 2004 .	The market 's annual growth rate has been below 20 percent since 2004 .	local_prep:above:below	742
+Huawei also ventured to inhospitable backwaters outside China .	Huawei also ventured to inhospitable backwaters inside China .	local_prep:outside:inside	769
+In fact , many of the biggest churches are outside the United States .	In fact , many of the biggest churches are inside the United States .	local_prep:outside:inside	515
+Falling debris also made it dangerous for firefighters to be outside the structure .	Falling debris also made it dangerous for firefighters to be inside the structure .	local_prep:outside:inside	3

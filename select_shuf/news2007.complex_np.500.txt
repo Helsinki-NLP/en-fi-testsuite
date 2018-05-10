@@ -1,0 +1,500 @@
+I do not have any contact with him now .	I do not have any contact with the global producer now .	complex_np:him:global producer	4091
+I just do not care for her .	I just do not care for the Dutch brewer .	complex_np:her:Dutch brewer	4727
+Richard Horwell , the police 's lawyer , asked him .	Richard Horwell , the police 's lawyer , asked the American artist .	complex_np:him:American artist	2588
+Without him we could not do that .	Without the 9-year-old daughter we could not do that .	complex_np:him:9-year-old daughter	4190
+Shortly thereafter , he stopped calling her .	Shortly thereafter , he stopped calling the structural engineer .	complex_np:her:structural engineer	6362
+And the penance has not come cheaply for her .	And the penance has not come cheaply for the ideal partner .	complex_np:her:ideal partner	1422
+I love him dearly .	I love the fantastic player dearly .	complex_np:him:fantastic player	6439
+I would have knocked him out .	I would have knocked the nonprofit publisher out .	complex_np:him:nonprofit publisher	2378
+His comments put him in trouble with his bosses .	His comments put the veteran striker in trouble with his bosses .	complex_np:him:veteran striker	6168
+I urge him to reconsider .	I urge the German cyclist to reconsider .	complex_np:him:German cyclist	480
+That is when it hit him : Chop .	That is when it hit the Hamas leader : Chop .	complex_np:him:Hamas leader	2437
+The experience unnerved her .	The experience unnerved the French teacher .	complex_np:her:French teacher	1694
+Henry Kissinger was speedy for her .	Henry Kissinger was speedy for the great believer .	complex_np:her:great believer	2591
+I joined him at what is now InterActiveCorp .	I joined the paternal grandfather at what is now InterActiveCorp .	complex_np:him:paternal grandfather	4395
+This makes them less likely to criticize Gibbs or even challenge him .	This makes them less likely to criticize Gibbs or even challenge the online customer .	complex_np:him:online customer	3189
+It was hard for him to resist eating .	It was hard for the former butler to resist eating .	complex_np:him:former butler	5780
+And that is what we want him to do .	And that is what we want the good customer to do .	complex_np:him:good customer	4022
+I wish him nothing but the best in his recovery .	I wish the silver medalist nothing but the best in his recovery .	complex_np:him:silver medalist	2804
+And when he does , we love him for it .	And when he does , we love the female passenger for it .	complex_np:him:female passenger	3645
+Just to congratulate him .	Just to congratulate the digital consumer .	complex_np:him:digital consumer	3936
+Pakistan especially worries her .	Pakistan especially worries the Italian designer .	complex_np:her:Italian designer	6650
+Yet his parents never worry that fame will change him .	Yet his parents never worry that fame will change the Spanish rider .	complex_np:him:Spanish rider	1604
+That is what prompted him to run , he said .	That is what prompted the proud owner to run , he said .	complex_np:him:proud owner	472
+Easy for her to say .	Easy for the 95-year-old mother to say .	complex_np:her:95-year-old mother	5956
+It is a very , very difficult time for him .	It is a very , very difficult time for the other partner .	complex_np:him:other partner	5549
+I could not take him serious .	I could not take the heavyweight boxer serious .	complex_np:him:heavyweight boxer	613
+That makes him smile again .	That makes the Lead singer smile again .	complex_np:him:Lead singer	4687
+The teacher paced back and forth , trying to avoid him .	The teacher paced back and forth , trying to avoid the active player .	complex_np:him:active player	4543
+They were loyal to him personally .	They were loyal to the global developer personally .	complex_np:him:global developer	5631
+Liz 's ( Tina Fey ) boyfriend Floyd has split up with her .	Liz 's ( Tina Fey ) boyfriend Floyd has split up with the former dancer .	complex_np:her:former dancer	907
+Later , he sodomizes her .	Later , he sodomizes the abstract painter .	complex_np:her:abstract painter	4749
+She obliged him by gently spitting the nuts into his hand .	She obliged the Iraqi leader by gently spitting the nuts into his hand .	complex_np:him:Iraqi leader	6502
+ERROL MORRIS : Can I see the article you sent her ?	ERROL MORRIS : Can I see the article you sent the Islamic extremist ?	complex_np:her:Islamic extremist	5842
+He enjoyed a massive following , with thousands visiting him .	He enjoyed a massive following , with thousands visiting the valuable player .	complex_np:him:valuable player	2282
+He thought Denver 's arid climate would be better for her .	He thought Denver 's arid climate would be better for the musical partner .	complex_np:her:musical partner	6466
+Brooklyn was not working for her .	Brooklyn was not working for the political satirist .	complex_np:her:political satirist	188
+Burns said she is angry no one reached out to him .	Burns said she is angry no one reached out to the global customer .	complex_np:him:global customer	1968
+Absolutely everything was " whack , " according to her .	Absolutely everything was " whack , " according to the medical examiner .	complex_np:her:medical examiner	521
+He got him on his feet .	He got the senior member on his feet .	complex_np:him:senior member	5174
+Yet his wounds evidently continued to torment him .	Yet his wounds evidently continued to torment the corporate lawyer .	complex_np:him:corporate lawyer	3005
+Indeed , it is rare that anything without those connections moves him .	Indeed , it is rare that anything without those connections moves the general partner .	complex_np:him:general partner	4099
+Hendrick than assured Gordon that Busch would race him clean .	Hendrick than assured Gordon that Busch would race the good writer clean .	complex_np:him:good writer	3215
+God was with him .	God was with the deputy coroner .	complex_np:him:deputy coroner	4745
+It was him .	It was the Republican challenger .	complex_np:him:Republican challenger	798
+They called her a terrorist .	They called the senior partner a terrorist .	complex_np:her:senior partner	2868
+I had not spoken to her in years .	I had not spoken to the independent provider in years .	complex_np:her:independent provider	4373
+We are hoping that happens with him .	We are hoping that happens with the ailing leader .	complex_np:him:ailing leader	4185
+We should have told him just how bad it would be .	We should have told the Chinese artist just how bad it would be .	complex_np:him:Chinese artist	6190
+His jocular impromptu remarks brought him national recognition .	His jocular impromptu remarks brought the Japanese consumer national recognition .	complex_np:him:Japanese consumer	2204
+" I totally disagree with her , " General Musharraf said .	" I totally disagree with the serial rapist , " General Musharraf said .	complex_np:her:serial rapist	1699
+When a warden made him stop , Spratt sued .	When a warden made the longtime member stop , Spratt sued .	complex_np:him:longtime member	1140
+Then I speak to him on the phone .	Then I speak to the local partner on the phone .	complex_np:him:local partner	4936
+Without him , Federer reassumes his customary role as solid favorite .	Without the chief lawyer , Federer reassumes his customary role as solid favorite .	complex_np:him:chief lawyer	5800
+Our country will never find leaders like him again .	Our country will never find leaders like the former member again .	complex_np:him:former member	2292
+Brown reacted strongly to protect her .	Brown reacted strongly to protect the interim leader .	complex_np:her:interim leader	1600
+It all tied him in knots .	It all tied the first-time offender in knots .	complex_np:him:first-time offender	3768
+Giuliani fired her shortly afterward .	Giuliani fired the Republican voter shortly afterward .	complex_np:her:Republican voter	4532
+The actor who changed the rules for every actor who followed him .	The actor who changed the rules for every actor who followed the first player .	complex_np:him:first player	1401
+He cautiously looked behind him .	He cautiously looked behind the good lawyer .	complex_np:him:good lawyer	4437
+I will find her before that period is up .	I will find the DVD player before that period is up .	complex_np:her:DVD player	4082
+Paula 's husband , Mike , lies asleep beside her .	Paula 's husband , Mike , lies asleep beside the rebel leader .	complex_np:her:rebel leader	2828
+Harry Truman , his vice president , succeeded him as president .	Harry Truman , his vice president , succeeded the French tourist as president .	complex_np:him:French tourist	5837
+After attending an Argerich concert in Montreal , Montero asked her for advice .	After attending an Argerich concert in Montreal , Montero asked the senior partner for advice .	complex_np:her:senior partner	3086
+It also separated her from the wanna-be Beyonce pack .	It also separated the first driver from the wanna-be Beyonce pack .	complex_np:her:first driver	3433
+She liked him .	She liked the former communist .	complex_np:him:former communist	337
+FOR all Bhutto 's bravado , they got her in the end .	FOR all Bhutto 's bravado , they got the European consumer in the end .	complex_np:her:European consumer	3133
+But I did not kill him .	But I did not kill the former writer .	complex_np:him:former writer	6089
+Naturally , she is too intimidated to tell him .	Naturally , she is too intimidated to tell the first leader .	complex_np:him:first leader	4420
+It was unclear what killed him or whether he was armed .	It was unclear what killed the defensive midfielder or whether he was armed .	complex_np:him:defensive midfielder	2785
+The hospital evaluated and released her , he said .	The hospital evaluated and released the male customer , he said .	complex_np:her:male customer	5561
+For her , nothing eases stress like infusions of cash .	For the Turkish fighter , nothing eases stress like infusions of cash .	complex_np:her:Turkish fighter	2336
+Three of Pichushkin 's victims survived , and one identified him .	Three of Pichushkin 's victims survived , and one identified the second member .	complex_np:him:second member	1041
+Mia : Being the President 's daughter was new for her .	Mia : Being the President 's daughter was new for the 44-year-old left-hander .	complex_np:her:44-year-old left-hander	3764
+She divorced him two years later .	She divorced the other driver two years later .	complex_np:him:other driver	6074
+I was angry with her myself about something else .	I was angry with the local partner myself about something else .	complex_np:her:local partner	5880
+I hope the bastard gets what is coming to him inside prison .	I hope the bastard gets what is coming to the U.S.-allied leader inside prison .	complex_np:him:U.S.-allied leader	3450
+Bo Derek : Endorsed Giuliani , stumped with him in California .	Bo Derek : Endorsed Giuliani , stumped with the Celtic defender in California .	complex_np:him:Celtic defender	5379
+I would never give him a job .	I would never give the young artist a job .	complex_np:him:young artist	5211
+But now there will be extra scrutiny of him .	But now there will be extra scrutiny of the young writer .	complex_np:him:young writer	5378
+Her answers : Yes and yes .	The Socialist leader answers : Yes and yes .	complex_np:her:Socialist leader	4697
+Devlin initially pleaded not guilty to all charges against him .	Devlin initially pleaded not guilty to all charges against the Georgian leader .	complex_np:him:Georgian leader	3394
+" This is no time to sleep , " he told her .	" This is no time to sleep , " he told the international master .	complex_np:her:international master	5961
+" I want to go with him , " Winehouse screamed .	" I want to go with the straight shooter , " Winehouse screamed .	complex_np:him:straight shooter	3159
+He 'll kill him .	He 'll kill the British archaeologist .	complex_np:him:British archaeologist	3654
+If Tony Romo plays you cannot do that to him .	If Tony Romo plays you cannot do that to the Lead researcher .	complex_np:him:Lead researcher	1882
+I would love to debate her .	I would love to debate the administrative officer .	complex_np:her:administrative officer	849
+Eight years later , the Washington hotels were filled with veterans like him .	Eight years later , the Washington hotels were filled with veterans like the gay activist .	complex_np:him:gay activist	5162
+They also see him as an antagonist of President Clinton .	They also see the residential customer as an antagonist of President Clinton .	complex_np:him:residential customer	6452
+Surely his personal life will take him down .	Surely his personal life will take the foster mother down .	complex_np:him:foster mother	4221
+Unfortunately , I tapped him .	Unfortunately , I tapped the 22-year-old daughter .	complex_np:him:22-year-old daughter	3330
+So Maycock had forgiven him .	So Maycock had forgiven the natural leader .	complex_np:him:natural leader	6305
+Do they keep him ?	Do they keep the principal scientist ?	complex_np:him:principal scientist	5392
+The first time he crosses K 'Harma 's path , she notices him .	The first time he crosses K 'Harma 's path , she notices the popular leader .	complex_np:him:popular leader	3750
+Why did Allardyce insist on signing him ?	Why did Allardyce insist on signing the animal lover ?	complex_np:him:animal lover	5827
+I said I liked her .	I said I liked the forensic pathologist .	complex_np:her:forensic pathologist	1916
+Fujikawa loved having her along .	Fujikawa loved having the Iraqi soldier along .	complex_np:her:Iraqi soldier	5067
+She did it for him !	She did it for the late founder !	complex_np:him:late founder	3912
+" I always asked for him , " she said .	" I always asked for the public officer , " she said .	complex_np:him:public officer	1261
+That night , doctors told him of the arterial blockage .	That night , doctors told the young lawyer of the arterial blockage .	complex_np:him:young lawyer	453
+Every time I saw him , he had a smile .	Every time I saw the nuclear engineer , he had a smile .	complex_np:him:nuclear engineer	2532
+What is stopping her from committing ?	What is stopping the top consumer from committing ?	complex_np:her:top consumer	2735
+Have you had a response from him on this ?	Have you had a response from the 5-year-old daughter on this ?	complex_np:him:5-year-old daughter	2479
+He took her up on the bet .	He took the popular tourist up on the bet .	complex_np:her:popular tourist	3749
+It changed him , as well .	It changed the lead researcher , as well .	complex_np:him:lead researcher	4500
+More family members are expected to see him on Saturday .	More family members are expected to see the interior minister on Saturday .	complex_np:him:interior minister	2474
+It is hard to sit still when White sings , especially for her .	It is hard to sit still when White sings , especially for the female officer .	complex_np:her:female officer	4476
+It is good for her .	It is good for the lead researcher .	complex_np:her:lead researcher	17
+, and took her into custody .	, and took the special adviser into custody .	complex_np:her:special adviser	6228
+SkyMiles account for more airplane tickets did not really appeal to her .	SkyMiles account for more airplane tickets did not really appeal to the physical therapist .	complex_np:her:physical therapist	1418
+A traffic policeman shouted at him to stop .	A traffic policeman shouted at the elderly father to stop .	complex_np:him:elderly father	4331
+" I will not be able to breast-feed , " she reminded him .	" I will not be able to breast-feed , " she reminded the reclusive leader .	complex_np:him:reclusive leader	2143
+Saw him do it for Durham a few times .	Saw the world-class player do it for Durham a few times .	complex_np:him:world-class player	4552
+But today we are going to make him work .	But today we are going to make the old daughter work .	complex_np:him:old daughter	519
+Hopefully the fans will stick with him .	Hopefully the fans will stick with the strong customer .	complex_np:him:strong customer	101
+We are so proud of him and how hard he works .	We are so proud of the same player and how hard he works .	complex_np:him:same player	5262
+" You 'll hear him , " Randolph said .	" You 'll hear the poor customer , " Randolph said .	complex_np:him:poor customer	3038
+Manager Roy Keane refused to blame him , though .	Manager Roy Keane refused to blame the former driver , though .	complex_np:him:former driver	3728
+I chided him .	I chided the wonderful mother .	complex_np:him:wonderful mother	1211
+One can trail him for weeks without monitoring a temperamental eruption .	One can trail the young writer for weeks without monitoring a temperamental eruption .	complex_np:him:young writer	3655
+It was Oden 's second health problem since the Trail Blazers drafted him .	It was Oden 's second health problem since the Trail Blazers drafted the senior economist .	complex_np:him:senior economist	2730
+History is against him .	History is against the former leader .	complex_np:him:former leader	4739
+What do you think of it and of him ?	What do you think of it and of the male artist ?	complex_np:him:male artist	6204
+Boras would not detail which clubs have contacted him about Rodriguez .	Boras would not detail which clubs have contacted the 48-year-old singer about Rodriguez .	complex_np:him:48-year-old singer	5150
+It shouldn 't hold her back .	It shouldn 't hold the civilian leader back .	complex_np:her:civilian leader	3443
+But there was no-one on hand to listen to him .	But there was no-one on hand to listen to the new father .	complex_np:him:new father	6316
+Was he going to sponge off her ?	Was he going to sponge off the suspected leader ?	complex_np:her:suspected leader	1739
+UNIDENTIFIED FEMALE : Get your old man off of him .	UNIDENTIFIED FEMALE : Get your old man off of the serious player .	complex_np:him:serious player	2774
+His booming voice also brought him voiceover work .	His booming voice also brought the great writer voiceover work .	complex_np:him:great writer	5126
+She raised an indignant eyebrow at him .	She raised an indignant eyebrow at the legal officer .	complex_np:him:legal officer	6039
+Wilson said he felt bad for her .	Wilson said he felt bad for the overnight leader .	complex_np:her:overnight leader	4530
+Peterson committed suicide as authorities pursued him .	Peterson committed suicide as authorities pursued the favorite player .	complex_np:him:favorite player	93
+That is easy for him to say .	That is easy for the spiritual leader to say .	complex_np:him:spiritual leader	742
+Nobody would bet against him now .	Nobody would bet against the current consumer now .	complex_np:him:current consumer	5190
+To dismiss him was to dismiss literature itself .	To dismiss the pregnant mother was to dismiss literature itself .	complex_np:him:pregnant mother	903
+She said the situation was traumatic for her .	She said the situation was traumatic for the global leader .	complex_np:her:global leader	6596
+Interpol again appealed for public help to track him down now .	Interpol again appealed for public help to track the Basque separatist down now .	complex_np:him:Basque separatist	1065
+In July , President Bush awarded him the National Medal of Science .	In July , President Bush awarded the 3-year-old daughter the National Medal of Science .	complex_np:him:3-year-old daughter	1802
+Warner may genuinely not be shedding many tears after losing her .	Warner may genuinely not be shedding many tears after losing the first-time offender .	complex_np:her:first-time offender	2571
+She filed a charge of domestic assault against him in July .	She filed a charge of domestic assault against the German officer in July .	complex_np:him:German officer	712
+We gave him soup to drink .	We gave the global developer soup to drink .	complex_np:him:global developer	2100
+We 'll have had five without him .	We 'll have had five without the first-time buyer .	complex_np:him:first-time buyer	3102
+That is in him .	That is in the respected member .	complex_np:him:respected member	4318
+You cannot see her anymore .	You cannot see the new artist anymore .	complex_np:her:new artist	1548
+He sat up when I presented him with food .	He sat up when I presented the French defender with food .	complex_np:him:French defender	1017
+Police are still determining charges against him .	Police are still determining charges against the French defender .	complex_np:him:French defender	6328
+I have never said no to him .	I have never said no to the militant leader .	complex_np:him:militant leader	740
+They invited him back .	They invited the anti-Syrian lawmaker back .	complex_np:him:anti-Syrian lawmaker	3111
+" No , no , Mrs. Left , " he reassured her .	" No , no , Mrs. Left , " he reassured the executive producer .	complex_np:her:executive producer	4893
+Do they have a nickname for him ?	Do they have a nickname for the American soldier ?	complex_np:him:American soldier	2802
+" I miss her , " Peterson said .	" I miss the missing teenager , " Peterson said .	complex_np:her:missing teenager	616
+It was her .	It was the independent voter .	complex_np:her:independent voter	4178
+She refused to serve him .	She refused to serve the corporate officer .	complex_np:him:corporate officer	2822
+Shona 's boyfriend has left her .	Shona 's boyfriend has left the married mother .	complex_np:her:married mother	2458
+Reid 's friends see the wear on him .	Reid 's friends see the wear on the operational commander .	complex_np:him:operational commander	4787
+I give him a really hard time .	I give the 23-year-old right-hander a really hard time .	complex_np:him:23-year-old right-hander	601
+Yet Mr Rudd 's Christianity still seems to give him protection .	Yet Mr Rudd 's Christianity still seems to give the female officer protection .	complex_np:him:female officer	459
+During the debate , McCain 's line earned him a standing ovation .	During the debate , McCain 's line earned the top player a standing ovation .	complex_np:him:top player	5830
+For him , the Ahwahnee has been a lifelong fascination .	For the left fielder , the Ahwahnee has been a lifelong fascination .	complex_np:him:left fielder	5575
+I just imagined cuddling up with her .	I just imagined cuddling up with the Kurdish leader .	complex_np:her:Kurdish leader	1767
+Students stare at her .	Students stare at the great fighter .	complex_np:her:great fighter	6371
+It was not immediately clear who fired the shot that killed him .	It was not immediately clear who fired the shot that killed the Nigerian striker .	complex_np:him:Nigerian striker	3425
+Abreu coached him personally .	Abreu coached the Italian striker personally .	complex_np:him:Italian striker	5916
+Gordon has been giving him driving lessons .	Gordon has been giving the main tourist driving lessons .	complex_np:him:main tourist	1442
+If you can , please let him know .	If you can , please let the senior writer know .	complex_np:him:senior writer	1064
+She would not hold her serve in the set .	She would not hold the defensive player serve in the set .	complex_np:her:defensive player	3864
+Family members are with him .	Family members are with the German leader .	complex_np:him:German leader	2916
+She only cried once and I am proud of her .	She only cried once and I am proud of the 8-year-old daughter .	complex_np:her:8-year-old daughter	6182
+" I learned about him a month ago , " he said .	" I learned about the big seller a month ago , " he said .	complex_np:him:big seller	1636
+Chevas denied Petrovic 's claims and said she attacked him .	Chevas denied Petrovic 's claims and said she attacked the commercial photographer .	complex_np:him:commercial photographer	2613
+PRESIDENT BUSH : It is up to her to tell you .	PRESIDENT BUSH : It is up to the British lender to tell you .	complex_np:her:British lender	6667
+" I met her at law school , " Richard said .	" I met the 25-year-old singer at law school , " Richard said .	complex_np:her:25-year-old singer	6354
+Barry and Vanessa become friends ; he even develops a crush on her .	Barry and Vanessa become friends ; he even develops a crush on the former adviser .	complex_np:her:former adviser	5121
+Speaking to the council , Johnson reiterated his support for her .	Speaking to the council , Johnson reiterated his support for the young daughter .	complex_np:her:young daughter	6245
+Nobody has a bad word to say about him .	Nobody has a bad word to say about the fourth player .	complex_np:him:fourth player	695
+Samimi asked people around him what was going on .	Samimi asked people around the undisputed leader what was going on .	complex_np:him:undisputed leader	428
+They have tried , and failed , to remove him .	They have tried , and failed , to remove the longtime leader .	complex_np:him:longtime leader	5530
+There had previously been speculation that health troubles prompted him to step down .	There had previously been speculation that health troubles prompted the lead singer to step down .	complex_np:him:lead singer	1306
+An autographed T-shirt was not good enough for him ?	An autographed T-shirt was not good enough for the long-term partner ?	complex_np:him:long-term partner	4105
+But this was quickly rejected by those who knew him .	But this was quickly rejected by those who knew the key supporter .	complex_np:him:key supporter	3164
+" We need something for sports , " he tells her .	" We need something for sports , " he tells the equal partner .	complex_np:her:equal partner	2676
+Will the Saudis let him out ?	Will the Saudis let the pregnant mother out ?	complex_np:him:pregnant mother	3270
+I should have protected her .	I should have protected the chief adviser .	complex_np:her:chief adviser	5218
+Stand up for her .	Stand up for the new leader .	complex_np:her:new leader	618
+The local union and its international endorsed him in August .	The local union and its international endorsed the former manager in August .	complex_np:him:former manager	3400
+He had all his life before him .	He had all his life before the national frontrunner .	complex_np:him:national frontrunner	970
+The other children played on that and tormented him at school .	The other children played on that and tormented the Republican contender at school .	complex_np:him:Republican contender	2297
+Is there something you want to say to her ?	Is there something you want to say to the ailing father ?	complex_np:her:ailing father	5710
+I was nervous ; I had never met him .	I was nervous ; I had never met the past keeper .	complex_np:him:past keeper	2162
+His rationale made perfect sense , to him at least .	His rationale made perfect sense , to the American writer at least .	complex_np:him:American writer	518
+He said I was not good enough for her .	He said I was not good enough for the ranking member .	complex_np:her:ranking member	4300
+I could not rely on him for a thing .	I could not rely on the chief technologist for a thing .	complex_np:him:chief technologist	4577
+That gave him pause .	That gave the strong leader pause .	complex_np:him:strong leader	4081
+They show up for meetings with him .	They show up for meetings with the chief lobbyist .	complex_np:him:chief lobbyist	3512
+Rattle her ?	Rattle the top strategist ?	complex_np:her:top strategist	6174
+This year , one nearly got him trampled .	This year , one nearly got the first officer trampled .	complex_np:him:first officer	6030
+I think he will be back , you cannot count him out .	I think he will be back , you cannot count the personal trainer out .	complex_np:him:personal trainer	1338
+We are excited to have him on board .	We are excited to have the hard worker on board .	complex_np:him:hard worker	3372
+She also posed for a photo with him .	She also posed for a photo with the Iraqi commander .	complex_np:him:Iraqi commander	2557
+He had left her , Ordo ?	He had left the new passenger , Ordo ?	complex_np:her:new passenger	4642
+And I never saw him again .	And I never saw the current leader again .	complex_np:him:current leader	2706
+Always with him : I have my Tumi backpack .	Always with the great fighter : I have my Tumi backpack .	complex_np:him:great fighter	6227
+The wave then squashed us both and we lost him .	The wave then squashed us both and we lost the specific customer .	complex_np:him:specific customer	4086
+Just call him The Duke .	Just call the Republican leader The Duke .	complex_np:him:Republican leader	1610
+It took her a long time to come around .	It took the controlling shareholder a long time to come around .	complex_np:her:controlling shareholder	1360
+Niemi was unsighted and the midfielder 's daisy-cutter deceived him .	Niemi was unsighted and the midfielder 's daisy-cutter deceived the chief adviser .	complex_np:him:chief adviser	3554
+I have talked to her .	I have talked to the important Buddhist .	complex_np:her:important Buddhist	4811
+But it is hard to take him seriously .	But it is hard to take the Japanese soldier seriously .	complex_np:him:Japanese soldier	2184
+Nothing bothers him .	Nothing bothers the good player .	complex_np:him:good player	1420
+Her and my dad had divorced shortly after I would arrived .	The 20-year-old daughter and my dad had divorced shortly after I would arrived .	complex_np:her:20-year-old daughter	1324
+I preferred him hyperactive to depressed and scared .	I preferred the key Buddhist hyperactive to depressed and scared .	complex_np:him:key Buddhist	2473
+They declined to identify him , however .	They declined to identify the leftist leader , however .	complex_np:him:leftist leader	3173
+It took him 102 weeks to guess the right name .	It took the top leader 102 weeks to guess the right name .	complex_np:him:top leader	693
+We need him to be okay and he understands that .	We need the Brazilian artist to be okay and he understands that .	complex_np:him:Brazilian artist	1671
+I only saw him once after that .	I only saw the religious leader once after that .	complex_np:him:religious leader	6050
+They are always harassing her .	They are always harassing the Yugoslav leader .	complex_np:her:Yugoslav leader	3877
+What does she love about him so much ?	What does she love about the early leader so much ?	complex_np:him:early leader	4966
+I shook my head at him and tutted .	I shook my head at the former lawyer and tutted .	complex_np:him:former lawyer	1214
+He complains convincingly that he loves her so much it hurts .	He complains convincingly that he loves the independent journalist so much it hurts .	complex_np:her:independent journalist	2056
+I admonish her .	I admonish the popular driver .	complex_np:her:popular driver	3044
+He has a long road ahead of him .	He has a long road ahead of the most-capped player .	complex_np:him:most-capped player	6239
+" That was his way of complimenting her , " Ronnie says .	" That was his way of complimenting the scientific adviser , " Ronnie says .	complex_np:her:scientific adviser	3593
+I am a lot like him .	I am a lot like the front passenger .	complex_np:him:front passenger	2082
+Women feel more safe and more feminine around him .	Women feel more safe and more feminine around the young daughter .	complex_np:him:young daughter	2920
+The Senate narrowly confirmed him last week , 53-40 .	The Senate narrowly confirmed the German tourist last week , 53-40 .	complex_np:him:German tourist	4110
+He is our head coach and we stand behind him .	He is our head coach and we stand behind the corporate lawyer .	complex_np:him:corporate lawyer	5261
+His style alienates left-wing factions who join forces against him .	His style alienates left-wing factions who join forces against the early leader .	complex_np:him:early leader	3321
+Dementieva 's serve failed her .	Dementieva 's serve failed the net importer .	complex_np:her:net importer	5685
+She is afraid prospective employers who Google her will suspect résumé inflation .	She is afraid prospective employers who Google the environmental campaigner will suspect résumé inflation .	complex_np:her:environmental campaigner	3014
+He insisted that he was not bothered by those who doubted him .	He insisted that he was not bothered by those who doubted the twin brother .	complex_np:him:twin brother	1782
+The co-owner Steve Tisch stopped him .	The co-owner Steve Tisch stopped the Swedish artist .	complex_np:him:Swedish artist	4772
+17 , Aaron stopped breathing as David held him in his arms .	17 , Aaron stopped breathing as David held the young officer in his arms .	complex_np:him:young officer	4684
+And , of course , Alex -- we sort of rallied around him .	And , of course , Alex -- we sort of rallied around the strong contender .	complex_np:him:strong contender	3865
+Did he beat him ?	Did he beat the German officer ?	complex_np:him:German officer	3967
+Allow him to describe .	Allow the English teacher to describe .	complex_np:him:English teacher	6352
+Give her a microphone .	Give the great leader a microphone .	complex_np:her:great leader	3461
+" It is a supreme tribute to her , " he said .	" It is a supreme tribute to the political supporter , " he said .	complex_np:her:political supporter	3833
+This is not a race to find him .	This is not a race to find the Italian photographer .	complex_np:him:Italian photographer	112
+He said it was instantly apparent to him something was wrong .	He said it was instantly apparent to the top contender something was wrong .	complex_np:him:top contender	3601
+I am nodding dementedly and urging him on .	I am nodding dementedly and urging the lead researcher on .	complex_np:him:lead researcher	2234
+Ms. Napier looked at her .	Ms. Napier looked at the strong supporter .	complex_np:her:strong supporter	4572
+Righties would crawl through ground glass to beat her .	Righties would crawl through ground glass to beat the 19-year-old daughter .	complex_np:her:19-year-old daughter	6658
+Her love touched so many people .	The American singer love touched so many people .	complex_np:her:American singer	3797
+I will give this jersey to him .	I will give this jersey to the Israeli leader .	complex_np:him:Israeli leader	617
+The consequences to her of not having it could be dire .	The consequences to the senior officer of not having it could be dire .	complex_np:her:senior officer	3740
+Why was it so hard for him to do this job ?	Why was it so hard for the U.S.-born player to do this job ?	complex_np:him:U.S.-born player	937
+I do not want him to think I am nosy .	I do not want the 42-year-old mother to think I am nosy .	complex_np:him:42-year-old mother	3522
+Do you give him policy advice ?	Do you give the young teacher policy advice ?	complex_np:him:young teacher	4758
+There is no Condi to stop her .	There is no Condi to stop the forensic psychiatrist .	complex_np:her:forensic psychiatrist	183
+She was unconscious when Chandler brought her out .	She was unconscious when Chandler brought the relative newcomer out .	complex_np:her:relative newcomer	3594
+I had a great fitness coach , but they sacked him .	I had a great fitness coach , but they sacked the professional gambler .	complex_np:him:professional gambler	5240
+" Sure you can , Walt , " Shepard assured him .	" Sure you can , Walt , " Shepard assured the migrant worker .	complex_np:him:migrant worker	4775
+" They were torturing him , " Wells said .	" They were torturing the strong customer , " Wells said .	complex_np:him:strong customer	1082
+He then grabbed Slocombe and ordered him off his property .	He then grabbed Slocombe and ordered the runaway winner off his property .	complex_np:him:runaway winner	1340
+I take her all the time .	I take the Japanese photographer all the time .	complex_np:her:Japanese photographer	6506
+I wanted the best for her , yes .	I wanted the best for the Colombian leader , yes .	complex_np:her:Colombian leader	6427
+I gave him a ride home from the airport .	I gave the annual shareholder a ride home from the airport .	complex_np:him:annual shareholder	648
+His schedule can take him through a half-dozen stops a day .	His schedule can take the political insider through a half-dozen stops a day .	complex_np:him:political insider	3185
+They told him Kennedy had been assassinated in Dallas .	They told the veterinary officer Kennedy had been assassinated in Dallas .	complex_np:him:veterinary officer	1661
+Where had he left her ?	Where had he left the senior leader ?	complex_np:her:senior leader	5282
+I am behind him 100 percent .	I am behind the senior minister 100 percent .	complex_np:him:senior minister	2709
+But the Indians got to him quickly .	But the Indians got to the nine-year-old daughter quickly .	complex_np:him:nine-year-old daughter	4009
+The more time I spent with Andrew , the more I liked him .	The more time I spent with Andrew , the more I liked the dead soldier .	complex_np:him:dead soldier	5104
+She adored him .	She adored the principal scientist .	complex_np:him:principal scientist	110
+Seeing him treated like this makes me despair .	Seeing the female leader treated like this makes me despair .	complex_np:him:female leader	6314
+An Iranian woman recognized him .	An Iranian woman recognized the vicious killer .	complex_np:him:vicious killer	3614
+It is hugely disappointing for him and for us .	It is hugely disappointing for the big seller and for us .	complex_np:him:big seller	4523
+Peter was being haunted by visions of him , or something .	Peter was being haunted by visions of the reclusive leader , or something .	complex_np:him:reclusive leader	2157
+The nightclub world no longer holds any attractions for him .	The nightclub world no longer holds any attractions for the French tourist .	complex_np:him:French tourist	1198
+It is possible the Mets will shut him down .	It is possible the Mets will shut the major player down .	complex_np:him:major player	1402
+I let her go .	I let the prospective buyer go .	complex_np:her:prospective buyer	3257
+Four of his former players teach here and coach alongside him .	Four of his former players teach here and coach alongside the Irish writer .	complex_np:him:Irish writer	822
+Police identified him as a suspect on Monday .	Police identified the national officer as a suspect on Monday .	complex_np:him:national officer	1207
+Unless I bet on him of course .	Unless I bet on the Iranian officer of course .	complex_np:him:Iranian officer	2831
+This was awfully sweet of him .	This was awfully sweet of the Prime minister .	complex_np:him:Prime minister	6590
+Ms. Gotbaum 's relatives have accused the police of mistreating her .	Ms. Gotbaum 's relatives have accused the police of mistreating the second player .	complex_np:her:second player	2930
+Three of Pichushkin 's victims survived and one identified him .	Three of Pichushkin 's victims survived and one identified the young designer .	complex_np:him:young designer	5947
+He could not say who attacked him in the dimly lighted parking lot .	He could not say who attacked the longtime member in the dimly lighted parking lot .	complex_np:him:longtime member	604
+Teams concentrate inordinate amounts of attention on him .	Teams concentrate inordinate amounts of attention on the Democratic leader .	complex_np:him:Democratic leader	5475
+Some people may end up really regretting the way they are treating her .	Some people may end up really regretting the way they are treating the global supplier .	complex_np:her:global supplier	1451
+It is hard to say , you should ask him .	It is hard to say , you should ask the Democratic leader .	complex_np:him:Democratic leader	4672
+Give him a minder ?	Give the close adviser a minder ?	complex_np:him:close adviser	439
+It is a fact that now embarrasses him .	It is a fact that now embarrasses the abstract painter .	complex_np:him:abstract painter	1016
+Official results gave him nearly 95 % of the vote .	Official results gave the structural engineer nearly 95 % of the vote .	complex_np:him:structural engineer	3342
+The house now provides the dignified sanctuary so long denied her .	The house now provides the dignified sanctuary so long denied the military adviser .	complex_np:her:military adviser	4836
+" We had every intention to speak to him , " he said .	" We had every intention to speak to the other partner , " he said .	complex_np:him:other partner	431
+Who killed her ?	Who killed the steady leader ?	complex_np:her:steady leader	4850
+It is easy to see what George sees in her !	It is easy to see what George sees in the global manufacturer !	complex_np:her:global manufacturer	2688
+Rodgers is indifferent to those who question him .	Rodgers is indifferent to those who question the absent father .	complex_np:him:absent father	6175
+Ree : Ah , Bruno , bless him .	Ree : Ah , Bruno , bless the potential customer .	complex_np:him:potential customer	6372
+His friends invariably compare him to a priest .	His friends invariably compare the domestic partner to a priest .	complex_np:him:domestic partner	2270
+Pichushkin said he was aware of the note but killed her anyway .	Pichushkin said he was aware of the note but killed the political reporter anyway .	complex_np:her:political reporter	1453
+Peterson has denied that Morphey helped him move anything .	Peterson has denied that Morphey helped the local volunteer move anything .	complex_np:him:local volunteer	1890
+She seemed deaf when we called her .	She seemed deaf when we called the French lawyer .	complex_np:her:French lawyer	1898
+But he carries its scars with him .	But he carries its scars with the communist leader .	complex_np:him:communist leader	5065
+The literary establishment , with some dissenters , also welcomes him .	The literary establishment , with some dissenters , also welcomes the 23-year-old right-hander .	complex_np:him:23-year-old right-hander	1452
+2007 November - Bainimarama says police have foiled a plot to assassinate him .	2007 November - Bainimarama says police have foiled a plot to assassinate the senior minister .	complex_np:him:senior minister	168
+You cannot take that away from him .	You cannot take that away from the autistic hiker .	complex_np:him:autistic hiker	1057
+And I am almost quoting him for you , General .	And I am almost quoting the Venezuelan leader for you , General .	complex_np:him:Venezuelan leader	1927
+I think I heard him sobbing .	I think I heard the second daughter sobbing .	complex_np:him:second daughter	3889
+But Diaz liked her .	But Diaz liked the world-class player .	complex_np:her:world-class player	2696
+The first task was to find him work .	The first task was to find the Baptist preacher work .	complex_np:him:Baptist preacher	5003
+I learned from her .	I learned from the evolutionary biologist .	complex_np:her:evolutionary biologist	5372
+We need him to be OK and he understands that .	We need the outstanding leader to be OK and he understands that .	complex_np:him:outstanding leader	4011
+They hope that Kenadie will one day turn out like her .	They hope that Kenadie will one day turn out like the three-time winner .	complex_np:her:three-time winner	380
+" I trust him , " Cook said .	" I trust the strong supporter , " Cook said .	complex_np:him:strong supporter	4376
+And who could blame her ?	And who could blame the prolific writer ?	complex_np:her:prolific writer	2576
+Anyone who has a problem with her , you deal with me !	Anyone who has a problem with the main challenger , you deal with me !	complex_np:her:main challenger	5993
+He assured her it could .	He assured the radical Islamist it could .	complex_np:her:radical Islamist	5776
+I was not ratting him out .	I was not ratting the 49-year-old singer out .	complex_np:him:49-year-old singer	1847
+He looked behind him .	He looked behind the former banker .	complex_np:him:former banker	5601
+I 'll be watching the game this weekend with him .	I 'll be watching the game this weekend with the French teacher .	complex_np:him:French teacher	5185
+" Take her , " Porky said .	" Take the British leader , " Porky said .	complex_np:her:British leader	4085
+I looked at him .	I looked at the political supporter .	complex_np:him:political supporter	4705
+Most of the roster is happy to have him back .	Most of the roster is happy to have the first member back .	complex_np:him:first member	1347
+And Davis the congressman is running hard for her .	And Davis the congressman is running hard for the interior minister .	complex_np:her:interior minister	4329
+The back operation has definitely helped him .	The back operation has definitely helped the big seller .	complex_np:him:big seller	1919
+Switaj 's parents have been taking care of him .	Switaj 's parents have been taking care of the Georgian leader .	complex_np:him:Georgian leader	4338
+Let him go .	Let the black-sheep brother go .	complex_np:him:black-sheep brother	2293
+Police describe him as " a key player " in the suspected theft .	Police describe the former skipper as " a key player " in the suspected theft .	complex_np:him:former skipper	2271
+Safe bet no bigwig from Hallmark will be calling him anytime soon .	Safe bet no bigwig from Hallmark will be calling the fellow officer anytime soon .	complex_np:him:fellow officer	1022
+Another audience member came onstage to trip her .	Another audience member came onstage to trip the early supporter .	complex_np:her:early supporter	2602
+Some said Americans killed him .	Some said Americans killed the former skipper .	complex_np:him:former skipper	3496
+I will be doing everything to keep him at Birmingham .	I will be doing everything to keep the key player at Birmingham .	complex_np:him:key player	2852
+It made me see him in a different light .	It made me see the 23-year-old right-hander in a different light .	complex_np:him:23-year-old right-hander	6403
+But do not listen to him .	But do not listen to the molecular biologist .	complex_np:him:molecular biologist	8
+I thought I was losing him .	I thought I was losing the Turkish fighter .	complex_np:him:Turkish fighter	4567
+I would still be the same if it were not for him .	I would still be the same if it were not for the military commander .	complex_np:him:military commander	3093
+Then all the reindeer teased him .	Then all the reindeer teased the big supporter .	complex_np:him:big supporter	3229
+I told him I would do it after the marathon .	I told the new player I would do it after the marathon .	complex_np:him:new player	1902
+I was skeptical and told him so .	I was skeptical and told the Dutch striker so .	complex_np:him:Dutch striker	4978
+He can call his old friend Ray Hunt and ask him .	He can call his old friend Ray Hunt and ask the occupational therapist .	complex_np:him:occupational therapist	3002
+There was no telephone listing for him or his family in Adrian .	There was no telephone listing for the American photographer or his family in Adrian .	complex_np:him:American photographer	1194
+We remain hopeful we will get her back safely .	We remain hopeful we will get the former partner back safely .	complex_np:her:former partner	3661
+She says it makes her feel less wasteful .	She says it makes the Brazilian goalkeeper feel less wasteful .	complex_np:her:Brazilian goalkeeper	3904
+Try not to let her do what she wants to do .	Try not to let the hooded robber do what she wants to do .	complex_np:her:hooded robber	5275
+Hillary Clinton would not want me within a hundred miles of her .	Hillary Clinton would not want me within a hundred miles of the corporate lawyer .	complex_np:her:corporate lawyer	3752
+I 'll give my life for him , if I could .	I 'll give my life for the Celtic player , if I could .	complex_np:him:Celtic player	5404
+For her , antiques date prior to World War II .	For the special adviser , antiques date prior to World War II .	complex_np:her:special adviser	1943
+How long did it take to build up the nerve to kiss her ?	How long did it take to build up the nerve to kiss the veteran defender ?	complex_np:her:veteran defender	532
+A replacement for him has not yet been announced .	A replacement for the deputy minister has not yet been announced .	complex_np:him:deputy minister	6213
+It was handwritten by her .	It was handwritten by the new member .	complex_np:her:new member	2932
+Another failed drug test likely would land him in jail .	Another failed drug test likely would land the favorite player in jail .	complex_np:him:favorite player	5189
+Just ask him .	Just ask the embattled leader .	complex_np:him:embattled leader	1241
+She said the doctor had seemed as scared as her .	She said the doctor had seemed as scared as the maternal grandfather .	complex_np:her:maternal grandfather	6267
+Anita Thompson said Juan will not discuss the document with her .	Anita Thompson said Juan will not discuss the document with the two-year customer .	complex_np:her:two-year customer	1695
+Mr. Mays corrected him .	Mr. Mays corrected the net importer .	complex_np:him:net importer	4504
+Those issues will be waiting for whoever succeeds him .	Those issues will be waiting for whoever succeeds the Republican leader .	complex_np:him:Republican leader	610
+Why does not she tell him ?	Why does not she tell the Turkish soldier ?	complex_np:him:Turkish soldier	429
+The charges against him were later dropped .	The charges against the environmental engineer were later dropped .	complex_np:him:environmental engineer	6040
+However , it underestimated the determination of those out to kill her .	However , it underestimated the determination of those out to kill the single player .	complex_np:her:single player	4644
+Owens was running inside the 10 when the pass fell well behind him .	Owens was running inside the 10 when the pass fell well behind the Democratic frontrunner .	complex_np:him:Democratic frontrunner	1122
+I just saw him a second ago .	I just saw the good hitter a second ago .	complex_np:him:good hitter	1803
+What he found surprised even him .	What he found surprised even the dead ringer .	complex_np:him:dead ringer	1605
+Talk to her about this relationship .	Talk to the loving mother about this relationship .	complex_np:her:loving mother	4803
+You should teach him .	You should teach the political player .	complex_np:him:political player	4488
+" " Everybody really misses him .	" " Everybody really misses the first driver .	complex_np:him:first driver	5293
+" I could pet him , " she said .	" I could pet the Polish teenager , " she said .	complex_np:him:Polish teenager	3041
+" I want to congratulate her for showing leadership , " Sharpton said .	" I want to congratulate the legal adviser for showing leadership , " Sharpton said .	complex_np:her:legal adviser	154
+Mr Khurana said the schoolboy hit Mr Kerr first and tripped him up .	Mr Khurana said the schoolboy hit Mr Kerr first and tripped the investigative journalist up .	complex_np:him:investigative journalist	2088
+But several screamed in protest when officers prepared to shock him .	But several screamed in protest when officers prepared to shock the newborn daughter .	complex_np:him:newborn daughter	5693
+It probably made him smile .	It probably made the enhanced driver smile .	complex_np:him:enhanced driver	106
+They were recruiting him at safety .	They were recruiting the drunk driver at safety .	complex_np:him:drunk driver	9
+That is what I liked about him so much .	That is what I liked about the highest-paid manager so much .	complex_np:him:highest-paid manager	554
+Smoke and heat drove him back outside .	Smoke and heat drove the online provider back outside .	complex_np:him:online provider	5810
+The jury cleared him of having sex with an underage girl .	The jury cleared the late winner of having sex with an underage girl .	complex_np:him:late winner	1121
+The Braves are hitting .288 with Teixeira , compared with .275 without him .	The Braves are hitting .288 with Teixeira , compared with .275 without the Russian fighter .	complex_np:him:Russian fighter	773
+But one thing has continued to fascinate him about golf .	But one thing has continued to fascinate the international leader about golf .	complex_np:him:international leader	1474
+That nervous foot is tapping again and his eloquence suddenly deserts him .	That nervous foot is tapping again and his eloquence suddenly deserts the Afghan driver .	complex_np:him:Afghan driver	268
+It only got him so far .	It only got the independent provider so far .	complex_np:him:independent provider	4443
+It is not known whether detectives interviewed him at the time .	It is not known whether detectives interviewed the Republican lawyer at the time .	complex_np:him:Republican lawyer	852
+I get him on the phone .	I get the year-old daughter on the phone .	complex_np:him:year-old daughter	5864
+They have not yet named who will replace him .	They have not yet named who will replace the charismatic leader .	complex_np:him:charismatic leader	1799
+Yet even this major blow barely troubles her .	Yet even this major blow barely troubles the current leader .	complex_np:her:current leader	4800
+It will not be a problem for him .	It will not be a problem for the creative officer .	complex_np:him:creative officer	1430
+I figured I would go back and visit him again .	I figured I would go back and visit the political insider again .	complex_np:him:political insider	717
+And many students say they will join him .	And many students say they will join the British designer .	complex_np:him:British designer	3513
+I am not going to take that away from him .	I am not going to take that away from the Swiss player .	complex_np:him:Swiss player	2548
+I respect her .	I respect the ailing leader .	complex_np:her:ailing leader	6017
+I know the system is not set up for him to win .	I know the system is not set up for the premier provider to win .	complex_np:him:premier provider	4971
+Watching him he is begging to be picked .	Watching the pregnant daughter he is begging to be picked .	complex_np:him:pregnant daughter	240
+The judge reinstated Kanneh 's bond , but released him .	The judge reinstated Kanneh 's bond , but released the senior lecturer .	complex_np:him:senior lecturer	6297
+I knew it was down to him .	I knew it was down to the top automaker .	complex_np:him:top automaker	3981
+She smiled triumphantly at him .	She smiled triumphantly at the top automaker .	complex_np:him:top automaker	1313
+No one gathered around him disagreed .	No one gathered around the proud father disagreed .	complex_np:him:proud father	2653
+" They love him , " White said of the crowd .	" They love the official biographer , " White said of the crowd .	complex_np:him:official biographer	5265
+Her son told her the terrible news .	Her son told the senior researcher the terrible news .	complex_np:her:senior researcher	5066
+It was his way of protecting her .	It was his way of protecting the Chinese leader .	complex_np:her:Chinese leader	2318
+It also stifled him creatively .	It also stifled the anonymous caller creatively .	complex_np:him:anonymous caller	951
+And look : now the mainstream has found him .	And look : now the mainstream has found the idle chatter .	complex_np:him:idle chatter	3464
+Several customers had recognized him by his tremor .	Several customers had recognized the former employer by his tremor .	complex_np:him:former employer	2224
+It was given to him by Joey Goldberg , an ailing friend .	It was given to the local journalist by Joey Goldberg , an ailing friend .	complex_np:him:local journalist	4066
+What is happened to him ?	What is happened to the elderly mother ?	complex_np:him:elderly mother	2630
+He had no food or water with him .	He had no food or water with the professional player .	complex_np:him:professional player	3285
+We 'll miss him .	We 'll miss the Iraqi commander .	complex_np:him:Iraqi commander	1180
+A makeshift bomb exploded near him in Muqdadiyah , northeast of Baghdad .	A makeshift bomb exploded near the top adviser in Muqdadiyah , northeast of Baghdad .	complex_np:him:top adviser	4860
+She needs to hear someone sticking up for her .	She needs to hear someone sticking up for the Shiite leader .	complex_np:her:Shiite leader	479
+" I 'll adopt him , " he said .	" I 'll adopt the Republican leader , " he said .	complex_np:him:Republican leader	2435
+Rescuers eventually managed to convince him to go to a shelter .	Rescuers eventually managed to convince the former partner to go to a shelter .	complex_np:him:former partner	1267
+Oakwood watched him go .	Oakwood watched the 77-year-old owner go .	complex_np:him:77-year-old owner	679
+I sat next to him at an interview , very pregnant .	I sat next to the foreign fighter at an interview , very pregnant .	complex_np:him:foreign fighter	3392
+I care a lot about him .	I care a lot about the female officer .	complex_np:him:female officer	2727
+The carer who sexually abused him was later convicted .	The carer who sexually abused the personal trainer was later convicted .	complex_np:him:personal trainer	1897
+" " Family members are with him .	" " Family members are with the top lawyer .	complex_np:him:top lawyer	581
+It will give him some time .	It will give the lead researcher some time .	complex_np:him:lead researcher	2445
+The next afternoon his captors released him unharmed .	The next afternoon his captors released the effective leader unharmed .	complex_np:him:effective leader	2348
+The sellout crowd of 18,997 gave him a standing ovation .	The sellout crowd of 18,997 gave the black teenager a standing ovation .	complex_np:him:black teenager	3713
+The Senators ( 10-1-0 ) almost blew it without him .	The Senators ( 10-1-0 ) almost blew it without the veteran leader .	complex_np:him:veteran leader	6497
+I want her to do better than me .	I want the acting leader to do better than me .	complex_np:her:acting leader	4541
+Some saluted him .	Some saluted the new consumer .	complex_np:him:new consumer	4609
+Look at him !	Look at the major provider !	complex_np:him:major provider	2331
+He did not leave her , however .	He did not leave the great partner , however .	complex_np:her:great partner	2962
+That is her !	That is the drunk driver !	complex_np:her:drunk driver	6104
+It is not helping him .	It is not helping the overseas player .	complex_np:him:overseas player	3765
+It propelled him to unparalleled electoral popularity .	It propelled the overall customer to unparalleled electoral popularity .	complex_np:him:overall customer	3227
+Mr Purcell denies all the charges against him .	Mr Purcell denies all the charges against the online customer .	complex_np:him:online customer	1314
+It gives him a chance to unwind .	It gives the female boxer a chance to unwind .	complex_np:him:female boxer	1621
+" " Please let her go or call the police .	" " Please let the Republican member go or call the police .	complex_np:her:Republican member	803
+It reminded me of him and the houses he built .	It reminded me of the active player and the houses he built .	complex_np:him:active player	4761
+I was reluctant to go back to work and face him .	I was reluctant to go back to work and face the former member .	complex_np:him:former member	458
+Officers mistook him for would-be suicide bomber Hussain Osman .	Officers mistook the American-born player for would-be suicide bomber Hussain Osman .	complex_np:him:American-born player	5224
+Everybody knows Clinton and has made up their minds about her .	Everybody knows Clinton and has made up their minds about the forehand winner .	complex_np:her:forehand winner	762
+I tried to be present with her .	I tried to be present with the major provider .	complex_np:her:major provider	5622
+, gave him a five-minute standing ovation .	, gave the British singer a five-minute standing ovation .	complex_np:him:British singer	5228
+It is not just the Burmese who support her .	It is not just the Burmese who support the fourth activist .	complex_np:her:fourth activist	340
+They watch him stroll purposefully up the pitch behind his forwards .	They watch the German engineer stroll purposefully up the pitch behind his forwards .	complex_np:him:German engineer	1759
+I believe they disciplined him in some manner .	I believe they disciplined the political satirist in some manner .	complex_np:him:political satirist	4953
+She told him she could not remember the exact sequence of events .	She told the Brazilian midfielder she could not remember the exact sequence of events .	complex_np:him:Brazilian midfielder	4881
+Mora 's mother wants the Army to explain his death to her .	Mora 's mother wants the Army to explain his death to the second officer .	complex_np:her:second officer	5783
+He said she made an illegal U-turn trying to evade him .	He said she made an illegal U-turn trying to evade the vocal supporter .	complex_np:him:vocal supporter	4462
+" You have to give it back , " I told him .	" You have to give it back , " I told the amateur photographer .	complex_np:him:amateur photographer	2805
+We are so proud of him .	We are so proud of the 18-year-old daughter .	complex_np:him:18-year-old daughter	1705
+He is got an aura around him .	He is got an aura around the former communist .	complex_np:him:former communist	5445
+Get her .	Get the offensive player .	complex_np:her:offensive player	4574
+But I have maintained a good relationship with him .	But I have maintained a good relationship with the lyrical terrorist .	complex_np:him:lyrical terrorist	5633
+I looked at him with sympathy .	I looked at the first-time buyer with sympathy .	complex_np:him:first-time buyer	2151
+She also warned him to be careful .	She also warned the black player to be careful .	complex_np:him:black player	1775
+Money , however , is of little consequence to him .	Money , however , is of little consequence to the 45-year-old mother .	complex_np:him:45-year-old mother	5579
+Something to focus him .	Something to focus the marine biologist .	complex_np:him:marine biologist	4218
+I blinked , unable to find the words to answer him .	I blinked , unable to find the words to answer the central defender .	complex_np:him:central defender	2998
+Three years I did not see him .	Three years I did not see the former butler .	complex_np:him:former butler	2163
+That gives him 10 victories on the season .	That gives the first driver 10 victories on the season .	complex_np:him:first driver	3743
+They then took him back to Puerto Cabezas .	They then took the successful bidder back to Puerto Cabezas .	complex_np:him:successful bidder	2038
+I cannot wait to see her .	I cannot wait to see the socialist leader .	complex_np:her:socialist leader	3341
+And could you support him ?	And could you support the senior lawyer ?	complex_np:him:senior lawyer	2211
+She created a memorial on Murrells Inlet , S.C. to remember him .	She created a memorial on Murrells Inlet , S.C. to remember the potential bidder .	complex_np:him:potential bidder	5207
+With such a demanding training regime , who can blame him ?	With such a demanding training regime , who can blame the pro wrestler ?	complex_np:him:pro wrestler	6191
+More than 180 Iranian MPs have signed a letter praising him .	More than 180 Iranian MPs have signed a letter praising the lone striker .	complex_np:him:lone striker	1462
+Displease him and the wilderness beckons .	Displease the former manager and the wilderness beckons .	complex_np:him:former manager	4516
+Everyone expected him to fall back .	Everyone expected the powerful leader to fall back .	complex_np:him:powerful leader	4810
+The company would not say how much it paid her .	The company would not say how much it paid the British singer-songwriter .	complex_np:her:British singer-songwriter	5201
+She predeceased him and he is survived by their two sons .	She predeceased the Lead singer and he is survived by their two sons .	complex_np:him:Lead singer	2640
+It takes him about two hours to perform .	It takes the first officer about two hours to perform .	complex_np:him:first officer	4882
+" " We sure missed him .	" " We sure missed the Kurdish leader .	complex_np:him:Kurdish leader	3976
+Still a productive slugger , but who wants him ?	Still a productive slugger , but who wants the top performer ?	complex_np:him:top performer	4369
+1 and spent an hour with him .	1 and spent an hour with the planetary scientist .	complex_np:him:planetary scientist	1254
+I love him and I love his wife , Shirley .	I love the industrial hygienist and I love his wife , Shirley .	complex_np:him:industrial hygienist	5010
+He said the new suspicions are hurtful to him .	He said the new suspicions are hurtful to the gold medalist .	complex_np:him:gold medalist	6338
+Without him , I would not be here .	Without the general partner , I would not be here .	complex_np:him:general partner	1373
+Whenever Mr. Davis appeared onstage , they eagerly applauded him .	Whenever Mr. Davis appeared onstage , they eagerly applauded the fast bowler .	complex_np:him:fast bowler	4785
+What is wrong with her ?	What is wrong with the clear front-runner ?	complex_np:her:clear front-runner	896
+I did not believe her .	I did not believe the environmental activist .	complex_np:her:environmental activist	2434
+I do not expect him to make a decision for quite some time .	I do not expect the true believer to make a decision for quite some time .	complex_np:him:true believer	641
+They decided to try to co-opt Dr. ElBaradei rather than isolate him .	They decided to try to co-opt Dr. ElBaradei rather than isolate the executive producer .	complex_np:him:executive producer	5709
+Queen Sophie , Princess Katherine and Prince Nicholas accompanied him .	Queen Sophie , Princess Katherine and Prince Nicholas accompanied the 25-year-old singer .	complex_np:him:25-year-old singer	6417
+Mr. Thingue spent seven years learning the craft with him .	Mr. Thingue spent seven years learning the craft with the Spanish rider .	complex_np:him:Spanish rider	5454
+He urged Venezuelans to see vote as a referendum on him .	He urged Venezuelans to see vote as a referendum on the vice minister .	complex_np:him:vice minister	4220
+He never heard back from her , Geffen said .	He never heard back from the religious leader , Geffen said .	complex_np:her:religious leader	2041
+" Do not make him mad , " Kitna said .	" Do not make the 19-year-old daughter mad , " Kitna said .	complex_np:him:19-year-old daughter	6563
+Haven 't we moved on from there , and him ?	Haven 't we moved on from there , and the loving mother ?	complex_np:him:loving mother	3735
+And I laid him to the side .	And I laid the Japanese soldier to the side .	complex_np:him:Japanese soldier	2531
+He also advised Disney to stand by her .	He also advised Disney to stand by the chief economist .	complex_np:her:chief economist	6170
+I did not intend to offend him .	I did not intend to offend the Shiite extremist .	complex_np:him:Shiite extremist	3310
+The bizarre and almost fetishistic nature of the notes disturbed her .	The bizarre and almost fetishistic nature of the notes disturbed the young writer .	complex_np:her:young writer	2946
+But fate had other plans for him .	But fate had other plans for the authoritarian leader .	complex_np:him:authoritarian leader	2328
+I wish him well .	I wish the loving father well .	complex_np:him:loving father	6450
+It is familiar to him .	It is familiar to the major shareholder .	complex_np:him:major shareholder	5879
+Security forces deny having arrested him .	Security forces deny having arrested the female officer .	complex_np:him:female officer	4680
+She had told him exactly nothing .	She had told the costume designer exactly nothing .	complex_np:him:costume designer	5583
+He says he is more interested in hiring her .	He says he is more interested in hiring the final arbiter .	complex_np:her:final arbiter	5829
+I respect him .	I respect the Tory leader .	complex_np:him:Tory leader	662
+His wife , Suzy , agrees with him .	His wife , Suzy , agrees with the Iranian leader .	complex_np:him:Iranian leader	5122
+I like her , but , no , not that much .	I like the first driver , but , no , not that much .	complex_np:her:first driver	1285
+It is up to him .	It is up to the three-time winner .	complex_np:him:three-time winner	1918
+The local Conservative association called on him to stand down .	The local Conservative association called on the 8-year-old daughter to stand down .	complex_np:him:8-year-old daughter	4527
+Scott interviewed him after the trial .	Scott interviewed the prominent lawyer after the trial .	complex_np:him:prominent lawyer	3305
+Burning the flags got him in some trouble for doing that .	Burning the flags got the 30-year-old mother in some trouble for doing that .	complex_np:him:30-year-old mother	5232
+But is anyone else ready for him ?	But is anyone else ready for the fourth player ?	complex_np:him:fourth player	3440
+He smiled at her .	He smiled at the 14-year-old follower .	complex_np:her:14-year-old follower	711
+I have a close and open relationship with her .	I have a close and open relationship with the two-year customer .	complex_np:her:two-year customer	4922
+He hovered near her at the state Capitol .	He hovered near the cultural anthropologist at the state Capitol .	complex_np:her:cultural anthropologist	135
+I will miss him .	I will miss the male vocalist .	complex_np:him:male vocalist	1496
+The decision tormented him for the rest of his life .	The decision tormented the Japanese consumer for the rest of his life .	complex_np:him:Japanese consumer	4279
+Unlikely , say those who know him .	Unlikely , say those who know the eventual game-winner .	complex_np:him:eventual game-winner	514
+We need to help him a little bit more .	We need to help the executive producer a little bit more .	complex_np:him:executive producer	5269
+Years on , the strain would also take its toll on him .	Years on , the strain would also take its toll on the drunken driver .	complex_np:him:drunken driver	6616
+Even the mirror rejected him .	Even the mirror rejected the general officer .	complex_np:him:general officer	848
+Govan took him to North Adams , Mass .	Govan took the regional manager to North Adams , Mass .	complex_np:him:regional manager	5467
+They were very brave boys who killed her .	They were very brave boys who killed the first-time offender .	complex_np:her:first-time offender	221
+I miss him all the time .	I miss the next manager all the time .	complex_np:him:next manager	1980
+But in 2002 , at the Belfry , it was him .	But in 2002 , at the Belfry , it was the would-be bomber .	complex_np:him:would-be bomber	2455

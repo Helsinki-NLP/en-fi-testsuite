@@ -1,0 +1,500 @@
+Business confidence fell sharply before the September 11 attacks on America .	Business confidence fell sharply after the September 11 attacks on America .	prep_postp:before:after	3557
+But nervous PBS managers pulled the film before broadcast .	But nervous PBS managers pulled the film after broadcast .	prep_postp:before:after	594
+If adopted , that change would not come before the spring .	If adopted , that change would not come after the spring .	prep_postp:before:after	3281
+Nassirudeen died just days before his birthday on 2 January .	Nassirudeen died just days after his birthday on 2 January .	prep_postp:before:after	2201
+About 300 years before this ecological transformation , the Argaric civilisation disappeared .	About 300 years after this ecological transformation , the Argaric civilisation disappeared .	prep_postp:before:after	1958
+Things certainly got complicated for Mr. Carmichael before his cousin 's death .	Things certainly got complicated for Mr. Carmichael after his cousin 's death .	prep_postp:before:after	2068
+Delhomme became Carolina 's long-term starter before humble beginnings .	Delhomme became Carolina 's long-term starter after humble beginnings .	prep_postp:before:after	2204
+The unions want to continue the walkout before any negotiations .	The unions want to continue the walkout during any negotiations .	prep_postp:before:during	1060
+Several Massachusetts cities experienced huge delinquency jumps before the quarter .	Several Massachusetts cities experienced huge delinquency jumps during the quarter .	prep_postp:before:during	4173
+Fires were started and missiles were thrown before the trouble .	Fires were started and missiles were thrown during the trouble .	prep_postp:before:during	384
+Of this group , 646 died before the length of the study .	Of this group , 646 died during the length of the study .	prep_postp:before:during	3010
+The results show is pre-recorded before Saturday evening 's live show .	The results show is pre-recorded after Saturday evening 's live show .	prep_postp:before:after	176
+Before his first two seasons , Robinson was impetuous , wild and unpredictable .	During his first two seasons , Robinson was impetuous , wild and unpredictable .	prep_postp:before:during	1292
+Before months of physical therapy , I still occasionally hobbled when I walked .	After months of physical therapy , I still occasionally hobbled when I walked .	prep_postp:before:after	648
+Maybe I was done enjoying it before the first bite .	Maybe I was done enjoying it after the first bite .	prep_postp:before:after	3715
+A building engineer was killed before a freak elevator accident in 2005 .	A building engineer was killed during a freak elevator accident in 2005 .	prep_postp:before:during	2120
+Support and service gross margins were 37 % before both periods .	Support and service gross margins were 37 % during both periods .	prep_postp:before:during	958
+They moved into the home two days before Christmas in 2005 .	They moved into the home two days after Christmas in 2005 .	prep_postp:before:after	2813
+He is our No. 1 guy before the season .	He is our No. 1 guy during the season .	prep_postp:before:during	737
+Mr. Rattner said before a tour of his facility .	Mr. Rattner said during a tour of his facility .	prep_postp:before:during	2334
+That was little changed from before Bernanke 's remarks .	That was little changed from after Bernanke 's remarks .	prep_postp:before:after	1932
+Risk management strategies worked well before the quarter .	Risk management strategies worked well during the quarter .	prep_postp:before:during	2958
+These moves came before the end of the July-September quarter .	These moves came after the end of the July-September quarter .	prep_postp:before:after	1568
+Hampshire Police said no police or bystanders were injured before the incident .	Hampshire Police said no police or bystanders were injured during the incident .	prep_postp:before:during	3410
+The best movies about Vietnam have come out before Vietnam .	The best movies about Vietnam have come out after Vietnam .	prep_postp:before:after	2513
+Before taxes , its net income was reported as $ 613.2 million .	After taxes , its net income was reported as $ 613.2 million .	prep_postp:before:after	4174
+Five suspected militants were also detained before the operation .	Five suspected militants were also detained during the operation .	prep_postp:before:during	1614
+They were laughing and joking even before the trial .	They were laughing and joking even during the trial .	prep_postp:before:during	1893
+One of my lowest moments came before a power cut .	One of my lowest moments came during a power cut .	prep_postp:before:during	1100
+Hundreds of thousands of Romanian Jews were killed before the war .	Hundreds of thousands of Romanian Jews were killed during the war .	prep_postp:before:during	406
+Fred Thompson appears on stage before last week 's GOP presidential debate .	Fred Thompson appears on stage during last week 's GOP presidential debate .	prep_postp:before:during	1376
+The passenger was later acquitted before a jury trial .	The passenger was later acquitted during a jury trial .	prep_postp:before:during	1738
+They were elated throughout her pregnancy and before the delivery .	They were elated throughout her pregnancy and during the delivery .	prep_postp:before:during	3995
+BREAKING records can become monotonous before a while .	BREAKING records can become monotonous after a while .	prep_postp:before:after	1039
+Before a few minutes , the stick indicates negative or positive .	After a few minutes , the stick indicates negative or positive .	prep_postp:before:after	3768
+They are the values our nation reaffirms before Hispanic Heritage Month .	They are the values our nation reaffirms during Hispanic Heritage Month .	prep_postp:before:during	3990
+" And I say , ' Before the next election .	" And I say , ' After the next election .	prep_postp:before:after	3310
+This could result in operational limits before peak hours .	This could result in operational limits during peak hours .	prep_postp:before:during	2772
+Oklahoma State and Missouri still loom before the Big 12 championship .	Oklahoma State and Missouri still loom after the Big 12 championship .	prep_postp:before:after	1030
+CDC guidelines recommend testing three months before transplants from high-risk donors .	CDC guidelines recommend testing three months after transplants from high-risk donors .	prep_postp:before:after	2077
+Giuliani said his doctor would issue a full report before the holidays .	Giuliani said his doctor would issue a full report after the holidays .	prep_postp:before:after	3936
+Beckham was not made available to reporters before the game .	Beckham was not made available to reporters after the game .	prep_postp:before:after	216
+Before a short return to action , Garrard was replaced by Quinn Gray .	After a short return to action , Garrard was replaced by Quinn Gray .	prep_postp:before:after	1024
+That was in May 2000 , soon before his inauguration .	That was in May 2000 , soon after his inauguration .	prep_postp:before:after	2593
+The injured man was taken to hospital and discharged before treatment .	The injured man was taken to hospital and discharged after treatment .	prep_postp:before:after	2554
+It is also released before orgasm .	It is also released during orgasm .	prep_postp:before:during	407
+Even before the latest crisis , Pakistanis were highly suspicious of U.S. intentions .	Even after the latest crisis , Pakistanis were highly suspicious of U.S. intentions .	prep_postp:before:after	368
+Before warmer months , ice from these glaciers melts into the ocean .	During warmer months , ice from these glaciers melts into the ocean .	prep_postp:before:during	2770
+In the 1970s thousands were killed before bad storms .	In the 1970s thousands were killed during bad storms .	prep_postp:before:during	1221
+Trading standards officers acted in nine boroughs before complaints from the public .	Trading standards officers acted in nine boroughs after complaints from the public .	prep_postp:before:after	442
+People generally worry about money and sex before health .	People generally worry about money and sex after health .	prep_postp:before:after	2273
+She died soon before at a hospital .	She died soon after at a hospital .	prep_postp:before:after	3931
+Before his testimony , Perez left the room sobbing .	After his testimony , Perez left the room sobbing .	prep_postp:before:after	1983
+It could come before city leaders on Wednesday .	It could come after city leaders on Wednesday .	prep_postp:before:after	110
+Tim is in a brace before a paragliding accident .	Tim is in a brace after a paragliding accident .	prep_postp:before:after	253
+You could see the twinkle in his eyes before his live shot .	You could see the twinkle in his eyes during his live shot .	prep_postp:before:during	3499
+Before marriage , she lived at home .	After marriage , she lived at home .	prep_postp:before:after	2488
+Before the shooting , authorities locked down the campus .	After the shooting , authorities locked down the campus .	prep_postp:before:after	417
+The decision to reopen that case came before Stacy 's disappearance .	The decision to reopen that case came after Stacy 's disappearance .	prep_postp:before:after	261
+Make it four before Nixon 's line shot into the right-field seats .	Make it four after Nixon 's line shot into the right-field seats .	prep_postp:before:after	2092
+Fratto said by e-mail before the official ceremony .	Fratto said by e-mail after the official ceremony .	prep_postp:before:after	908
+The motorway was closed in both directions for several hours before the crash .	The motorway was closed in both directions for several hours after the crash .	prep_postp:before:after	1106
+Now , before a year on Herceptin , Diekmeyer is almost paid up .	Now , after a year on Herceptin , Diekmeyer is almost paid up .	prep_postp:before:after	387
+Will the coaches exchange friendly greetings before the game ?	Will the coaches exchange friendly greetings after the game ?	prep_postp:before:after	3493
+Could 've taken a touch before shooting , to be honest .	Could 've taken a touch after shooting , to be honest .	prep_postp:before:after	3593
+Soon before Saddam 's fall , the liquor business boomed .	Soon after Saddam 's fall , the liquor business boomed .	prep_postp:before:after	2874
+We expect this transaction to be completed before the first week in November .	We expect this transaction to be completed during the first week in November .	prep_postp:before:during	1314
+It stabilizes your children before the day .	It stabilizes your children during the day .	prep_postp:before:during	1089
+Liberty Island was closed to the public before the 9 / 11 attacks .	Liberty Island was closed to the public after the 9 / 11 attacks .	prep_postp:before:after	1392
+" Before awhile , you become calm about it , " he said .	" After awhile , you become calm about it , " he said .	prep_postp:before:after	1731
+He will appear before City of Westminster magistrates this morning .	He will appear after City of Westminster magistrates this morning .	prep_postp:before:after	3337
+Couldn 't step down before that sort of challenge .	Couldn 't step down after that sort of challenge .	prep_postp:before:after	1372
+Moments before Tinsley 's foul , Pierce went baseline for a thunderous dunk .	Moments after Tinsley 's foul , Pierce went baseline for a thunderous dunk .	prep_postp:before:after	1442
+But she apparently was injured before the race .	But she apparently was injured during the race .	prep_postp:before:during	702
+Before Woodrow Wilson , most presidents returned home when they left office .	After Woodrow Wilson , most presidents returned home when they left office .	prep_postp:before:after	2754
+The night before last , my husband slaughtered a mouse .	The night after last , my husband slaughtered a mouse .	prep_postp:before:after	3779
+Arctic ice extent was measured only before expeditions .	Arctic ice extent was measured only during expeditions .	prep_postp:before:during	2447
+University officials said the prison gave Gombela support before his studies .	University officials said the prison gave Gombela support during his studies .	prep_postp:before:during	1908
+Some businesses in town planned to shut down before the demonstrations .	Some businesses in town planned to shut down during the demonstrations .	prep_postp:before:during	1051
+Francona spoke to Epstein before the seventh and eighth innings .	Francona spoke to Epstein after the seventh and eighth innings .	prep_postp:before:after	1485
+Both of their parents died closely one before the other .	Both of their parents died closely one after the other .	prep_postp:before:after	1512
+We had driven up before some disappointing salmon fishing .	We had driven up after some disappointing salmon fishing .	prep_postp:before:after	1727
+Both he and his passenger were treated for minor injuries before the crash .	Both he and his passenger were treated for minor injuries after the crash .	prep_postp:before:after	1777
+He had eight in 31 games before that .	He had eight in 31 games after that .	prep_postp:before:after	411
+He was released from hospital the same night before treatment .	He was released from hospital the same night after treatment .	prep_postp:before:after	2909
+Before the summer , you see thousands of bikes .	During the summer , you see thousands of bikes .	prep_postp:before:during	3046
+The film is about a Jewish college professor before the 1960s .	The film is about a Jewish college professor during the 1960s .	prep_postp:before:during	3276
+Steinbrenner left the ballpark before the seventh inning .	Steinbrenner left the ballpark after the seventh inning .	prep_postp:before:after	128
+The issue has flared up before for Mr. Bloomberg .	The issue has flared up after for Mr. Bloomberg .	prep_postp:before:after	1871
+Before that , caveat emptor goes into effect .	After that , caveat emptor goes into effect .	prep_postp:before:after	2137
+Cook transferred to Pitt from East Carolina before the 2004-05 season .	Cook transferred to Pitt from East Carolina after the 2004-05 season .	prep_postp:before:after	3330
+Before a game of charades , Mr. Chambers pretended to choke himself .	During a game of charades , Mr. Chambers pretended to choke himself .	prep_postp:before:during	1799
+Before that , air travel becomes more attractive .	After that , air travel becomes more attractive .	prep_postp:before:after	3287
+Before this , though , the human characters predominate .	After this , though , the human characters predominate .	prep_postp:before:after	968
+These moves came before the July-September quarter .	These moves came after the July-September quarter .	prep_postp:before:after	2059
+No suspects were detained before the operation .	No suspects were detained during the operation .	prep_postp:before:during	2262
+Did I need to urinate before the night ?	Did I need to urinate during the night ?	prep_postp:before:during	2115
+Before the civil rights era , the shops were used for political gatherings .	During the civil rights era , the shops were used for political gatherings .	prep_postp:before:during	1881
+The Republicans are waving their sabers and talking about going before Iran .	The Republicans are waving their sabers and talking about going after Iran .	prep_postp:before:after	1533
+Five days before Christmas , Mike Tomlin already got a bag of coal .	Five days after Christmas , Mike Tomlin already got a bag of coal .	prep_postp:before:after	2662
+Before the day 's workouts , Shanahan said Walker needed another operation .	After the day 's workouts , Shanahan said Walker needed another operation .	prep_postp:before:after	4075
+True , the eclecticism of awards-show dressing started to die well before Zoe .	True , the eclecticism of awards-show dressing started to die well after Zoe .	prep_postp:before:after	732
+Before his experiences , does Lomu have advice for Habana ?	After his experiences , does Lomu have advice for Habana ?	prep_postp:before:after	458
+Cho had been given an outpatient treatment order 16 months before the rampage .	Cho had been given an outpatient treatment order 16 months after the rampage .	prep_postp:before:after	1441
+36 wirebonders were disposed of before the quarter .	36 wirebonders were disposed of during the quarter .	prep_postp:before:during	2036
+Francois Fillon worked closely with Nicolas Sarkozy before the presidential election campaign .	Francois Fillon worked closely with Nicolas Sarkozy during the presidential election campaign .	prep_postp:before:during	3373
+Before that , you watch what you tweet .	After that , you watch what you tweet .	prep_postp:before:after	2643
+Before that , the number of seconds will be counted .	After that , the number of seconds will be counted .	prep_postp:before:after	2067
+Media did not see Shakeri before the visit Tuesday .	Media did not see Shakeri during the visit Tuesday .	prep_postp:before:during	254
+She braved numerous death threats before her murder .	She braved numerous death threats after her murder .	prep_postp:before:after	2739
+The steps were gated before the accident .	The steps were gated after the accident .	prep_postp:before:after	67
+The carriageway was closed for several hours before the crash .	The carriageway was closed for several hours after the crash .	prep_postp:before:after	3657
+Before a July of rain and floods , the sun came out .	After a July of rain and floods , the sun came out .	prep_postp:before:after	35
+Nowak was fired as an astronaut a month before her arrest .	Nowak was fired as an astronaut a month after her arrest .	prep_postp:before:after	747
+McClaren , before the match , was lame .	McClaren , after the match , was lame .	prep_postp:before:after	1176
+The family returned to England before the disaster .	The family returned to England after the disaster .	prep_postp:before:after	3770
+He died on Tuesday , four days before the snake bit him .	He died on Tuesday , four days after the snake bit him .	prep_postp:before:after	3199
+Analysts are expecting $ 4.96 before one-time items .	Analysts are expecting $ 4.96 after one-time items .	prep_postp:before:after	1243
+Before that , " Joe " has unaccountably become part of her life .	After that , " Joe " has unaccountably become part of her life .	prep_postp:before:after	1787
+They spoke before meeting with President Gen. Pervez Musharraf .	They spoke after meeting with President Gen. Pervez Musharraf .	prep_postp:before:after	1139
+Indiana celebrates Lincoln 's birthday on the day before Thanksgiving .	Indiana celebrates Lincoln 's birthday on the day after Thanksgiving .	prep_postp:before:after	2921
+They said they had examined what happened before launches in the past decade .	They said they had examined what happened after launches in the past decade .	prep_postp:before:after	3328
+Gambari had met with Than Shwe and Suu Kyi separately before his visit .	Gambari had met with Than Shwe and Suu Kyi separately during his visit .	prep_postp:before:during	3226
+Many officers also have been pardoned before the end of their sentences .	Many officers also have been pardoned after the end of their sentences .	prep_postp:before:after	427
+A woman 's body exhumed for clues three years before her death .	A woman 's body exhumed for clues three years after her death .	prep_postp:before:after	1420
+Coach Hideo Suzuki backed Tosa to return to competition before childbirth .	Coach Hideo Suzuki backed Tosa to return to competition after childbirth .	prep_postp:before:after	2857
+Before the handouts , they were about equal .	After the handouts , they were about equal .	prep_postp:before:after	181
+He had been averaging 3.9 points before Friday .	He had been averaging 3.9 points after Friday .	prep_postp:before:after	2232
+Then we poured good money before bad .	Then we poured good money after bad .	prep_postp:before:after	2088
+But their inexperience showed before halftime Sunday .	But their inexperience showed after halftime Sunday .	prep_postp:before:after	2737
+No less important is the day before Annapolis .	No less important is the day after Annapolis .	prep_postp:before:after	142
+Blackwater is based in Moyock , N.C. Before dark .	Blackwater is based in Moyock , N.C. After dark .	prep_postp:before:after	4104
+It has to be renewed every year before approval by parliament .	It has to be renewed every year after approval by parliament .	prep_postp:before:after	659
+Before answering , he laughed at the question .	After answering , he laughed at the question .	prep_postp:before:after	1418
+Crime dropped dramatically before that , the FBI data show .	Crime dropped dramatically after that , the FBI data show .	prep_postp:before:after	952
+That priority remained well before Election Day .	That priority remained well after Election Day .	prep_postp:before:after	2894
+Everyone in the Majozi family has a job before the day .	Everyone in the Majozi family has a job during the day .	prep_postp:before:during	3537
+Before a hike , he displayed signs of elevated body temperature -- hyperthermia .	During a hike , he displayed signs of elevated body temperature -- hyperthermia .	prep_postp:before:during	3152
+Wireless data revenue increased 64 percent before the quarter .	Wireless data revenue increased 64 percent during the quarter .	prep_postp:before:during	3659
+He averaged 3.0 points before the injury .	He averaged 3.0 points after the injury .	prep_postp:before:after	639
+To participate , please call 10 minutes before the call on tel .	To participate , please call 10 minutes after the call on tel .	prep_postp:before:after	1277
+Is it ethical to order food for delivery before a thunderstorm ?	Is it ethical to order food for delivery during a thunderstorm ?	prep_postp:before:during	1843
+Before the same period , many businesses ramped up spending and investment .	During the same period , many businesses ramped up spending and investment .	prep_postp:before:during	2158
+Mr Solis concedes defeat before a manual count and legal challenges .	Mr Solis concedes defeat after a manual count and legal challenges .	prep_postp:before:after	3443
+Before Videogate , he was a shoo-in .	After Videogate , he was a shoo-in .	prep_postp:before:after	4215
+WASHINGTON - The House was quiet as a mouse the day before Christmas .	WASHINGTON - The House was quiet as a mouse the day after Christmas .	prep_postp:before:after	1949
+Just before that , Moises Alou tied the score with a single .	Just after that , Moises Alou tied the score with a single .	prep_postp:before:after	730
+The year before that , visitors could create dancing bobblehead characters .	The year after that , visitors could create dancing bobblehead characters .	prep_postp:before:after	541
+McGee had only four receptions for 91 yards before the 1966 regular season .	McGee had only four receptions for 91 yards during the 1966 regular season .	prep_postp:before:during	2913
+Harris hit six boundaries before his resolute 160-minute knock .	Harris hit six boundaries during his resolute 160-minute knock .	prep_postp:before:during	1701
+However , do not ask about being reimbursed before the interview .	However , do not ask about being reimbursed during the interview .	prep_postp:before:during	755
+Before the intake session in Martinsburg , he is withdrawn and sullen .	During the intake session in Martinsburg , he is withdrawn and sullen .	prep_postp:before:during	3892
+Officials from the Garden issued a statement before the verdicts .	Officials from the Garden issued a statement after the verdicts .	prep_postp:before:after	1018
+The announcements were made before a meeting with analysts and investors on Monday .	The announcements were made during a meeting with analysts and investors on Monday .	prep_postp:before:during	2305
+He is due to appear before Southampton magistrates on 18 October .	He is due to appear after Southampton magistrates on 18 October .	prep_postp:before:after	4245
+Vice Premier Haim Ramon said the surgery would be done before the conference .	Vice Premier Haim Ramon said the surgery would be done after the conference .	prep_postp:before:after	3929
+Before October , client trades averaged 326,000 per day , he added .	During October , client trades averaged 326,000 per day , he added .	prep_postp:before:during	922
+They cut strangers off before a single violation .	They cut strangers off after a single violation .	prep_postp:before:after	3067
+Both are close-lipped about their agenda before practice .	Both are close-lipped about their agenda during practice .	prep_postp:before:during	1504
+Her health took a turn for the worse before the past week .	Her health took a turn for the worse during the past week .	prep_postp:before:during	871
+Before the two days , tens of thousands of oysters will be consumed .	During the two days , tens of thousands of oysters will be consumed .	prep_postp:before:during	1286
+Zettel was only 24th before the opening leg .	Zettel was only 24th after the opening leg .	prep_postp:before:after	1534
+Police say McClinton impersonated a law enforcement officer before the alleged robbery .	Police say McClinton impersonated a law enforcement officer during the alleged robbery .	prep_postp:before:during	3245
+The ads for Fox started running soon before midnight .	The ads for Fox started running soon after midnight .	prep_postp:before:after	2791
+Before the meeting , I returned to my post in Panama .	After the meeting , I returned to my post in Panama .	prep_postp:before:after	3555
+Russell was expected to hold a news conference before practice Wednesday afternoon .	Russell was expected to hold a news conference after practice Wednesday afternoon .	prep_postp:before:after	107
+He sustained a serious mortar injury before the conflict .	He sustained a serious mortar injury during the conflict .	prep_postp:before:during	4140
+Downie 's feet left the ice before the violent collision .	Downie 's feet left the ice after the violent collision .	prep_postp:before:after	197
+And before the news conference , Johnson called on questioners by name .	And during the news conference , Johnson called on questioners by name .	prep_postp:before:during	2280
+He played with three different teams before that time .	He played with three different teams during that time .	prep_postp:before:during	752
+Shortly before that , Ceballos took her daughter and quickly left the store .	Shortly after that , Ceballos took her daughter and quickly left the store .	prep_postp:before:after	3159
+He faces the prospect of life in prison if convicted before a trial .	He faces the prospect of life in prison if convicted after a trial .	prep_postp:before:after	1817
+" We were seeing a great slowdown before school , " Morss said .	" We were seeing a great slowdown after school , " Morss said .	prep_postp:before:after	550
+We want them here seven days a week before the harvest .	We want them here seven days a week during the harvest .	prep_postp:before:during	4214
+Before months of turmoil , Mr. Murphy retaliated by staging a legal coup .	After months of turmoil , Mr. Murphy retaliated by staging a legal coup .	prep_postp:before:after	6
+It is also thought that a sixth youth was involved before the attack .	It is also thought that a sixth youth was involved during the attack .	prep_postp:before:during	4183
+Sun comes back before shower .	Sun comes back after shower .	prep_postp:before:after	3669
+At least two of the victims were badly cut before the attack .	At least two of the victims were badly cut during the attack .	prep_postp:before:during	4131
+Just before midnight , General Musharraf appeared on state-run television .	Just after midnight , General Musharraf appeared on state-run television .	prep_postp:before:after	4224
+One styled his hair before John Travolta .	One styled his hair after John Travolta .	prep_postp:before:after	4050
+He said he does not know what happened before that .	He said he does not know what happened after that .	prep_postp:before:after	4259
+Before the war , she read children 's stories on BBC radio .	During the war , she read children 's stories on BBC radio .	prep_postp:before:during	282
+Megson told Calderwood of the plan 20 minutes before the kickoff .	Megson told Calderwood of the plan 20 minutes after the kickoff .	prep_postp:before:after	1427
+Before the game , tickets were selling for $ 50 .	After the game , tickets were selling for $ 50 .	prep_postp:before:after	3285
+Winters averaged 16.2 points before his nine-year NBA career .	Winters averaged 16.2 points during his nine-year NBA career .	prep_postp:before:during	1653
+26 , came before a two-day national strike .	26 , came after a two-day national strike .	prep_postp:before:after	783
+Before a lengthy duel , Kashee is temporarily subdued .	After a lengthy duel , Kashee is temporarily subdued .	prep_postp:before:after	3925
+Who will come before Mr. Mubarak ?	Who will come after Mr. Mubarak ?	prep_postp:before:after	3641
+Before the bullfight , Jairo brushed off the accident .	After the bullfight , Jairo brushed off the accident .	prep_postp:before:after	1506
+But they manufactured just seven first downs and 114 yards before the break .	But they manufactured just seven first downs and 114 yards after the break .	prep_postp:before:after	1624
+Before the tsunami , there was a lot of toleration of coral poaching .	After the tsunami , there was a lot of toleration of coral poaching .	prep_postp:before:after	2253
+But before their Thursday morning offer , Torre turned them down .	But after their Thursday morning offer , Torre turned them down .	prep_postp:before:after	1489
+The only thing that counts is making one good pitch before another .	The only thing that counts is making one good pitch after another .	prep_postp:before:after	2279
+The Western Isles cluster was detected before routine surveillance .	The Western Isles cluster was detected during routine surveillance .	prep_postp:before:during	311
+The scores are wiped clean before the second and third rounds .	The scores are wiped clean after the second and third rounds .	prep_postp:before:after	2349
+KKR and TPG declined to comment before Friday 's shareholder meeting .	KKR and TPG declined to comment after Friday 's shareholder meeting .	prep_postp:before:after	3977
+Safety and environmental performance were both excellent before the quarter .	Safety and environmental performance were both excellent during the quarter .	prep_postp:before:during	4249
+But , before that , Matsuzaka turned into a highly paid spectator .	But , after that , Matsuzaka turned into a highly paid spectator .	prep_postp:before:after	743
+He is seen on a videotape made before his death .	He is seen on a videotape made after his death .	prep_postp:before:after	287
+It is even worse than in Rwanda before the genocide .	It is even worse than in Rwanda during the genocide .	prep_postp:before:during	2016
+The year before that , it was in Ernee , France .	The year after that , it was in Ernee , France .	prep_postp:before:after	4083
+John Wood 's leg was amputated near the knee before a plane crash .	John Wood 's leg was amputated near the knee after a plane crash .	prep_postp:before:after	502
+" We run scared , " Jobs told me before the presentation .	" We run scared , " Jobs told me after the presentation .	prep_postp:before:after	1950
+Ms Bhutto left Pakistan in 1999 to live abroad shortly before her conviction .	Ms Bhutto left Pakistan in 1999 to live abroad shortly after her conviction .	prep_postp:before:after	842
+He was due to appear before Birmingham magistrates on Monday .	He was due to appear after Birmingham magistrates on Monday .	prep_postp:before:after	1670
+The company provided another $ 5,000 for emergency expenses immediately before the storm .	The company provided another $ 5,000 for emergency expenses immediately after the storm .	prep_postp:before:after	276
+How many hours a week did you work before the season ?	How many hours a week did you work during the season ?	prep_postp:before:during	2837
+State police found no weapons before a sweep of the building .	State police found no weapons during a sweep of the building .	prep_postp:before:during	1344
+That is unlikely to happen before the end of the month .	That is unlikely to happen after the end of the month .	prep_postp:before:after	1330
+Pinochet remained an army commander before his long rule .	Pinochet remained an army commander during his long rule .	prep_postp:before:during	3591
+It is only 30 years before Waterloo .	It is only 30 years after Waterloo .	prep_postp:before:after	3933
+Here are tips for preserving relationships before your getaway .	Here are tips for preserving relationships during your getaway .	prep_postp:before:during	1235
+" Run " loses speed long before the finish line .	" Run " loses speed long after the finish line .	prep_postp:before:after	443
+Iraq had 30,000 registered Palestinian refugees before the U.S.-led invasion in 2003 .	Iraq had 30,000 registered Palestinian refugees after the U.S.-led invasion in 2003 .	prep_postp:before:after	3578
+Can we hit $ 5 before the end of the year ?	Can we hit $ 5 after the end of the year ?	prep_postp:before:after	1295
+Before session two , we simply discussed what I had written .	During session two , we simply discussed what I had written .	prep_postp:before:during	3252
+Before that investigation , police learned that Tawake was really a man .	During that investigation , police learned that Tawake was really a man .	prep_postp:before:during	2615
+Before a session with Ms. Penberg , she mentioned her stifling debt .	During a session with Ms. Penberg , she mentioned her stifling debt .	prep_postp:before:during	3117
+Before Friday 's game , he said he enjoyed his time at Nebraska .	After Friday 's game , he said he enjoyed his time at Nebraska .	prep_postp:before:after	2710
+I had not played on Centre Court before yesterday .	I had not played on Centre Court after yesterday .	prep_postp:before:after	2632
+You cannot put the cart before the horse .	You cannot put the cart after the horse .	prep_postp:before:after	1092
+Before that , they had not won the title for 86 years .	After that , they had not won the title for 86 years .	prep_postp:before:after	3164
+Last year , he received only two calls before the entire fall semester .	Last year , he received only two calls during the entire fall semester .	prep_postp:before:during	789
+Manning and the Giants steadied themselves just before halftime .	Manning and the Giants steadied themselves just after halftime .	prep_postp:before:after	2489
+He was stabbed and slashed before the assault .	He was stabbed and slashed during the assault .	prep_postp:before:during	2333
+Both reviews are to be finished before the end of the year .	Both reviews are to be finished after the end of the year .	prep_postp:before:after	709
+Before the speech of my favorite president , I felt broken .	During the speech of my favorite president , I felt broken .	prep_postp:before:during	1835
+He was taken to hospital by ambulance before the rescue on Thursday .	He was taken to hospital by ambulance after the rescue on Thursday .	prep_postp:before:after	22
+The road was closed for several hours before the accident .	The road was closed for several hours after the accident .	prep_postp:before:after	3238
+" Tim Burton 's the Nightmare Before Christmas , " $ 3.35 million .	" Tim Burton 's the Nightmare After Christmas , " $ 3.35 million .	prep_postp:before:after	1914
+Before the Oct. 9 session , he pleaded for mercy .	During the Oct. 9 session , he pleaded for mercy .	prep_postp:before:during	1594
+The Spurs led 29-20 before the first quarter .	The Spurs led 29-20 after the first quarter .	prep_postp:before:after	3332
+Less than two minutes before that , the Islanders scored .	Less than two minutes after that , the Islanders scored .	prep_postp:before:after	1509
+Now they only bow down before money .	Now they only bow down after money .	prep_postp:before:after	2603
+I would doubt it before this week .	I would doubt it after this week .	prep_postp:before:after	2800
+He declared victory shortly before midnight .	He declared victory shortly after midnight .	prep_postp:before:after	1402
+The rules ban holding primaries before February 5th .	The rules ban holding primaries after February 5th .	prep_postp:before:after	475
+8 , five days before the fight , SI.com reported .	8 , five days after the fight , SI.com reported .	prep_postp:before:after	605
+Eight open viewings are being held before the auction .	Eight open viewings are being held after the auction .	prep_postp:before:after	1677
+Official agreements could be reached before the next two weeks .	Official agreements could be reached during the next two weeks .	prep_postp:before:during	1518
+Before the Chakvetadze-Schiavone opener Saturday , Kuznetsova is to play Mara Santangelo .	After the Chakvetadze-Schiavone opener Saturday , Kuznetsova is to play Mara Santangelo .	prep_postp:before:after	2972
+White had good drawing chances before 31.h4 !	White had good drawing chances after 31.h4 !	prep_postp:before:after	708
+Before July , the fee was capped at $ 100 .	After July , the fee was capped at $ 100 .	prep_postp:before:after	2600
+The pause comes before another week of mixed economic news .	The pause comes during another week of mixed economic news .	prep_postp:before:during	3729
+The Company plans to distribute its earnings announcement before the conference call .	The Company plans to distribute its earnings announcement after the conference call .	prep_postp:before:after	3072
+The bodies were found before a joint operation Saturday .	The bodies were found during a joint operation Saturday .	prep_postp:before:during	3481
+He did not bow his head before dictatorship and terrorism .	He did not bow his head after dictatorship and terrorism .	prep_postp:before:after	2548
+Before this visit , Iowans did not seem ready to commit .	During this visit , Iowans did not seem ready to commit .	prep_postp:before:during	2453
+Before then , the candidates will go through a two-stage bid procedure .	After then , the candidates will go through a two-stage bid procedure .	prep_postp:before:after	1721
+A man and a woman were arrested before the search .	A man and a woman were arrested during the search .	prep_postp:before:during	486
+Dumont was credited with the goal before a video review .	Dumont was credited with the goal after a video review .	prep_postp:before:after	1228
+So there we were talking about how we feel before a game .	So there we were talking about how we feel after a game .	prep_postp:before:after	3136
+EBITDA is Operating Profit Before Depreciation and Amortization .	EBITDA is Operating Profit After Depreciation and Amortization .	prep_postp:before:after	551
+The family will attend a private cremation before the service .	The family will attend a private cremation after the service .	prep_postp:before:after	2803
+On an before tax basis , these charges approximated $ 1.8 million .	On an after tax basis , these charges approximated $ 1.8 million .	prep_postp:before:after	1163
+Colleges were in session before the 2004 caucuses .	Colleges were in session during the 2004 caucuses .	prep_postp:before:during	3108
+Stockman resigned a week before the bankruptcy filing .	Stockman resigned a week after the bankruptcy filing .	prep_postp:before:after	89
+Bombay is liquidating its inventory through the stores before the holiday season .	Bombay is liquidating its inventory through the stores during the holiday season .	prep_postp:before:during	668
+It is the smallest Red Sox lead since before play on April 26 .	It is the smallest Red Sox lead since after play on April 26 .	prep_postp:before:after	3215
+I never doubted Alastair would come back before Kandy .	I never doubted Alastair would come back after Kandy .	prep_postp:before:after	4130
+FDA advisers are to take up the issue before an October 18-19 meeting .	FDA advisers are to take up the issue during an October 18-19 meeting .	prep_postp:before:during	1770
+Around 18,000 police provided security before the games .	Around 18,000 police provided security during the games .	prep_postp:before:during	307
+Before another date , Mr. Borysevicz stayed over .	After another date , Mr. Borysevicz stayed over .	prep_postp:before:after	1395
+Before each shout , they listened closely for rustling brush .	After each shout , they listened closely for rustling brush .	prep_postp:before:after	3023
+Jama will appear before Leeds Magistrates on Friday morning .	Jama will appear after Leeds Magistrates on Friday morning .	prep_postp:before:after	802
+It is caused by turbulence inside the airway before inspiration .	It is caused by turbulence inside the airway during inspiration .	prep_postp:before:during	2777
+Michael Grassie , 42 , spoke at MetroHealth Medical Center before his discharge .	Michael Grassie , 42 , spoke at MetroHealth Medical Center after his discharge .	prep_postp:before:after	1045
+Dorsey was hurt before a scrimmage against Saint Louis on Oct. 27 .	Dorsey was hurt during a scrimmage against Saint Louis on Oct. 27 .	prep_postp:before:during	543
+Before that , he was chief of staff to Vice President Dan Quayle .	After that , he was chief of staff to Vice President Dan Quayle .	prep_postp:before:after	1429
+The company 's shares plunged more than 21 percent before the announcement .	The company 's shares plunged more than 21 percent after the announcement .	prep_postp:before:after	2013
+He hopes to gain approval before a holiday this weekend .	He hopes to gain approval after a holiday this weekend .	prep_postp:before:after	1882
+But before the weekend , he said GM 's stance hardened .	But during the weekend , he said GM 's stance hardened .	prep_postp:before:during	1175
+The Bulls received 11 first-place votes before a 64-12 victory over Central Florida .	The Bulls received 11 first-place votes after a 64-12 victory over Central Florida .	prep_postp:before:after	1101
+Weller refused to take reporters ' questions before his speech .	Weller refused to take reporters ' questions after his speech .	prep_postp:before:after	2286
+Ramshaw denied causing death by dangerous driving before the week-long trial .	Ramshaw denied causing death by dangerous driving during the week-long trial .	prep_postp:before:during	1753
+The Terrapins never trailed before that .	The Terrapins never trailed after that .	prep_postp:before:after	3037
+Before that , all pretenses of rationality were blown .	After that , all pretenses of rationality were blown .	prep_postp:before:after	2159
+Scheffler performed a wacky dance before the score .	Scheffler performed a wacky dance after the score .	prep_postp:before:after	1298
+Marceau died Saturday at the age of 84 before a long illness .	Marceau died Saturday at the age of 84 after a long illness .	prep_postp:before:after	1073
+Before the procedure , Dr. Parazynski said he saw no sparks .	During the procedure , Dr. Parazynski said he saw no sparks .	prep_postp:before:during	2317
+Before the storm , New Orleans ' economy thrived on low-wage tourism .	After the storm , New Orleans ' economy thrived on low-wage tourism .	prep_postp:before:after	1426
+I step on the scale every morning before breakfast .	I step on the scale every morning after breakfast .	prep_postp:before:after	1278
+The station will be reassembled before the Olympic torch relay next summer .	The station will be reassembled after the Olympic torch relay next summer .	prep_postp:before:after	624
+Before that , they would be free to seek work elsewhere .	After that , they would be free to seek work elsewhere .	prep_postp:before:after	192
+It has deepened even before the past few years .	It has deepened even during the past few years .	prep_postp:before:during	2480
+The man sustained head injuries before the incident .	The man sustained head injuries during the incident .	prep_postp:before:during	2160
+Before the speech , 39 percent said it was the right thing .	After the speech , 39 percent said it was the right thing .	prep_postp:before:after	546
+She rubbed her right arm repeatedly before a meeting with reporters on Wednesday .	She rubbed her right arm repeatedly during a meeting with reporters on Wednesday .	prep_postp:before:during	1001
+The Ghadr was test-fired before August war games , PressTV reported .	The Ghadr was test-fired during August war games , PressTV reported .	prep_postp:before:during	3733
+He will appear before magistrates in Leicester on Monday .	He will appear after magistrates in Leicester on Monday .	prep_postp:before:after	1149
+Timmons faces misdemeanor charges in an incident directly before the fight .	Timmons faces misdemeanor charges in an incident directly after the fight .	prep_postp:before:after	1543
+One victim , Veronica Martinez , had lived with Calva before her death .	One victim , Veronica Martinez , had lived with Calva after her death .	prep_postp:before:after	2588
+It will not last before January 31 .	It will not last after January 31 .	prep_postp:before:after	1951
+Before further consideration , this has now been withdrawn .	After further consideration , this has now been withdrawn .	prep_postp:before:after	3581
+Col. Mark Mueller asked before a late- night inspection .	Col. Mark Mueller asked during a late- night inspection .	prep_postp:before:during	1301
+Those things happen before roller-coaster rides .	Those things happen during roller-coaster rides .	prep_postp:before:during	2234
+I never even got a parking ticket before this .	I never even got a parking ticket after this .	prep_postp:before:after	530
+All acquisitions included herein were consummated on or before September 30 , 2007 .	All acquisitions included herein were consummated on or after September 30 , 2007 .	prep_postp:before:after	822
+It is expected that the work could be completed before winter .	It is expected that the work could be completed after winter .	prep_postp:before:after	4234
+Before the season 's opening kickoff , the question already has been floated .	After the season 's opening kickoff , the question already has been floated .	prep_postp:before:after	3876
+I got pregnant before my very first period .	I got pregnant after my very first period .	prep_postp:before:after	571
+These methods were already in use before Dark Web .	These methods were already in use after Dark Web .	prep_postp:before:after	1510
+He did not allow a runner to reach second base before that .	He did not allow a runner to reach second base after that .	prep_postp:before:after	1726
+Family physicians must complete three years of residency training before medical school .	Family physicians must complete three years of residency training after medical school .	prep_postp:before:after	997
+I only saw him once before that .	I only saw him once after that .	prep_postp:before:after	3905
+The rifle regulations are not at issue before the Supreme Court .	The rifle regulations are not at issue after the Supreme Court .	prep_postp:before:after	1707
+He was very upset before the game .	He was very upset after the game .	prep_postp:before:after	2746
+Before the weekend , people will explore what genuine romantic love looks like .	During the weekend , people will explore what genuine romantic love looks like .	prep_postp:before:during	2558
+She plans to visit sites sacred to Kabbalah devotees before her stay .	She plans to visit sites sacred to Kabbalah devotees during her stay .	prep_postp:before:during	2372
+, said before the vote .	, said after the vote .	prep_postp:before:after	294
+The 30-year-old mother had the three embryos implanted before in vitro fertilization .	The 30-year-old mother had the three embryos implanted after in vitro fertilization .	prep_postp:before:after	906
+Craig pleaded guilty to disorderly conduct before his arrest at Minneapolis-St .	Craig pleaded guilty to disorderly conduct after his arrest at Minneapolis-St .	prep_postp:before:after	2700
+Sharapova 's serve was her undoing , especially before early faults .	Sharapova 's serve was her undoing , especially after early faults .	prep_postp:before:after	534
+A man suffered severe burns before a bonfire .	A man suffered severe burns during a bonfire .	prep_postp:before:during	2361
+Johnson served as an ABC News consultant before the case .	Johnson served as an ABC News consultant during the case .	prep_postp:before:during	1398
+A man is critically ill in hospital before a hit-and-crash in Staffordshire .	A man is critically ill in hospital after a hit-and-crash in Staffordshire .	prep_postp:before:after	1090
+Before Burch 's emergence , midfielder Josh Gros labored at left back .	After Burch 's emergence , midfielder Josh Gros labored at left back .	prep_postp:before:after	1736
+Durant 's every move was chronicled before the game .	Durant 's every move was chronicled after the game .	prep_postp:before:after	4135
+The other Democratic candidates were already piling on before the debate .	The other Democratic candidates were already piling on during the debate .	prep_postp:before:during	3738
+Mr Zebari was speaking before talks with Turkish counterpart Ali Babacan .	Mr Zebari was speaking after talks with Turkish counterpart Ali Babacan .	prep_postp:before:after	2642
+Before last year 's attack , the state fined the zoo $ 18,000 .	After last year 's attack , the state fined the zoo $ 18,000 .	prep_postp:before:after	1112
+A judge ordered Rudy Hermann Guede , 20 , held before extradition proceedings .	A judge ordered Rudy Hermann Guede , 20 , held during extradition proceedings .	prep_postp:before:during	1887
+especially since everything will pick up before Christmas .	especially since everything will pick up after Christmas .	prep_postp:before:after	1214
+The then Col Tibbets named his B-29 Enola Gay before his mother .	The then Col Tibbets named his B-29 Enola Gay after his mother .	prep_postp:before:after	4010
+Why is it that people only listen before the fact ?	Why is it that people only listen after the fact ?	prep_postp:before:after	1607
+They came at night , with photos taken before pro-democracy demonstrations .	They came at night , with photos taken during pro-democracy demonstrations .	prep_postp:before:during	302
+Four months before that , she remarried Mr Pollock .	Four months after that , she remarried Mr Pollock .	prep_postp:before:after	903
+He would be in my basement before breakfast .	He would be in my basement after breakfast .	prep_postp:before:after	2213
+Palestinian officials want a total settlement freeze before the Annapolis conference .	Palestinian officials want a total settlement freeze after the Annapolis conference .	prep_postp:before:after	494
+Only 178,749 Deuce V-8s were manufactured before its 10-month production run .	Only 178,749 Deuce V-8s were manufactured during its 10-month production run .	prep_postp:before:during	3213
+Gambari 's visit comes before a precarious diplomatic situation in Myanmar .	Gambari 's visit comes during a precarious diplomatic situation in Myanmar .	prep_postp:before:during	3193
+Gusts up to 60mph were reported in some mountain passes before the night .	Gusts up to 60mph were reported in some mountain passes during the night .	prep_postp:before:during	2684
+Matee Ajavon scored 7 points before the spurt .	Matee Ajavon scored 7 points during the spurt .	prep_postp:before:during	2989
+He and his source material met once , before a fashion .	He and his source material met once , after a fashion .	prep_postp:before:after	3721
+Knowing the stakes , Snow was positively bullish before his remarks .	Knowing the stakes , Snow was positively bullish during his remarks .	prep_postp:before:during	585
+The Suns did not pose a serious threat before that .	The Suns did not pose a serious threat after that .	prep_postp:before:after	1283
+Before last night , he may have no choice .	After last night , he may have no choice .	prep_postp:before:after	2664
+Before the summer , every football player needs a job .	During the summer , every football player needs a job .	prep_postp:before:during	3318
+It currently has 67 before Mr. Ghanem 's death .	It currently has 67 after Mr. Ghanem 's death .	prep_postp:before:after	2601
+And it was written long before the indictment .	And it was written long after the indictment .	prep_postp:before:after	2183
+His comments were made before Mr. Cuomo 's news conference .	His comments were made after Mr. Cuomo 's news conference .	prep_postp:before:after	3386
+Levet is three shots off the lead before a disappointing round of 76 .	Levet is three shots off the lead after a disappointing round of 76 .	prep_postp:before:after	3243
+Before the blast , troops and police quickly blocked off the area .	After the blast , troops and police quickly blocked off the area .	prep_postp:before:after	3515
+Of that amount , $ 988.4 million was funded before the quarter .	Of that amount , $ 988.4 million was funded during the quarter .	prep_postp:before:during	3530
+The lawyers ' campaign snowballed into anti-government protests before the spring and summer .	The lawyers ' campaign snowballed into anti-government protests during the spring and summer .	prep_postp:before:during	3959
+Before his acquittal , Mr. Awadallah returned home to California .	After his acquittal , Mr. Awadallah returned home to California .	prep_postp:before:after	884
+Using liquid foam latex , he fabricated remarkable special-effects makeup before the 1960s .	Using liquid foam latex , he fabricated remarkable special-effects makeup during the 1960s .	prep_postp:before:during	1608
+Sadly , little Retsilisitsoe passed away shortly before our visit .	Sadly , little Retsilisitsoe passed away shortly after our visit .	prep_postp:before:after	1255
+The other German engineer was shot before the kidnapping .	The other German engineer was shot during the kidnapping .	prep_postp:before:during	1438
+No names of players came up before the hearing .	No names of players came up during the hearing .	prep_postp:before:during	3927
+Before Saturday , the two sides had not talked since Nov. 8 .	After Saturday , the two sides had not talked since Nov. 8 .	prep_postp:before:after	986
+Germany made its presentation before Canada .	Germany made its presentation after Canada .	prep_postp:before:after	80
+Arroyo said before the briefing .	Arroyo said during the briefing .	prep_postp:before:during	2778
+He checked into a hospital , where he remained before the weekend .	He checked into a hospital , where he remained during the weekend .	prep_postp:before:during	2132
+They will be completed on Friday morning before the second round .	They will be completed on Friday morning after the second round .	prep_postp:before:after	557
+Before another while , Eleanor asks , What time is it anyway ?	After another while , Eleanor asks , What time is it anyway ?	prep_postp:before:after	1848
+Craig did not attend Wednesday 's hearing in Minneapolis before Porter .	Craig did not attend Wednesday 's hearing in Minneapolis after Porter .	prep_postp:before:after	1488
+He quit the campaign a few weeks before the New Hampshire primary .	He quit the campaign a few weeks after the New Hampshire primary .	prep_postp:before:after	1714
+Before such a treat , is there room for more ?	After such a treat , is there room for more ?	prep_postp:before:after	2150
+Before that , he would need to return to the corporate world .	After that , he would need to return to the corporate world .	prep_postp:before:after	77
+Before Edinburgh , he left for Poland again .	After Edinburgh , he left for Poland again .	prep_postp:before:after	2925
+He rarely speaks at practice or before games .	He rarely speaks at practice or during games .	prep_postp:before:during	2254
+Even before Friday 's verdict , questions remain .	Even after Friday 's verdict , questions remain .	prep_postp:before:after	4073
+The man was killed before a fight with Turkish troops .	The man was killed during a fight with Turkish troops .	prep_postp:before:during	4283
+She was released from jail shortly before her arrest .	She was released from jail shortly after her arrest .	prep_postp:before:after	756
+She did not have a sufficient kick left so soon before Berlin .	She did not have a sufficient kick left so soon after Berlin .	prep_postp:before:after	2721
+Before trading possessions , Rajon Rondo hit Ray Allen for a 3-pointer .	After trading possessions , Rajon Rondo hit Ray Allen for a 3-pointer .	prep_postp:before:after	2923
+Before years of political battles , the museum won approval in 2003 .	After years of political battles , the museum won approval in 2003 .	prep_postp:before:after	1479
+The suspects were arrested the day before the bombing , Rashid added .	The suspects were arrested the day after the bombing , Rashid added .	prep_postp:before:after	634
+Smith was far from complacent before the game .	Smith was far from complacent after the game .	prep_postp:before:after	999
+Before November 7 , no one saw him alive again , Luiz said .	After November 7 , no one saw him alive again , Luiz said .	prep_postp:before:after	1761
+Before several hours , he could solve it with a cheat sheet .	After several hours , he could solve it with a cheat sheet .	prep_postp:before:after	195
+Perhaps too deep to be erased before tomorrow night 's game .	Perhaps too deep to be erased after tomorrow night 's game .	prep_postp:before:after	3744
+Investors were also encouraged because Viacom continued to repurchase shares before the quarter .	Investors were also encouraged because Viacom continued to repurchase shares during the quarter .	prep_postp:before:during	1119
+Things are literally being built before our eyes .	Things are literally being built after our eyes .	prep_postp:before:after	3021
+He is due to appear before the city 's magistrates court on Friday .	He is due to appear after the city 's magistrates court on Friday .	prep_postp:before:after	1085
+An I-Reporter shot this video before the earthquake .	An I-Reporter shot this video during the earthquake .	prep_postp:before:during	825
+They are the values our Nation reaffirms before Hispanic Heritage Month .	They are the values our Nation reaffirms during Hispanic Heritage Month .	prep_postp:before:during	3827
+" Payback , schmayback , " Manager Willie Randolph said before the game .	" Payback , schmayback , " Manager Willie Randolph said after the game .	prep_postp:before:after	3921
+We are going before a victory there .	We are going after a victory there .	prep_postp:before:after	1215
+The plane landed safely shortly before noon .	The plane landed safely shortly after noon .	prep_postp:before:after	931
+Southbound lanes reopened about two hours before the crash .	Southbound lanes reopened about two hours after the crash .	prep_postp:before:after	2376
+Lundqvist made two in-close saves on Lecavalier before the first .	Lundqvist made two in-close saves on Lecavalier during the first .	prep_postp:before:during	744
+And before the raw Norman winters , it can get lonely .	And during the raw Norman winters , it can get lonely .	prep_postp:before:during	376
+The Astros gave manager Cecil Cooper a two-year contract before the game .	The Astros gave manager Cecil Cooper a two-year contract after the game .	prep_postp:before:after	4034
+A 70-year-old runner from Germany gets medical assistance before the Chicago Marathon .	A 70-year-old runner from Germany gets medical assistance during the Chicago Marathon .	prep_postp:before:during	539
+Mr Cameron asked Mr Brown before prime minister 's questions .	Mr Cameron asked Mr Brown during prime minister 's questions .	prep_postp:before:during	3786
+Before epidemics , people need to avoid raw vegetables .	During epidemics , people need to avoid raw vegetables .	prep_postp:before:during	2020
+Israel captured Jerusalem 's Old City from Jordan before the 1967 Mideast war .	Israel captured Jerusalem 's Old City from Jordan during the 1967 Mideast war .	prep_postp:before:during	152
+Before the game , Ramirez would not explain why he did not slide .	After the game , Ramirez would not explain why he did not slide .	prep_postp:before:after	3477
+1971 - Army forces Demirel 's resignation before spiral of political violence .	1971 - Army forces Demirel 's resignation after spiral of political violence .	prep_postp:before:after	487
+Giuliani also took about 25 swings of batting practice before the rally .	Giuliani also took about 25 swings of batting practice after the rally .	prep_postp:before:after	685
+Several Air Force jets will roar over the stadium before the national anthem .	Several Air Force jets will roar over the stadium after the national anthem .	prep_postp:before:after	1084
+Each child is assigned a buddy ( volunteer ) before the game .	Each child is assigned a buddy ( volunteer ) during the game .	prep_postp:before:during	1173
+The food packaging products supplier said sales volumes substantially weakened before the quarter .	The food packaging products supplier said sales volumes substantially weakened during the quarter .	prep_postp:before:during	1449
+A C-130 found nothing before a flyover Wednesday .	A C-130 found nothing during a flyover Wednesday .	prep_postp:before:during	1184
+Former U.N. Secretary-General Kofi Annan announced the award before a ceremony in London .	Former U.N. Secretary-General Kofi Annan announced the award during a ceremony in London .	prep_postp:before:during	2057
+We would see about 2,000 a day before KenGen .	We would see about 2,000 a day during KenGen .	prep_postp:before:during	3648
+NEW YORK - Lindsay Lohan is making plans for life before rehab .	NEW YORK - Lindsay Lohan is making plans for life after rehab .	prep_postp:before:after	2842
+He went 8-5 before his third season at LSU .	He went 8-5 during his third season at LSU .	prep_postp:before:during	7
+Before that time , a total of 2,505 individuals started antihypertensive drug treatment .	During that time , a total of 2,505 individuals started antihypertensive drug treatment .	prep_postp:before:during	3128
+Before the session , Mr. Greenbaum ran off .	After the session , Mr. Greenbaum ran off .	prep_postp:before:after	1962
+Before the trip , we had worried about the food .	After the trip , we had worried about the food .	prep_postp:before:after	1040
+The woman is expected to appear before a magistrate on Monday .	The woman is expected to appear after a magistrate on Monday .	prep_postp:before:after	2323
+Before a while , you start to get a headache .	After a while , you start to get a headache .	prep_postp:before:after	1609
+It may sound backward : The cuffs go on before the shooting .	It may sound backward : The cuffs go on after the shooting .	prep_postp:before:after	68
+This embarrassment came before a 41-6 loss at Missouri last week .	This embarrassment came after a 41-6 loss at Missouri last week .	prep_postp:before:after	174
+Before just a few months , I discovered I was pregnant .	After just a few months , I discovered I was pregnant .	prep_postp:before:after	3040
+He spoke before talks with Kosovo leaders .	He spoke after talks with Kosovo leaders .	prep_postp:before:after	1434
+Auburn fell five spots to No. 23 before the loss .	Auburn fell five spots to No. 23 after the loss .	prep_postp:before:after	1760
+Before World War II , Mr. Cohn was in the Intelligence Corps .	During World War II , Mr. Cohn was in the Intelligence Corps .	prep_postp:before:during	2256
+He does them before dinner , you see .	He does them after dinner , you see .	prep_postp:before:after	1464
+Reynolds was 3-for-19 in the postseason before the homer .	Reynolds was 3-for-19 in the postseason after the homer .	prep_postp:before:after	1493
+We had to figure out some things before the fact .	We had to figure out some things after the fact .	prep_postp:before:after	321
+The deposition was made public before the trial .	The deposition was made public during the trial .	prep_postp:before:during	1564
+Bernanke offered no hints before a speech in Germany on Tuesday .	Bernanke offered no hints during a speech in Germany on Tuesday .	prep_postp:before:during	3080
+We are really going before Wall Street , too .	We are really going after Wall Street , too .	prep_postp:before:after	3282
+Before that , she was an independent agent .	After that , she was an independent agent .	prep_postp:before:after	3539
+Before a frantic search , she located him and drove him home .	After a frantic search , she located him and drove him home .	prep_postp:before:after	1752
+I cannot remember anything before that .	I cannot remember anything after that .	prep_postp:before:after	2774
+No decision is expected in the appeal before February .	No decision is expected in the appeal after February .	prep_postp:before:after	1309
+He will appear before Leicester magistrates today .	He will appear after Leicester magistrates today .	prep_postp:before:after	956
+Craig was chosen for induction last spring well before his arrest .	Craig was chosen for induction last spring well after his arrest .	prep_postp:before:after	314
+May we not commit the same error before this second chance .	May we not commit the same error after this second chance .	prep_postp:before:after	2869
+Before the speech , he was still unsure .	After the speech , he was still unsure .	prep_postp:before:after	637
+He was suspended from the Conservative Party before his arrest .	He was suspended from the Conservative Party after his arrest .	prep_postp:before:after	221
+Both sales were closed before the fourth quarter of 2006 .	Both sales were closed during the fourth quarter of 2006 .	prep_postp:before:during	1323
+I never trusted anything the government said before that day .	I never trusted anything the government said after that day .	prep_postp:before:after	518
+Blood was still visible around his swollen mouth before the game .	Blood was still visible around his swollen mouth after the game .	prep_postp:before:after	434
+The Company has made substantial developments before the summer months .	The Company has made substantial developments during the summer months .	prep_postp:before:during	1456
+Before Sunday , Thrash had three catches for 16 yards all year .	After Sunday , Thrash had three catches for 16 yards all year .	prep_postp:before:after	3624
+Before eating , Sergeant White returned to his post .	After eating , Sergeant White returned to his post .	prep_postp:before:after	3235
+The mission started in 2001 before the terrorist attacks in the United States .	The mission started in 2001 after the terrorist attacks in the United States .	prep_postp:before:after	984
+The bus was found three days before Tuesday 's landslide .	The bus was found three days after Tuesday 's landslide .	prep_postp:before:after	121
+Anderson died at a hospital the day before the altercation .	Anderson died at a hospital the day after the altercation .	prep_postp:before:after	1023
+He apparently attempted to hang himself in January , months before trial .	He apparently attempted to hang himself in January , months after trial .	prep_postp:before:after	1399
+He has been sidelined all season before rotator cuff surgery last October .	He has been sidelined all season after rotator cuff surgery last October .	prep_postp:before:after	2702
+The treaty was revised in 1999 before the collapse of the Soviet Union .	The treaty was revised in 1999 after the collapse of the Soviet Union .	prep_postp:before:after	1783
+A small increase in strength is possible before the next day .	A small increase in strength is possible during the next day .	prep_postp:before:during	87
+She has already testified before the corresponding Senate committees .	She has already testified after the corresponding Senate committees .	prep_postp:before:after	1579
+Before the program , participants will take audience questions .	After the program , participants will take audience questions .	prep_postp:before:after	694
+Oklahoma has outscored its opponents by 158 points before a 3-0 start .	Oklahoma has outscored its opponents by 158 points during a 3-0 start .	prep_postp:before:during	382
+Lindsay Lohan is making plans for life before rehab .	Lindsay Lohan is making plans for life after rehab .	prep_postp:before:after	2850
+The two nevertheless hit it off at a dinner before the show .	The two nevertheless hit it off at a dinner after the show .	prep_postp:before:after	3972
+The deal is expected to close before the end of the year .	The deal is expected to close after the end of the year .	prep_postp:before:after	680
+The Iraq War commander refused to say what would happen before that .	The Iraq War commander refused to say what would happen after that .	prep_postp:before:after	148
+But they also include apologies for mistreating monks before a demonstration .	But they also include apologies for mistreating monks during a demonstration .	prep_postp:before:during	2267
+Young had tested positive for a banned substance before the Games .	Young had tested positive for a banned substance after the Games .	prep_postp:before:after	1072
+Before the summer and fall , Binney focused on both supply and demand .	During the summer and fall , Binney focused on both supply and demand .	prep_postp:before:during	83
+Before that span , he has three home runs and nine RBIs .	During that span , he has three home runs and nine RBIs .	prep_postp:before:during	1610
+New business awards are firm contractual additions to backlog received before the period .	New business awards are firm contractual additions to backlog received during the period .	prep_postp:before:during	1719
+Yes , he had touched a fifth-grader 's breast before recess .	Yes , he had touched a fifth-grader 's breast during recess .	prep_postp:before:during	334
+Before a shaky start , Niklas Backstrom finished with 23 saves for Minnesota .	After a shaky start , Niklas Backstrom finished with 23 saves for Minnesota .	prep_postp:before:after	4132
+A jury returned a majority not proven verdict before a trial .	A jury returned a majority not proven verdict after a trial .	prep_postp:before:after	2705
+That began a 3-3 stretch in their last six games before the playoffs .	That began a 3-3 stretch in their last six games after the playoffs .	prep_postp:before:after	4072
+Before her arrest , she had been working in a strip club .	After her arrest , she had been working in a strip club .	prep_postp:before:after	2582
+Krystowiak was dismayed at Orlando 's 13-minute opening introductions before Wednesday 's opener .	Krystowiak was dismayed at Orlando 's 13-minute opening introductions after Wednesday 's opener .	prep_postp:before:after	3522
+Guan was kept waiting outside the courthouse before the proceedings .	Guan was kept waiting outside the courthouse during the proceedings .	prep_postp:before:during	3926
+West was in good condition before the surgery , Winter said .	West was in good condition after the surgery , Winter said .	prep_postp:before:after	1324
+Months before his arrest , McNair began his legendary escapes .	Months after his arrest , McNair began his legendary escapes .	prep_postp:before:after	1453
+Children stand before a flag , pledging allegiance .	Children stand after a flag , pledging allegiance .	prep_postp:before:after	3336
+How much coffee do you drink before the day ?	How much coffee do you drink during the day ?	prep_postp:before:during	3950
+Before session two , I achieved a modest breakthrough .	During session two , I achieved a modest breakthrough .	prep_postp:before:during	265
+Before a rocky start , Maxjet 's flights have started to fill up .	After a rocky start , Maxjet 's flights have started to fill up .	prep_postp:before:after	2176
+You never know who you 'll meet before the interview process .	You never know who you 'll meet during the interview process .	prep_postp:before:during	485
+Before this agreement , the companies will fund the venture equally .	After this agreement , the companies will fund the venture equally .	prep_postp:before:after	2074
+9 a.m. - Before a hedonistic night , culture is due .	9 a.m. - After a hedonistic night , culture is due .	prep_postp:before:after	2332
+He was re-elected before a hard-fought , high-spending campaign .	He was re-elected after a hard-fought , high-spending campaign .	prep_postp:before:after	2366
+" It was all very pretty , " Hingis said before the show .	" It was all very pretty , " Hingis said after the show .	prep_postp:before:after	263
+The talks were scheduled before Larijani 's replacement .	The talks were scheduled after Larijani 's replacement .	prep_postp:before:after	1689
+Four of the accused have died before the trial period .	Four of the accused have died during the trial period .	prep_postp:before:during	1016
+Montgomery was arrested the day before the killing .	Montgomery was arrested the day after the killing .	prep_postp:before:after	3580
+The Company used $ 2,699 in investing activities before the period .	The Company used $ 2,699 in investing activities during the period .	prep_postp:before:during	3694
+Before the race , Powell 's shoulders sank .	After the race , Powell 's shoulders sank .	prep_postp:before:after	3466
+She disappeared just days before her fourth birthday .	She disappeared just days after her fourth birthday .	prep_postp:before:after	909
+Spain had several chances to break the deadlock before half time .	Spain had several chances to break the deadlock after half time .	prep_postp:before:after	632
+I cried my heart out before the anthem .	I cried my heart out during the anthem .	prep_postp:before:during	464
+Why have not there been more such two-party debates before the primary season ?	Why have not there been more such two-party debates during the primary season ?	prep_postp:before:during	4185
+A call to Agriculture Department officials was not returned before the hearing .	A call to Agriculture Department officials was not returned after the hearing .	prep_postp:before:after	833
+Before that , I can kind of play around a little bit .	After that , I can kind of play around a little bit .	prep_postp:before:after	3970
+They were not expected to re-open before Thursday .	They were not expected to re-open after Thursday .	prep_postp:before:after	3701
+ODIHR observers normally enter a country 3 months before an election .	ODIHR observers normally enter a country 3 months after an election .	prep_postp:before:after	1363
+But all of them also made megaprofits before the mortgage bubble .	But all of them also made megaprofits during the mortgage bubble .	prep_postp:before:during	3054
+Before the same period , Wal-Mart 's stock rose 5 percent .	During the same period , Wal-Mart 's stock rose 5 percent .	prep_postp:before:during	3732
+Assemi told WNBC she left Iran and was granted asylum before the 1980s .	Assemi told WNBC she left Iran and was granted asylum during the 1980s .	prep_postp:before:during	2219
+Still Israel 's booming stock indices dipped before the announcement .	Still Israel 's booming stock indices dipped after the announcement .	prep_postp:before:after	926
+The rules ban holding votes before Feb. 5 .	The rules ban holding votes after Feb. 5 .	prep_postp:before:after	3428
+In all , he estimates he is netted maybe $ 5,000 before expenses .	In all , he estimates he is netted maybe $ 5,000 after expenses .	prep_postp:before:after	2054
+Before last season , Pace had been to seven straight Pro Bowls .	After last season , Pace had been to seven straight Pro Bowls .	prep_postp:before:after	55
+The fraternity chapter was closed before DeVercelly 's death .	The fraternity chapter was closed after DeVercelly 's death .	prep_postp:before:after	2214
+John Edwards and Sen. Hillary Clinton exchanged jabs before Tuesday night 's debate .	John Edwards and Sen. Hillary Clinton exchanged jabs during Tuesday night 's debate .	prep_postp:before:during	3752
+You saw some of that before Thomas ' confirmation hearing .	You saw some of that during Thomas ' confirmation hearing .	prep_postp:before:during	2311
+One is whether to stop taking certain prescribed drugs before an operation .	One is whether to stop taking certain prescribed drugs after an operation .	prep_postp:before:after	1526
+Men experience an upswing in suicide before the New Year .	Men experience an upswing in suicide after the New Year .	prep_postp:before:after	1698
+I told him I would do it before the marathon .	I told him I would do it after the marathon .	prep_postp:before:after	1305
+Negativity nearly overwhelmed Gay before the biggest race of his life .	Negativity nearly overwhelmed Gay after the biggest race of his life .	prep_postp:before:after	2825
+The popular All-Star center fielder is eligible for free agency before the season .	The popular All-Star center fielder is eligible for free agency after the season .	prep_postp:before:after	349
+Some were volunteers who arrived soon before the storm .	Some were volunteers who arrived soon after the storm .	prep_postp:before:after	4266
+On many routes you can reserve the units online before a flight .	On many routes you can reserve the units online after a flight .	prep_postp:before:after	2272
+No off-sales premises were reported for licensing offences before this operation .	No off-sales premises were reported for licensing offences during this operation .	prep_postp:before:during	1889
