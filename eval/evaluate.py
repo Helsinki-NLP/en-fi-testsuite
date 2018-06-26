@@ -109,13 +109,22 @@ def pres_past(wo1, wo2):
 	foundPst = any(['Pst' in wo2[x] for x in wo2])
 	return foundPrs, foundPst, ""
 
-# add change of state verbs ('paheta' etc.)
 def comp_adj(wo1, wo2):
+	verbs = {"vanha": "ikääntyä", "kova": "koventua", "vähän": "alentaa", "vähäinen": "alentaa", "halpa": "halventua", "syvä": "syventää", "helppo": "helpottaa", "hyvä": "parantaa", "huono": "paheta", "paha": "paheta", "tiivis": "tiivistyä", "rikas": "rikastua"}
+	# don't know which adjectives should trigger the following verbs:
+	# kiinnittää, käyttäytyä, lukkiutua, lisätä, vannoutua, piiloutua
 	foundAdv = any([('Adv' in wo1[x]) and any([y.endswith('sti') for y in wo1[x]]) for x in wo1])
 	foundLocalAdv = any(['lähellä' in wo1[x] for x in wo1]) or any(['lähelle' in wo1[x] for x in wo1]) or any(['läheltä' in wo1[x] for x in wo1])
 	foundPos = any(['Pos' in wo1[x] for x in wo1]) or foundAdv or foundLocalAdv
 	foundComp = any(['Comp' in wo2[x] for x in wo2])
-	return foundPos, foundComp, ""
+	msg = ""
+	for a, v in verbs.items():
+		if any([a in wo1[x] for x in wo1]) and any([v in wo2[x] for x in wo2]):
+			foundPos = True
+			foundComp = True
+			msg = "adj/verb pair: {}/{}".format(a, v)
+			break
+	return foundPos, foundComp, msg
 
 def pos_neg(wo1, wo2):
 	foundPos = not any(['Neg' in wo1[x] for x in wo1])
@@ -137,9 +146,10 @@ def det_poss(wo1, wo2):
 # do we need to check more? position of the verb? morph features of the verb? what about 'jos'? how do the -va forms work?
 def that_if(wo1, wo2):
 	foundMukaan = any(['mukaan' in wo1[x] for x in wo1])
+	foundKertoa = any(['kertoa' in wo1[x] for x in wo1]) and any(['PrfPrc' in wo1[x] for x in wo1])
 	foundThat = any(['että' in wo1[x] for x in wo1]) or any(['ettei' in wo1[x] for x in wo1]) or any(['PrsPrc' in wo1[x] for x in wo1])
 	foundIf = any(['Foc_kO' in wo2[x] for x in wo2])
-	return foundThat or foundMukaan, foundIf, ""
+	return foundThat or foundMukaan or foundKertoa, foundIf, ""
 
 # replacement tasks
 
@@ -199,6 +209,8 @@ def find_named_entity(repl, wo):
 			for y in wo[x]:
 				if repl_mod == y.lower().replace("#", "").replace(".", ""):
 					return True
+				if repl_mod in y.lower().split("#"):		# match lontoo with länsi-#lontoo etc.
+					return True
 	
 	# find repl as a string
 	s = worddict2str(wo)
@@ -231,7 +243,7 @@ def prep_postp(wo1, wo2, repl1, repl2):
 	if len(prep) > 0:
 		prep = prep[0]	# there should only be one
 		prepPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
-		prepNouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Pron' in wo1[x]]
+		prepNouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Pron' in wo1[x] or 'Num' in wo1[x]]
 		prepNouns = [x for x in prepNouns if any([int(n[1:]) > prepPos for n in x if n.startswith("@")])]
 
 		if len(prepNouns) > 0:
@@ -258,7 +270,7 @@ def prep_postp(wo1, wo2, repl1, repl2):
 	if len(postp) > 0:
 		postp = postp[0]	# there should only be one
 		postpPos = [int(n[1:]) for n in postp if n.startswith("@")][0]
-		postpNouns = [wo2[x] for x in wo2 if 'N' in wo2[x] or 'Pron' in wo2[x]]
+		postpNouns = [wo2[x] for x in wo2 if 'N' in wo2[x] or 'Pron' in wo2[x] or 'Num' in wo2[x]]
 		postpNouns = [x for x in postpNouns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
 
 		if len(postpNouns) > 0:
@@ -270,6 +282,14 @@ def prep_postp(wo1, wo2, repl1, repl2):
 			msg += "no nouns found with {} ".format("/".join(repl2_fi))
 	else:
 		msg += "no {} postposition found ".format("/".join(repl2_fi))
+
+	if postp == [] and repl2 == 'during':
+		ess = any(['Ess' in wo2[x] for x in wo2])
+		ess |= any(['Ade' in wo2[x] and ('luku' in " ".join(wo2[x]) or 'viikko' in " ".join(wo2[x])) for x in wo2])
+		if ess:
+			postpOK = True
+			msg += "Ess found"
+
 	return prepOK, postpOK, msg
 
 

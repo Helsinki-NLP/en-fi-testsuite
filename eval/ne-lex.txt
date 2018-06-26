@@ -75,3 +75,4 @@ Netherlands	Hollanti
 Vienna	Wien
 Corsica	Korsika
 Acropolis	Akropolis
+Abkhazia	Abhasia
