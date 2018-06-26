@@ -20,9 +20,9 @@ echo "Starting at `date`"
 # python extract.py $DATASET sing_plur
 # python extract.py $DATASET pron_sing_plur
 # python extract.py $DATASET pres_past
-python extract.py $DATASET comp_adj
+# python extract.py $DATASET comp_adj
 # python extract.py $DATASET pos_neg
-# python extract.py $DATASET det_poss
+python extract.py $DATASET det_poss
 # python extract.py $DATASET that_if
 # python extract.py $DATASET numbers
 # python extract.py $DATASET complex_np

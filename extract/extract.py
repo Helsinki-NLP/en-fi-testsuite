@@ -461,7 +461,7 @@ def det_poss(sentence):
 				out_sentence[i] = 'The'
 			else:
 				out_sentence[i] = 'the'
-			return out_sentence, [x[0] for x in sentence]	# the modified sentence is the base, the original is the variant
+			return out_sentence, [x[0] for x in sentence], 'the', word.lower()	# the modified sentence is the base, the original is the variant
 	return None
 
 

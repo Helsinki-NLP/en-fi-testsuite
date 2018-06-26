@@ -6,7 +6,7 @@
 #SBATCH --mem=1g
 #SBATCH -n 1
 #SBATCH -N 1
-#SBATCH -t 2:00:00
+#SBATCH -t 0:05:00
 #SBATCH -p serial
 
 module load python-env/3.4.5

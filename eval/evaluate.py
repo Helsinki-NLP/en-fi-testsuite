@@ -137,13 +137,29 @@ def human_nonhuman_pron(wo1, wo2):
 	foundNonhuman = any(['se' in wo2[x] for x in wo2]) or any(['ne' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['sinne' in wo2[x] for x in wo2])
 	return foundHuman, foundNonhuman, ""
 
-def det_poss(wo1, wo2):
+def det_poss(wo1, wo2, repl1, repl2):
 	foundDet = True		# put a condition here?
-	foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] for x in wo2])
-	foundPoss = any(['PxSg1' in wo2[x] for x in wo2]) or any(['PxSg2' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['PxPl1' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2])
-	return foundDet, foundPoss or foundPron, ""
+	msg = ""
+	if repl2 == 'my':
+		foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] and 'minä' in wo2[x] for x in wo2])
+		foundPoss = any(['PxSg1' in wo2[x] for x in wo2])
+	elif repl2 == 'your':
+		foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] and ('sinä' in wo2[x] or 'te' in wo2[x]) for x in wo2])
+		foundPoss = any(['PxSg2' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2])
+	elif repl2 == 'his' or repl2 == 'her':
+		foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] and 'hän' in wo2[x] for x in wo2])
+		foundPoss = any(['Px3' in wo2[x] for x in wo2])
+	elif repl2 == 'our':
+		foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] and 'me' in wo2[x] for x in wo2])
+		foundPoss = any(['PxPl1' in wo2[x] for x in wo2])
+	else:
+		msg = "possessive not defined:" + repl2
+	
+	#foundPron = any(['Pron' in wo2[x] and 'Gen' in wo2[x] for x in wo2])
+	#foundPoss = any(['PxSg1' in wo2[x] for x in wo2]) or any(['PxSg2' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['PxPl1' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2])
+	return foundDet, foundPoss or foundPron, msg
 
-# do we need to check more? position of the verb? morph features of the verb? what about 'jos'? how do the -va forms work?
+# do we need to check more? position of the verb? morph features of the verb?
 def that_if(wo1, wo2):
 	foundMukaan = any(['mukaan' in wo1[x] for x in wo1])
 	foundKertoa = any(['kertoa' in wo1[x] for x in wo1]) and any(['PrfPrc' in wo1[x] for x in wo1])
@@ -224,11 +240,8 @@ def named_entities(wo1, wo2, repl1, repl2):
 	found2 = find_named_entity(repl2, wo2)
 	return found1, found2, ""
 
-# this needs work:
-# - is 'sitä ennen'/'tätä ennen' good or does it necessarily need to be 'ennen sitä'?
-# - is 'ennen kuin' good in all cases?
-# - 'during' can be translated as a case for time expressions: '1980-luvulla', 'yönä', ...
-# - what about unknown nouns for which no case information is available?
+
+# what about unknown nouns for which no case information is available?
 def prep_postp(wo1, wo2, repl1, repl2):
 	msg = ""
 	prepOK = False
@@ -245,13 +258,25 @@ def prep_postp(wo1, wo2, repl1, repl2):
 		prepPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
 		prepNouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Pron' in wo1[x] or 'Num' in wo1[x]]
 		prepNouns = [x for x in prepNouns if any([int(n[1:]) > prepPos for n in x if n.startswith("@")])]
+		prepOK = False
 
 		if len(prepNouns) > 0:
 			prepCase = any(['Par' in x for x in prepNouns])
 			if not prepCase:
-				msg += "no {} case found with {} ".format('Par', "/".join(repl1_fi))
+				msg += "no {} case found after {} ".format('Par', "/".join(repl1_fi))
 			prepOK = prepCase
-		else:
+		
+		if not prepOK:	# sitä ennen, tätä ennen
+			postpPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
+			postpProns = [wo1[x] for x in wo1 if 'Pron' in wo1[x]]
+			postpProns = [x for x in postpProns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
+			if len(postpProns) > 0:
+				postpCase = any(['Par' in x for x in postpProns])
+				if not postpCase:
+					msg += "no {} case found before {} ".format('Par', "/".join(repl1_fi))
+				prepOK = postpCase
+		
+		if not prepOK:
 			msg += "no nouns found with {} ".format("/".join(repl1_fi))
 	else:
 		msg += "no {} preposition found".format("/".join(repl1_fi))
@@ -323,6 +348,8 @@ def local_prep(wo1, wo2, repl1, repl2):
 				cases1.update(wo1[x] & localcases)
 			if 'yli' in wo1[x]:
 				cases1.add('All'); cases1.add('Ade')
+			if 'ylle' in wo1[x]:
+				cases1.add('All')
 		
 		elif repl1 == 'underneath':
 			if 'alle' in wo1[x]:
