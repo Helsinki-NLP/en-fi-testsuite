@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-import argparse, collections, re
+import argparse, collections, re, gzip
 
 
 # def analyzeSentence(sentence):
@@ -16,8 +16,8 @@ import argparse, collections, re
 			# tagdict[match.group(1)] = match.group(2)
 		# result.append(tagdict)
 	# return result
-
-nelex = {l.split("\t")[0].strip().lower(): l.split("\t")[1].strip().lower() for l in open('ne-lex.txt', 'r', encoding='utf-8')}
+	
+nelex = {}
 
 
 def readAnalysis(analysisfile):
@@ -459,7 +459,11 @@ def format_worddict(worddict):
 	return " || ".join(s)
 
 
-def evaluate(translationfile, analysesfile, sourcefile, features=None):
+def evaluate(translationfile, analysesfile, sourcefile, nelexfile=None, verboseevalfile=None, features=None):
+	if nelexfile:
+		global nelex
+		nelex = {l.split("\t")[0].strip().lower(): l.split("\t")[1].strip().lower() for l in nelexfile}
+
 	total = collections.defaultdict(int)
 	correct = collections.defaultdict(int)
 	for sentences, analyses, task, exno, srcsentences in readSentencePair(translationfile, analysesfile, sourcefile):
@@ -482,51 +486,57 @@ def evaluate(translationfile, analysesfile, sourcefile, features=None):
 				result = taskproc(words_only1, words_only2, repl1, repl2)
 			
 			if result is None:
-				print("\t".join([task, exno, "Unknown word", sentences[0], format_worddict(words_only1), sentences[1], format_worddict(words_only2)]))
+				if verboseevalfile:
+					verboseevalfile.write("\t".join([task, exno, "Unknown word", sentences[0], format_worddict(words_only1), sentences[1], format_worddict(words_only2)]) + "\n")
 				continue
 			
 			x, y, msg = result
 			if x and y:		# both features found => correct
 				correct[taskname] += 1
 				total[taskname] += 1
+				if verboseevalfile:
+					s = "Correct: " + msg if msg else "Correct"
+					verboseevalfile.write("\t".join([task, exno, s, sentences[0], "", sentences[1], ""]) + "\n")
 
 			elif len(words_only1) == 0 and len(words_only2) == 0:
 				# identical
 				total[taskname] += 1
+				if verboseevalfile:
+					s = "Identical: " + msg if msg else "Identical"
+					verboseevalfile.write("\t".join([task, exno, s, sentences[0], "", sentences[1], ""]) + "\n")
 			
 			elif x or y:	# only one feature found => wrong
-				if not x:
-					msg2 = "Left feature not found"
-					if msg != "":
-						msg2 += ": " + msg
-					print("\t".join([task, exno, msg2, sentences[0], format_worddict(words_only1), sentences[1], ""]))
-				if not y:
-					msg2 = "Right feature not found"
-					if msg != "":
-						msg2 += ": " + msg
-					print("\t".join([task, exno, msg2, sentences[0], "", sentences[1], format_worddict(words_only2)]))
 				total[taskname] += 1
+				if verboseevalfile and not x:
+					s = "Left feature not found: " + msg if msg else "Left feature not found"
+					verboseevalfile.write("\t".join([task, exno, s, sentences[0], format_worddict(words_only1), sentences[1], ""]) + "\n")
+				if verboseevalfile and not y:
+					s = "Right feature not found: " + msg if msg else "Right feature not found"
+					verboseevalfile.write("\t".join([task, exno, s, sentences[0], "", sentences[1], format_worddict(words_only2)]) + "\n")
 			
 			else:
-				msg2 = "Both features not found"
-				if msg != "":
-					msg2 += ": " + msg
-				print("\t".join([task, exno, msg2, sentences[0], format_worddict(words_only1), sentences[1], format_worddict(words_only2)]))
 				total[taskname] += 1
+				if verboseevalfile:
+					s = "Both features not found: " + msg if msg else "Both features not found"
+					verboseevalfile.write("\t".join([task, exno, s, sentences[0], format_worddict(words_only1), sentences[1], format_worddict(words_only2)]) + "\n")
 	
-	print()
 	print("\t".join(["Task", "Correct", "Total", "Accuracy"]))
 	for task in sorted(total):
 		print("\t".join([task, "{}".format(correct.get(task, 0)), "{}".format(total[task]), "{:.2f}%".format(100 * correct.get(task, 0) / total[task])]))
+	print()
 
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
-	parser.add_argument('-trans', dest='trans', nargs="?", type=argparse.FileType('r'), help="translated input sentences")
+	parser.add_argument('-trans', dest='trans', nargs="?", type=str, help="translated input sentences")
 	parser.add_argument('-morph', dest='morph', nargs="?", type=argparse.FileType('r'), help="hfst-analyzed input sentences")
 	parser.add_argument('-source', dest='source', nargs="?", type=argparse.FileType('r'), help="input source file (sentence IDs + English sentences)")
+	parser.add_argument('-eval', dest='eval', nargs="?", type=argparse.FileType('w'), help="output file for verbose evaluation (optional)")
+	parser.add_argument('-nelex', dest='nelex', nargs="?", type=argparse.FileType('r'), help="dictionary with named entity correspondences")
 	parser.add_argument('-feats', dest='feats', nargs="?", help="list of features to analyze")
 	args = parser.parse_args()
 	
-	evaluate(args.trans, args.morph, args.source, args.feats)
-
+	if args.trans.endswith(".gz"):
+		evaluate(gzip.open(args.trans, 'rt'), args.morph, args.source, args.nelex, args.eval, args.feats)
+	else:
+		evaluate(open(args.trans, 'r'), args.morph, args.source, args.nelex, args.eval, args.feats)

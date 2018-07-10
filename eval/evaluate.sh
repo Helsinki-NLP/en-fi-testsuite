@@ -16,6 +16,6 @@ TRANSLATION=test
 
 echo "Starting at `date`"
 
-python3 evaluate.py -trans $INPUTDIR/$TRANSLATION.detok -morph $TRANSLATION.morph -source ../select_shuf/morpheval-enfi-2018.en > $TRANSLATION.result.csv
+python3 evaluate.py -trans $INPUTDIR/$TRANSLATION.detok -morph $TRANSLATION.morph -source ../select_shuf/morpheval-enfi-2018.en -eval $TRANSLATION.result.csv -nelex ne-lex.txt > $TRANSLATION.numbers.csv
 
 echo "Finishing at `date`"
