@@ -8,7 +8,7 @@ features = ["sing_plur", "pron_sing_plur", "pres_past", "comp_adj", "pos_neg", "
 
 data = {}
 for s in systems:
-	f = open("results/{}.en-fi.numbers.csv".format(s), 'r')
+	f = open("results/{}.en-fi.numbers.tsv".format(s), 'r')
 	data[s] = {}
 	first = True
 	for line in f:
@@ -21,7 +21,7 @@ for s in systems:
 		data[s][elements[0]] = int(elements[1]) / int(elements[2])
 	f.close()
 
-f = open("all.numbers.csv", 'w')
+f = open("all.numbers.tsv", 'w')
 f.write("\t" + "\t".join(features) + "\n")
 for s in systems:
 	l = [s.split(".")[0]] + ["{:.2f}".format(100*data[s][x]) for x in features]

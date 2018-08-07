@@ -12,7 +12,7 @@ stabfeatures = ["masc_fem_pron", "pres_fut", "the_a"]
 
 def getExampleList(trueColumn=-1, falseColumn=-1):
 	examples = set()
-	f = open("all.correct.csv", 'r')
+	f = open("all.correct.tsv", 'r')
 	first = True
 	for line in f:
 		if first:
@@ -34,7 +34,7 @@ def extractAllCorrect():
 	# extract source and worst system examples
 	system = "HY-SMT-en-fi.5436"
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	tf = open("results/{}.en-fi.eval.csv".format(system), 'r', encoding='utf-8')
+	tf = open("results/{}.en-fi.eval.tsv".format(system), 'r', encoding='utf-8')
 	examples = collections.defaultdict(dict)
 	nbExamples = 0
 	for tline in tf:
@@ -54,7 +54,7 @@ def extractAllCorrect():
 	tf.close()
 	print(nbExamples, "examples found")
 	
-	of = open("examples/allCorrect.csv", 'w', encoding='utf-8')
+	of = open("examples/allCorrect.tsv", 'w', encoding='utf-8')
 	examplesPerFeature = 10
 	for feature in features:
 		if feature not in examples:
@@ -74,7 +74,7 @@ def extractAllWrong():
 	# extract source and best system examples
 	system = "NICT.5658"
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	tf = open("results/{}.en-fi.eval.csv".format(system), 'r', encoding='utf-8')
+	tf = open("results/{}.en-fi.eval.tsv".format(system), 'r', encoding='utf-8')
 	examples = collections.defaultdict(dict)
 	nbExamples = 0
 	for tline in tf:
@@ -94,7 +94,7 @@ def extractAllWrong():
 	tf.close()
 	print(nbExamples, "examples found")
 	
-	of = open("examples/allWrong.csv", 'w', encoding='utf-8')
+	of = open("examples/allWrong.tsv", 'w', encoding='utf-8')
 	examplesPerFeature = 10
 	for feature in features:
 		if feature not in examples:
@@ -112,7 +112,7 @@ def extractAlmostAllCorrect():
 	exampleIds = getExampleList(trueColumn=4, falseColumn=3)
 	
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	tfs = [open("results/{}.en-fi.eval.csv".format(x), 'r', encoding='utf-8') for x in systems]
+	tfs = [open("results/{}.en-fi.eval.tsv".format(x), 'r', encoding='utf-8') for x in systems]
 	examples = collections.defaultdict(dict)
 	nbExamples = 0
 	for tlines in zip(*tfs):
@@ -132,7 +132,7 @@ def extractAlmostAllCorrect():
 	[x.close() for x in tfs]
 	print(nbExamples, "examples found")
 	
-	of = open("examples/almostAllCorrect.csv", 'w', encoding='utf-8')
+	of = open("examples/almostAllCorrect.tsv", 'w', encoding='utf-8')
 	examplesPerFeature = 10
 	for feature in features:
 		if feature not in examples:
@@ -153,7 +153,7 @@ def extractAlmostAllWrong():
 	
 	# extract source and worst system examples
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	tfs = [open("results/{}.en-fi.eval.csv".format(x), 'r', encoding='utf-8') for x in systems[:8] + systems[9:-1]]
+	tfs = [open("results/{}.en-fi.eval.tsv".format(x), 'r', encoding='utf-8') for x in systems[:8] + systems[9:-1]]
 	examples = collections.defaultdict(dict)
 	nbExamples = 0
 	for tlines in zip(*tfs):
@@ -178,7 +178,7 @@ def extractAlmostAllWrong():
 	[x.close() for x in tfs]
 	print(nbExamples, "examples found")
 	
-	of = open("examples/almostAllWrong.csv", 'w', encoding='utf-8')
+	of = open("examples/almostAllWrong.tsv", 'w', encoding='utf-8')
 	examplesPerFeature = 40	# this is exhaustive
 	for feature in features:
 		if feature not in examples:
@@ -196,8 +196,8 @@ def extractAlmostAllWrong():
 
 def extractRBCorrect():
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	rtf = open("results/HY-AH-en-fi.5567.en-fi.eval.csv", 'r', encoding='utf-8')
-	ntf = open("results/NICT.5658.en-fi.eval.csv", 'r', encoding='utf-8')
+	rtf = open("results/HY-AH-en-fi.5567.en-fi.eval.tsv", 'r', encoding='utf-8')
+	ntf = open("results/NICT.5658.en-fi.eval.tsv", 'r', encoding='utf-8')
 	examples = collections.defaultdict(dict)
 	nbExamples = 0
 	for rtline, ntline in zip(rtf, ntf):
@@ -219,7 +219,7 @@ def extractRBCorrect():
 	ntf.close()
 	
 	print(nbExamples, "examples found")
-	of = open("examples/rbCorrect.csv", 'w', encoding='utf-8')
+	of = open("examples/rbCorrect.tsv", 'w', encoding='utf-8')
 	examplesPerFeature = 10
 	for feature in features + stabfeatures:
 		if feature not in examples:
@@ -253,7 +253,7 @@ def count():
 	for f, e in almostAllWrong:
 		almostAllWrongDict[f] += 1
 	
-	of = open('perfeature.correct.csv', 'w')
+	of = open('perfeature.correct.tsv', 'w')
 	of.write("\t".join(["Feature", "AllCorrect", "AlmostAllCorrect", "Varied", "AlmostAllWrong", "AllWrong"]) + "\n")
 	for f in features + stabfeatures:
 		varied = 500 - allCorrectDict[f] - almostAllCorrectDict[f] - almostAllWrongDict[f] - allWrongDict[f]
@@ -263,7 +263,7 @@ def count():
 
 def extract_that_if():
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	tfs = [open("results/{}.en-fi.eval.csv".format(x), 'r', encoding='utf-8') for x in systems]
+	tfs = [open("results/{}.en-fi.eval.tsv".format(x), 'r', encoding='utf-8') for x in systems]
 	examples = {}
 	nbExamples = 0
 	for tlines in zip(*tfs):
@@ -284,7 +284,7 @@ def extract_that_if():
 	[x.close() for x in tfs]
 	print(nbExamples, "examples found")
 	
-	of = open("examples/that_if.csv", 'w', encoding='utf-8')
+	of = open("examples/that_if.tsv", 'w', encoding='utf-8')
 	for example in sorted(examples)[:20]:
 		nbCorrect = len([x for x in examples[example][2:] if "Correct" in x])
 		if nbCorrect > 3 and nbCorrect < 9:

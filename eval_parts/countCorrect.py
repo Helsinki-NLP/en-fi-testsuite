@@ -11,7 +11,7 @@ features = ["sing_plur", "pron_sing_plur", "pres_past", "comp_adj", "pos_neg", "
 correct = collections.defaultdict(int)
 total = collections.defaultdict(int)
 for s in systems:
-	f = open("results/{}.en-fi.eval.csv".format(s), 'r')
+	f = open("results/{}.en-fi.eval.tsv".format(s), 'r')
 	for line in f:
 		elements = line.strip().split("\t")
 		task = elements[0].split(":")[0]
@@ -22,7 +22,7 @@ for s in systems:
 		total[task, number] += 1
 	f.close()
 
-f = open("all.correct.csv", 'w')
+f = open("all.correct.tsv", 'w')
 titlerow = ["Task", "Example", "NbCorrect", "AllCorrect", "AlmostAllCorrect", "AllWrong", "AlmostAllWrong"]
 noise = 2
 f.write("\t".join(titlerow) + "\n")
