@@ -153,7 +153,7 @@ def extractAlmostAllWrong():
 	
 	# extract source and worst system examples
 	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
-	tfs = [open("results/{}.en-fi.eval.csv".format(x), 'r', encoding='utf-8') for x in systems]
+	tfs = [open("results/{}.en-fi.eval.csv".format(x), 'r', encoding='utf-8') for x in systems[:8] + systems[9:-1]]
 	examples = collections.defaultdict(dict)
 	nbExamples = 0
 	for tlines in zip(*tfs):
@@ -167,9 +167,11 @@ def extractAlmostAllWrong():
 		extype = selem[0].split(":")[0]
 		exno = selem[0].split(":")[-1].split(".")[0]
 		if (extype, exno) in exampleIds:
-			if ("Correct" in tlines[-1]) and not any(["Correct" in x for x in tlines[2:-1]]):
-				print(extype, exno, "skip, only AH correct")
-			else:
+#			if ("Correct" in tlines[-1]) and not any(["Correct" in x for x in tlines[2:-1]]):
+#				print(extype, exno, "skip, only AH correct")
+#			elif ("Correct" in tlines[8]) and not any(["Correct" in x for x in tlines[:8] + tlines[9:]]):
+#				print(extype, exno, "skip, only SMT correct")
+#			else:
 				examples[extype][exno] = [selem[1], selem[3]] + list(tlines)
 				nbExamples += 1
 	sf.close()
@@ -184,7 +186,8 @@ def extractAlmostAllWrong():
 		print(len(examples[feature]), "examples found for feature", feature)
 		for example in sorted(examples[feature])[:examplesPerFeature]:
 			of.write("\t".join([feature, example, examples[feature][example][0], examples[feature][example][1]]) + "\n")
-			for systemid, systemline in zip(systems, examples[feature][example][2:]):
+#			for systemid, systemline in zip(systems, examples[feature][example][2:]):
+			for systemid, systemline in zip(systems[:8] + systems[9:-1], examples[feature][example][2:]):
 				elements = systemline.strip().split("\t")
 				of.write("\t".join([systemid, elements[2], elements[3], elements[5]]) + "\n")
 			of.write("\n")
@@ -256,13 +259,49 @@ def count():
 		varied = 500 - allCorrectDict[f] - almostAllCorrectDict[f] - almostAllWrongDict[f] - allWrongDict[f]
 		of.write("\t".join([f, str(allCorrectDict[f]), str(almostAllCorrectDict[f]), str(varied), str(almostAllWrongDict[f]), str(allWrongDict[f])]) + "\n")
 	of.close()
+
+
+def extract_that_if():
+	sf = open("../select_shuf/morpheval-enfi-2018.en", 'r', encoding='utf-8')
+	tfs = [open("results/{}.en-fi.eval.csv".format(x), 'r', encoding='utf-8') for x in systems]
+	examples = {}
+	nbExamples = 0
+	for tlines in zip(*tfs):
+		sline1 = sf.readline()
+		sline2 = sf.readline()
+		selem = sline1.strip().split("\t") + sline2.strip().split("\t")
+		if selem[0].split(".")[0] != selem[2].split(".")[0]:
+			print("Sentence mismatch:", selem[0], selem[2])
+			continue
+			# no sanity check with tlines
+		extype = selem[0].split(":")[0]
+		exno = selem[0].split(":")[-1].split(".")[0]
+		if extype != "that_if":
+			continue
+		examples[exno] = [selem[1], selem[3]] + list(tlines)
+		nbExamples += 1
+	sf.close()
+	[x.close() for x in tfs]
+	print(nbExamples, "examples found")
+	
+	of = open("examples/that_if.csv", 'w', encoding='utf-8')
+	for example in sorted(examples)[:20]:
+		nbCorrect = len([x for x in examples[example][2:] if "Correct" in x])
+		if nbCorrect > 3 and nbCorrect < 9:
+			of.write("\t".join(["that_if", example, examples[example][0], examples[example][1]]) + "\n")
+			for systemid, systemline in zip(systems, examples[example][2:]):
+				elements = systemline.strip().split("\t")
+				of.write("\t".join([systemid, elements[2], elements[3], elements[5]]) + "\n")
+			of.write("\n")
+	of.close()
 	
 
 if __name__ == "__main__":
 	# extractAllCorrect()
 	# extractAllWrong()
-	extractRBCorrect()
+	# extractRBCorrect()
 	# extractAlmostAllCorrect()
 	# extractAlmostAllWrong()
+	extract_that_if()
 	# count()
 	

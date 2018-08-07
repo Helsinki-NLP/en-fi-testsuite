@@ -1,0 +1,280 @@
+that_if	1	Sarkozy says that civil servants who retire will not be replaced.	Sarkozy asks if civil servants who retire will not be replaced.
+NICT.5658	Correct	Sarkozy sanoo, että eläkkeelle jääviä virkamiehiä ei korvata.	Sarkozy kysyy, eikö eläkkeelle jääviä virkamiehiä korvata.
+HY-NMT-en-fi.5570	Correct	Sarkozy sanoo, että eläkkeelle siirtyviä virkamiehiä ei korvata.	Sarkozy kysyy, eikö eläkkeelle siirtyviä virkamiehiä korvata.
+uedin.5707	Correct	Sarkozyn mukaan eläkkeelle jääneitä virkamiehiä ei korvata.	Sarkozy kysyy, eikö eläkkeelle jääneitä virkamiehiä korvata.
+Aalto.5550	Right feature not found	Sarkozy sanoo, että virkamiehiä, jotka jäävät eläkkeelle, ei korvata.	Sarkozy kysyy, jos virkamiehiä, jotka jäävät eläkkeelle, ei korvata.
+HY-NMTtwostep-en-fi.5639	Right feature not found	Sarkozy sanoo, että virkamiehiä, jotka jäävät eläkkeelle, ei korvata.	Sarkozy kysyy, jos eläkkeelle jääviä virkamiehiä ei vaihdeta.
+CUNI-Kocmi.5620	Correct	Sarkozyn mukaan eläkkeelle jääviä virkamiehiä ei korvata.	Sarkozy kysyi, eikö eläkkeelle jääviä virkamiehiä vaihdeta.
+talp-upc.5424	Correct	Sarkozy sanoo, että eläkkeelle jääviä virkamiehiä ei korvata.	Sarkozy kysyy, eikö eläkkeelle jääviä virkamiehiä korvata.
+online-B.0	Right feature not found	Sarkozy sanoo, että eläkkeelle jääneitä virkamiehiä ei korvata.	Sarkozy kysyy, eivät eläkkeelle jääneitä virkamiehiä korvata.
+HY-SMT-en-fi.5436	Right feature not found	Sarkozy sanoo, että virkamiehille, jotka eläkkeelle ei korvata.	Sarkozy kysyy jos virkamiehille, jotka eläkkeelle ei korvata.
+online-G.0	Right feature not found	Sarkozy sanoo, että virkamiesten, jotka jäävät eläkkeelle ei korvata.	Sarkozy pyytää, jos virkamiehet, jotka jäävät eläkkeelle ei korvata.
+online-A.0	Right feature not found	Sarkozy sanoo, että virka miehet, jotka jäävät eläkkeelle ei korvata.	Sarkozy kysyy virka miesten eläkkeelle ei korvata.
+HY-AH-en-fi.5567	Right feature not found	Sarkozy sanoo, että virkamiehiä, joita eläköityvät ei korvata.	Sarkozy pyytää jos virkamiehiä, joita eläköityvät ei korvata.
+
+that_if	100	We have said that we do not need the merger to go forward.	We have asked if we do not need the merger to go forward.
+NICT.5658	Correct	Olemme sanoneet, että fuusiota ei tarvitse viedä eteenpäin.	Olemme kysyneet, eikö fuusiota tarvitse viedä eteenpäin.
+HY-NMT-en-fi.5570	Correct	Olemme sanoneet, ettei fuusiota tarvitse viedä eteenpäin.	Olemme kysyneet, eikö fuusiota tarvitse viedä eteenpäin.
+uedin.5707	Correct	Olemme sanoneet, ettei fuusiota tarvitse viedä eteenpäin.	Olemme kysyneet, tarvitseeko fuusiota viedä eteenpäin.
+Aalto.5550	Correct	Olemme sanoneet, ettei fuusion tarvitse mennä eteenpäin.	Olemme kysyneet, eikö fuusion tarvitse mennä eteenpäin.
+HY-NMTtwostep-en-fi.5639	Correct	Olemme sanoneet, että meidän ei tarvitse fuusiossa mennä eteenpäin.	Olemme kysyneet, emmekö tarvitse fuusiota mennäksemme eteenpäin.
+CUNI-Kocmi.5620	Correct	Olemme todenneet, ettei fuusion eteneminen ole tarpeen.	Olemme kysyneet, eikö fuusion eteneminen ole tarpeen.
+talp-upc.5424	Correct	Olemme sanoneet, ettemme tarvitse fuusiota eteenpäin.	Olemme kysyneet, eikö fuusion tarvitse edetä.
+online-B.0	Right feature not found	Olemme sanoneet, että sulautumaa ei tarvitsisi edetä.	Olemme pyytäneet, ettemme tarvitse fuusiota eteenpäin.
+HY-SMT-en-fi.5436	Right feature not found	Sanoimme, että emme tarvitse fuusion etenevän.	Jos me emme tarvitse fuusion etenevän.
+online-G.0	Right feature not found	Olemme sanoneet, että meidän ei tarvitse sulautumisen mennä eteenpäin.	Olemme pyytäneet, jos meidän ei tarvitse sulautumisen mennä eteenpäin.
+online-A.0	Both features not found	Olemme sanoneet, ettemme tarvitse sulautumia eteenpäin.	Olemme pyytäneet, ettemme tarvitse sulautumia eteenpäin.
+HY-AH-en-fi.5567	Right feature not found	Me olemme sanoneet, että me emme tarvitse fuusiota menemään eteenpäin.	Me olemme pyytäneet jos me emme tarvitse fuusiota menemään eteenpäin.
+
+that_if	103	You could say that also sums up Iraq since 2003.	You could ask if also sums up Iraq since 2003.
+NICT.5658	Correct	Voisi sanoa, että tämä kiteyttää myös Irakin vuodesta 2003.	Voisi kysyä, kiteytyykö myös Irak vuoden 2003 jälkeen.
+HY-NMT-en-fi.5570	Correct	Voisi sanoa, että myös Irak tiivistyy vuodesta 2003.	Voitte kysyä, tiivistäisikö Irak myös vuoden 2003 jälkeen.
+uedin.5707	Correct	Voisi sanoa, että tämä kiteyttää myös Irakin vuoden 2003 jälkeen.	Voisi kysyä, kiteyttääkö myös Irak vuodesta 2003.
+Aalto.5550	Correct	Voisi sanoa, että myös Irak tiivistyy vuodesta 2003.	Voisitte kysyä, tiivistyykö Irak myös vuodesta 2003 lähtien.
+HY-NMTtwostep-en-fi.5639	Correct	Voitaisiin sanoa, että se myös tiivistää Irakia vuodesta 2003.	Voisi kysyä, tiivistyykö Irak myös vuoden 2003 jälkeen.
+CUNI-Kocmi.5620	Correct	Voidaan sanoa, että sama koskee myös Irakia vuodesta 2003 lähtien.	Voisitte kysyä, voisitteko esittää yhteenvedon myös Irakista vuodesta 2003 lähtien.
+talp-upc.5424	Correct	Voidaan sanoa, että tämä on yhteenveto myös Irakista vuodesta 2003 lähtien.	Voisitte kysyä, esittääkö Irak yhteenvedon vuoden 2003 jälkeen.
+online-B.0	Correct	Voisit sanoa, että se myös tiivistää Irakin vuodesta 2003.	Voisit kysyä, kattaako Iraki myös vuoden 2003 jälkeen.
+HY-SMT-en-fi.5436	Right feature not found	Voisi sanoa, että myös tiivistyi Irakissa vuodesta 2003.	Voitte kysyä myös tiivistyi Irakissa vuodesta 2003.
+online-G.0	Right feature not found	Voisi sanoa, että myös kiteyttää Irakissa vuodesta 2003 lähtien.	Voisit kysyä, jos myös kiteyttää Irakissa vuodesta 2003 lähtien.
+online-A.0	Right feature not found	Voisi sanoa, että myös tiivistää Irakin vuodesta 2003.	Voisit kysyä, jos myös kiteyttää Irakin vuodesta 2003.
+HY-AH-en-fi.5567	Right feature not found	Voisivat sanoa, että kiteyttää myös Irakin vuodesta 2003.	Voisivat pyytää jos kiteyttää myös Irakin vuodesta 2003.
+
+that_if	105	And they say that handbags are an easier option than buying clothes.	And they ask if handbags are an easier option than buying clothes.
+NICT.5658	Correct	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin vaatteiden ostaminen.	Ja he kysyvät, ovatko käsilaukut helpompi vaihtoehto kuin vaatteiden ostaminen.
+HY-NMT-en-fi.5570	Correct	Heidän mukaansa käsilaukut ovat helpompi vaihtoehto kuin vaatteiden ostaminen.	He kysyvät, onko käsilaukku helpompi vaihtoehto kuin vaatteiden ostaminen.
+uedin.5707	Correct	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin vaatteiden ostaminen.	Ja he kysyvät, ovatko käsilaukut helpompi vaihtoehto kuin vaatteiden ostaminen.
+Aalto.5550	Correct	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin vaatteiden ostaminen.	Ja he kysyvät, onko käsilaukut helpompi vaihtoehto kuin vaatteiden ostaminen.
+HY-NMTtwostep-en-fi.5639	Correct	Ja niiden mukaan käsilaukut ovat helpompi vaihtoehto kuin vaatteiden ostaminen.	Ja he kysyvät, ovatko käsilaukut helpompi vaihtoehto kuin vaatteiden ostaminen.
+CUNI-Kocmi.5620	Right feature not found	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.	Ja he kysyvät, jos käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.
+talp-upc.5424	Correct	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.	Ja he kysyvät, onko käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.
+online-B.0	Correct	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.	Ja he kysyvät, ovatko käsilaukut helpompi vaihtoehto kuin ostaa vaatteita.
+HY-SMT-en-fi.5436	Right feature not found	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.	Ja he kysyivät jos käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.
+online-G.0	Right feature not found	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.	Ja he kysyvät, jos käsilaukut ovat helpompi vaihtoehto kuin ostaa vaatteita.
+online-A.0	Right feature not found	Ja he sanovat, että käsi laukut ovat helpompi vaihto ehto kuin ostaa vaatteita.	Ja he kysyvät, jos käsi laukut ovat helpompi vaihto ehto kuin ostaa vaatteita.
+HY-AH-en-fi.5567	Right feature not found	Ja he sanovat, että käsilaukut ovat helpompi vaihtoehto kuin ostamassa vaatteita.	Ja ne pyytävät jos käsilaukut ovat helpompi vaihtoehto kuin ostamassa vaatteita.
+
+that_if	106	Authorities said that the crater was made Saturday by a falling meteorite.	Authorities asked if the crater was made Saturday by a falling meteorite.
+NICT.5658	Correct	Viranomaiset kertoivat, että kraatterin teki lauantaina putoava meteoriitti.	Viranomaiset kysyivät, onko kraatterin tehnyt lauantaina putoava meteoriitti.
+HY-NMT-en-fi.5570	Correct	Viranomaiset kertoivat, että kraatteri oli lauantaina laskeva meteoriitti.	Viranomaiset kysyivät, onko kraatteri tehty lauantaina laskevan meteoriitin avulla.
+uedin.5707	Correct	Viranomaisten mukaan kraatterin teki lauantaina laskeva meteoriitti.	Viranomaiset kysyivät, onko kraatteri tehty lauantaina laskevalla meteoriitilla.
+Aalto.5550	Correct	Viranomaiset kertoivat, että kraatteri tehtiin lauantaina laskevalla meteoriitilla.	Viranomaiset kysyivät, oliko kraatteri tehty lauantaina laskevalla meteoriitilla.
+HY-NMTtwostep-en-fi.5639	Correct	Viranomaiset kertoivat, että kraatterista tehtiin lauantaina laskeva meteoriitti.	Viranomaiset kysyivät, onko kraatterista tehty lauantaina laskeva meteoriitti.
+CUNI-Kocmi.5620	Right feature not found	Viranomaiset sanoivat, että nosturi tehtiin lauantaina, jonka laskeva meteoriitti.	Viranomaiset kysyivät, jos nosturi tehtiin lauantaina, jonka laskeva meteoriitti.
+talp-upc.5424	Correct	Viranomaiset sanoivat, että kraatterin teki lauantai putoava meteoriitti.	Viranomaiset kysyivät, onko kraatteri tehnyt lauantaina putoava meteoriitti.
+online-B.0	Correct	Viranomaiset sanoivat, että kraatteri oli lauantaina laskeva meteoriitti.	Viranomaiset kysyivät, onko kraatteri tehty lauantaina putoavalla meteoriitilla.
+HY-SMT-en-fi.5436	Right feature not found	Viranomaiset kertoivat, että kraatterista tehtiin lauantaina putoava meteoriitti.	Viranomaiset pyysivät jos kraatterista tehtiin lauantaina putoava meteoriitti.
+online-G.0	Right feature not found	Viranomaiset sanoivat, että kraatteri oli tehty lauantaina putoava meteoriitti.	Viranomaiset pyysivät jos kraatteri tehtiin lauantaina putoava meteoriitti.
+online-A.0	Right feature not found	Viran omaiset sanoivat, että kraatteri tehtiin lauantaina kuuluvan meteoriitti.	Viran omaiset kysyi kraatteri tehtiin lauantaina kuuluvan meteoriitti.
+HY-AH-en-fi.5567	Right feature not found	Viranomaiset sanoivat, että kraatteria teki lauantaina kaatuva meteoriitti.	Viranomaiset pyytivät jos kraatteria teki lauantaina kaatuva meteoriitti.
+
+that_if	108	The newcomers say that the giants are no longer innovative.	The newcomers ask if the giants are no longer innovative.
+NICT.5658	Correct	Uudet tulokkaat sanovat, että jätkät eivät ole enää innovatiivisia.	Uudet tulokkaat kysyvät, eivätkö jättiläiset ole enää innovatiivisia.
+HY-NMT-en-fi.5570	Correct	Tulijoiden mukaan jättiläiset eivät ole enää innovatiivisia.	Tulijat kysyvät, ovatko jättiläiset enää innovatiivisia.
+uedin.5707	Correct	Tulijoiden mukaan jättiläiset eivät ole enää innovatiivisia.	Tulijat kysyvät, ovatko jättiläiset enää innovatiivisia.
+Aalto.5550	Correct	Tulijat sanovat, että jättiläiset eivät ole enää innovatiivisia.	Tulijat kysyvät, ovatko jättiläiset enää innovatiivisia.
+HY-NMTtwostep-en-fi.5639	Right feature not found	Tulijat sanovat, että jättiläiset eivät ole enää innovatiivisia.	Tulijat kysyvät, jos jättiläiset eivät ole enää innovatiivisia.
+CUNI-Kocmi.5620	Correct	Uudet tulokkaat sanovat, että jättiläiset eivät ole enää innovatiivisia.	Uudet tulokkaat kysyvät, eivätkö jättiläiset ole enää innovatiivisia.
+talp-upc.5424	Correct	Uudet tulokkaat sanovat, että jättiläiset eivät ole enää innovatiivisia.	Uudet tulokkaat kysyvät, ovatko jättiläiset enää innovatiivisia.
+online-B.0	Right feature not found	Uudet tulokkaat sanovat, että jättiläiset eivät enää ole innovatiivisia.	Uudet tulokkaat kysyvät, jos jättiläiset eivät enää ole innovatiivisia.
+HY-SMT-en-fi.5436	Right feature not found	Tulijat sanovat, että jättiläiset eivät ole enää innovatiivista.	Tulija pyytää vaikka jättiläiset eivät ole enää innovatiivista.
+online-G.0	Right feature not found	Tulokkaat sanovat, että jättiläiset eivät enää innovatiivinen.	Tulokkaita kysyä, jos jättiläiset eivät enää innovatiivinen.
+online-A.0	Right feature not found	Uudet tulokkaat sanovat, että jättiläiset eivät enää ole innovatiivisia.	Tulokkaat kysyä, jos jättiläiset eivät enää innovatiivisia.
+HY-AH-en-fi.5567	Right feature not found	Tulokkaat sanovat, että jättiläiset ovat enää innovatiivisia.	Tulokkaat pyytävät jos jättiläiset ovat enää innovatiivisia.
+
+that_if	109	Mr Sloan said that Dixon had used four knives in total.	Mr Sloan asked if Dixon had used four knives in total.
+NICT.5658	Correct	Sloan sanoi, että Dixon oli käyttänyt yhteensä neljä veistä.	Sloan kysyi, oliko Dixon käyttänyt yhteensä neljä veistä.
+HY-NMT-en-fi.5570	Correct	Sloanin mukaan Dixon oli käyttänyt yhteensä neljä veistä.	Sloan kysyi, oliko Dixon käyttänyt yhteensä neljä veistä.
+uedin.5707	Correct	Sloanin mukaan Dixon oli käyttänyt yhteensä neljä veitsiä.	Sloan kysyi, oliko Dixon käyttänyt yhteensä neljä veitsiä.
+Aalto.5550	Correct	Jäsen Sloan sanoi, että Dixon oli käyttänyt yhteensä neljää veitsiä.	Jäsen Sloan kysyi, oliko Dixon käyttänyt yhteensä neljää veitsiä.
+HY-NMTtwostep-en-fi.5639	Correct	Slovan sanoi, että Dixon oli käyttänyt neljää veistä yhteensä.	Sloan kysyi, olisiko Dixon käyttänyt neljää veistä yhteensä.
+CUNI-Kocmi.5620	Correct	Jäsen Sloan sanoi, että Dixon on käyttänyt yhteensä neljää veistä.	Jäsen Sloan kysyi, oliko Dixon käyttänyt yhteensä neljää veistä.
+talp-upc.5424	Correct	Sloan sanoi, että Dixon oli käyttänyt yhteensä neljää veitstä.	Jäsen Sloan kysyi, oliko Dixon käyttänyt yhteensä neljää veitstä.
+online-B.0	Correct	Sloan sanoi, että Dixon oli käyttänyt yhteensä neljä veitsiä.	Sloan kysyi, onko Dixon käyttänyt kaikkiaan neljää veitsiä.
+HY-SMT-en-fi.5436	Right feature not found	Sloan sanoi, että Dixon oli käyttänyt yhteensä neljä Knives.	Sloan kysyi Dixon oli käyttänyt yhteensä neljä Knives.
+online-G.0	Right feature not found	Herra Sloan sanoi, että Dixon oli käyttänyt neljä veitset yhteensä.	Herra Sloan kysyi jos Dixon oli käyttänyt neljä veitset yhteensä.
+online-A.0	Right feature not found	Jäsen Sloan sanoi, että Dixon oli käytetty neljä veitset yhteensä.	Herra Sloan kysyi, Dixon oli käyttänyt neljä veitset yhteensä.
+HY-AH-en-fi.5567	Right feature not found	Herra Sloan sanoi, että Dixon oli käyttänyt neljä veitseä yhteensä.	Herra Sloan pyyti jos Dixon oli käyttänyt neljä veitseä yhteensä.
+
+that_if	112	Menino said that decision was made by the team.	Menino asked if decision was made by the team.
+NICT.5658	Correct	Menino sanoi, että päätöksen teki joukkue.	Menino kysyi, onko päätös tehty joukkueessa.
+HY-NMT-en-fi.5570	Correct	Menino sanoi, että päätöksen teki joukkue.	Menino kysyi, onko joukkue tehnyt päätöksen.
+uedin.5707	Correct	Meninon mukaan päätöksen teki joukkue.	Menino kysyi, oliko joukkueen päätös.
+Aalto.5550	Correct	Menino sanoi, että päätöksen teki joukkue.	Menino kysyi, oliko joukkueen päätös tehty.
+HY-NMTtwostep-en-fi.5639	Correct	Menino sanoo, että päätöksen teki joukkue.	Menino kysyi, onko päätöksen tehnyt joukkue.
+CUNI-Kocmi.5620	Correct	Menino sanoi, että päätös oli tehnyt joukkue.	Menino kysyi, onko päätös oli tehnyt joukkue.
+talp-upc.5424	Correct	Menino sanoi, että päätös tehtiin joukkueen.	Menino kysyi, onko päätös tehtiin joukkueen.
+online-B.0	Correct	Menino sanoi, että päätös teki joukkue.	Menino kysyi, onko joukkueen tekemä päätös.
+HY-SMT-en-fi.5436	Right feature not found	Menino sanoi, että päätös oli tehnyt joukkue.	Menino kysyi, päätös oli tehnyt joukkue.
+online-G.0	Right feature not found	Menino sanoi, että päätöksen oli tehnyt joukkue.	Menino kysyi jos päätöksen oli tehnyt joukkue.
+online-A.0	Right feature not found	Menino sanoi, että päätös oli tehnyt joukkue.	Menino kysyi, jos päätös on tehnyt joukkue.
+HY-AH-en-fi.5567	Right feature not found	Menino sanoi, että päätöstä teki tiimi.	Menino pyyti jos päätöstä teki tiimi.
+
+that_if	115	I always say that you have to build a springboard.	I always ask if you have to build a springboard.
+NICT.5658	Correct	Sanon aina, että pitää rakentaa ponnahduslauta.	Kysyn aina, pitääkö rakentaa ponnahduslauta.
+HY-NMT-en-fi.5570	Correct	Sanon aina, että teidän on rakennettava ponnahduslauta.	Kysyn aina, pitääkö rakentaa ponnahduslauta.
+uedin.5707	Correct	Sanon aina, että pitää rakentaa ponnahduslauta.	Kysyn aina, pitääkö rakentaa ponnahduslauta.
+Aalto.5550	Correct	Sanon aina, että teidän on rakennettava ponnahduslauta.	Kysyn aina, onko teidän rakennettava ponnahduslauta.
+HY-NMTtwostep-en-fi.5639	Correct	Sanon aina, että teidän on rakennettava ponnahduslauta.	Kysyn aina, onko teidän rakennettava ponnahduslauta.
+CUNI-Kocmi.5620	Correct	Olen aina sanonut, että teidän on rakennettava ponnahduslauta.	Kysyn aina, onko teidän rakennettava ponnahduslauta.
+talp-upc.5424	Correct	Sanon aina, että on rakennettava ponnahduslauta.	Kysyn aina, onko teidän rakennettava ponnahduslauta.
+online-B.0	Correct	Sanon aina, että sinun täytyy rakentaa ponnahduslauta.	Kysyn aina, onko sinun rakentaa ponnahduslauta.
+HY-SMT-en-fi.5436	Right feature not found	Sanon aina, että sinun täytyy rakentaa ponnahduslauta.	Pyydän aina jos on rakentaa ponnahduslauta.
+online-G.0	Right feature not found	Olen aina sanonut, että sinun täytyy rakentaa ponnahduslauta.	Olen aina kysyä, jos sinun täytyy rakentaa ponnahduslauta.
+online-A.0	Right feature not found	Olen aina sanonut, että sinun täytyy rakentaa ponnahdus lauta.	Olen aina kysyä, jos sinulla on rakentaa ponnahdus lauta.
+HY-AH-en-fi.5567	Right feature not found	Aina sanon, että sinun täytyy rakentaa ponnahduslaudan.	Aina pyydän jos sinun täytyy rakentaa ponnahduslaudan.
+
+that_if	116	No federal law says that employers must let moms pump at work.	No federal law asks if employers must let moms pump at work.
+NICT.5658	Correct	Mikään liittovaltion laki ei sano, että työnantajien on annettava mittaa pumpata töissä.	Mikään liittovaltion laki ei kysy, onko työnantajien annettava mönkijöiden pumpata töissä.
+HY-NMT-en-fi.5570	Correct	Mikään liittovaltion laki ei sano, että työnantajien on annettava mittojen pumpata töihin.	Mikään liittovaltion laki ei kysy, pitäisikö työnantajien antaa mittojen pumpata töihin.
+uedin.5707	Correct	Mikään liittovaltion laki ei sano, että työnantajien pitää päästää lämpöpumppu töihin.	Mikään liittovaltion laki ei kysy, pitääkö työnantajien päästää lämpöpumppu töihin.
+Aalto.5550	Correct	Mikään liittovaltion laki sanoo, että työnantajien pitää päästää Moms pumppaamaan töitä.	Mikään liittovaltion laki ei kysy, onko Moms päästänyt työnantajan pumppaamaan töitä.
+HY-NMTtwostep-en-fi.5639	Correct	Mikään liittovaltion laki ei sano, että työnantajan pitää antaa momenttien pumpata töihin.	Mikään liittovaltion laki ei kysy, pitääkö työnantajan antaa momenttien pumpata töihin.
+CUNI-Kocmi.5620	Correct	Missään liittovaltion lainsäädännössä ei sanota, että työnantajien on annettava momenttipumppujen toimia.	Mikään liittovaltion laki ei kysy, onko työnantajien annettava äitiyspumppujen toimia.
+talp-upc.5424	Correct	Mikään liittovaltion laki ei sano, että työnantajien on annettava äitien pumppu töihin.	Missään liittovaltion lainsäädännössä ei kysytä, pitääkö työnantajien antaa äitien pumppu töihin.
+online-B.0	Right feature not found	Mikään liittovaltion laki sanoo, että työnantajien on annettava äidit pumppaamaan työssä.	Mikään liittovaltion laki ei kysy jos työnantajien on annettava äidit pumppaamaan työssä.
+HY-SMT-en-fi.5436	Right feature not found	Liittovaltion laki sanoo, että työnantaja ei saa päästää Moms - pumppu.	Liitto kysyy, ei työnantaja saa päästää Moms - pumppu.
+online-G.0	Right feature not found	Ei liittovaltion laki sanoo, että työnantajan täytyy antaa äidit pumppu työssä.	Ei liittovaltion lakia kysyy, työnantajien täytyy antaa äidit pumppu työssä.
+online-A.0	Right feature not found	Ei liitto valtion laki sanoo, että työnantajien on annettava Moms pumppu töissä.	O liitto valtion laki kysyy työnantajien on annettava Moms pumppu töissä.
+HY-AH-en-fi.5567	Right feature not found	Mitään liittolaki sano+, että työnantajien täytyy antaa äitejä pumpata työssä.	Mitään liittolaki pyydä jos työnantajien täytyy antaa äitejä pumpata työssä.
+
+that_if	117	It said that Russell Reynolds Associates is searching for a replacement.	It asked if Russell Reynolds Associates is searching for a replacement.
+NICT.5658	Correct	Sen mukaan Russell Reynolds Associates etsii korvaajaa.	Se kysyi, hakeeko Russell Reynolds Associates korvaajaa.
+HY-NMT-en-fi.5570	Correct	Sen mukaan Russell Reynolds Associates etsii korvaajaa.	Se kysyi, onko Russell Reynolds Associates etsii korvaajaa.
+uedin.5707	Correct	Sen mukaan Russell Reynolds Associates etsii korvaajaa.	Se kysyi, onko Russell Reynolds Associates etsii korvaajaa.
+Aalto.5550	Right feature not found	Sen mukaan Russell Reynolds Associates etsii korvaavaa.	Se kysyi, jos Russell Reynolds Associates etsii korvaavaa.
+HY-NMTtwostep-en-fi.5639	Correct	Sen mukaan Russell Reynolds Associates etsii korvaajaa.	Se kysyi, onko Russell Reynolds Associates etsimässä korvaajaa.
+CUNI-Kocmi.5620	Right feature not found	Se sanoi, että Russell Reynolds Associates hakee korvaavaa.	Se kysyi, jos Russell Reynolds Associates etsii korvaavan.
+talp-upc.5424	Right feature not found	Se sanoi, että Russell Reynolds Associates etsii korvaavaa.	Se kysyi, jos Russell Reynolds Associates etsii korvaavaa.
+online-B.0	Correct	Se sanoi, että Russell Reynolds Associates etsii korvaavaa.	Se kysyi, onko Russell Reynolds Associates etsii korvaavaa.
+HY-SMT-en-fi.5436	Right feature not found	Se sanoi, että Russell Reynolds Associates etsii korvaavaa tuotetta.	Se kysyi, Russell Reynolds Associates etsii korvaavaa tuotetta.
+online-G.0	Right feature not found	Se sanoi, että Russell Reynolds Associates on etsivät korvaavan.	Se kysyi, Russell Reynolds Associates on etsivät korvaavan.
+online-A.0	Right feature not found	Se sanoi, että Russell Reynolds Associates hakee tilalle.	Se kysyi Russell Reynolds Associates hakee tilalle.
+HY-AH-en-fi.5567	Right feature not found	Se sanoi, että, että Russell Reynolds Associatesit etsivät korvausta.	Se pyyti jos Russell Reynolds Associatesit etsivät korvausta.
+
+that_if	118	As we pass my hotel Mom says that I am staying there.	As we pass my hotel Mom asks if I am staying there.
+NICT.5658	Correct	Kun kuljemme hotelli Mom sanoo, että jään sinne.	Kun kuljemme hotelli Mom kysyy, olenko yöpyä siellä.
+HY-NMT-en-fi.5570	Correct	Hotellini Momin mukaan oleskelen siellä.	Kun siirrämme hotellini Mom kysyy, olenko siellä.
+uedin.5707	Right feature not found	Kun ohitamme hotellini Mom sanoo, että jään sinne.	Kun välitämme hotelli Mom kysyy, jos olen siellä.
+Aalto.5550	Right feature not found	Kulkiessamme hotellini Mom sanoo, että olen siellä.	Kun siirrän hotellini Mom kysyy, olen siellä.
+HY-NMTtwostep-en-fi.5639	Correct	Meidän läpäisevässä hotellissani Mom sanoo, että jään sinne.	Meidän läpäisevässä hotellissa Mom kysyy, olenko jäänyt sinne.
+CUNI-Kocmi.5620	Right feature not found	Kun kuljemme hotelli äitini sanoo, että olen siellä.	Kun kuljemme hotelli Äiti kysyy, jos olen oleskelevat siellä.
+talp-upc.5424	Right feature not found	Kun kuljemme hotelli Mom sanoo, että olen siellä.	Kun kuljemme hotelli Mom kysyy, jos olen siellä.
+online-B.0	Correct	Kun lähdemme hotellin, äiti sanoo, että asun siellä.	Kuljettaessa hotelliin äiti haluaa kysyä, pysytkö siellä.
+HY-SMT-en-fi.5436	Right feature not found	Kuten me hotellini Mom sanoo, että olen siellä pysyminen.	Kuten me hotellini Mom kysyy jos olen siellä pysyminen.
+online-G.0	Right feature not found	Kuten me kulkea minun hotel Äiti sanoo, että olen siellä.	Kuten me kulkea minun hotel Äiti kysyy, olen siellä.
+online-A.0	Right feature not found	Kuten välitän hotelli äiti sanoo, että olen oleskelevat siellä.	Kuten välitän hotelli äiti kysyy jos olen oleskelevat siellä.
+HY-AH-en-fi.5567	Right feature not found	Kun me ohitamme hotellini, jonka Äiti sanoo, että minä pysyn siinä.	Kun me ohitamme hotellini, jota Äiti pyytää jos minä pysyn siinä.
+
+that_if	119	You might say that May has become a Rorschach of German identity.	You might ask if May has become a Rorschach of German identity.
+NICT.5658	Correct	Voisi sanoa, että toukokuusta on tullut saksalaisen identiteetin Rorschach.	Voisi kysyä, onko toukokuusta tullut saksalaisen identiteetin Rorschach.
+HY-NMT-en-fi.5570	Correct	Voisi sanoa, että toukokuusta on tullut saksalaisen identiteetin Rorschach.	Voi kysyä, onko toukokuusta tullut Saksan identiteetin Rorschach.
+uedin.5707	Correct	Voisi sanoa, että toukokuusta on tullut saksalaisen identiteetin Rorschach.	Voisi kysyä, onko toukokuusta tullut saksalaisen identiteetin Rorschach.
+Aalto.5550	Correct	Voidaan sanoa, että toukokuusta on tullut saksalainen identiteetti.	Voidaan kysyä, onko toukokuusta tullut Saksan identiteetin Rattschach.
+HY-NMTtwostep-en-fi.5639	Correct	Voisi sanoa, että toukokuusta on tullut saksalaisen identiteetin Rorschach.	Voisi kysyä, onko toukokuusta tullut saksalaisen identiteetin Rorschach.
+CUNI-Kocmi.5620	Correct	Voidaan sanoa, että toukokuusta on tullut saksalaisen identiteetin Rorschach.	Voidaan kysyä, onko toukokuusta tullut saksalaisen identiteetin Rorschach.
+talp-upc.5424	Correct	Voisi sanoa, että toukokuusta on tullut saksalaisen identiteetin Rorschach.	Saatatte kysyä, onko toukokuusta tullut saksalaisen identiteetin Rorschach.
+online-B.0	Correct	Saatat sanoa, että toukokuusta on tullut Saksan identiteetin Rorschach.	Saatat kysyä, onko toukokuusta tullut saksalaisen identiteetin Rorschach.
+HY-SMT-en-fi.5436	Right feature not found	Voidaan sanoa, että toukokuu on tullut Rorschachista saksalaista identiteettiä.	Voitte kysyä vaikka toukokuu on tullut Rorschachista saksalaista identiteettiä.
+online-G.0	Right feature not found	Voisi sanoa, että Ehkä on tullut Rorschach saksalaisen identiteetin.	Saatat kysyä, jos Voi on tullut Rorschach saksalaisen identiteetin.
+online-A.0	Right feature not found	Saatat sanoa, että voi on tullut Rorschach Saksan identiteetin.	Saatat kysyä, jos voi on tullut Rorschach Saksan identiteetin.
+HY-AH-en-fi.5567	Right feature not found	Saattaa sanoa, että Mayista on tullut Rorschach saksalaisen identiteetin.	Saattaa pyytää jos Mayista on tullut Rorschach saksalaisen identiteetin.
+
+that_if	12	Williams said that selflessness has allowed the line to grow closer.	Williams asked if selflessness has allowed the line to grow closer.
+NICT.5658	Correct	Williams sanoi, että epäitsekkyys on antanut linjan kasvaa lähemmäksi.	Williams kysyi, onko epäitsekkyys antanut linjan kasvaa lähemmäksi.
+HY-NMT-en-fi.5570	Correct	Williams sanoi, että epäitsekkyys on mahdollistanut linjan tiivistymisen.	Williams kysyi, onko epäitsekkyys mahdollistanut radan tiivistymisen.
+uedin.5707	Correct	Williamsin mukaan selfie on antanut radan kasvaa lähemmäs.	Williams kysyi, onko selfie antanut radan kasvaa lähemmäs.
+Aalto.5550	Correct	Williams sanoi, että itsettömyys on antanut linjan kasvaa lähemmäs.	Williams kysyi, onko itsettömyys sallinut linjan kasvaa lähemmäs.
+HY-NMTtwostep-en-fi.5639	Correct	Williams sanoi, että epäitsekkyys on mahdollistanut linjan kasvamisen lähemmäs.	Williams kysyi, onko epäitsekkyys mahdollistanut linjan kasvamisen lähemmäs.
+CUNI-Kocmi.5620	Correct	Williams sanoi, että epäitsekkyys on antanut linjan kasvaa lähemmäksi.	Williams kysyi, onko epäitsekkyys on antanut linjan kasvaa lähemmäksi.
+talp-upc.5424	Correct	Williams sanoi, että epäitsekkyys on antanut viivan kasvaa lähemmäksi.	Williams kysyi, onko epäitsekkyys antanut linjan kasvaa lähemmäksi.
+online-B.0	Correct	Williams sanoi, että epäitsekkyys on antanut linjan kasvaa lähemmäksi.	Williams kysyi, onko epäitsekkyys sallinut linjan kasvavan lähempänä.
+HY-SMT-en-fi.5436	Right feature not found	Williams kertoi, että epäitsekkyys on sallittua radan lähemmäksi.	Williams kysyi, epäitsekkyys on sallittua radan lähemmäksi.
+online-G.0	Right feature not found	Williams sanoi, että epäitsekkyys on sallittu line kasvaa lähemmäksi.	Williams kysyi jos epäitsekkyys on sallittu line kasvaa lähemmäksi.
+online-A.0	Right feature not found	Williams sanoi, että epäitsekkyyttä on mahdollistanut linja kasvaa lähemmäksi.	Williams kysyi, jos epäitsekkyyttä on mahdollistanut linja kasvaa lähemmäksi.
+HY-AH-en-fi.5567	Right feature not found	Williams sanoi, että epäitsekkyys on sallinut rivin kasvaa lähellä.	Williams pyyti jos epäitsekkyys on sallinut rivin kasvaa lähellä.
+
+that_if	120	She said that she was honored to get the endorsement.	She asked if she was honored to get the endorsement.
+NICT.5658	Correct	Hän sanoi, että hänellä oli kunnia saada hyväksyntä.	Hän kysyi, oliko hänelle kunnia saada hyväksyntä.
+HY-NMT-en-fi.5570	Correct	Hän sanoi, että häntä kunnioitettiin saadakseen hyväksynnän.	Hän kysyi, onko häntä kunnioitettu saadakseen hyväksynnän.
+uedin.5707	Correct	Hän sanoi, että hänellä oli kunnia saada hyväksyntä.	Hän kysyi, onko hän honored saada hyväksynnän.
+Aalto.5550	Correct	Hän sanoi, että hänelle oli kunnia saada hyväksyntä.	Hän kysyi, onko hänelle kunnia saada hyväksyntä.
+HY-NMTtwostep-en-fi.5639	Correct	Hän sanoi, että hän oli kunnia saada hyväksyntä.	Hän kysyi, oliko hän kunnia saada hyväksyntä.
+CUNI-Kocmi.5620	Correct	Hän sanoi, että hän oli kunnia saada hyväksynnän.	Hän kysyi, onko hän oli kunnia saada hyväksynnän.
+talp-upc.5424	Correct	Hän sanoi, että hänellä oli kunnia saada kannatus.	Hän kysyi, onko hän oli kunnia saada tukea.
+online-B.0	Correct	Hän sanoi, että hänellä oli kunnia saada hyväksyntä.	Hän kysyi, saivatko hänet kunnia saada hyväksyntä.
+HY-SMT-en-fi.5436	Right feature not found	Hän kertoi, että hän oli honored saada hyväksyntä.	Hän kysyi, hän oli honored saada hyväksyntä.
+online-G.0	Right feature not found	Hän sanoi, että hän oli kunnia saada hyväksyntää.	Hän kysyi jos hän oli kunnia saada hyväksyntää.
+online-A.0	Right feature not found	Hän sanoi, että hän oli kunnia saada hyväksyntää.	Hän kysyi, jos hän oli kunnia saada hyväksyntää.
+HY-AH-en-fi.5567	Right feature not found	Hän sanoi, että hänen kunnioitettiin saavan hyväksymisen.	Hän pyyti jos hänen kunnioitettiin saavan hyväksymisen.
+
+that_if	122	She said that it would not happen in California.	She asked if it would not happen in California.
+NICT.5658	Correct	Hän sanoi, ettei se tapahtuisi Kaliforniassa.	Hän kysyi, eikö se tapahtuisi Kaliforniassa.
+HY-NMT-en-fi.5570	Correct	Hän sanoi, ettei niin kävisi Kaliforniassa.	Hän kysyi, eikö niin kävisi Kaliforniassa.
+uedin.5707	Correct	Hän sanoi, ettei kävisi Kaliforniassa.	Hän kysyi, eikö se tapahtuisi Kaliforniassa.
+Aalto.5550	Correct	Hän sanoi, että ei käy Kaliforniassa.	Hän kysyi, eikö niin kävisi Kaliforniassa.
+HY-NMTtwostep-en-fi.5639	Correct	Hän sanoi, ettei se tapahtuisi Kaliforniassa.	Hän kysyi, eikö se tapahtuisi Kaliforniassa.
+CUNI-Kocmi.5620	Right feature not found	Hän sanoi, että se ei tapahtuisi Kaliforniassa.	Hän kysyi, jos se ei tapahtuisi Kaliforniassa.
+talp-upc.5424	Correct	Hän sanoi, että se ei tapahtuisi Kaliforniassa.	Hän kysyi, eikö se tapahtuisi Kaliforniassa.
+online-B.0	Right feature not found	Hän sanoi, ettei se tapahtuisi Kaliforniassa.	Hän kysyi, ei se tapahtuisi Kaliforniassa.
+HY-SMT-en-fi.5436	Correct	Hän sanoi, että se ei kävisi Kaliforniassa.	Hän kysyi, eikö käynyt Kaliforniassa.
+online-G.0	Right feature not found	Hän sanoi, että se ei tapahtuisi Kaliforniassa.	Hän kysyi, jos se ei tapahtuisi Kaliforniassa.
+online-A.0	Right feature not found	Hän sanoi, että se ei tapahdu Kaliforniassa.	Hän kysyi, jos se ei tapahdu Kaliforniassa.
+HY-AH-en-fi.5567	Right feature not found	Hän sanoi, että se ei tapahtuisi Kaliforniassa.	Hän pyyti jos se ei tapahtuisi Kaliforniassa.
+
+that_if	123	She said that she would not meet General Musharraf.	She asked if she would not meet General Musharraf.
+NICT.5658	Correct	Hän sanoi, ettei hän tapaa kenraali Musharrafia.	Hän kysyi, eikö hän tapaisi kenraali Musharrafia.
+HY-NMT-en-fi.5570	Correct	Hän sanoi, ettei tapaisi kenraali Musharrafia.	Hän kysyi, eikö hän tapaisi kenraali Musharrafia.
+uedin.5707	Correct	Hän sanoi, ettei hän tapaa kenraali Musharrafia.	Hän kysyi, eikö hän tapaa kenraali Musharrafia.
+Aalto.5550	Correct	Hän sanoi, ettei hän tapaa kenraali Musharrafia.	Hän kysyi, eikö hän tapaisi kenraali Musharrafia.
+HY-NMTtwostep-en-fi.5639	Correct	Hän sanoi, ettei hän tapaa kenraali Musharrafia.	Hän kysyi, eikö hän tapaisi kenraali Musharrafia.
+CUNI-Kocmi.5620	Correct	Hän sanoi, ettei tapaa kenraali Musharrafia.	Hän kysyi, voisiko hän tavata kenraali Musharrafia.
+talp-upc.5424	Correct	Hän sanoi, että hän ei tapaa kenraali Musharrafia.	Hän kysyi, eikö hän tapaa kenraali Musharrafia.
+online-B.0	Right feature not found	Hän sanoi, että hän ei tavannut General Musharrafia.	Hän kysyi, jos hän ei tavannut General Musharrafia.
+HY-SMT-en-fi.5436	Right feature not found	Hän sanoi, että hän ei täytä Musharraf.	Hän kysyi, jos hän ei täytä Musharraf.
+online-G.0	Right feature not found	Hän sanoi, että hän ei täytä Kenraali Musharraf.	Hän kysyi, jos hän ei täytä Kenraali Musharraf.
+online-A.0	Right feature not found	Hän sanoi, että hän ei täytä kenraali Musharrafin.	Hän kysyi, hän ei täytä kenraali Musharrafin.
+HY-AH-en-fi.5567	Right feature not found	Hän sanoi, että hän ei kohdaisi Generalia Musharrafia.	Hän pyyti jos hän ei kohdaisi Generalia Musharrafia.
+
+that_if	124	She said that many herbal medicines have quietly been outlawed as well.	She asked if many herbal medicines have quietly been outlawed as well.
+NICT.5658	Correct	Hän sanoi, että myös monet kasvirohdosvalmisteet on kaikessa hiljaisuudessa kielletty.	Hän kysyi, onko myös monet kasvirohdosvalmisteet kaikessa hiljaisuudessa kielletty.
+HY-NMT-en-fi.5570	Correct	Hänen mukaansa myös monet kasvirohdosvalmisteet on kaikessa hiljaisuudessa kielletty.	Hän kysyi, onko monia kasvirohdosvalmisteita kielletty myös kaikessa hiljaisuudessa.
+uedin.5707	Correct	Hän sanoi, että myös monet kasvilääkkeet on kaikessa hiljaisuudessa kielletty.	Hän kysyi, onko monia kasviperäisiä lääkkeitä myös kaikessa hiljaisuudessa kielletty.
+Aalto.5550	Correct	Hän sanoi, että myös monet kasvirohdosvalmisteet on hiljaa kielletty.	Hän kysyi, onko monet kasvirohdosvalmisteet hiljaa myös kielletty.
+HY-NMTtwostep-en-fi.5639	Correct	Hänen mukaansa monia kasviperäisiä lääkkeitä on kaikessa hiljaisuudessa myös hävitetty.	Hän kysyi, onko monia kasviperäisiä lääkkeitä kaikessa rauhassa kielletty.
+CUNI-Kocmi.5620	Correct	Hän totesi, että monet kasvirohdosvalmisteet on myös hiljaa julistettu laittomiksi.	Hän kysyi, onko myös monet kasvirohdosvalmisteet poistettu käytöstä hiljaa.
+talp-upc.5424	Correct	Hän sanoi, että myös monet kasvirohdosvalmisteet on hiljaa kielletty.	Hän kysyi, onko myös monet kasvirohdosvalmisteet hiljaa kielletty.
+online-B.0	Correct	Hän sanoi, että monet kasviperäiset lääkkeet ovat hiljaa kiellettyjä.	Hän kysyi, ovatko monet kasviperäiset lääkkeet hiljaa kiellettyjä.
+HY-SMT-en-fi.5436	Right feature not found	Hän sanoi, että monet kasvilääkkeitä ovat kaikessa hiljaisuudessa poistettu.	Hän kysyi, paljon yrttilääkkeitä ovat kaikessa hiljaisuudessa poistettu.
+online-G.0	Right feature not found	Hän sanoi, että monet kasviperäisten lääkkeiden on hiljaa kielletty.	Hän kysyi, monet kasviperäisten lääkkeiden on hiljaa kielletty.
+online-A.0	Right feature not found	Hän sanoi, että monet kasviperäisten lääkkeiden on hiljaa ollut laitonta myös.	Hän kysyi, jos monet kasviperäisten lääkkeiden on hiljaa ollut laitonta myös.
+HY-AH-en-fi.5567	Right feature not found	Hän sanoi, että monet kasvilääkeet ovat hiljaa julistettu laittomaksi samoin.	Hän pyyti jos monet kasvilääkeet ovat hiljaa julistettu laittomaksi samoin.
+
+that_if	125	He said that identical material posted to his Sina blog was not blocked.	He asked if identical material posted to his Sina blog was not blocked.
+NICT.5658	Correct	Hän sanoi, että Sina-blogiinsa lähetetty identtinen materiaali ei ollut tukossa.	Hän kysyi, eikö Sina-blogiinsa lähetettyä identtistä materiaalia estetty.
+HY-NMT-en-fi.5570	Correct	Hän sanoi, että hänen Sina-blogiinsa lähetettyä aineistoa ei estetty.	Hän kysyi, eikö hänen Sina-blogiinsa lähetettyä identtistä materiaalia estetä.
+uedin.5707	Correct	Hänen mukaansa Sinan blogiin lähetettyä identtistä materiaalia ei estetty.	Hän kysyi, onko identtinen materiaali lähetetty hänen Sina blogi ei ole estetty.
+Aalto.5550	Correct	Hänen mukaansa samanlaista materiaalia lähettänyt Sina ei ollut blogiinsa jumissa.	Hän kysyi, onko samanlaista materiaalia lähetetty hänen Sina blogi ei ollut tukossa.
+HY-NMTtwostep-en-fi.5639	Correct	Hänen mukaansa samanlaista materiaalia, jota hänen Sina-blogiinsa lähetettiin, ei estetty.	Hän kysyi, onko samaa materiaalia lähetetty hänen Sina blogi ei ollut estetty.
+CUNI-Kocmi.5620	Correct	Hän sanoi, että sama materiaali lähetetään hänen Sina blog ei ole estetty.	Hän kysyi, onko sama materiaali lähetetään hänen Sina blog ei ole estetty.
+talp-upc.5424	Correct	Hän sanoi, että sama aineisto, joka oli lähetetty Siinain blogiin, ei ollut estetty.	Hän kysyi, onko sama materiaali lähetetty hänen Sina blogi ei ollut estetty.
+online-B.0	Correct	Hän sanoi, että hänen Sina-blogistaan lähetetty samanlainen materiaali ei ole estetty.	Hän kysyi, onko Sina-blogille lähetetty samanlainen aineisto estetty.
+HY-SMT-en-fi.5436	Right feature not found	Hän sanoi, että sama materiaali on lähetetty hänen blogi Sina ei ollut jumissa.	Hän kysyi, jos sama materiaali on lähetetty hänen blogi Sina ei ollut jumissa.
+online-G.0	Right feature not found	Hän sanoi, että sama materiaali on lähetetty hänen Sina blogi ei ole tukossa.	Hän kysyi, jos samanlaista materiaalia on lähetetty hänen Sina blogi ei ole tukossa.
+online-A.0	Right feature not found	Hän sanoi, että sama materiaali lähetetty hänen Sina blogi ei ole estetty.	Hän kysyi identtinen materiaali lähetetty hänen Sina blogi ei ole estetty.
+HY-AH-en-fi.5567	Right feature not found	Hän sanoi, että identtinen materiaali lähetti hänelle Sinan blogiin ei estetty.	Hän pyyti jos identtinen materiaali lähetti hänelle Sinan blogiin ei estetty.
+
+that_if	126	Cheh said that Alexander and Bowser need to do more research.	Cheh asked if Alexander and Bowser need to do more research.
+NICT.5658	Correct	Cheh sanoi, että Alexander ja Bowser täytyy tehdä enemmän tutkimusta.	Cheh kysyi, pitääkö Alexander ja Bowser tehdä enemmän tutkimusta.
+HY-NMT-en-fi.5570	Correct	Cheh sanoi, että Alexander ja Bowser tarvitsevat lisää tutkimusta.	Cheh kysyi, tarvitseeko Alexander ja Bowser tehdä enemmän tutkimusta.
+uedin.5707	Correct	Cheh sanoi, että Alexander ja bowser täytyy tehdä enemmän tutkimusta.	Cheh kysyi, onko Alexander ja bowser täytyy tehdä enemmän tutkimusta.
+Aalto.5550	Right feature not found	Sanoi, että Alexander ja Bowser tarvitsevat enemmän tutkimusta.	Kysyi, jos Alexander ja Bowser tarvitsevat lisää tutkimusta.
+HY-NMTtwostep-en-fi.5639	Correct	Cheh sanoi, että Alexanderin ja Bowserin on tehtävä lisää tutkimuksia.	Cheh kysyi, onko Alexanderin ja Bowserin tarvetta tehdä lisää tutkimuksia.
+CUNI-Kocmi.5620	Right feature not found	Cheh sanoi, että Alexander ja Bowser täytyy tehdä enemmän tutkimusta.	Cheh kysyi, jos Alexander ja Bowser täytyy tehdä enemmän tutkimusta.
+talp-upc.5424	Right feature not found	Cheh sanoi, että Alexander ja bowser on tehtävä enemmän tutkimusta.	Cheh kysyi, jos Alexander ja bowser täytyy tehdä enemmän tutkimusta.
+online-B.0	Correct	Cheh sanoi, että Alexander ja Bowser tarvitsevat enemmän tutkimusta.	Cheh kysyi, onko Alexander ja Bowser tarvitsevat enemmän tutkimusta.
+HY-SMT-en-fi.5436	Right feature not found	Cheh Alexander ja Bowser sanoi, että tarvitaan vielä lisää tutkimusta.	Cheh Alexander kysyi ja Bowser on tehtävä enemmän tutkimusta.
+online-G.0	Right feature not found	Cheh sanoi, että Alexander ja Bowser täytyy tehdä enemmän tutkimusta.	Cheh kysyi Alexander ja Bowser täytyy tehdä enemmän tutkimusta.
+online-A.0	Right feature not found	Cheh sanoi, että Alexander ja Bowser on tehtävä enemmän tutkimusta.	Cheh kysyi Alexander ja Bowser tarvitse tehdä enemmän tutkimusta.
+HY-AH-en-fi.5567	Right feature not found	Cheh sanoi, että Alexanderin ja Bowserin tarvitsee tehdä lisätutkimuksen.	Cheh pyyti jos Alexanderin ja Bowserin tarvitsee tehdä lisätutkimuksen.
+

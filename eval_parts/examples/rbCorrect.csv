@@ -1,0 +1,548 @@
+sing_plur	10351	The Vandal lost to No. 14 Gonzaga 80-43 on Tuesday.	The Vandals lost to No. 14 Gonzaga 80-43 on Tuesday.
+HY-AH	Correct	Vandaali hävisi No 14 Gonzagaan 80-43 tiistaina.	Vandaalit hävisivät No 14 Gonzagaan 80-43 tiistaina.
+NICT	Both features not found	Vandal hävisi tiistaina No. 14 Gonzagalle 80-43.	Vandals hävisi tiistaina No. 14 Gonzagalle 80-43.
+
+sing_plur	10541	His lung problems were linked to breathing the vapor.	His lung problems were linked to breathing the vapors.
+HY-AH	Correct	Hänen keuhko ongelmat linkitettiin hengittää höyry.	Hänen keuhko ongelmat linkitettiin hengittää höyryjä.
+NICT	Right feature not found	Hänen keuhkosairautensa liittyivät vapun hengittämiseen.	Hänen keuhkosairautensa liittyivät vaporien hengittämiseen.
+
+sing_plur	11318	Boston is second in the major with 13 shutouts.	Boston is second in the majors with 13 shutouts.
+HY-AH	Correct	Boston on toinen suuressa 13 nollapelissä kanssa.	Boston on toinen majureilla 13 nollapelin kanssa.
+NICT	Identical	Boston on suurpujottelussa toisena 13 osumallaan.	Boston on suurpujottelussa toisena 13 osumallaan.
+
+sing_plur	11459	The UAW chose GM as the lead company in the negotiation last week.	The UAW chose GM as the lead company in the negotiations last week.
+HY-AH	Correct	UAW valitsi MUUNTOGEENIN johdon yrityksenä neuvottelussa viime viikolla.	UAW valitsi MUUNTOGEENIN johdon yrityksenä neuvotteluissa viime viikolla.
+NICT	Identical	UAW valitsi GM: N kärkiyhtiöksi neuvotteluissa viime viikolla.	UAW valitsi GM: N kärkiyhtiöksi neuvotteluissa viime viikolla.
+
+sing_plur	11515	That was when the Net grabbed control again.	That was when the Nets grabbed control again.
+HY-AH	Correct	Tuo oli kun Verkko kaapattu valvonta taas.	Tuo oli kun Verkot kaapattu valvonta taas.
+NICT	Right feature not found	Silloin verkko tarttui taas hallintaan.	Silloin Nets tarttui taas hallintaan.
+
+sing_plur	11729	Digital Realty Trust will be responsible for the day-to-day operation of the property.	Digital Realty Trust will be responsible for the day-to-day operations of the property.
+HY-AH	Correct	Digitaalinen Realty Trust on vastuussa päivittäisestä kiinteistön operaatiosta.	Digitaalinen Realty Trust on vastuussa päivittäisistä kiinteistön operaatioista.
+NICT	Identical	Digital Realty Trust vastaa kiinteistön päivittäisestä toiminnasta.	Digital Realty Trust vastaa kiinteistön päivittäisestä toiminnasta.
+
+sing_plur	1175	The Red had trailed to a Gary Browne penalty scored in the 39th-minute.	The Reds had trailed to a Gary Browne penalty scored in the 39th-minute.
+HY-AH	Correct	Red oli laahannut Gary Brownen rangaistukseen tehnyt maali 39th-minute.	Redit olivat laahanneet Gary Brownen rangaistukseen tehneet maali 39th-minute.
+NICT	Right feature not found	Punainen oli matkannut Gary Brownen rangaistukseen, joka tehtiin 39. minuutilla.	Reds oli matkannut Gary Brownen rangaistukseen, joka tehtiin 39. minuutilla.
+
+sing_plur	11770	By answering first, he took on the headwind.	By answering first, he took on the headwinds.
+HY-AH	Correct	Vastaamalla ensiksi, hän otti päällä vastatuulen.	Vastaamalla ensiksi, hän otti päällä vastatuulet.
+NICT	Identical	Vastaamalla ensin hän otti vastatuuleen.	Vastaamalla ensin hän otti vastatuuleen.
+
+sing_plur	12177	You cannot realistically penalise people if they do not know the consequence.	You cannot realistically penalise people if they do not know the consequences.
+HY-AH	Correct	Ei voi realistisesti rangaista ihmisiä jos ne eivät tiedä seurausta.	Ei voi realistisesti rangaista ihmisiä jos ne eivät tiedä seurauksia.
+NICT	Right feature not found	Ihmisiä ei voi realistisesti rangaista, jos he eivät tiedä sen seurauksia.	Ihmisiä ei voi realistisesti rangaista, jos he eivät tiedä seurauksia.
+
+sing_plur	12245	That is now supported by the Iraqi.	That is now supported by the Iraqis.
+HY-AH	Correct	Tuo on nyt tuki irakilainen.	Tuo on nyt tuki irakilaiset.
+NICT	Identical	Irakilaiset tukevat nyt tätä.	Irakilaiset tukevat nyt tätä.
+
+pron_sing_plur	1122	By the looks of things, tomorrow is upon me already.	By the looks of things, tomorrow is upon us already.
+HY-AH	Correct	Katseiden kanssa asioiden, huomenna on minulla jo.	Katseiden kanssa asioiden, huomenna on meillä jo.
+NICT	Right feature not found	Näyttää siltä, että huominen on jo päälläni.	Näyttää siltä, että huominen on jo edessä.
+
+pron_sing_plur	1138	Zarabozo had blow gun darts and knives on him when authorities found them.	Zarabozo had blow gun darts and knives on them when authorities found them.
+HY-AH	Correct	Zarabozolla oli puhallusase nuoli ja veitset hänellä kun viranomaiset löytivät niiden.	Zarabozolla oli puhallusase nuoli ja veitset heillä kun viranomaiset löytivät niiden.
+NICT	Identical	Zarabozolla oli yllään iskuasetikkaa ja veitsiä, kun viranomaiset löysivät ne.	Zarabozolla oli yllään iskuasetikkaa ja veitsiä, kun viranomaiset löysivät ne.
+
+pron_sing_plur	1162	Ebling noticed the cars in front of him were shaking.	Ebling noticed the cars in front of them were shaking.
+HY-AH	Correct	Ebling havaitsi autot hänen edessä vapisi.	Ebling havaitsi autot niiden edessä vapisi.
+NICT	Right feature not found	Ebling huomasi, että hänen edessään olevat autot ravistelivat.	Ebling huomasi, että edessä olevat autot ravistelivat.
+
+pron_sing_plur	120	There has been little resembling failure for him there.	There has been little resembling failure for them there.
+HY-AH	Correct	On ollut pientä muistuttavaa epäonnistumista hänelle siinä.	On ollut pientä muistuttavaa epäonnistumista niille siinä.
+NICT	Identical	Siellä ei ole juurikaan muistuttanut epäonnistumista.	Siellä ei ole juurikaan muistuttanut epäonnistumista.
+
+pron_sing_plur	1871	Which brings me to Mr. Giuliani.	Which brings us to Mr. Giuliani.
+HY-AH	Correct	Joka tuo minua Herran Giulianiin.	Joka tuo meitä Herran Giulianiin.
+NICT	Identical	Tästä pääsenkin Giulianiin.	Tästä pääsenkin Giulianiin.
+
+pron_sing_plur	2169	Tell me your thoughts now and then check the Web chat transcript later.	Tell us your thoughts now and then check the Web chat transcript later.
+HY-AH	Correct	Kerro minulle sinun ajatuksillesi tarkasta solloin tällöin Verkko jutustelu transskription myöhemmin.	Kerro meille sinun ajatuksesi tarkasta solloin tällöin Verkko jutustelu transskription myöhemmin.
+NICT	Left feature not found	Kerro ajatuksesi nyt ja tarkista sitten Web-chat-kirjoitus myöhemmin.	Kerro meille ajatuksesi nyt ja tarkista sen jälkeen Web-chat-kirjoitus myöhemmin.
+
+pron_sing_plur	2271	This brings me to Al Gore.	This brings us to Al Gore.
+HY-AH	Correct	Tämä tuo minua Al Goreen.	Tämä tuo meitä Al Goreen.
+NICT	Right feature not found	Tästä pääsenkin Al Goreen.	Tästä pääsemmekin Al Goreen.
+
+pron_sing_plur	2307	Tell me about your humiliations, the painful things, the bad day.	Tell us about your humiliations, the painful things, the bad day.
+HY-AH	Correct	Kerro minulle sinun nöyryytyksistäsi, tuskallisista asioistasi, huonosta päivästäsi.	Kerro meille sinun nöyryytyksistäsi, tuskallisista asioistasi, huonosta päivästäsi.
+NICT	Left feature not found	Kerro nöyryytyksistäsi, kipeistä asioista, huonosta päivästä.	Kerro meille nöyryytyksistäsi, kipeistä asioista, huonosta päivästä.
+
+pron_sing_plur	2507	Austrian newspapers wondered Friday if Benedict XVI would bring clement weather with him.	Austrian newspapers wondered Friday if Benedict XVI would bring clement weather with them.
+HY-AH	Correct	Itävaltalaiset sanomalehdet ihmettelivät perjantaia jos Benedict XVI toisi lempeää säätä hänen kanssa.	Itävaltalaiset sanomalehdet ihmettelivät perjantaia jos Benedict XVI toisi lempeää säätä niiden kanssa.
+NICT	Identical	Itävaltalaislehdet ihmettelivät perjantaina, tuoko Benedictus XVI mukanaan hyytävää säätä.	Itävaltalaislehdet ihmettelivät perjantaina, tuoko Benedictus XVI mukanaan hyytävää säätä.
+
+pron_sing_plur	2739	Which brings me to Ellen Pompeo.	Which brings us to Ellen Pompeo.
+HY-AH	Correct	Joka tuo minua Ellen Pompeoon.	Joka tuo meitä Ellen Pompeoon.
+NICT	Identical	Tästä pääsenkin Ellen Pompeon.	Tästä pääsenkin Ellen Pompeon.
+
+pres_past	13735	The company also forecasts cost savings of about $2.5 billion.	The company also forecast cost savings of about $2.5 billion.
+HY-AH	Correct	Yritys ennustaa myös kustannussäästöä suunnilleen $2.5 biljoonaa.	Yritys ennusti myös kustannussäästöä suunnilleen $2.5 biljoonaa.
+NICT	Identical	Yhtiö ennustaa myös noin 2,5 miljardin dollarin kustannussäästöjä.	Yhtiö ennustaa myös noin 2,5 miljardin dollarin kustannussäästöjä.
+
+pres_past	1423	The show is divided into eight sections best viewed in sequence.	The show was divided into eight sections best viewed in sequence.
+HY-AH	Correct	Näytös jaetaan kahdeksan osion hyvin katsottu järjestyksessä.	Näytös jaettiin kahdeksan osion hyvin katsottu järjestyksessä.
+NICT	Left feature not found	Esitys on jaettu kahdeksaan osioon, jotka on parasta katsoa järjestyksessä.	Esitys oli jaettu kahdeksaan osioon, jotka on parasta katsoa järjestyksessä.
+
+pres_past	1440	Or even if there is an it.	Or even if there was an it.
+HY-AH	Correct	Tai vaikkakin on se.	Tai vaikkakin oli se.
+NICT	Identical	Tai vaikka olisi se.	Tai vaikka olisi se.
+
+pres_past	17350	And that is just what happened.	And that was just what happened.
+HY-AH	Correct	Ja tuo on juuri mikä tapahtui.	Ja tuo oli juuri mikä tapahtui.
+NICT	Identical	Ja niin vain tapahtui.	Ja niin vain tapahtui.
+
+pres_past	1800	So far there is no agreement for an intrusive inspection system.	So far there was no agreement for an intrusive inspection system.
+HY-AH	Correct	Toistaiseksi ei ole ei sopimusta tunkeilevaan tarkastusjärjestelmään.	Toistaiseksi ei ollut sopimusta tunkeilevaan tarkastusjärjestelmään.
+NICT	Identical	Toistaiseksi ei ole päästy sopimukseen tunkeilevasta tarkastusjärjestelmästä.	Toistaiseksi ei ole päästy sopimukseen tunkeilevasta tarkastusjärjestelmästä.
+
+pres_past	23134	Always in fridge: Myoplex protein shakes.	Always in fridge: Myoplex protein shook.
+HY-AH	Correct	Aina jääkaapissa: Myoplexin proteiini vapisee.	Aina jääkaapissa: Myoplexin proteiini vapisi.
+NICT	Both features not found	Aina jääkaapissa: Myoplex-proteiinisävyt.	Aina jääkaapissa: Myoplex-proteiini ravistelee.
+
+pres_past	23672	Now, of course, I am wondering what that means.	Now, of course, I was wondering what that means.
+HY-AH	Correct	Nyt tietenkin minä ihmetellä mikä tuo tarkoittaa.	Nyt tietenkin minä ihmettelin mikä tuo tarkoittaa.
+NICT	Identical	Nyt tietysti mietin, mitä se tarkoittaa.	Nyt tietysti mietin, mitä se tarkoittaa.
+
+pres_past	37269	That is that.	That was that.
+HY-AH	Correct	Tuo on, että.	Tuo oli, että.
+NICT	Left feature not found	Siinä se.	Se oli siinä.
+
+pres_past	40875	We look forward to a long and mutually rewarding partnership.	We looked forward to a long and mutually rewarding partnership.
+HY-AH	Correct	Me katsomme eteenpäin pitkään ja molemminpuolisen antoisaan kumppanuuteen.	Me katsoimme eteenpäin pitkään ja molemminpuolisen antoisaan kumppanuuteen.
+NICT	Identical	Odotamme pitkää ja molempia osapuolia palkitsevaa kumppanuutta.	Odotamme pitkää ja molempia osapuolia palkitsevaa kumppanuutta.
+
+pres_past	50086	Here's the list in alphabetical order.	Here was the list in alphabetical order.
+HY-AH	Correct	Tässä on lista aakkosjärjestyksessä.	Tässä oli lista aakkosjärjestyksessä.
+NICT	Left feature not found	Tässä lista aakkosjärjestyksessä.	Tässä oli lista aakkosjärjestyksessä.
+
+comp_adj	1042	No such risk was seen among light drinkers.	No such risk was seen among lighter drinkers.
+HY-AH	Correct	Ei sellainen riski nähtiin kevyiden juojien joukossa.	Ei sellainen riski nähtiin kevyempien juojien joukossa.
+NICT	Left feature not found	Tällaista riskiä ei kevytjuojien keskuudessa nähty.	Tällaista riskiä ei kevyempien juojien keskuudessa nähty.
+
+comp_adj	1101	Great prosperity has brought mortgages and credit-card debts.	Greater prosperity has brought mortgages and credit-card debts.
+HY-AH	Correct	Suuri varallisuus on tuonut asuntoluottoja ja luottokorttia velkoja.	Suurempi varallisuus on tuonut asuntoluottoja ja luottokorttia velkoja.
+NICT	Right feature not found	Suuri vauraus on tuonut asuntolainoja ja luottokorttivelkoja.	Hyvinvoinnin lisääntyminen on tuonut asuntolainoja ja luottokorttivelkoja.
+
+comp_adj	1104	Tough curbs on cigarette smuggling can have the same effect.	Tougher curbs on cigarette smuggling can have the same effect.
+HY-AH	Correct	Kovilla pidäkkeillä savukkeessa salakuljetuksessa voivat olla sama vaikutus.	Kovemmilla pidäkkeillä savukkeessa salakuljetuksessa voivat olla sama vaikutus.
+NICT	Both features not found	Savukkeiden salakuljetuksella voi olla sama vaikutus.	Savukkeiden salakuljetuksen tiukentamisella voi olla sama vaikutus.
+
+comp_adj	1227	Its economy is strained; witness the ever feeble dollar.	Its economy is strained; witness the ever feebler dollar.
+HY-AH	Correct	Sen taloutta rasitetaan; todista koskaan ponnettoman dollarin.	Sen taloutta rasitetaan; todista koskaan ponnettomamman dollarin.
+NICT	Identical	Sen talous on kireä, mistä on osoituksena yhä heikko dollari.	Sen talous on kireä, mistä on osoituksena yhä heikko dollari.
+
+comp_adj	1266	They will provide for reduced infections and high cleaning standards.	They will provide for reduced infections and higher cleaning standards.
+HY-AH	Correct	Ne edellyttäen että alentuneille tartunnoille ja korkeiden puhdistuksen normeille.	Ne edellyttäen että alentuneille tartunnoille ja korkeampien puhdistuksen normeille.
+NICT	Right feature not found	Niissä säädetään alennetuista infektioista ja korkeista puhdistusvaatimuksista.	Niiden avulla voidaan vähentää tulehduksia ja parantaa puhdistusstandardeja.
+
+comp_adj	1425	In Europe, major markets were also low in midday trading.	In Europe, major markets were also lower in midday trading.
+HY-AH	Correct	Euroopassa suurmarkkinat olivat myös matalia puolipäivässä kävi kauppaa.	Euroopassa suurmarkkinat olivat myös matalampia puolipäivässä kävi kauppaa.
+NICT	Left feature not found	Euroopassa suuret markkinat olivat alhaalla myös puolenpäivän kaupankäynnissä.	Euroopassa suuret markkinat olivat myös keskipäivän kaupankäynnissä alemmalla tasolla.
+
+comp_adj	1543	The companies say the move is intended to promote good animal welfare.	The companies say the move is intended to promote better animal welfare.
+HY-AH	Correct	Yritykset sanovat, että liike on tarkoituksena edistää hyvää eläinsuojelua.	Yritykset sanovat, että liike on tarkoituksena edistää parempaa eläinsuojelua.
+NICT	Right feature not found	Yhtiöiden mukaan siirron tarkoituksena on edistää hyvää eläinten hyvinvointia.	Yhtiöiden mukaan siirron tarkoituksena on edistää eläinten hyvinvointia.
+
+comp_adj	1563	About 93 percent of deaths occur in people 55 and old.	About 93 percent of deaths occur in people 55 and older.
+HY-AH	Correct	Suunnilleen 93 prosenttia kuolemista ilmenee ihmisillä 55 ja vanhassa.	Suunnilleen 93 prosenttia kuolemista ilmenee ihmisillä 55 ja vanhemmassa.
+NICT	Left feature not found	Noin 93 prosenttia kuolemista tapahtuu 55-vuotiailla.	Noin 93 prosenttia kuolemista tapahtuu 55-vuotiailla ja sitä vanhemmilla.
+
+comp_adj	1601	This definitely was one of my good games.	This definitely was one of my better games.
+HY-AH	Correct	Tämä ehdottomasti oli yksi minun hyvistä peleistäni.	Tämä ehdottomasti oli yksi minun paremmista peleistäni.
+NICT	Right feature not found	Tämä oli ehdottomasti yksi hyvistä peleistäni.	Tämä oli ehdottomasti yksi parhaista peleistäni.
+
+comp_adj	1667	The dollar's decline is already contributing to high oil prices.	The dollar's decline is already contributing to higher oil prices.
+HY-AH	Correct	Dollarin laskeminen jo myötävaikuttaa korkeihin öljynhintoihin.	Dollarin laskeminen jo myötävaikuttaa korkeampiin öljynhintoihin.
+NICT	Identical	Dollarin lasku vaikuttaa jo nyt öljyn hinnan nousuun.	Dollarin lasku vaikuttaa jo nyt öljyn hinnan nousuun.
+
+pos_neg	12591	None of this stuff is emotional.	None of this stuff is not emotional.
+HY-AH	Correct	Ei mikään tästä aineesta on emotionaalinen.	Ei mikään tästä aineesta ole emotionaalinen.
+NICT	Identical	Mikään näistä jutuista ei ole tunteellista.	Mikään näistä jutuista ei ole tunteellista.
+
+pos_neg	15716	I am gonna let 'em go.	I am not gonna let 'em go.
+HY-AH	Correct	Aik%on antaa 'em mennä.	Ole en menen antamaan 'em mennä.
+NICT	Right feature not found	I am gonna let 'em go.	I am not gonna let 'em go.
+
+pos_neg	19367	It is only the Sanzar countries that value the Lions.	It is not only the Sanzar countries that value the Lions.
+HY-AH	Correct	Se on vain Sanzarin maat, jotka arvioi Leijonia.	Se ei ole vain Sanzarin maat, jotka arvioivat Leijonia.
+NICT	Right feature not found	Vain SANZAR-maat arvostavat Lionsia.	Lionsia arvostavat muutkin kuin SANZAR-maat.
+
+pos_neg	20240	I am a cop.	I am not a cop.
+HY-AH	Correct	Olen kyttä.	Ole en kyttä.
+NICT	Right feature not found	I am a cop.	I am not a cop.
+
+human_nonhuman_pron	1137	Neither are the rest of us.	Neither are the rest of it.
+HY-AH	Correct	Ei kumpikaan on muu me.	Ei kumpikaan on muu se.
+NICT	Right feature not found	Me muut emme myöskään ole.	Eikä muitakaan.
+
+human_nonhuman_pron	1185	You've shown me that is not true.	You've shown it that is not true.
+HY-AH	Correct	Sinä olet osoittanut minulle, joka ole tosi.	Sinä olet osoittanut sille, joka ole tosi.
+NICT	Right feature not found	Olette osoittaneet minulle, että se ei ole totta.	Olet osoittanut, että se ei ole totta.
+
+human_nonhuman_pron	1194	that is just fun for me.	that is just fun for it.
+HY-AH	Correct	Tuo on juuri hauska minulle.	Tuo on juuri hauska sille.
+NICT	Right feature not found	Se on minulle vain hauskaa.	Se on vain hauskaa.
+
+human_nonhuman_pron	1213	Please use the form below to contact us.	Please use the form below to contact it.
+HY-AH	Correct	Käytä ole hyvä lomaketta alempana ottamaan yhteyttä meitä.	Käytä ole hyvä lomaketta alempana ottamaan yhteyttä sitä.
+NICT	Identical	Ota yhteyttä alla olevaan lomakkeeseen.	Ota yhteyttä alla olevaan lomakkeeseen.
+
+human_nonhuman_pron	1278	Teach her Dutch by podcast.	Teach it Dutch by podcast.
+HY-AH	Correct	Opeta hänen hollantilainen podcast-lähetyksen kanssa.	Opeta sille hollantia podcast-lähetyksen kanssa.
+NICT	Left feature not found	Opeta hollantia podcast.	Opeta se hollanti podcast.
+
+human_nonhuman_pron	1285	But the golden age of the DVD player is behind us.	But the golden age of the DVD player is behind it.
+HY-AH	Correct	Mutta kultainen DVD-LEVYN pelaajan ikä on meidän takana.	Mutta kultainen DVD-LEVYN pelaajan ikä on sen takana.
+NICT	Left feature not found	DVD-soittimen kulta-aika on kuitenkin takana.	Mutta DVD-soittimen kulta-aika on sen takana.
+
+human_nonhuman_pron	1371	Uribe does not gain weight like the rest of us.	Uribe does not gain weight like the rest of it.
+HY-AH	Correct	Uribe ei ansaitse painoa kuten muu me.	Uribe ei ansaitse painoa kuten muu se.
+NICT	Right feature not found	Uribe ei lihoa niin kuin me muut.	Uribe ei lihoa niin kuin muut.
+
+human_nonhuman_pron	1413	They want to... teach us all a lesson.	They want to... teach it all a lesson.
+HY-AH	Correct	Ne haluavat Opeta meille kaikki oppituntia.	Ne haluavat Opeta sille kaikkea oppituntia.
+NICT	Right feature not found	He haluavat... opettaa meille kaikille.	He haluavat... opettaa kaiken.
+
+human_nonhuman_pron	1548	Now tell me a moment of fulfillment or vindication.	Now tell it a moment of fulfillment or vindication.
+HY-AH	Correct	Kerro nyt minulle toteutumisen tai toteen näyttämisen hetken.	Kerro nyt sen toteutumisen tai toteen näyttämisen hetken.
+NICT	Left feature not found	Kerro nyt hetki täyttymyksestä tai vinoilusta.	Kerro nyt se hetki täyttymys tai vinkki.
+
+human_nonhuman_pron	1680	That affects the public health of all of us.	That affects the public health of all of it.
+HY-AH	Correct	Tuo koskettaa kansanterveyttä kaikesta meistä.	Tuo koskettaa kansanterveyttä kaikesta siitä.
+NICT	Right feature not found	Se vaikuttaa meidän kaikkien kansanterveyteen.	Se vaikuttaa kaikkien kansalaisten terveyteen.
+
+det_poss	10083	The next day, she collapsed on the way to the bathroom.	The next day, she collapsed on her way to the bathroom.
+HY-AH	Correct	Seuraavana päivänä hän romahti tiellä kylpyhuoneeseen.	Seuraavana päivänä hän romahti tavallaan kylpyhuoneeseen.
+NICT	Identical	Seuraavana päivänä hän romahti matkalla kylpyhuoneeseen.	Seuraavana päivänä hän romahti matkalla kylpyhuoneeseen.
+
+det_poss	11356	Keep the seatbelts fastened.	Keep your seatbelts fastened.
+HY-AH	Correct	Pidä turvavyö kiinnitti.	Pidä sinun turvavyösi kiinnitti.
+NICT	Identical	Pidä turvavyöt kiinni.	Pidä turvavyöt kiinni.
+
+det_poss	11844	Then look at how these firms match the criteria.	Then look at how these firms match your criteria.
+HY-AH	Correct	Sitten katse kuinka näihin firmat sovittavat kriteerit.	Sitten katse kuinka näihin firmat sovittavat sinun kriteerisi.
+NICT	Right feature not found	Katsokaa sitten, miten nämä yritykset täyttävät kriteerit.	Katso sitten, miten nämä yritykset täyttävät kriteerit.
+
+det_poss	11880	Donate The Bike, Save the World?	Donate Your Bike, Save the World?
+HY-AH	Correct	Lahjoitako Polkupyörä, Saveko World?	Lahjoitako Sinun Bikesi, Saveko World?
+NICT	Right feature not found	Lahjoittaa The Bike, Save the World?	Donate your Bike, Save the World?
+
+det_poss	12171	Take the content away?	Take your content away?
+HY-AH	Correct	Otako sisältö pois?	Otako sinun sisällösi pois?
+NICT	Identical	Ota sisältö pois?	Ota sisältö pois?
+
+det_poss	12412	"I find the equivocation here somewhat troubling," Feingold responded.	"I find your equivocation here somewhat troubling," Feingold responded.
+HY-AH	Correct	"Havaitsen harhaan johtamisen tässä jotensakin vaivaava," Feingold vastasi.	"Havaitsen sinun harhaan johtamisesi tässä jotensakin vaivaava," Feingoldsi vastasi.
+NICT	Right feature not found	"Pidän tasaisuutta täällä jossain määrin huolestuttavana," Feingold vastasi.	"Tämä on mielestäni hieman huolestuttavaa," Feingold vastasi.
+
+det_poss	13641	"We have got the back," it said.	"We have got your back," it said.
+HY-AH	Correct	"Me olemme päässyt selkään," se sanoi.	"Me olemme saaneet sinun seläsi," se sanoi.
+NICT	Identical	"Meillä on selkä," se sanoi.	"Meillä on selkä," se sanoi.
+
+det_poss	15006	For example, after finishing a report, reset the speedometer.	For example, after finishing a report, reset your speedometer.
+HY-AH	Correct	Esimerkiksi sen jälkeen kun lopettaen raportin, palautti nopeusmittarin.	Esimerkiksi sen jälkeen kun lopettaen raportin, palautti sinun nopeusmittarisi.
+NICT	Identical	Esimerkiksi sen jälkeen, kun viimeistely raportin, reset nopeusmittari.	Esimerkiksi sen jälkeen, kun viimeistely raportin, reset nopeusmittari.
+
+det_poss	16454	Will the bankers smile or frown when we seek credit?	Will our bankers smile or frown when we seek credit?
+HY-AH	Correct	Pankkiirit hymyilee tai rypistää otsaa kun me etsimme krediittiä?	Pankkiirimme hymyillä tai rypistää otsaa kun me etsimme krediittiä?
+NICT	Right feature not found	Vieläkö pankkiirit hymyilevät tai paukkuvat, kun haemme luottoa?	Hymyilevätkö pankkiirit vai jähmettyvätkö, kun haemme luottoa?
+
+det_poss	16469	The label did not bring it to you?	Your label did not bring it to you?
+HY-AH	Correct	Merkintä ei tuonut sille sinulle?	Sinun merkintäsi ei tuonut sille sinulle?
+NICT	Identical	Etiketti ei tuonut sitä sinulle?	Etiketti ei tuonut sitä sinulle?
+
+prep_postp	1023	Anderson died at a hospital the day before the altercation.	Anderson died at a hospital the day after the altercation.
+HY-AH	Correct	Anderson kuoli sairaalan päivässä ennen kiistaa.	Anderson kuoli sairaalan päivässä kiistan jälkeen.
+NICT	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Anderson kuoli sairaalassa vuorottelua edeltävänä päivänä.	Anderson kuoli sairaalassa vuorottelua seuraavana päivänä.
+
+prep_postp	1060	The unions want to continue the walkout before any negotiations.	The unions want to continue the walkout during any negotiations.
+HY-AH	Correct	Unionit haluavat jatkaa ulosmarssia ennen miita tahansa neuvotteluja.	Unionit haluavat jatkaa ulosmarssia miiden tahansa neuvottelujen aikana.
+NICT	Right feature not found: no aikana postposition found 	Liitot haluavat jatkaa kävelyä ennen mitään neuvotteluja.	Liitot haluavat jatkaa kävelyä kaikissa neuvotteluissa.
+
+prep_postp	1085	He is due to appear before the city's magistrates court on Friday.	He is due to appear after the city's magistrates court on Friday.
+HY-AH	Correct	Hän olee aika ilmestyä ennen kaupunkia maistraatteja oikeusistuinta perjantaina.	Hän olee aika ilmestyä kaupungin maistraattien jälkeen oikeusistuimen perjantaina.
+NICT	Left feature not found: no ennen preposition found	Hänen on määrä esiintyä kaupungin tuomarituomioistuimessa perjantaina.	Hänen on määrä esiintyä kaupungin tuomarituomioistuimen jälkeen perjantaina.
+
+prep_postp	1092	You cannot put the cart before the horse.	You cannot put the cart after the horse.
+HY-AH	Correct	Ei voi panna kärryä ennen hevosta.	Ei voi panna kärryä hevosen jälkeen.
+NICT	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Porukkaa ei voi laittaa hevosen eteen.	Hevosen perään ei voi laittaa porukkaa.
+
+prep_postp	110	It could come before city leaders on Wednesday.	It could come after city leaders on Wednesday.
+HY-AH	Correct	Se voisi tulla ennen kaupunkia johtajia keskiviikkona.	Se voisi tulla kaupungin johtajien jälkeen keskiviikosta.
+NICT	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Se voi tulla kaupungin johtajien eteen keskiviikkona.	Se voi tulla kaupungin johtajien jälkeen keskiviikkona.
+
+prep_postp	1149	He will appear before magistrates in Leicester on Monday.	He will appear after magistrates in Leicester on Monday.
+HY-AH	Correct	Hän ilmestyy ennen maistraatteja Leichesterissä maanantaina.	Hän ilmestyy maistraattien jälkeen Leichesterissä maanantaina.
+NICT	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Hän esiintyy maanantaina tuomarien edessä Leicesterissä.	Hän esiintyy tuomarien jälkeen Leicesterissä maanantaina.
+
+prep_postp	1215	We are going before a victory there.	We are going after a victory there.
+HY-AH	Correct	Me menemme ennen voittoa siinä.	Me menemme voiton jälkeen siinä.
+NICT	Left feature not found: no ennen preposition found	Olemme menossa sinne voittoon.	Olemme menossa voiton jälkeen sinne.
+
+prep_postp	1298	Scheffler performed a wacky dance before the score.	Scheffler performed a wacky dance after the score.
+HY-AH	Correct	Scheffler suoritti omituisen tanssin ennen pistemäärää.	Scheffler suoritti omituisen tanssin pistemäärän jälkeen.
+NICT	Left feature not found: no Par case found after ennen no nouns found with ennen 	Scheffler suoritti wacky-tanssin ennen pisteet.	Scheffler suoritti pistepotin jälkeen wacky-tanssin.
+
+prep_postp	1301	Col. Mark Mueller asked before a late- night inspection.	Col. Mark Mueller asked during a late- night inspection.
+HY-AH	Correct	Col. Arvosana Mueller kysyi ennen myöhäistä yötarkastusta.	Col. Arvosana Mueller kysyi myöhäisen yötarkastuksen aikana.
+NICT	Right feature not found: no Gen case found with aikana 	Col. Mark Mueller kysyi ennen late-yötarkastusta.	Col. Mark Mueller kysyi late-yötarkastuksen aikana.
+
+prep_postp	1323	Both sales were closed before the fourth quarter of 2006.	Both sales were closed during the fourth quarter of 2006.
+HY-AH	Correct	Molemmat myynnit suljettiin ennen neljättä neljännestä 2006.	Molemmat myynnit suljettiin neljännen neljänneksen aikana 2006.
+NICT	Right feature not found: no aikana postposition found 	Molempien myynti lopetettiin ennen vuoden 2006 neljättä neljännestä.	Molempien myynti lopetettiin vuoden 2006 neljännellä neljänneksellä.
+
+local_prep	10	Admirers signed books of condolence placed by vases of sunflowers outside the cathedral.	Admirers signed books of condolence placed by vases of sunflowers inside the cathedral.
+HY-AH	Correct	Ihailijat allekirjoittivat surunvalittelun kirjoja asettivat auringonkukkien maljakot tuomiokirkon ulkopuolella.	Ihailijat allekirjoittivat surunvalittelun kirjoja asettivat auringonkukkien maljakot tuomiokirkon sisällä.
+NICT	Both features not found: no case match	Ihailijat allekirjoittivat maljakoiden auringonkukkien asettamia surunvalittelukirjoja katedraalin ulkopuolella.	Ihailijat allekirjoittivat maljakoiden auringonkukkien asettamia surunvalittelukirjoja katedraalin sisälle.
+
+local_prep	1018	Thousands of people are huddled outside their homes or emergency shelters.	Thousands of people are huddled inside their homes or emergency shelters.
+HY-AH	Correct	Tuhat ihmisistä painaudutaan heidän kotien ulkopuolella tai hätäsuojien.	Tuhat ihmisistä painaudutaan heidän kotien sisällä tai hätäsuojien.
+NICT	Both features not found: no case match	Tuhansia ihmisiä hukkuu kotinsa tai hätäturvakotien ulkopuolella.	Tuhansia ihmisiä hukkuu kotinsa tai hätäturvakotien sisälle.
+
+local_prep	1097	Was there a serial downloader lurking outside Jammie Thomas' window?	Was there a serial downloader lurking inside Jammie Thomas' window?
+HY-AH	Correct	Oliko siinä sarjalataaja kätkeytyi Jammie Thomasin ulkopuolella ikkunan?	Oliko siinä sarjalataaja kätkeytyi Jammie Thomasin sisällä ikkunan?
+NICT	Right feature not found: no translation of inside found	Oliko Jammie Thomasin ikkunan ulkopuolella vaaniva sarjanousija?	Vaikuttiko Jammie Thomasin ikkunan sisään sarjanousija?
+
+local_prep	1125	People outside the mall ran toward the exits when the blast went off.	People inside the mall ran toward the exits when the blast went off.
+HY-AH	Correct	Ihmiset kauppakeskuksen ulkopuolella juoksi irtautumisiin päin kun paineaalto räjähti.	Ihmiset kauppakeskuksen sisällä juoksi irtautumisiin päin kun paineaalto räjähti.
+NICT	Left feature not found: no translation of outside found	Mallin ulkopuoliset ihmiset juoksivat kohti uloskäyntiä, kun mutka lähti liikkeelle.	Mallin sisällä olleet ihmiset juoksivat kohti uloskäyntiä, kun mutka lähti liikkeelle.
+
+local_prep	1182	They often go outside to discuss impact of the weather.	They often go inside to discuss impact of the weather.
+HY-AH	Correct	Ne usein menevät ulkopuolelle keskustelemaan sään vaikutuksesta.	Ne usein menevät sisälle keskustelemaan sään vaikutuksesta.
+NICT	Both features not found: no case match	He käyvät usein ulkona keskustelemassa sään vaikutuksista.	He menevät usein sisälle keskustelemaan sään vaikutuksista.
+
+local_prep	1185	Sons were beaten behind their mothers.	Sons were beaten in front of their mothers.
+HY-AH	Correct	Poikia hakattiin heidän äitien takana.	Poikia hakattiin heidän äitien edessä.
+NICT	Both features not found: no case match	Poikia hakattiin äitiensä taakse.	Poikia hakattiin äitiensä edessä.
+
+local_prep	122	A taxi stops outside the Bryant Park fashion shows in New York.	A taxi stops inside the Bryant Park fashion shows in New York.
+HY-AH	Correct	Taksi lakkaa Bryant Parkin ulkopuolella muodin näytösten New Yorkissa.	Taksi lakkaa Bryant Parkin sisällä muodin näytösten New Yorkissa.
+NICT	Both features not found: no case match	Taksi pysähtyy Bryant Parkin muotinäytösten ulkopuolella New Yorkissa.	Taksi pysähtyy New Yorkin Bryant Park -muotinäytösten sisälle.
+
+local_prep	1220	The braking system comes from a supplier outside Chrysler.	The braking system comes from a supplier inside Chrysler.
+HY-AH	Correct	Jarrujärjestelmä jarrutusjärjestelmä tulee hankkijasta Chryslerista ulkopuolella.	Jarrujärjestelmä jarrutusjärjestelmä tulee hankkijasta Chryslerista sisällä.
+NICT	Left feature not found: no translation of outside found	Jarrutusjärjestelmä tulee Chryslerin ulkopuoliselta toimittajalta.	Jarrutusjärjestelmä tulee Chryslerin sisältä toimittajalta.
+
+local_prep	1247	I am going back outside now.	I am going back inside now.
+HY-AH	Correct	Menen takaisin ulkopuolella nyt.	Menen takaisin sisällä nyt.
+NICT	Both features not found: no case match	Menen nyt takaisin ulkona.	Menen nyt takaisin sisälle.
+
+local_prep	1256	What is Net1's strategy in expanding the UEPS technology outside South Africa?	What is Net1's strategy in expanding the UEPS technology inside South Africa?
+HY-AH	Correct	Mikä on Net1 strategia laajennettaessa UEPS:a teknologiaa Etelä-Afrikan ulkopuolella?	Mikä on Net1 strategia laajennettaessa UEPS:a teknologiaa Etelä-Afrikan sisällä?
+NICT	Both features not found: no case match	Mikä on Net1: N strategia UEPS-teknologian laajentamiseksi Etelä-Afrikan ulkopuolelle?	Mikä on Net1: N strategia UEPS-teknologian laajentamiseksi Etelä-Afrikassa?
+
+complex_np	1882	If Tony Romo plays you cannot do that to him.	If Tony Romo plays you cannot do that to the Lead researcher.
+HY-AH	Correct: genitive apposition	Jos Tony Romo pelaa ei voi tehdä tuota hänelle.	Jos Tony Romo pelaa ei voi tehdä tuota Johdon tutkijalle.
+NICT	Right feature not found	Jos Tony Romo pelaa, sitä ei voi tehdä hänelle.	Jos Tony Romo pelaa, sitä ei voi tehdä Lead-tutkijalle.
+
+complex_np	2378	I would have knocked him out.	I would have knocked the nonprofit publisher out.
+HY-AH	Correct: adj + noun	Minä olisin kolhaissut häntä pois.	Minä olisin kolhaissut ei-kaupallista kustantajaa pois.
+NICT	Right feature not found: genitive apposition	Olisin tyrmännyt hänet.	Olisin tyrmännyt voittoa tavoittelemattoman kustantajan ulos.
+
+complex_np	2640	She predeceased him and he is survived by their two sons.	She predeceased the Lead singer and he is survived by their two sons.
+HY-AH	Correct: genitive apposition	Hän kuoli ennen hän ja hänet selviytyi heidän kahdesta poiista.	Hän kuoli ennen Johdon laulajaa ja hänet selviytyi heidän kahdesta poiasta.
+NICT	Right feature not found	Hän saalisti hänet, ja hän on selvinnyt heidän kaksi poikaansa.	Hän saalisti Lead-laulajan ja hän on selvinnyt heidän kaksi poikaansa.
+
+complex_np	2676	"We need something for sports," he tells her.	"We need something for sports," he tells the equal partner.
+HY-AH	Correct: adj + noun	"Me tarvitsemme jotakin urheiluun," hän kertoo hänet.	"Me tarvitsemme jotakin urheiluun," hän kertoo yhtä suuren kumppanin.
+NICT	Left feature not found: adj + noun	"Tarvitsemme jotain urheiluun," hän kertoo.	"Tarvitsemme jotain urheiluun," hän kertoo tasa-arvoiselle kumppanille.
+
+complex_np	2930	Ms. Gotbaum's relatives have accused the police of mistreating her.	Ms. Gotbaum's relatives have accused the police of mistreating the second player.
+HY-AH	Correct: adj + noun	Rouva Gotbaumin sukulaiset ovat syyttäneet poliisia kohtelemasta kaltoin häntä.	Rouva Gotbaumin sukulaiset ovat syyttäneet poliisia kohtelemasta kaltoin toinen pelaajaa.
+NICT	Left feature not found: adj + noun	Gotbaumin omaiset ovat syyttäneet poliisia pahoinpitelystä.	Gotbaumin omaiset ovat syyttäneet poliisia toisen pelaajan huonosta kohtelusta.
+
+complex_np	3749	He took her up on the bet.	He took the popular tourist up on the bet.
+HY-AH	Correct: adj + noun	Hän otti hänet vedonlyönnissä.	Hän otti suositun matkailijan vedonlyönnissä.
+NICT	Right feature not found: genitive apposition	Hän otti hänet vedon.	Hän otti suositun turisti ylös veto.
+
+complex_np	4745	God was with him.	God was with the deputy coroner.
+HY-AH	Correct: compound noun	Jumala oli hänen kanssa.	Jumala oli varamiehen kuolemansyytutkijan kanssa.
+NICT	Right feature not found	Jumala oli hänen kanssaan.	Jumala oli apulaiskorttelijan kanssa.
+
+complex_np	4775	"Sure you can, Walt," Shepard assured him.	"Sure you can, Walt," Shepard assured the migrant worker.
+HY-AH	Correct: compound noun	"Sure voit, Walt," Shepard vakuutti hänet.	"Sure voit, Walt," Shepard vakuutti siirtotyöläisen.
+NICT	Left feature not found: compound noun	"Toki voit, Walt," Shepard vakuutti.	"Toki voit, Walt," Shepard vakuutti siirtotyöläiselle.
+
+complex_np	4893	"No, no, Mrs. Left," he reassured her.	"No, no, Mrs. Left," he reassured the executive producer.
+HY-AH	Correct: adj + noun	"Ei ei Mrs. Vasen" hän rauhoitti häntä.	"Ei ei Mrs. Vasenta" hän rauhoitti toimeenpanevaa tuottajaa.
+NICT	Left feature not found: compound noun	"Ei, ei, rouva vasemmisto," hän vakuutti.	"Ei, ei, rouva vasemmisto," hän rauhoitteli toimitusjohtajaa.
+
+complex_np	5379	Bo Derek: Endorsed Giuliani, stumped with him in California.	Bo Derek: Endorsed Giuliani, stumped with the Celtic defender in California.
+HY-AH	Correct: adj + noun	Bo Derek: Endorsed Giuliani, tömisteli hänen kanssa Kaliforniassa.	Bo Derek: Endorsed Giuliani, tömisteli kelttiläisen puolustajan kanssa Kaliforniassa.
+NICT	Right feature not found	Bo Derek: Hyväksytty Giuliani, kompuroi hänen kanssaan Kaliforniassa.	Bo Derek: Hyväksytty Giuliani, kompuroi Celtic-puolustajan kanssa Kaliforniassa.
+
+named_entities	1114	But none of that applies to America.	But none of that applies to Amariyah.
+HY-AH	Correct	Mutta ei mikään tuosta hakee Amerikkaan.	Mutta ei mikään tuosta hakee Amariyahiin.
+NICT	Left feature not found	Tämä ei kuitenkaan koske Yhdysvaltoja.	Tämä ei kuitenkaan koske Amariyahia.
+
+named_entities	13265	It did not seem like the Tigers would need one.	It did not seem like the Atheros would need one.
+HY-AH	Correct	Se ei vaikuttanut kuin Tigersit tarvitsisivat yksi.	Se ei vaikuttanut kuin Atheros tarvitsisi yksi.
+NICT	Left feature not found	Ei tuntunut siltä, että tiikerit tarvitsisi sellaista.	Ei tuntunut siltä, että atheros tarvitsisi sellaista.
+
+named_entities	13739	I remember Janet and John with loathing.	I remember Janet and Kern with loathing.
+HY-AH	Correct	Muistan Janetin ja Johnin kanssa inhon.	Muistan Janetin ja Kernin kanssa inhon.
+NICT	Left feature not found	Muistan Janetin ja Johanneksen ihastuneena.	Muistan Janetin ja Kernin ihastuneena.
+
+named_entities	13822	Hezbollah officials declined to comment.	Mozilla officials declined to comment.
+HY-AH	Correct	Hezbollah virkailijat kieltäytyivat kommentoimasta.	Mozilla virkailijat kieltäytyivat kommentoimasta.
+NICT	Left feature not found	Hizbollahin viranomaiset kieltäytyivät kommentoimasta asiaa.	Mozillan virkamiehet kieltäytyivät kommentoimasta asiaa.
+
+named_entities	14715	Bryant had 17 points at halftime as Los Angeles opened a 55-37 lead.	Broad had 17 points at halftime as Los Angeles opened a 55-37 lead.
+HY-AH	Correct	Bryantilla oli 17 pistettä puoliaiassa kun Los Angeles avasi 55-37 johdon.	Broadilla oli 17 pistettä puoliaiassa kun Los Angeles avasi 55-37 johdon.
+NICT	Right feature not found	Bryant oli puoliajalla 17 pisteellä, kun Los Angeles avasi 55-37-johdon.	Leveä oli puoliajalla 17 pistettä, kun Los Angeles avasi 55-37-johdon.
+
+named_entities	15832	The campaign includes advertisements overseas and more foreign-language assistance in Japan.	The campaign includes advertisements overseas and more foreign-language assistance in R-Kan.
+HY-AH	Correct	Kampanja sisältää mainokset ulkomailla ja enemmän vierasta kieltä avun Japanissa.	Kampanja sisältää mainokset ulkomailla ja enemmän vierasta kieltä avun R-kanissa.
+NICT	Right feature not found	Kampanjassa on mukana mainoksia ulkomailla ja enemmän vieraan kielen apua Japanissa.	Kampanjassa on mukana mainoksia ulkomailla ja enemmän vieraan kielen apua R-Kanissa.
+
+named_entities	18078	The Avalanche will not play again until Friday night in Dallas.	The Avalanche will not play again until Friday night in Valley.
+HY-AH	Correct	Lumivyöry ei pelaa taas perjantaiyohön saakka Dallasissa.	Lumivyöry ei pelaa taas perjantaiyohön saakka Valleyissa.
+NICT	Right feature not found	Avalanche pelaa jälleen vasta perjantai-iltana Dallas.	Avalanche pelaa jälleen vasta perjantai-iltana laaksossa.
+
+named_entities	18470	These are busy times for west London engineer Ghulam Mustafa.	These are busy times for west Croydon engineer Ghulam Mustafa.
+HY-AH	Correct	Nämä ovat kiireiset ajat länsi Lontoon insinöörille Ghulam Mustafaan.	Nämä ovat kiireiset ajat länsi Croydonin insinöörille Ghulam Mustafaan.
+NICT	Right feature not found	Nämä ovat Länsi-Lontoon insinöörille Ghulam Mustafalle kiireisiä aikoja.	Nämä ovat Länsi-Croydon-insinööri Ghulam Mustafalle kiireisiä aikoja.
+
+named_entities	19362	The UN is similarly sceptical.	The U.S.C. is similarly sceptical.
+HY-AH	Correct	YK: on samoin skeptinen.	U.S.C.: on samoin skeptinen.
+NICT	Right feature not found	Myös YK on epäileväinen.	Yhdysvallat on yhtä epäileväinen.
+
+named_entities	19996	He walked Thomas leading off the second.	He walked Gomes leading off the second.
+HY-AH	Correct	Hän käveli Thomas johtaen pois toinen.	Hän käveli Gomesin johtaminen pois toinen.
+NICT	Left feature not found	Hän käveli Tuomas johtaa pois toisen.	Hän käveli Gomesin johtamassa kakkosesta.
+
+numbers	1932	This had previously been reported as 337,000 claims.	This had previously been reported as 164,000 claims.
+HY-AH	Correct	Tämä oli aikaisemmin raportoitu 337,000 väitteenä.	Tämä oli aikaisemmin raportoitu 164,000 väitteenä.
+NICT	Right feature not found	Tämä oli aiemmin raportoitu 337 000 väitteeksi.	Tämän oli aiemmin kerrottu olevan 160 000 väitettä.
+
+numbers	3225	More than 325,000 people have already bought tickets to find out.	More than 152,000 people have already bought tickets to find out.
+HY-AH	Correct	Enemmän kuin 325,000 ihmistä on jo ostanut liput löytääkse.	Enemmän kuin 152,000 ihmistä on jo ostanut liput löytääkse.
+NICT	Right feature not found	Yli 325 000 ihmistä on jo ostanut lippuja asian selvittämiseksi.	Yli 150 000 ihmistä on jo ostanut lippuja asian selvittämiseksi.
+
+numbers	8297	He was president of the Directors Guild of America from 1967 to 1971.	He was president of the Directors Guild of America from 1950 to 1971.
+HY-AH	Correct	Hän oli presidentti Amerikan johtajien Killan 1967 - 1971.	Hän oli presidentti Amerikan johtajien Killan 1950 - 1971.
+NICT	Right feature not found	Hän oli presidenttinä Directors Guild of America vuosina 1967 - 1971.	Hän oli presidentti, Directors Guild of America 1955-1971.
+
+masc_fem_pron	10006	He is the Travel King!	She is the Travel King!
+HY-AH	Correct	Hän on Travel King!	Hän on Travel King!
+NICT	Both features not found	Hän on matkakuningas!	She is the Travel King!
+
+masc_fem_pron	11158	But he is also a true freshman.	But she is also a true freshman.
+HY-AH	Correct	Mutta hän on myös tosi ensimmäisen vuoden opiskelija.	Mutta hän on myös tosi ensimmäisen vuoden opiskelija.
+NICT	Both features not found	Mutta hän on myös tosi raikas mies.	Mutta hän on myös todellinen tuore mies.
+
+masc_fem_pron	1134	He also served four years as Claiborne County's Commissioner and Budget Chairman.	She also served four years as Claiborne County's Commissioner and Budget Chairman.
+HY-AH	Correct	Hän palveli myös neljä vuotta Claiborne County's Commissioneria ja Budget Chairman.	Hän palveli myös neljä vuotta Claiborne County's Commissioneria ja Budget Chairman.
+NICT	Both features not found	Hän toimi myös neljä vuotta Claiborn Countyn komissaarina ja budjettipuheenjohtajana.	Hän toimi myös neljä vuotta Claibornen kreivikunnan komissaarina ja budjettipuheenjohtajana.
+
+masc_fem_pron	12642	But he said the goals were still worth pursuing.	But she said the goals were still worth pursuing.
+HY-AH	Correct	Mutta hän sanoi, että tavoitteet olivat yhä arvoinen tavoitelemisen.	Mutta hän sanoi, että tavoitteet olivat yhä arvoinen tavoitelemisen.
+NICT	Both features not found	Hän sanoi kuitenkin, että maaleja kannattaa silti tavoitella.	Hän sanoi kuitenkin, että tavoitteita kannattaa silti tavoitella.
+
+masc_fem_pron	1332	He said the donor company was based in the UK.	She said the donor company was based in the UK.
+HY-AH	Correct	Hän sanoi, että avunantaja yritys sijaitsi Yhdistyneessa Kuningaskunnassa.	Hän sanoi, että avunantaja yritys sijaitsi Yhdistyneessa Kuningaskunnassa.
+NICT	Both features not found	Hänen mukaansa lahjoittajayhtiö sijaitsee Yhdistyneessä kuningaskunnassa.	Hän sanoi, että lahjoittajayhtiö sijaitsee Yhdistyneessä kuningaskunnassa.
+
+masc_fem_pron	13604	He said LambdaRail needed additional concessions to satisfy its obligations to contributing members.	She said LambdaRail needed additional concessions to satisfy its obligations to contributing members.
+HY-AH	Correct	Hän sanoi, että Lambdarail tarvitsi lisää myönnytyksiä tyydyttää sen velvoitteita myötävaikuttaville jäsenille.	Hän sanoi, että Lambdarail tarvitsi lisää myönnytyksiä tyydyttää sen velvoitteita myötävaikuttaville jäsenille.
+NICT	Both features not found	Hän sanoi LambdaRailin tarvitsevan lisää myönnytyksiä, jotta se voi täyttää jäsenmaksuvelvoitteensa.	Hän sanoi LambdaRailin tarvitsevan lisää myönnytyksiä, jotta se voisi täyttää jäsenmaksuvelvoitteensa.
+
+masc_fem_pron	14794	He cared about poor and working people.	She cared about poor and working people.
+HY-AH	Correct	Hän huolehti köyhistä ja työväestöstä.	Hän huolehti köyhistä ja työväestöstä.
+NICT	Both features not found	Hän välitti köyhiä ja työtätekeviä ihmisiä.	Hän välitti köyhistä ja työssäkäyvistä ihmisistä.
+
+masc_fem_pron	1532	He said the group was scheduled to return to California on Christmas Eve.	She said the group was scheduled to return to California on Christmas Eve.
+HY-AH	Correct	Hän sanoi, että ryhmän aikataulutettiin palaavan Kaliforniaan Jouluaattoon.	Hän sanoi, että ryhmän aikataulutettiin palaavan Kaliforniaan Jouluaattoon.
+NICT	Both features not found	Hänen mukaansa ryhmän oli määrä palata Kaliforniaan jouluaattona.	Hän sanoi, että ryhmän oli määrä palata Kaliforniaan jouluaattona.
+
+masc_fem_pron	15665	"You do not start where you finish," he said.	"You do not start where you finish," she said.
+HY-AH	Correct	"Sinä ei ala missä lopetat," hän sanoi.	"Sinä ei ala missä lopetat," hän sanoi.
+NICT	Both features not found	"Ei lähdetä siitä, mihin päättyy," hän sanoi.	"Et aloita siitä, mihin lopetat," hän sanoi.
+
+masc_fem_pron	15800	He is just learned that Pilates can add an inch to your height.	She is just learned that Pilates can add an inch to your height.
+HY-AH	Correct	Hänet vain oppinut, että Pilates voi lisätä tuuman sinulle korkeuteen.	Hänet vain oppinut, että Pilates voi lisätä tuuman sinulle korkeuteen.
+NICT	Both features not found	Hän on juuri oppinut, että Pilates voi lisätä tuuman korkeuteesi.	Hän on juuri oppinut, että Pilates voi lisätä tuuman korkeuteen.
+
+pres_fut	1000	We take it to the end.	We will take it to the end.
+HY-AH	Correct	Me otamme sen loppuun asti.	Me otamme sen loppuun asti.
+NICT	Both features not found	Me viemme sen loppuun asti.	Viemme sen loppuun asti.
+
+pres_fut	1001	They deliver a great fight.	They will deliver a great fight.
+HY-AH	Correct	Ne luovuttavat suuren taistelun.	Ne luovuttavat suuren taistelun.
+NICT	Both features not found	Ne tuottavat hienon taistelun.	He saavat aikaan suuren taistelun.
+
+pres_fut	112	We confront this danger before it is too late.	We will confront this danger before it is too late.
+HY-AH	Correct	Me törmäämme tähän vaaraan ennen kuin se on liian myöhään.	Me törmäämme tähän vaaraan ennen kuin se on liian myöhään.
+NICT	Right feature not found	Me kohtaamme tämän vaaran ennen kuin on liian myöhäistä.	Me kohtaamme tämän vaaran, ennen kuin on liian myöhäistä.
+
+pres_fut	164	I spend as little as possible on food.	I will spend as little as possible on food.
+HY-AH	Correct	Kulutan niin hiukan kuin mahdollinen ruokaan.	Kulutan niin hiukan kuin mahdollinen ruokaan.
+NICT	Both features not found	Kulutan ruokaan mahdollisimman vähän.	Aion käyttää ruokaan niin vähän kuin mahdollista.
+
+pres_fut	165	They arrive in two days.	They will arrive in two days.
+HY-AH	Correct	Ne saapuvat kahteen päivään.	Ne saapuvat kahteen päivään.
+NICT	Both features not found	Ne saapuvat kahdessa päivässä.	He saapuvat paikalle kahden päivän kuluttua.
+
+pres_fut	179	Whatever keeps the neighborhood happy, we do.	Whatever keeps the neighborhood happy, we will do.
+HY-AH	Correct	Mikä tahansa pitää naapurustoa iloisessaan, me samoin.	Mikä tahansa pitää naapurustoa iloisessaan, me samoin.
+NICT	Both features not found	Mikä tahansa pitää naapuruston onnellisena, me teemme.	Mitä tahansa pitää naapuruston onnellinen, me teemme.
+
+pres_fut	180	They look to use the ball straightaway.	They will look to use the ball straightaway.
+HY-AH	Correct	Ne katsovat käyttää palloa suoraan.	Ne katsovat käyttää palloa suoraan.
+NICT	Both features not found	He haluavat käyttää palloa suoraviivaisesti.	He pyrkivät käyttämään palloa suoraviivaisesti.
+
+pres_fut	201	But we use that to motivate the players.	But we will use that to motivate the players.
+HY-AH	Correct	Mutta me käytämme tuota motivoimaan pelaajia.	Mutta me käytämme tuota motivoimaan pelaajia.
+NICT	Right feature not found	Mutta käytämme sitä motivoimaan pelaajia.	Mutta me käytämme sitä motivoimaan pelaajia.
+
+pres_fut	216	I stop.	I will stop.
+HY-AH	Correct	Lakkaan.	Lakkaan.
+NICT	Right feature not found	Lopetan.	Lopetan tähän.
+
+pres_fut	222	"If it comes, we welcome it," she said.	"If it comes, we will welcome it," she said.
+HY-AH	Correct	"Jos se tulee, me toivotamme tervetulleeksi sen," hän sanoi.	"Jos se tulee, me toivotamme tervetulleeksi sen," hän sanoi.
+NICT	Both features not found	"Jos se tulee, olemme siihen tyytyväisiä," hän sanoi.	"Jos se tulee, me otamme sen vastaan," hän sanoi.
+
+the_a	10124	The 49-year-old woman remains in police custody.	A 49-year-old woman remains in police custody.
+HY-AH	Correct	49 vuotta vanha nainen pysyy poliisihuoltajuudessa.	49 vuotta vanha nainen pysyy poliisihuoltajuudessa.
+NICT	Both features not found	49-vuotias nainen on edelleen poliisin hallussa.	49-vuotias nainen jää poliisin huostaan.
+
+the_a	10233	The reading below 50 indicates that manufacturing activity is contracting.	A reading below 50 indicates that manufacturing activity is contracting.
+HY-AH	Correct	Käsittely alempana 50 osoittaa, että valmistus toiminto supistuu.	Käsittely alempana 50 osoittaa, että valmistus toiminto supistuu.
+NICT	Both features not found	Alle 50: N lukema kertoo, että valmistustoiminta on urakointia.	Alle 50: N lukema osoittaa, että valmistustoiminta on urakointia.
+
+the_a	10272	The new version of the show had its debut last month.	A new version of the show had its debut last month.
+HY-AH	Correct	Uudella näytöksen versiolla oli sen ensiesiintyminen viime kuussa.	Uudella näytöksen versiolla oli sen ensiesiintyminen viime kuussa.
+NICT	Both features not found	Näyttelyn uusi versio sai debyyttinsä viime kuussa.	Uusi versio näyttelystä sai debyyttinsä viime kuussa.
+
+the_a	10408	The confluence of factors has created a more favorable environment for developers.	A confluence of factors has created a more favorable environment for developers.
+HY-AH	Correct	Tekijöiden yhtymäkohta on luonut suotuisamman ympäristön kehittäjille.	Tekijöiden yhtymäkohta on luonut suotuisamman ympäristön kehittäjille.
+NICT	Both features not found	Tekijöiden sekoittuminen on luonut kehittäjille suotuisamman ympäristön.	Tekijöiden sekoitus on luonut kehittäjille suotuisamman ympäristön.
+
+the_a	10469	The gust of wind could blow a lit ember into their faces.	A gust of wind could blow a lit ember into their faces.
+HY-AH	Correct	Tuulen tuulenpuuska voisi puhaltaa valaistua hiillosta niiden kasvoja.	Tuulen tuulenpuuska voisi puhaltaa valaistua hiillosta niiden kasvoja.
+NICT	Both features not found	Tuulen kiilto voi puhaltaa sytytetyn emberin kasvoihinsa.	Tuulen kiilto voisi puhaltaa sytytetyn emberin kasvoihinsa.
+
+the_a	10525	For the final test I tackled the Mound - several times.	For a final test I tackled the Mound - several times.
+HY-AH	Correct	Lopputestiin minä kävin käsiksi Moundiin - lukuisia kertoja.	Lopputestiin minä kävin käsiksi Moundiin - lukuisia kertoja.
+NICT	Both features not found	Lopputestiin tartuin Ässät - useita kertoja.	Loppukokeeseen tartuin Ässät - useita kertoja.
+
+the_a	10580	The follow-up meeting was set for Monday.	A follow-up meeting was set for Monday.
+HY-AH	Correct	Seuranta kokous asetettiin maanantaiun.	Seuranta kokous asetettiin maanantaiun.
+NICT	Both features not found	Seurantakokous oli määrä pitää maanantaina.	Maanantaina oli tarkoitus järjestää seurantakokous.
+
+the_a	10657	The Johanns-Kerrey matchup would instantly become high-profile.	A Johanns-Kerrey matchup would instantly become high-profile.
+HY-AH	Correct	Johanns-kerreyin kaksintaistelu välittömästi tulisi korkeaprofiiliseksi.	Johanns-kerreyin kaksintaistelu välittömästi tulisi korkeaprofiiliseksi.
+NICT	Both features not found	Johanns-Kerrey matchup muuttuisi heti näkyväksi.	Johanns-Kerrey-matchupista tulisi heti korkea profiili.
+
+the_a	10780	The adroit Republican parliamentary maneuver ultimately sank the bill.	An adroit Republican parliamentary maneuver ultimately sank the bill.
+HY-AH	Correct	Adroit republikaaninen parlamenttimanööveri lopulta upotti lakiesityksen.	Adroit republikaaninen parlamenttimanööveri lopulta upotti lakiesityksen.
+NICT	Both features not found	Adroit-republikaanien parlamenttimiehitys upotti lopulta laskun.	Adroitti-republikaanien parlamenttimiehitys upposi lopulta laskuun.
+
+the_a	11082	The tense standoff developed.	A tense standoff developed.
+HY-AH	Correct	Kireä etäisyys kehittyi.	Kireä etäisyys kehittyi.
+NICT	Both features not found	Jännittynyt vastakkainasettelu kehittyi.	Kehittyi kireä vastakkainasettelu.
+

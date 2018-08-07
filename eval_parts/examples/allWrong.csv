@@ -1,0 +1,135 @@
+sing_plur	12107	Mario Chalmers led the Jayhawk with 23 points.	Mario Chalmers led the Jayhawks with 23 points.
+NICT.5658	Both features not found	Mario Chalmers johti Jayhawkia 23 pisteellä.	Mario Chalmers johti Jayhawksia 23 pisteellä.
+
+sing_plur	2071	It will host the gymnastic and netball competitions.	It will host the gymnastics and netball competitions.
+NICT.5658	Identical	Se isännöi voimistelu- ja nettipallokilpailuja.	Se isännöi voimistelu- ja nettipallokilpailuja.
+
+sing_plur	7277	PHILADELPHIA - Not even Dr. J could inspire the 76er.	PHILADELPHIA - Not even Dr. J could inspire the 76ers.
+NICT.5658	Both features not found	Philadelphia - ei edes Dr. J voisi innostaa 76er.	Philadelphia - ei edes Dr. J voisi innostaa 76ers.
+
+sing_plur	7527	Brendan Morrison and Alex Burrows also scored for the Canuck.	Brendan Morrison and Alex Burrows also scored for the Canucks.
+NICT.5658	Both features not found	Myös Brendan Morrison ja Alex Burrows tekivät Canuckille.	Myös Brendan Morrison ja Alex Burrows tekivät Canucksin.
+
+pres_past	42495	I just do not.	I just did not.
+NICT.5658	Both features not found	Minä vain en.	I just did not.
+
+comp_adj	1124	"Our children deserve access to free high education," he said.	"Our children deserve access to free higher education," he said.
+NICT.5658	Identical	"Lapsemme ansaitsevat mahdollisuuden maksuttomaan korkeakoulutukseen," hän sanoi.	"Lapsemme ansaitsevat mahdollisuuden maksuttomaan korkeakoulutukseen," hän sanoi.
+
+comp_adj	1287	As hours passed, hope of finding anyone alive deep underground grew faint.	As hours passed, hope of finding anyone alive deep underground grew fainter.
+NICT.5658	Right feature not found	Tuntien kuluessa toivo kenenkään löytämisestä elossa syvällä maan alla kasvoi vaisuksi.	Kun tunnit kuluivat, toivo kenenkään löytämisestä elossa syvällä maan alla kasvoi kohtaloksi.
+
+comp_adj	1848	Those with poorly functioning copies were pudgy.	Those with poorly functioning copies were pudgier.
+NICT.5658	Right feature not found	Ne, joilla oli huonosti toimivia kopioita, olivat pullistelevia.	Ne, joilla oli huonosti toimivia kopioita, olivat pudgier.
+
+comp_adj	2345	His art displays its alt ego.	His art displays its alter ego.
+NICT.5658	Both features not found	Hänen taiteensa näyttää alt egonsa.	Hänen taiteensa näyttää sen muuttavaa egoa.
+
+comp_adj	27	The 64-year-old Uniondale resident attempted to defend himself with a vacuum clean hose.	The 64-year-old Uniondale resident attempted to defend himself with a vacuum cleaner hose.
+NICT.5658	Right feature not found	64-vuotias Uniondale-asukas yritti puolustautua tyhjiöpuhtaalla hihnalla.	64-vuotias Uniondale-asukas yritti puolustautua pölynimurilla.
+
+comp_adj	3052	Pink has also led the charge to overthrow another postwar intellectual orthodoxy.	Pinker has also led the charge to overthrow another postwar intellectual orthodoxy.
+NICT.5658	Right feature not found	Vaaleanpunainen on johtanut siihen, että syyte on kaatanut myös toisen jälki-älyllisen oikeaoppisuuden.	Pinker on johtanut syytteen myös toisen jälki-älyllisen oikeaoppisuuden kaatamiseen.
+
+comp_adj	341	Graunke is "a game," Jones said.	Graunke is "a gamer," Jones said.
+NICT.5658	Both features not found	Graunke on "peli," Jones sanoi.	Graunke on "gamer," Jones sanoi.
+
+comp_adj	718	A sharp ground by Amaris Ramirez became a double play.	A sharp grounder by Amaris Ramirez became a double play.
+NICT.5658	Both features not found	Amaris Ramirezin terävästä maasta tuli kaksinpeli.	Amaris Ramirezin terävästä porukasta tuli kaksinpeli.
+
+comp_adj	807	Old people with dementia are particularly vulnerable.	Older people with dementia are particularly vulnerable.
+NICT.5658	Identical	Dementiaa sairastavat vanhukset ovat erityisen haavoittuvaisia.	Dementiaa sairastavat vanhukset ovat erityisen haavoittuvaisia.
+
+det_poss	10394	So why not give the credit?	So why not give her credit?
+NICT.5658	Right feature not found	Miksi emme siis antaisi luottoa?	Miksi emme siis antaisi hänelle kunniaa?
+
+that_if	151	And I have said that many times.	And I have asked if many times.
+NICT.5658	Left feature not found	Ja olen sanonut sen monta kertaa.	Ja olen kysynyt, onko monta kertaa.
+
+that_if	234	Hamas says that the meetings are pointless and that Israel is insincere.	Hamas asks if the meetings are pointless and that Israel is insincere.
+NICT.5658	Left feature not found	Hamas sanoo, että tapaamiset ovat turhia ja että Israel on mieletön.	Hamas kysyy, ovatko tapaamiset turhia ja että Israel on mieletön.
+
+that_if	249	We have said that all along.	We have asked if all along.
+NICT.5658	Left feature not found	Olemme sanoneet tämän koko ajan.	Olemme kysyneet, onko koko ajan.
+
+that_if	669	"" Say that again?	"" Ask if again?
+NICT.5658	Right feature not found	"" Sano, että taas?	"" Kysy, jos taas?
+
+that_if	87	You can say that again, Michael.	You can ask if again, Michael.
+NICT.5658	Both features not found	Sen voi sanoa vielä kerran, Michael.	Voit kysyä, jos taas, Michael.
+
+that_if	90	You can say that again, Mrs. President-Elect.	You can ask if again, Mrs. President-Elect.
+NICT.5658	Both features not found	Voitte sanoa sen vielä kerran, arvoisa puheenjohtaja.	Voitte kysyä vielä kerran, arvoisa puheenjohtaja.
+
+prep_postp	1707	The rifle regulations are not at issue before the Supreme Court.	The rifle regulations are not at issue after the Supreme Court.
+NICT.5658	Left feature not found: no ennen preposition found	Kärppien asetuksista ei ole kyse korkeimmassa oikeudessa.	Kärppien asetuksista ei ole kyse korkeimman oikeuden jälkeen.
+
+prep_postp	1871	The issue has flared up before for Mr. Bloomberg.	The issue has flared up after for Mr. Bloomberg.
+NICT.5658	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Asia on leimahtanut aiemminkin Mr. Bloombergille.	Asia on leimahtanut jälkeen Mr. Bloombergille.
+
+prep_postp	2088	Then we poured good money before bad.	Then we poured good money after bad.
+NICT.5658	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Sitten kaadettiin hyvää rahaa ennen pahaa.	Sitten kaadettiin hyvää rahaa huonon perään.
+
+prep_postp	3128	Before that time, a total of 2,505 individuals started antihypertensive drug treatment.	During that time, a total of 2,505 individuals started antihypertensive drug treatment.
+NICT.5658	Right feature not found: no Gen case found with aikana 	Sitä ennen yhteensä 2 505 yksilöä aloitti antihypertensiivisen lääkehoidon.	Tuona aikana yhteensä 2 505 yksilöä aloitti antihypertensiivisen lääkehoidon.
+
+prep_postp	3337	He will appear before City of Westminster magistrates this morning.	He will appear after City of Westminster magistrates this morning.
+NICT.5658	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Hän esiintyy tänä aamuna Westminsterin kaupungin tuomarien edessä.	Hän esiintyy Westminsterin kaupungin tuomarien jälkeen tänä aamuna.
+
+prep_postp	3641	Who will come before Mr. Mubarak?	Who will come after Mr. Mubarak?
+NICT.5658	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Kuka tulee Mubarakin eteen?	Kuka tulee Mubarakin jälkeen?
+
+prep_postp	3732	Before the same period, Wal-Mart's stock rose 5 percent.	During the same period, Wal-Mart's stock rose 5 percent.
+NICT.5658	Right feature not found: no Gen case found with aikana 	Ennen samaa jaksoa Wal-Martin osake nousi 5 prosenttia.	Samana aikana Wal-Martin osake nousi 5 prosenttia.
+
+prep_postp	3931	She died soon before at a hospital.	She died soon after at a hospital.
+NICT.5658	Left feature not found: no ennen preposition found	Hän kuoli pian aiemmin sairaalassa.	Hän kuoli pian sen jälkeen sairaalassa.
+
+prep_postp	4050	One styled his hair before John Travolta.	One styled his hair after John Travolta.
+NICT.5658	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Yksi tykitti hiuksensa ennen John Travolta.	Yksi tykitti hiuksensa John Travoltan jälkeen.
+
+prep_postp	4104	Blackwater is based in Moyock, N.C. Before dark.	Blackwater is based in Moyock, N.C. After dark.
+NICT.5658	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Blackwater sijaitsee Moyockissa, N.C. ennen pimeää.	Blackwater sijaitsee Moyockissa, N.C. pimeän jälkeen.
+
+local_prep	1032	Use the postform above to describe what your life is like.	Use the postform below to describe what your life is like.
+NICT.5658	Left feature not found: no translation of above found	Käytä yllä olevaa postilomaketta kuvaamaan, millaista elämäsi on.	Käytä alla olevaa postilomaketta kuvaamaan, millaista elämäsi on.
+
+local_prep	1075	Use the comment form above to submit your questions.	Use the comment form below to submit your questions.
+NICT.5658	Left feature not found: no translation of above found	Käytä yllä olevaa kommenttilomaketta kysymysten esittämiseen.	Käytä alla olevaa kommenttilomaketta kysymysten esittämiseen.
+
+local_prep	1139	The room described above costs $200 a night.	The room described below costs $200 a night.
+NICT.5658	Left feature not found: no translation of above found	Edellä kuvattu huone maksaa 200 dollaria yöltä.	Alla kuvattu huone maksaa 200 dollaria yöltä.
+
+local_prep	1203	Check the Antietam Web site (see above) for details.	Check the Antietam Web site (see below) for details.
+NICT.5658	Both features not found: no translation of above and below found	Tutustu Antietam-sivustoon (ks. yllä).	Tutustu Antietam-sivustoon (ks. jäljempänä).
+
+local_prep	1246	Above data does not include any house advertising activity.	Below data does not include any house advertising activity.
+NICT.5658	Left feature not found: no translation of above found	Yllä olevat tiedot eivät sisällä mitään talon mainostoimintaa.	Alla olevat tiedot eivät sisällä mitään talon mainostoimintaa.
+
+local_prep	127	Please use the form above to send us your views.	Please use the form below to send us your views.
+NICT.5658	Left feature not found: no translation of above found	Ole hyvä ja lähetä meille mielipiteesi yllä olevalla lomakkeella.	Ole hyvä ja lähetä meille mielipiteesi alla olevalla lomakkeella.
+
+local_prep	179	That is 9 cents above the record set in May.	That is 9 cents below the record set in May.
+NICT.5658	Left feature not found: no translation of above found	Se on 9 senttiä enemmän kuin toukokuussa asetettu ennätys.	Se on 9 senttiä alle toukokuussa asetetun ennätyksen.
+
+local_prep	261	(The one exception is the provision for credit losses discussed above).	(The one exception is the provision for credit losses discussed below).
+NICT.5658	Both features not found: no translation of above and below found	(Yksi poikkeus on edellä mainittu määräys luottotappioista).	(Yksi poikkeus on luottotappioita koskeva säännös, josta on keskusteltu jäljempänä).
+
+local_prep	569	But its pulse rate stays well above normal (2: 55).	But its pulse rate stays well below normal (2: 55).
+NICT.5658	Both features not found: no translation of above and below found	Mutta sen pulssiaste pysyy selvästi normaalia korkeammalla (2: 55).	Mutta sen pulssiaste pysyy selvästi normaalia alempana (2: 55).
+
+local_prep	804	All endorsements are not created equally (more on that above).	All endorsements are not created equally (more on that below).
+NICT.5658	Left feature not found: no translation of above found	Kaikki endorsements ei ole luotu yhtä (lisää, että edellä).	Kaikki endorsements ei ole luotu yhtä (lisää, että alla).
+
+named_entities	11862	CNN's Gary Tuchman contributed to this report.	CNN-IBN's Gary Tuchman contributed to this report.
+NICT.5658	Right feature not found	CNN: N Gary Tuchman osallistui tähän raporttiin.	CNN-IBN: N Gary Tuchman osallistui tähän raporttiin.
+
+named_entities	29095	For CNN Student News, I am Monica Lloyd.	For CNN-IBN Student News, I am Monica Lloyd.
+NICT.5658	Right feature not found	CNN Student Newsille olen Monica Lloyd.	CNN-IBN Student Newsille olen Monica Lloyd.
+
+named_entities	45615	CNN Correspondent Alphonso Van Marsh contributed to this report.	CNN-IBN Correspondent Alphonso Van Marsh contributed to this report.
+NICT.5658	Right feature not found	CNN Correspondent Alphonso Van Marsh osallistui tähän raporttiin.	CNN-IBN Correspondent Alphonso Van Marsh osallistui tähän raporttiin.
+
+numbers	5450	13, 2007, to discuss Spartech's third quarter 2007 financial results.	13, 1990, to discuss Spartech's third quarter 2007 financial results.
+NICT.5658	Left feature not found	13. kesäkuuta 2007 keskustelemaan Spartechin kolmannen vuosineljänneksen 2007 taloudellisesta tuloksesta.	13. kesäkuuta 1990 keskustelemaan Spartechin kolmannen vuosineljänneksen 2007 taloudellisesta tuloksesta.
+
