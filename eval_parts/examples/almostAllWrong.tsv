@@ -874,18 +874,6 @@ online-B.0	Right feature not found	Valtion virkamiehet sanovat, että ohjelmat e
 online-G.0	Right feature not found	Valtion virkamiehet sanovat, että ohjelmia ei ole rajoitettu pienituloisille asukkaille auttaa heitä kuitenkin.	Valtion virkamiehet kysyä, jos ohjelmia ei ole rajoitettu pienituloisille asukkaille auttaa heitä kuitenkin.
 online-A.0	Right feature not found	Valtion virka miehet sanovat, että ohjelmat eivät rajoitu pienitu loisten asukkaiden auttaa heitä kuitenkin.	Valtion virka miehet kysyvät, jos ohjelmia ei rajoitu pienitu loisten asukkaiden auttaa heitä kuitenkin.
 
-prep_postp	1001	She rubbed her right arm repeatedly before a meeting with reporters on Wednesday.	She rubbed her right arm repeatedly during a meeting with reporters on Wednesday.
-NICT.5658	Correct: no aikana postposition found Ess found	Hän hieroi oikean käsivartensa toistuvasti ennen keskiviikkoista tapaamista toimittajien kanssa.	Hän hieroi oikeaa käsivarsiaan toistuvasti tavatessaan toimittajia keskiviikkona.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Hän haukkui oikean käden toistuvasti ennen keskiviikkona pidettyä tapaamista toimittajien kanssa.	Hän haukkui oikeaa käsivarttaan toistuvasti tavatessaan toimittajia keskiviikkona.
-uedin.5707	Right feature not found: no aikana postposition found 	Hän raivasi oikean kätensä toistuvasti ennen tapaamista toimittajien kanssa keskiviikkona.	Hän raivasi oikean kätensä toistuvasti tapaamisessa toimittajien kanssa keskiviikkona.
-Aalto.5550	Both features not found: no nouns found with ennen no aikana postposition found 	Hän hieroi hänen oikea käsivarsi toistuvasti ennen tapaaminen toimittajien keskiviikkona.	Hän hieroi hänen oikea käsivarsi toistuvasti tapaaminen toimittajien keskiviikkona.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no aikana postposition found 	Hän hieroi oikeaa käsivarttaan toistuvasti ennen toimittajien tapaamista keskiviikkona.	Hän hieroi oikeaa käsivarttaan toistuvasti tavatessaan toimittajia keskiviikkona.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Hän hieroi oikean kätensä toistuvasti ennen tapaamista toimittajien kanssa keskiviikkona.	Hän hieroi oikean kätensä toistuvasti kokouksessa toimittajien kanssa keskiviikkona.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Hän hieroi oikeaa kättään toistuvasti ennen toimittajien tapaamista keskiviikkona.	Hän hieroi oikeaa kättään toistuvasti toimittajien kanssa keskiviikkona pidetyssä kokouksessa.
-online-B.0	Correct: no aikana postposition found Ess found	Hän hieroi oikeaa kättä toistuvasti ennen keskiviikon tapaamista toimittajien kanssa.	Hän hieroi oikeaa kättä toistuvasti keskiviikkona toimittajien kanssa pidetyssä kokouksessa.
-online-G.0	Right feature not found: no aikana postposition found 	Hän hieroi hänen oikea käsivarsi toistuvasti ennen kokousta, jossa toimittajat keskiviikkona.	Hän hieroi hänen oikea käsivarsi toistuvasti kanssa pidetyssä kokouksessa toimittajille keskiviikkona.
-online-A.0	Right feature not found: no aikana postposition found 	Hän hieroi hänen oikea käsi toistuvasti ennen kokousta toimittajille Keski viikkona.	Hän hieroi hänen oikea käsi toistuvasti koko uksessa toimittajille Keski viikkona.
-
 prep_postp	1085	He is due to appear before the city's magistrates court on Friday.	He is due to appear after the city's magistrates court on Friday.
 NICT.5658	Left feature not found: no ennen preposition found	Hänen on määrä esiintyä kaupungin tuomarituomioistuimessa perjantaina.	Hänen on määrä esiintyä kaupungin tuomarituomioistuimen jälkeen perjantaina.
 HY-NMT-en-fi.5570	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Hänen on määrä saapua perjantaina kaupungin tuomarien eteen.	Hänen on määrä saapua perjantaina kaupungin maistraattien tuomarin virkaan.
@@ -922,18 +910,6 @@ online-B.0	Right feature not found: no jälkeen/kuluttua postposition found 	Se 
 online-G.0	Left feature not found: no nouns found with ennen 	Se voi tulla, ennen kuin kaupungin johtajat keskiviikkona.	Se voisi tulla sen jälkeen, kun kaupungin johtajat keskiviikkona.
 online-A.0	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Se voisi tulla ennen kaupungin johtajien Keski viikkona.	Se voisi tulla, kun kaupungin johtajien Keski viikkona.
 
-prep_postp	1139	They spoke before meeting with President Gen. Pervez Musharraf.	They spoke after meeting with President Gen. Pervez Musharraf.
-NICT.5658	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen tapaamista presidentti Gen. Pervez Musharrafin kanssa.	He puhuivat tavattuaan presidentti Gen. Pervez Musharrafin.
-HY-NMT-en-fi.5570	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen tapaamistaan presidentti Gen. Pervez Musharrafin kanssa.	He puhuivat tavattuaan presidentti Gen. Pervez Musharrafin.
-uedin.5707	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen tapaamista presidentti Gen. Pervez Musharrafin kanssa.	He puhuivat tavattuaan presidentti Gen. Pervez Musharrafin.
-Aalto.5550	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen tapaamista presidentti Pervez Musharrafin kanssa.	He puhuivat tavattuaan presidentti Pervez Musharrafin.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen presidentti Gen. Pervez Musharrafin tapaamista.	He puhuivat tavattuaan presidentti Gen. Pervez Musharrafin.
-CUNI-Kocmi.5620	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen tapaamista presidentti Gen. Pervez Musharraf.	He keskustelivat tavattuaan presidentti Genin. Pervez Musharrafin.
-talp-upc.5424	Right feature not found: no jälkeen/kuluttua postposition found 	He puhuivat ennen tapaamista presidentti Gen. Pervez Musharrafin kanssa.	He puhuivat tavattuaan presidentti Gen. Pervez Musharrafin.
-online-B.0	Correct	He puhuivat ennen tapaamista presidentti Pervez Musharrafin kanssa.	He puhuivat tapaamisen jälkeen presidentti Pervez Musharrafin kanssa.
-online-G.0	Right feature not found: no nouns found with jälkeen/kuluttua 	He puhuivat ennen kokousta Presidentti Kenraali Pervez Musharraf.	He puhuivat jälkeen tapaaminen Presidentti Kenraali Pervez Musharraf.
-online-A.0	Correct	He puhuivat ennen kokousta presidentti kenraali Pervez Musharrafin kanssa.	He puhuivat koko uksen jälkeen presidentti kenraali Pervez Musharrafin kanssa.
-
 prep_postp	1235	Here are tips for preserving relationships before your getaway.	Here are tips for preserving relationships during your getaway.
 NICT.5658	Correct	Tässä vinkkejä parisuhteiden säilyttämiseen ennen maihinnousua.	Tässä vinkkejä suhteiden säilyttämiseen maihinnousun aikana.
 HY-NMT-en-fi.5570	Right feature not found: no nouns found with aikana 	Tässä vinkkejä parisuhteen säilyttämiseen ennen getaway-matkaa.	Tässä vinkkejä parisuhteen säilyttämiseen getaway aikana.
@@ -946,42 +922,6 @@ online-B.0	Correct	Tässä on vinkkejä suhteiden säilymiseen ennen matkaa.	Tä
 online-G.0	Both features not found: no Par case found after ennen no nouns found with ennen no nouns found with aikana 	Tässä vinkkejä säilyttää suhteet ennen kuin pako.	Tässä vinkkejä säilyttää suhteet aikana getaway.
 online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no Gen case found with aikana 	Tässä on vinkkejä säilyttää suhteita ennen pako.	Tässä on vinkkejä säilyttää suhteet aikana Getaway.
 
-prep_postp	1323	Both sales were closed before the fourth quarter of 2006.	Both sales were closed during the fourth quarter of 2006.
-NICT.5658	Right feature not found: no aikana postposition found 	Molempien myynti lopetettiin ennen vuoden 2006 neljättä neljännestä.	Molempien myynti lopetettiin vuoden 2006 neljännellä neljänneksellä.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Molempien myynti päättyi ennen vuoden 2006 viimeistä neljännestä.	Molempien myynti päättyi vuoden 2006 viimeisellä neljänneksellä.
-uedin.5707	Right feature not found: no aikana postposition found 	Molempien myynti lopetettiin ennen vuoden 2006 neljättä neljännestä.	Molempien myynti lopetettiin vuoden 2006 neljännellä neljänneksellä.
-Aalto.5550	Right feature not found: no aikana postposition found 	Molempien myynti päättyi ennen vuoden 2006 neljättä vuosineljännestä.	Molempien myynti päättyi vuoden 2006 viimeisellä neljänneksellä.
-HY-NMTtwostep-en-fi.5639	Correct	Molempien myynti päättyi ennen vuoden 2006 viimeistä neljännestä.	Molempien myynti päättyi vuoden 2006 viimeisen neljänneksen aikana.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Molemmat myynti lopetettiin ennen vuoden 2006 neljättä neljännestä.	Molemmat myynti lopetettiin vuoden 2006 viimeisellä neljänneksellä.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Molemmat myynti päättyi ennen vuoden 2006 neljättä neljännekseen.	Kumpikin myynti päättyi vuoden 2006 neljännellä neljänneksellä.
-online-B.0	Right feature not found: no aikana postposition found 	Sekä myynti lopetettiin ennen vuoden 2006 viimeistä neljännestä.	Sekä myynti lopetettiin vuoden 2006 viimeisellä neljänneksellä.
-online-G.0	Left feature not found: no nouns found with ennen no aikana postposition found Ess found	Sekä liikevaihto oli suljettu ennen vuoden 2006 viimeisellä neljänneksellä.	Sekä liikevaihto oli suljettuna vuoden 2006 viimeisellä neljänneksellä.
-online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Molemmat myynti päättyi ennen neljännen neljänneksen 2006.	Molemmat myynti päättyi vuoden viimeisellä neljänneksellä 2006.
-
-prep_postp	1376	Fred Thompson appears on stage before last week's GOP presidential debate.	Fred Thompson appears on stage during last week's GOP presidential debate.
-NICT.5658	Right feature not found: no aikana postposition found 	Fred Thompson esiintyy lavalla ennen viime viikon GOP-presidenttikeskustelua.	Fred Thompson esiintyy lavalla viime viikon GOP: N presidenttikeskustelussa.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Fred Thompson esiintyy näyttämöllä ennen viime viikon GP:n presidenttikeskustelua.	Fred Thompson esiintyy näyttämöllä viime viikon GOP:n presidenttikeskustelussa.
-uedin.5707	Right feature not found: no aikana postposition found 	Fred Thompson esiintyy näyttämöllä ennen viime viikon GOP-presidenttikeskustelua.	Fred Thompson esiintyy näyttämöllä viime viikon GOP-presidenttikeskustelussa.
-Aalto.5550	Both features not found: no ennen preposition foundno aikana postposition found 	Fred Thompson esiintyy toissa viikolla GOP:n presidenttiväittelyssä.	Fred Thompson esiintyy näyttämöllä viime viikon GOP:n presidenttiväittelyssä.
-HY-NMTtwostep-en-fi.5639	Correct	Fred Thompson esiintyy näyttämöllä ennen viime viikolla käytyä GOP presidenttiväittelyä.	Fred Thompson esiintyy näyttämöllä viime viikon GOP presidenttiväittelyn aikana.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Fred Thompson ilmestyy lavalle ennen viime viikon GOP:n presidentinkeskustelua.	Fred Thompson on näyttämöllä viime viikon GOP:n presidenttikeskustelussa.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Fred Thompson on näyttämöllä ennen viime viikon GOP presidenttikeskustelua.	Fred Thompson on näyttämöllä viime viikon GOP presidentinvaalissa.
-online-B.0	Right feature not found: no aikana postposition found 	Fred Thompson esiintyy lavalla ennen viime viikon GOP: n presidentinvaaleja.	Fred Thompson esiintyy lavalla viime viikon GOP: n presidentinvaihdossa.
-online-G.0	Both features not found: no nouns found with ennen no aikana postposition found 	Fred Thompson näyttää lavalla ennen viime viikon GOP presidentin keskustelu.	Fred Thompson näyttää lavalla viime viikon GOP presidentin keskustelu.
-online-A.0	Both features not found: no nouns found with ennen no aikana postposition found 	Fred Thompson ilmestyy lavalle ennen viime viikon GOP presidentin keskustelu.	Fred Thompson näkyy lavalla viime viikon GOP presidentin keskustelu.
-
-prep_postp	1418	Before answering, he laughed at the question.	After answering, he laughed at the question.
-NICT.5658	Both features not found: no Par case found after ennen no nouns found with ennen no jälkeen/kuluttua postposition found 	Ennen kuin hän vastasi, hän nauroi kysymykselle.	Vastattuaan hän nauroi kysymykselle.
-HY-NMT-en-fi.5570	Left feature not found: no Par case found after ennen no nouns found with ennen 	Ennen kuin hän vastasi, hän nauroi kysymykselle.	Vastauksensa jälkeen hän nauroi kysymykselle.
-uedin.5707	Both features not found: no Par case found after ennen no nouns found with ennen no jälkeen/kuluttua postposition found 	Ennen kuin vastasi, hän nauroi kysymykseen.	Vastattuaan hän nauroi kysymykseen.
-Aalto.5550	Correct	Ennen vastausta hän nauroi kysymykselle.	Vastaamisen jälkeen hän nauroi kysymykselle.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no jälkeen/kuluttua postposition found 	Ennen vastaamista hän nauroi kysymykselle.	Vastattuaan hän nauroi kysymykselle.
-CUNI-Kocmi.5620	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Ennen kuin hän vastasi, hän nauroi kysymykseen.	Kun hän vastasi, hän nauroi kysymykseen.
-talp-upc.5424	Both features not found: no Par case found after ennen no nouns found with ennen no jälkeen/kuluttua postposition found 	Ennen kuin hän vastasi, hän nauroi kysymykseen.	Vastattuaan hän nauroi kysymykseen.
-online-B.0	Correct	Ennen vastausta hän nauroi kysymykseen.	Vastauksen jälkeen hän nauroi kysymykseen.
-online-G.0	Right feature not found: no jälkeen/kuluttua postposition found 	Ennen vastaamista, hän nauroi kysymys.	Kun vastaat, hän nauroi kysymys.
-online-A.0	Right feature not found: no jälkeen/kuluttua postposition found 	Ennen vastaamista hän nauroi kysymykseen.	Kun vastaat, hän nauroi kysymykseen.
-
 prep_postp	1488	Craig did not attend Wednesday's hearing in Minneapolis before Porter.	Craig did not attend Wednesday's hearing in Minneapolis after Porter.
 NICT.5658	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon tilaisuuteen Minneapolisissa ennen Porteria.	Craig ei osallistunut keskiviikon tilaisuuteen Minneapolisissa Porterin jälkeen.
 HY-NMT-en-fi.5570	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon kuulemistilaisuuteen Minneapolisissa ennen Porteria.	Craig ei osallistunut keskiviikon kuulemistilaisuuteen Minneapolisissa Porterin jälkeen.
@@ -993,66 +933,6 @@ talp-upc.5424	Both features not found: no nouns found with ennen no nouns found 
 online-B.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon kuulemiseen Minneapolisissa ennen Porteria.	Craig ei osallistunut keskiviikon kuulemiseen Minneapolisissa Porterin jälkeen.
 online-G.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon kuulemistilaisuudessa Minneapolis, ennen kuin Porter.	Craig ei osallistunut keskiviikon kuulemistilaisuudessa Minneapolis jälkeen Porter.
 online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Craig ei osallistunut Keski viikkona pidetyssä istunnossa Minneapolisissa ennen Porter.	Craig ei osallistunut Keski viikkona istuntoon Minneapolis jälkeen Porter.
-
-prep_postp	1770	FDA advisers are to take up the issue before an October 18-19 meeting.	FDA advisers are to take up the issue during an October 18-19 meeting.
-NICT.5658	Right feature not found: no aikana postposition found 	FDA: N neuvonantajien on määrä ottaa asia esille ennen 18. ja 19. lokakuuta pidettävää kokousta.	FDA: N neuvonantajien on määrä ottaa asia esille 18.-19. lokakuuta pidettävässä kokouksessa.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	FDA:n neuvonantajien on määrä ottaa asia esille ennen lokakuun 18-19 kokousta.	FDA:n neuvonantajien on määrä ottaa asia esille lokakuun 18-19 kokouksessa.
-uedin.5707	Right feature not found: no aikana postposition found 	FDA:n neuvonantajien on määrä ottaa asia esille ennen lokakuun 18-19 kokousta.	FDA:n neuvonantajien on määrä ottaa asia esille lokakuun 18-19 kokouksessa.
-Aalto.5550	Right feature not found: no aikana postposition found 	FDA:n neuvonantajien on määrä ottaa asia esille ennen lokakuun 18-19 kokousta.	FDA:n neuvonantajien on määrä ottaa asia esille lokakuun 18-19 kokouksessa.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no aikana postposition found 	FDA:n neuvonantajien on tarkoitus ottaa asia esille ennen lokakuun 18-19. päivän kokousta.	FDA:n neuvonantajat aikovat ottaa asian esille lokakuun 18-19. päivän kokouksessa.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	FDA:n neuvonantajat ottavat asian esille ennen 18.-19. lokakuuta pidettävää kokousta.	FDA:n neuvonantajat ottavat asian esille 18.-19. lokakuuta pidettävässä kokouksessa.
-talp-upc.5424	Right feature not found: no aikana postposition found 	FDA: N neuvonantajien on määrä käsitellä asia ennen 18. ja 19. lokakuuta pidettävää kokousta.	FDA: N neuvonantajien on määrä käsitellä asiaa 18.-19. lokakuuta pidettävässä kokouksessa.
-online-B.0	Correct	FDA: n neuvonantajat käsittelevät asiaa ennen 18-19. Lokakuuta pidettyä kokousta.	FDA: n neuvonantajat käsittelevät kysymystä 18-19. Lokakuuta pidetyn kokouksen aikana.
-online-G.0	Both features not found: no Par case found after ennen no nouns found with ennen no nouns found with aikana 	FDA: n neuvojat ovat ottaa puheeksi ennen lokakuun 18. ja 19. kokouksessa.	FDA: n neuvojat ovat ottaa puheeksi aikana 18. ja 19. lokakuuta kokouksessa.
-online-A.0	Both features not found: no nouns found with ennen no nouns found with aikana 	FDA neuvonantajat ovat ottamaan asian ennen loka kuun 18-19 koko uksessa.	FDA neuvonantajat ovat ottamaan asian aikana loka kuun 18-19 koko uksessa.
-
-prep_postp	2057	Former U.N. Secretary-General Kofi Annan announced the award before a ceremony in London.	Former U.N. Secretary-General Kofi Annan announced the award during a ceremony in London.
-NICT.5658	Right feature not found: no aikana postposition found 	YK: N entinen pääsihteeri Kofi Annan ilmoitti palkinnosta ennen Lontoossa järjestettyä seremoniaa.	YK: N entinen pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoossa järjestetyssä tilaisuudessa.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Entinen YK:n pääsihteeri Kofi Annan ilmoitti palkinnosta ennen Lontoossa järjestettävää seremoniaa.	Entinen YK:n pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoossa järjestetyssä tilaisuudessa.
-uedin.5707	Right feature not found: no aikana postposition found 	Entinen YK:n pääsihteeri Kofi Annan ilmoitti palkinnosta ennen seremoniaa Lontoossa.	Entinen YK:n pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoossa järjestetyssä tilaisuudessa.
-Aalto.5550	Right feature not found: no aikana postposition found 	Yhdysvaltain entinen pääsihteeri Kofi Annan ilmoitti palkinnosta ennen Lontoossa pidettävää seremoniaa.	Yhdysvaltain entinen pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoossa pidetyssä tilaisuudessa.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no aikana postposition found 	Entinen YK:n pääsihteeri Kofi Annan ilmoitti palkinnosta ennen seremoniaa Lontoossa.	YK:n entinen pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoossa järjestetyssä tilaisuudessa.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Entinen YK:n pääsihteeri Kofi Annan julkisti palkinnon ennen Lontoossa järjestettävää seremoniaa.	Entinen YK:n pääsihteeri Kofi Annan julkisti palkinnon Lontoossa järjestetyssä tilaisuudessa.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Entinen YK: N pääsihteeri Kofi Annan ilmoitti palkinnosta ennen Lontoossa järjestettävää seremoniaa.	Entinen YK: N pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoossa pidetyssä tilaisuudessa.
-online-B.0	Right feature not found: no aikana postposition found 	Entinen pääsihteeri Kofi Annan ilmoitti palkinnon ennen Lontoon seremoniaa.	Entinen pääsihteeri Kofi Annan ilmoitti palkinnosta Lontoon seremoniassa.
-online-G.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Entinen Yk: n Pääsihteeri Kofi Annan ilmoitti palkinnon ennen seremonia Lontoossa.	Entinen Yk: n Pääsihteeri Kofi Annan ilmoitti palkinnon aikana seremonia Lontoossa.
-online-A.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Entinen YK pääsihteeri Kofi Annan ilmoitti palkinnon ennen seremonia Lontoossa.	Entinen YK pääsihteeri Kofi Annan ilmoitti palkinnon aikana seremonia Lontoossa.
-
-prep_postp	2120	A building engineer was killed before a freak elevator accident in 2005.	A building engineer was killed during a freak elevator accident in 2005.
-NICT.5658	Both features not found: no nouns found with ennen no aikana postposition found 	Rakennusinsinööri sai surmansa ennen freak-hissionnettomuutta vuonna 2005.	Rakennusinsinööri sai surmansa freak-hissionnettomuudessa vuonna 2005.
-HY-NMT-en-fi.5570	Both features not found: no nouns found with ennen no aikana postposition found 	Rakennusinsinööri kuoli ennen freak-hissionnettomuutta vuonna 2005.	Rakennusinsinööri kuoli freak-hissionnettomuudessa vuonna 2005.
-uedin.5707	Both features not found: no nouns found with ennen no aikana postposition found 	Rakennusinsinööri kuoli ennen freak-hissionnettomuutta vuonna 2005.	Rakennusinsinööri kuoli freak-hissionnettomuudessa vuonna 2005.
-Aalto.5550	Right feature not found: no aikana postposition found 	Rakennusinsinööri kuoli ennen freak Hissi -onnettomuutta vuonna 2005.	Rakennusinsinööri kuoli freak Hissi -onnettomuudessa vuonna 2005.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no aikana postposition found 	Rakennusinsinööri kuoli ennen Freakin hissionnettomuutta vuonna 2005.	Rakennusinsinööri kuoli Freakin hissionnettomuudessa vuonna 2005.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Rakennusinsinööri surmattiin ennen freak-hissin onnettomuutta vuonna 2005.	Rakennusinsinööri kuoli freak-hissilaitoksessa vuonna 2005.
-talp-upc.5424	Both features not found: no nouns found with ennen no aikana postposition found 	Rakennusinsinööri kuoli ennen freak-hissiä vuonna 2005.	Kiinteistöinsinööri kuoli freak-hissin onnettomuudessa vuonna 2005.
-online-B.0	Correct	Rakennusinsinööri tapettiin ennen hirvieläinten onnettomuutta vuonna 2005.	Rakennusinsinööri tapettiin surmansaajon onnettomuuden aikana vuonna 2005.
-online-G.0	Both features not found: no nouns found with ennen no aikana postposition found 	Rakennus-insinööri kuoli ennen kuin friikki, hissi onnettomuus vuonna 2005.	Rakennus insinööri sai surmansa friikki, hissi onnettomuus vuonna 2005.
-online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Rakennus insinööri kuoli ennen friikki Hissi onnettomuus 2005.	Rakennus insinööri kuoli friikki Hissi onnettomuuden 2005.
-
-prep_postp	2305	The announcements were made before a meeting with analysts and investors on Monday.	The announcements were made during a meeting with analysts and investors on Monday.
-NICT.5658	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen analyytikoiden ja sijoittajien tapaamista maanantaina.	Ilmoitukset tehtiin analyytikoiden ja sijoittajien tapaamisessa maanantaina.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen analyytikoiden ja sijoittajien tapaamista maanantaina.	Ilmoitukset tehtiin maanantaina analyytikoiden ja sijoittajien kanssa pidetyssä kokouksessa.
-uedin.5707	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen tapaamista analyytikoiden ja sijoittajien kanssa maanantaina.	Ilmoitukset tehtiin analyytikoiden ja sijoittajien tapaamisessa maanantaina.
-Aalto.5550	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen analyytikoiden ja sijoittajien tapaamista maanantaina.	Ilmoitukset tehtiin analyytikkojen ja sijoittajien tapaamisessa maanantaina.
-HY-NMTtwostep-en-fi.5639	Correct	Ilmoitukset tehtiin ennen kokousta analyytikkojen ja sijoittajien kanssa maanantaina.	Ilmoitukset tehtiin analyytikkojen ja sijoittajien tapaamisen aikana maanantaina.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen maanantaina kokousta analyytikkojen ja sijoittajien kanssa.	Ilmoitukset tehtiin kokouksessa analyytikkojen ja sijoittajien kanssa maanantaina.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Ilmoitukset annettiin ennen maanantaina pidettyä kokousta analyytikoiden ja sijoittajien kanssa.	Ilmoitukset annettiin maanantaina pidetyssä kokouksessa analyytikoiden ja sijoittajien kanssa.
-online-B.0	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen analyytikoille ja sijoittajille järjestettyä tapaamista maanantaina.	Ilmoitukset tehtiin analyytikoiden ja sijoittajien kanssa pidetyssä kokouksessa maanantaina.
-online-G.0	Correct	Ilmoitukset tehtiin ennen kokousta, analyytikoille ja sijoittajille maanantaina.	Ilmoitukset tehtiin kokouksen aikana analyytikoille ja sijoittajille maanantaina.
-online-A.0	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen kokousta analyytikkojen ja sijoittajien maanantaina.	Ilmoitukset tehtiin koko uksessa analyytikkojen ja sijoittajien maanantaina.
-
-prep_postp	2311	You saw some of that before Thomas' confirmation hearing.	You saw some of that during Thomas' confirmation hearing.
-NICT.5658	Right feature not found: no aikana postposition found 	Näitte osan siitä ennen Thomasin vahvistuskuulemista.	Näitte osan siitä Thomasin vahvistuskuulemistilaisuudessa.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Näit osan tästä ennen Thomasin vahvistusta.	Tämän huomasi Thomasin vahvistuksen kuulemistilaisuudessa.
-uedin.5707	Correct	Näitte osan siitä ennen Thomasin vahvistuksen kuulemista.	Näitte sen Thomasin vahvistuskuulemisen aikana.
-Aalto.5550	Correct	Näitte joitakin niistä ennen Thomasin vahvistuskuulemista.	Näitte joitakin niistä Thomasin vahvistuskuulemisen aikana.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no nouns found with aikana 	Näitte jotain siitä ennen Thomasin vahvistuksen kuulemista.	Näitte jotain siitä Thomasin vahvistuksen aikana.
-CUNI-Kocmi.5620	Both features not found: no nouns found with ennen no aikana postposition found 	Näitte siitä osan ennen Thomasin vahvistuskustelua.	Näitte siitä osan Thomasin vahvistuksen yhteydessä järjestetyssä kuulemistilaisuudessa.
-talp-upc.5424	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Näitte osan tästä, ennen kuin Tuomas kuuli asian.	Näitte osan tästä Tuomasin vahvistuskokouksessa.
-online-B.0	Right feature not found: no aikana postposition found 	Näit jonkin verran ennen Thomasin kuulemista.	Näit jonkin verran tuosta Thomasin vahvistuksen kuulemisesta.
-online-G.0	Both features not found: no nouns found with ennen no Gen case found with aikana 	Näit vähän ennen Thomas' vahvistus kuulo.	Olet nähnyt joitakin, että aikana Thomas' vahvistus kuulo.
-online-A.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Näit joitakin että ennen Thomas ' vahvistuksen istunnossa.	Näit joitakin että aikana Thomas ' vahvistuksen istunnossa.
 
 prep_postp	2323	The woman is expected to appear before a magistrate on Monday.	The woman is expected to appear after a magistrate on Monday.
 NICT.5658	Left feature not found: no ennen preposition found	Naisen odotetaan saapuvan tuomarin eteen maanantaina.	Naisen odotetaan ilmestyvän tuomaroinnin jälkeen maanantaina.
@@ -1078,18 +958,6 @@ online-B.0	Correct	Nyt he vain kumartuvat ennen rahaa.	Nyt he vain kumartuvat ra
 online-G.0	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Nyt he vain kumartaa rahaa.	Nyt he vain keula alas, kun rahaa.
 online-A.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Nyt ne vain kumartavat ennen rahaa.	Nyt ne vain kumarra jälkeen rahaa.
 
-prep_postp	2778	Arroyo said before the briefing.	Arroyo said during the briefing.
-NICT.5658	Right feature not found: no aikana postposition found 	Arroyo sanoi ennen tiedotustilaisuutta.	Arroyo sanoi tiedotustilaisuudessa.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Arroyo sanoi ennen tiedotustilaisuutta.	Arroyo sanoi tiedotustilaisuudessa.
-uedin.5707	Right feature not found: no aikana postposition found 	Arroyo sanoi ennen tiedotustilaisuutta.	Arroyo sanoi tiedotustilaisuudessa.
-Aalto.5550	Right feature not found: no aikana postposition found 	Arroyo kertoi ennen tiedotustilaisuutta.	Arroyo kertoi tiedotustilaisuudessa.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no aikana postposition found 	Arroyo kertoi asiasta ennen tiedotustilaisuutta.	Arroyo kertoi asiasta tiedotustilaisuudessa.
-CUNI-Kocmi.5620	Right feature not found: no nouns found with aikana 	Arroyo sanoi ennen tiedotustilaisuutta.	Arroyo sanoi aikana tiedotustilaisuuden.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Arroyo sanoi ennen tiedotustilaisuutta.	Arroyo sanoi tiedotustilaisuudessa.
-online-B.0	Correct	Arroyo sanoi ennen tiedotustilaisuutta.	Arroyo sanoi tiedotustilaisuuden aikana.
-online-G.0	Right feature not found: no nouns found with aikana 	Arroyo sanoi ennen kokousta.	Arroyo sanoi aikana tiedotustilaisuuden.
-online-A.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Arroyo sanoi ennen tiedotus tilaisuudessa.	Arroyo sanoi aikana tiedotus tilaisuudessa.
-
 prep_postp	2921	Indiana celebrates Lincoln's birthday on the day before Thanksgiving.	Indiana celebrates Lincoln's birthday on the day after Thanksgiving.
 NICT.5658	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Indiana juhlii Lincolnin syntymäpäivää Thanksantia edeltävänä päivänä.	Indiana juhlii Lincolnin syntymäpäivää Thanksdingin jälkeisenä päivänä.
 HY-NMT-en-fi.5570	Left feature not found: no ennen preposition found	Indiana viettää Lincolnin syntymäpäivää kiitospäivää edeltävänä päivänä.	Indiana viettää Lincolnin syntymäpäivää kiitospäivän jälkeen.
@@ -1113,30 +981,6 @@ talp-upc.5424	Left feature not found: no ennen preposition found	Silmiemme edess
 online-B.0	Correct	Asiat on rakennettu kirjaimellisesti ennen silmiämme.	Asiat rakentaa kirjaimellisesti silmämme jälkeen.
 online-G.0	Left feature not found: no ennen preposition found	Asiat ovat kirjaimellisesti rakennetaan silmiemme edessä.	Asiat ovat kirjaimellisesti rakennetaan sen jälkeen, kun silmämme.
 online-A.0	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Asiat ovat kirjaimellisesti rakennetaan silmiemme edessä.	Asiat ovat kirjaimellisesti rakennetaan jälkeen silmämme.
-
-prep_postp	3080	Bernanke offered no hints before a speech in Germany on Tuesday.	Bernanke offered no hints during a speech in Germany on Tuesday.
-NICT.5658	Right feature not found: no aikana postposition found 	Bernanke ei tarjonnut vihjeitä ennen tiistaina Saksassa pidettyä puhetta.	Bernanke ei tarjonnut vihjeitä Saksassa tiistaina pitämässään puheessa.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Bernanke ei antanut vihjeitä ennen tiistaina Saksassa pitämäänsä puhetta.	Bernanke ei antanut vihjeitä puheessaan Saksassa tiistaina.
-uedin.5707	Right feature not found: no aikana postposition found 	Bernanke ei tarjonnut vihjettä ennen puhetta Saksassa tiistaina.	Bernanke ei tarjonnut vihjeitä Saksassa tiistaina pitämässään puheessa.
-Aalto.5550	Right feature not found: no aikana postposition found 	Bernanken ei tarjonnut vihjeitä ennen puhetta Saksassa tiistaina.	Bernanken ei tarjonnut vihjeitä Saksassa tiistaina pitämässään puheessa.
-HY-NMTtwostep-en-fi.5639	Correct	Bernanke ei tarjonnut vihjeitä ennen Saksassa tiistaina pitämiään puhetta.	Bernanke ei tarjonnut vihjeitä puheen aikana Saksassa tiistaina.
-CUNI-Kocmi.5620	Right feature not found: no aikana postposition found 	Bernanke ei antanut vihjeitä ennen puhetta Saksassa tiistaina.	Bernanke ei antanut vihjeitä Saksassa tiistaina pitämässään puheessa.
-talp-upc.5424	Both features not found: no nouns found with ennen no nouns found with aikana 	Bernanke tarjosi mitään vihjeitä ennen puheen Saksassa tiistaina.	Bernanke tarjosi mitään vihjeitä puheen aikana Saksassa tiistaina.
-online-B.0	Left feature not found: no Par case found after ennen no nouns found with ennen no aikana postposition found Ess found	Bernanke ei tarjonnut vihjeitä ennen Saksan puheen tiistaina.	Bernanke ei tarjonnut vihjeitä tiistaina pidetyssä puheessa Saksassa.
-online-G.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Bernanke ei tarjonnut vihjeitä ennen puheen Saksassa tiistaina.	Bernanke ei tarjonnut vihjeitä aikana puheen Saksassa tiistaina.
-online-A.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Bernanke tarjosi mitään vinkkejä ennen puhetta Saksassa tiistaina.	Bernanke tarjosi mitään vinkkejä aikana puhetta Saksassa tiistaina.
-
-prep_postp	3193	Gambari's visit comes before a precarious diplomatic situation in Myanmar.	Gambari's visit comes during a precarious diplomatic situation in Myanmar.
-NICT.5658	Correct	Gambarin vierailu tulee ennen epävarmaa diplomaattista tilannetta Myanmarissa.	Gambarin vierailu tapahtuu epävarman diplomaattisen tilanteen aikana Myanmarissa.
-HY-NMT-en-fi.5570	Both features not found: no ennen preposition foundno aikana postposition found 	Gambarin vierailu osuu Myanmarin epävarmaan diplomaattiseen tilanteeseen.	Gambarin vierailu tapahtuu Myanmarin epävarmassa diplomaattisessa tilanteessa.
-uedin.5707	Both features not found: no ennen preposition foundno aikana postposition found 	Gambarin vierailu osuu Myanmarin epävarmaan diplomaattiseen tilanteeseen.	Gambarin vierailu osuu epävarmaan diplomaattiseen tilanteeseen Myanmarissa.
-Aalto.5550	Right feature not found: no aikana postposition found 	Gambarin vierailu tulee ennen epävarmaa diplomaattista tilannetta Myanmarissa.	Gambarin vierailu ajoittuu epävarmaan diplomaattiseen tilanteeseen Myanmarissa.
-HY-NMTtwostep-en-fi.5639	Left feature not found: no ennen preposition found	Gambarin vierailua edeltää epävarma diplomaattinen tilanne Myanmarissa.	Gambarin vierailun aikana Myanmarissa vallitsee epävarma diplomaattinen tilanne.
-CUNI-Kocmi.5620	Both features not found: no ennen preposition foundno aikana postposition found 	Gambarin vierailu edeltää Myanmarin epävarmaa diplomaattista tilannetta.	Gambarin vierailu osuu Myanmarin epävarmaan diplomaattiseen tilanteeseen.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Gambarin vierailu sattui ennen Myanmarin epävarmaa diplomaattista tilannetta.	Gambarin vierailu tapahtuu Myanmarin epävarmassa diplomaattisessa tilanteessa.
-online-B.0	Right feature not found: no aikana postposition found 	Gambarin vierailu tulee ennen Myanmarin epävarmaa diplomaattista tilannetta.	Gambarin vierailu tulee Myanmarin epävakaassa diplomaattisessa tilanteessa.
-online-G.0	Left feature not found: no nouns found with ennen 	Gambarin tulee käydä, ennen kuin on epävarma diplomaattinen tilanne Myanmarissa.	Gambarin vierailun aikana tulee epävarma diplomaattinen tilanne Myanmarissa.
-online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Gambarin vierailu on ennen epävarman diplomaattisen tilan teen edessä Myanmarissa.	Gambarin vierailu saapuu Myanmarin epävarmassa diplomaattisessa tilanteessa.
 
 prep_postp	3199	He died on Tuesday, four days before the snake bit him.	He died on Tuesday, four days after the snake bit him.
 NICT.5658	Left feature not found: no nouns found with ennen 	Hän kuoli tiistaina, neljä päivää ennen kuin käärme puri häntä.	Hän kuoli tiistaina, neljä päivää sen jälkeen, kun käärme puri häntä.

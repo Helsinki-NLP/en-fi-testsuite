@@ -8,7 +8,7 @@ masc_fem_pron	377	500	75.4%
 named_entities	409	500	81.8%
 numbers	485	500	97.0%
 pos_neg	495	500	99.0%
-prep_postp	422	500	84.4%
+prep_postp	434	500	86.8%
 pres_fut	322	500	64.4%
 pres_past	476	500	95.2%
 pron_sing_plur	457	500	91.4%

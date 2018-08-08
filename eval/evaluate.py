@@ -324,11 +324,19 @@ def prep_postp(wo1, wo2, repl1, repl2):
 		msg += "no {} postposition found ".format("/".join(repl2_fi))
 
 	if postp == [] and repl2 == 'during':
-		ess = any(['Ess' in wo2[x] for x in wo2])
-		ess |= any(['Ade' in wo2[x] and ('luku' in " ".join(wo2[x]) or 'viikko' in " ".join(wo2[x])) for x in wo2])
+		#ess = any(['Ess' in wo2[x] for x in wo2])
+		#ess |= any(['Ade' in wo2[x] and ('luku' in " ".join(wo2[x]) or 'viikko' in " ".join(wo2[x])) for x in wo2])
+		ess = any([('Ess' in wo2[x]) or ('Ade' in wo2[x]) or ('Ine' in wo2[x]) for x in wo2])	# allow Ess/Ade/Ine anywhere - may be too lenient
 		if ess:
 			postpOK = True
 			msg += "Ess found"
+	
+	if postp == [] and repl2 == 'after':
+		# He puhuivat tavattuaan presidentti
+		tempinf = any(['PrfPrc' in wo2[x] and 'Pass' in wo2[x] and 'Par' in wo2[x] and 'Px3' in wo2[x] for x in wo2])
+		if tempinf:
+			postpOK = True
+			msg += "Temp Inf found"
 
 	return prepOK, postpOK, msg
 

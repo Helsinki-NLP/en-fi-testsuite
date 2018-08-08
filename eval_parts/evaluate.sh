@@ -22,4 +22,10 @@ do
 	python3 ../eval/evaluate.py -trans $file -morph analyzed/$base.morph -source ../select_shuf/morpheval-enfi-2018.en -nelex ../eval/ne-lex.txt -eval results/$base.eval.tsv > results/$base.numbers.tsv
 done
 
+python3 countCorrect.py
+python3 reformatNumbers.py
+
+mkdir -p examples
+python3 extractExamples.py
+
 echo "Finishing at `date`"

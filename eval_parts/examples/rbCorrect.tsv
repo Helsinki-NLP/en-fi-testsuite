@@ -266,10 +266,6 @@ prep_postp	1023	Anderson died at a hospital the day before the altercation.	Ande
 HY-AH	Correct	Anderson kuoli sairaalan päivässä ennen kiistaa.	Anderson kuoli sairaalan päivässä kiistan jälkeen.
 NICT	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Anderson kuoli sairaalassa vuorottelua edeltävänä päivänä.	Anderson kuoli sairaalassa vuorottelua seuraavana päivänä.
 
-prep_postp	1060	The unions want to continue the walkout before any negotiations.	The unions want to continue the walkout during any negotiations.
-HY-AH	Correct	Unionit haluavat jatkaa ulosmarssia ennen miita tahansa neuvotteluja.	Unionit haluavat jatkaa ulosmarssia miiden tahansa neuvottelujen aikana.
-NICT	Right feature not found: no aikana postposition found 	Liitot haluavat jatkaa kävelyä ennen mitään neuvotteluja.	Liitot haluavat jatkaa kävelyä kaikissa neuvotteluissa.
-
 prep_postp	1085	He is due to appear before the city's magistrates court on Friday.	He is due to appear after the city's magistrates court on Friday.
 HY-AH	Correct	Hän olee aika ilmestyä ennen kaupunkia maistraatteja oikeusistuinta perjantaina.	Hän olee aika ilmestyä kaupungin maistraattien jälkeen oikeusistuimen perjantaina.
 NICT	Left feature not found: no ennen preposition found	Hänen on määrä esiintyä kaupungin tuomarituomioistuimessa perjantaina.	Hänen on määrä esiintyä kaupungin tuomarituomioistuimen jälkeen perjantaina.
@@ -298,9 +294,13 @@ prep_postp	1301	Col. Mark Mueller asked before a late- night inspection.	Col. Ma
 HY-AH	Correct	Col. Arvosana Mueller kysyi ennen myöhäistä yötarkastusta.	Col. Arvosana Mueller kysyi myöhäisen yötarkastuksen aikana.
 NICT	Right feature not found: no Gen case found with aikana 	Col. Mark Mueller kysyi ennen late-yötarkastusta.	Col. Mark Mueller kysyi late-yötarkastuksen aikana.
 
-prep_postp	1323	Both sales were closed before the fourth quarter of 2006.	Both sales were closed during the fourth quarter of 2006.
-HY-AH	Correct	Molemmat myynnit suljettiin ennen neljättä neljännestä 2006.	Molemmat myynnit suljettiin neljännen neljänneksen aikana 2006.
-NICT	Right feature not found: no aikana postposition found 	Molempien myynti lopetettiin ennen vuoden 2006 neljättä neljännestä.	Molempien myynti lopetettiin vuoden 2006 neljännellä neljänneksellä.
+prep_postp	1418	Before answering, he laughed at the question.	After answering, he laughed at the question.
+HY-AH	Correct: no jälkeen/kuluttua postposition found Temp Inf found	Ennen vastaamistaan, hän nauroi kysymykselle.	Vastattuaan, hän nauroi kysymykselle.
+NICT	Left feature not found: no Par case found after ennen no nouns found with ennen no jälkeen/kuluttua postposition found Temp Inf found	Ennen kuin hän vastasi, hän nauroi kysymykselle.	Vastattuaan hän nauroi kysymykselle.
+
+prep_postp	142	No less important is the day before Annapolis.	No less important is the day after Annapolis.
+HY-AH	Correct	Ei vähemmän important ole päivää ennen Annapolisia.	Ei vähemmän important ole päivää Annapolisin jälkeen.
+NICT	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Yhtä tärkeää on Annapolisia edeltävä päivä.	Yhtä tärkeää on Annapolisin jälkeinen päivä.
 
 local_prep	10	Admirers signed books of condolence placed by vases of sunflowers outside the cathedral.	Admirers signed books of condolence placed by vases of sunflowers inside the cathedral.
 HY-AH	Correct	Ihailijat allekirjoittivat surunvalittelun kirjoja asettivat auringonkukkien maljakot tuomiokirkon ulkopuolella.	Ihailijat allekirjoittivat surunvalittelun kirjoja asettivat auringonkukkien maljakot tuomiokirkon sisällä.

@@ -235,6 +235,9 @@ HY-SMT-en-fi.5436	Correct: no aikana postposition found Ess found	Mutta ennen vi
 prep_postp	1176	McClaren, before the match, was lame.	McClaren, after the match, was lame.
 HY-SMT-en-fi.5436	Correct	McClaren, ennen ottelua, ontui.	McClaren, ottelun jälkeen ontui.
 
+prep_postp	1214	especially since everything will pick up before Christmas.	especially since everything will pick up after Christmas.
+HY-SMT-en-fi.5436	Correct	Varsinkin kun kaikki tulee tarttua ennen joulua.	Varsinkin kun kaikki huomaavat joulun jälkeen.
+
 prep_postp	1278	I step on the scale every morning before breakfast.	I step on the scale every morning after breakfast.
 HY-SMT-en-fi.5436	Correct	Askelin mittakaavassa joka aamu ennen aamiaista.	Askelin mittakaavassa joka aamu aamiaisen jälkeen.
 
@@ -243,9 +246,6 @@ HY-SMT-en-fi.5436	Correct	West oli hyvässä kunnossa ennen leikkausta, Winter s
 
 prep_postp	1363	ODIHR observers normally enter a country 3 months before an election.	ODIHR observers normally enter a country 3 months after an election.
 HY-SMT-en-fi.5436	Correct	ODIHR) tarkkailijat tulevat yleensä maa 3 kuukautta ennen vaaleja.	ODIHR) tarkkailijat tulevat normaalisti maassa kolme kuukautta vaalien jälkeen.
-
-prep_postp	1402	He declared victory shortly before midnight.	He declared victory shortly after midnight.
-HY-SMT-en-fi.5436	Correct	Hän julisti voittoa ennen puoltayötä.	Hän julisti voittonsa pian puolenyön jälkeen.
 
 local_prep	1000	Naples is a city bubbling with history just above the surface.	Naples is a city bubbling with history just below the surface.
 HY-SMT-en-fi.5436	Correct	Napoli on kaupunki kuplineet historiansa juuri maanpinnan yläpuolella.	Napoli on kaupungin historian kanssa juuri kuplii pinnan alla.

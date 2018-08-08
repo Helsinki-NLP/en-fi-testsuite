@@ -1118,6 +1118,20 @@ online-G.0	Correct	Presidentti sanoi, että hän voisi tukea bill joitakin muuto
 online-A.0	Correct	Presidentti sanoi, että hän voisi tukea Bill joitakin muutoksia.	Puheen johtaja kysyi, Voisiko hän tukea Bill joitakin muutoksia.
 HY-AH-en-fi.5567	Right feature not found	Presidentti sanoi, että hän voisi tukea lakiesitystä joidenkin muutosten kanssa.	Presidentti pyyti jos hän voisi tukea lakiesitystä joidenkin muutosten kanssa.
 
+prep_postp	1060	The unions want to continue the walkout before any negotiations.	The unions want to continue the walkout during any negotiations.
+NICT.5658	Correct: no aikana postposition found Ess found	Liitot haluavat jatkaa kävelyä ennen mitään neuvotteluja.	Liitot haluavat jatkaa kävelyä kaikissa neuvotteluissa.
+HY-NMT-en-fi.5570	Correct	Liitot haluavat jatkaa ulosmarssia ennen neuvotteluja.	Liitot haluavat jatkaa ulosmarssia neuvottelujen aikana.
+uedin.5707	Correct: no aikana postposition found Ess found	Liitot haluavat jatkaa kävelyä ennen neuvotteluja.	Liitot haluavat jatkaa kävelyä kaikissa neuvotteluissa.
+Aalto.5550	Correct	Liitot haluavat jatkaa ulosmarssia ennen mitään neuvotteluja.	Liitot haluavat jatkaa ulosmarssia mahdollisten neuvottelujen aikana.
+HY-NMTtwostep-en-fi.5639	Correct	Liitot haluavat jatkaa ulosmarssia ennen minkäänlaisia neuvotteluja.	Liitot haluavat jatkaa ulosmarssia mahdollisten neuvottelujen aikana.
+CUNI-Kocmi.5620	Correct: no aikana postposition found Ess found	Ammattiliitot haluavat jatkaa kävelyä ennen neuvotteluja.	Ammattiliitot haluavat jatkaa kävelyä kaikissa neuvotteluissa.
+talp-upc.5424	Correct: no aikana postposition found Ess found	Ammattiliitot haluavat jatkaa matkaansa ennen neuvotteluja.	Ammattiliitot haluavat jatkaa matkaansa kaikissa neuvotteluissa.
+online-B.0	Correct	Ammattiliitot haluavat jatkaa ulosottoa ennen neuvotteluja.	Ammattiliitot haluavat jatkaa ulosottoa neuvottelujen aikana.
+HY-SMT-en-fi.5436	Correct	Liitot haluavat jatkaa ulosmarssi ennen mitään neuvotteluja.	Liitot haluavat jatkaa neuvotteluja ulosmarssin aikana.
+online-G.0	Right feature not found: no nouns found with aikana 	Liitot haluavat jatkaa ulosmarssi ennen kuin mitään neuvotteluja.	Liitot haluavat jatkaa ulosmarssi aikana neuvottelut.
+online-A.0	Correct	Ammatti liitot haluavat jatkaa uloskäymistä ennen neuvotteluja.	Ammatti liitot haluavat jatkaa uloskäymistä neuvottelujen aikana.
+HY-AH-en-fi.5567	Correct	Unionit haluavat jatkaa ulosmarssia ennen miita tahansa neuvotteluja.	Unionit haluavat jatkaa ulosmarssia miiden tahansa neuvottelujen aikana.
+
 prep_postp	1072	Young had tested positive for a banned substance before the Games.	Young had tested positive for a banned substance after the Games.
 NICT.5658	Correct	Nuori oli ennen kisoja testannut kielletyn aineen positiivisuutta.	Nuori oli kisojen jälkeen testannut positiivisesti kiellettyä ainetta.
 HY-NMT-en-fi.5570	Correct	Nuoret olivat testanneet positiivista ainetta ennen kisoja.	Nuoret olivat testanneet kielletyn aineen positiivista käyttöä kisojen jälkeen.
@@ -1131,6 +1145,20 @@ HY-SMT-en-fi.5436	Correct	Nuorukainen oli kielletty aine on testattu positiivise
 online-G.0	Correct	Nuori oli positiivisen kielletty aine ennen Pelejä.	Nuori oli positiivisen kielletty aine kisojen jälkeen.
 online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Young oli positiivisen kiellettyjen aineiden ennen pelejä.	Nuoret olivat positiivisen kiellettyjen aineiden jälkeen pelejä.
 HY-AH-en-fi.5567	Right feature not found: no Gen case found with jälkeen/kuluttua 	Nuori oli testannut positiivisen kiellettyyn aineeseen ennen Pelejä.	Nuori oli testannut positiivisen kiellettyyn aineeseen Peleihin jälkeen.
+
+prep_postp	1089	It stabilizes your children before the day.	It stabilizes your children during the day.
+NICT.5658	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
+HY-NMT-en-fi.5570	Correct: no aikana postposition found Ess found	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivällä.
+uedin.5707	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
+Aalto.5550	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
+HY-NMTtwostep-en-fi.5639	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
+CUNI-Kocmi.5620	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
+talp-upc.5424	Correct	Se vakauttaa lapsillesi ennen päivää.	Se vakauttaa lapsillesi päivän aikana.
+online-B.0	Correct: no aikana postposition found Ess found	Se vakauttaa lastesi ennen päivää.	Se vakauttaa lastesi päivällä.
+HY-SMT-en-fi.5436	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Se myös vakauttaa lapsiasi ennen kuin päivä.	Se vakauee lapsesi päiväsaikaan.
+online-G.0	Left feature not found: no Par case found after ennen no nouns found with ennen 	Se vakauttaa lapsillesi, ennen kuin päivä.	Se vakauttaa lapsia päivän aikana.
+online-A.0	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
+HY-AH-en-fi.5567	Correct	Se stabiloi sinun lapsesi ennen päivää.	Se stabiloi sinun lapsesi päivän aikana.
 
 prep_postp	1119	Investors were also encouraged because Viacom continued to repurchase shares before the quarter.	Investors were also encouraged because Viacom continued to repurchase shares during the quarter.
 NICT.5658	Correct	Sijoittajia kannustettiin myös siksi, että Viacom jatkoi osakkeiden takaisinostoa ennen neljännestä.	Sijoittajia kannustettiin myös siksi, että Viacom jatkoi osakkeiden takaisinostoa neljänneksen aikana.
@@ -1146,19 +1174,19 @@ online-G.0	Left feature not found: no Par case found after ennen no nouns found 
 online-A.0	Correct	Sijoittajia kannustettiin myös siksi, että Viacom jatkoi osakkeiden takaisinostoa ennen vuosi neljännestä.	Sijoittajia kannustettiin myös siksi, että Viacom jatkoi osakkeiden takaisinostoa vuosi neljänneksen aikana.
 HY-AH-en-fi.5567	Correct	Sijoittajat rohkaistiin myös, koska Viacom edelleen osti udelleen osuuksia ennen osapuolta.	Sijoittajat rohkaistiin myös, koska Viacom edelleen osti udelleen osuuksia osapuolen aikana.
 
-prep_postp	1214	especially since everything will pick up before Christmas.	especially since everything will pick up after Christmas.
-NICT.5658	Correct	Varsinkin, kun kaikki piristyy ennen joulua.	Varsinkin, kun kaikki piristyy joulun jälkeen.
-HY-NMT-en-fi.5570	Correct	Varsinkin kun kaikki alkaa ennen joulua.	Varsinkin kun kaikki alkaa joulun jälkeen.
-uedin.5707	Correct	Varsinkin kun kaikki piristyy ennen joulua.	Varsinkin kun kaikki piristyy joulun jälkeen.
-Aalto.5550	Correct	Varsinkin kun kaikki tarttuu ennen joulua.	Varsinkin kun kaikki tarttuu joulun jälkeen.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no nouns found with jälkeen/kuluttua 	Varsinkin sen jälkeen, kun kaikki tulee poimittua ennen joulua.	Varsinkin sen jälkeen, kun kaikki tarttuu joulun jälkeen.
-CUNI-Kocmi.5620	Correct	varsinkin koska kaikki piristyy ennen joulua.	varsinkin kun kaikki piristyy joulun jälkeen.
-talp-upc.5424	Correct	Varsinkin kun kaikki piristyy ennen joulua.	Varsinkin kun kaikki piristyy joulun jälkeen.
-online-B.0	Correct	varsinkin kun kaikki noutaa ennen joulua.	varsinkin kun kaikki noutaa joulun jälkeen.
-HY-SMT-en-fi.5436	Correct	Varsinkin kun kaikki tulee tarttua ennen joulua.	Varsinkin kun kaikki huomaavat joulun jälkeen.
-online-G.0	Correct	varsinkin kun kaikki on poimia ennen Joulua.	varsinkin kun kaikki on poimia Joulun jälkeen.
-online-A.0	Correct	varsinkin kun kaikki tulee poimia ennen joulua.	varsinkin kun kaikki tulee poimia joulun jälkeen.
-HY-AH-en-fi.5567	Correct	Erityisesti siitä lähtien kun kaikki poimii ennen Joulua.	Erityisesti siitä lähtien kun kaikki poimii Joulun jälkeen.
+prep_postp	1221	In the 1970s thousands were killed before bad storms.	In the 1970s thousands were killed during bad storms.
+NICT.5658	Correct	1970-luvulla tuhansia kuoli ennen pahoja myrskyjä.	1970-luvulla tuhannet saivat surmansa huonojen myrskyjen aikana.
+HY-NMT-en-fi.5570	Correct: no aikana postposition found Ess found	1970-luvulla tuhansia kuoli ennen pahoja myrskyjä.	1970-luvulla tuhansia kuoli pahoissa myrskyissä.
+uedin.5707	Correct	1970-luvulla tuhansia kuoli ennen pahoja myrskyjä.	1970-luvulla tuhansia kuoli huonojen myrskyjen aikana.
+Aalto.5550	Correct	1970-luvulla tuhansia kuoli ennen pahoja myrskyjä.	1970-luvulla tuhansia kuoli pahojen myrskyjen aikana.
+HY-NMTtwostep-en-fi.5639	Correct	1970-luvulla tuhansia kuoli ennen pahoja myrskyjä.	1970-luvulla tuhansia kuoli pahojen myrskyjen aikana.
+CUNI-Kocmi.5620	Correct	1970-luvulla kuoli tuhansia ihmisiä ennen pahoja myrskyjä.	1970-luvulla tuhansia ihmisiä kuoli myrskyjen aikana.
+talp-upc.5424	Correct	1970-luvulla tuhansia kuoli ennen pahoja myrskyjä.	1970-luvulla tuhansia kuoli pahojen myrskyjen aikana.
+online-B.0	Correct	1970-luvulla tuhansia kuoli ennen huonoja myrskyjä.	1970-luvulla tuhannet tapettiin huonojen myrskyjen aikana.
+HY-SMT-en-fi.5436	Left feature not found: no Par case found after ennen no nouns found with ennen no aikana postposition found Ess found	1970-luvulla tuhansia kuoli ennen paha myrsky.	1970-luvulla tuhansia ihmisiä tapettiin huonoina myrskyistä.
+online-G.0	Both features not found: no Par case found after ennen no nouns found with ennen no nouns found with aikana 	1970-luvulla tuhansia ihmisiä tapettiin, ennen kuin huono myrskyt.	1970-luvulla tuhansia ihmisiä tapettiin aikana pahoja myrskyjä.
+online-A.0	Correct: no aikana postposition found Ess found	1970-luvulla tuhannet saivat surmansa ennen pahoja myrskyjä.	1970-luvulla tuhannet saivat surmansa huonoissa myrskyissä.
+HY-AH-en-fi.5567	Correct	1970 luvulla tuhansilla saivat surmansa ennen huonoja myrskyjä.	1970 luvulla tuhansilla saivat surmansa huonojen myrskyjen aikana.
 
 prep_postp	1283	The Suns did not pose a serious threat before that.	The Suns did not pose a serious threat after that.
 NICT.5658	Correct	Sunnuntaisuomalainen ei sitä ennen aiheuttanut vakavaa uhkaa.	Sunit eivät aiheuttaneet sen jälkeen vakavaa uhkaa.
@@ -1229,34 +1257,6 @@ HY-SMT-en-fi.5436	Correct	Naisen ruumis kaived vihjeitä kolme vuotta ennen hän
 online-G.0	Correct	Naisen ruumis kaivetaan ylös johtolankoja kolme vuotta ennen hänen kuolemaansa.	Naisen ruumis kaivetaan ylös johtolankoja kolme vuotta hänen kuolemansa jälkeen.
 online-A.0	Left feature not found: no Par case found after ennen no nouns found with ennen 	Naisen ruumis haudasta varten vihjeitä kolme vuotta ennen kuolema ansa.	Naisen ruumis haudasta varten vihjeitä kolme vuotta hänen kuolemansa jälkeen.
 HY-AH-en-fi.5567	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Naisen elin kaivoi esiin johtolankoihin kolmeen vuoteen ennen hänen kuolemaan.	Naisen elin kaivoi esiin johtolankoihin kolmeen vuoteen hänen kuolemaan jälkeen.
-
-prep_postp	1438	The other German engineer was shot before the kidnapping.	The other German engineer was shot during the kidnapping.
-NICT.5658	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-HY-NMT-en-fi.5570	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-uedin.5707	Correct	Toinen saksalaisinsinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-Aalto.5550	Correct	Toinen saksalaisinsinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-HY-NMTtwostep-en-fi.5639	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Muita saksalaisia insinöörejä ammuttiin sieppauksen aikana.
-CUNI-Kocmi.5620	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin kidnappauksen aikana.
-talp-upc.5424	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin kidnappauksen aikana.
-online-B.0	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-HY-SMT-en-fi.5436	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-online-G.0	Right feature not found: no nouns found with aikana 	Toinen saksalainen insinööri oli ammuttu ennen sieppausta.	Toinen saksalainen insinööri ammuttiin aikana sieppauksesta.
-online-A.0	Correct	Toinen saksalainen insinööri ammuttiin ennen sieppausta.	Toinen saksalainen insinööri ammuttiin sieppauksen aikana.
-HY-AH-en-fi.5567	Right feature not found: no nouns found with aikana 	Muuta saksalaista insinööriä ammuttiin ennen kidnappausta.	Muuta saksalaista insinööriä ammuttiin aikana kidnappauksen.
-
-prep_postp	1453	Months before his arrest, McNair began his legendary escapes.	Months after his arrest, McNair began his legendary escapes.
-NICT.5658	Correct	Kuukausia ennen pidätystään McNair aloitti legendaariset pakomatkansa.	Kuukausia pidätyksensä jälkeen McNair aloitti legendaariset pakomatkansa.
-HY-NMT-en-fi.5570	Correct	Kuukautta ennen pidätystään McNair aloitti legendaarisen pakenemisen.	Kuukausia pidätyksensä jälkeen McNair aloitti legendaariset pakenemisensa.
-uedin.5707	Correct	Kuukausia ennen pidätystään McNair aloitti legendaarisen esikoisensa.	Kuukausia pidätyksensä jälkeen McNair aloitti legendaarisen esikoisensa.
-Aalto.5550	Correct	Kuukautta ennen pidätystään McNair aloitti legendaarisen pakenemisensa.	Kuukausia pidätyksensä jälkeen McNair aloitti legendaarisen pakenemisensa.
-HY-NMTtwostep-en-fi.5639	Correct	Kuukausia ennen pidätystään McNair aloitti legendaariset pakonsa.	Kuukausi pidätyksensä jälkeen McNair aloitti legendaarisen pakenemisensa.
-CUNI-Kocmi.5620	Correct	Kuukausia ennen hänen pidättämistään, McNair alkoi hänen legendaarinen paeta.	Kuukausia pidätyksensä jälkeen, McNair alkoi hänen legendaarinen paeta.
-talp-upc.5424	Correct	Kuukautta ennen hänen pidätystä, McNair aloitti legendaarinen eskapioita.	Kuukausia pidätyksen jälkeen, McNair aloitti legendaariset eskapiat.
-online-B.0	Correct	Kuukausia ennen hänen pidätystä McNair aloitti legendaariset pakenivat.	Kuukausia pidätyksen jälkeen McNair aloitti legendaariset pakenivat.
-HY-SMT-en-fi.5436	Correct	Kuukautta ennen pidätystään, McNair aloitti legendaarisen karkaa.	Kuukautta pidätyksensä jälkeen McNair aloitti legendaarisen karkaa.
-online-G.0	Left feature not found: no Par case found after ennen no nouns found with ennen 	Kuukautta ennen hänen pidätys, McNair alkoi hänen legendaarinen pakenee.	Kuukautta pidätyksen jälkeen, McNair alkoi hänen legendaarinen pakenee.
-online-A.0	Correct	Kuukautta ennen hänen pidättämistään, McNair aloitti legendaarisen pakenee.	Kuukauden kuluttua hänen pidätyksensä, McNair aloitti legendaarisen pakenee.
-HY-AH-en-fi.5567	Correct	Kuukausia ennen hänen pidätystä, Mcnairia alkoi hänen legendaarisia pakoja.	Kuukausia hänen pidätyksen jälkeen, Mcnair alkoi hänen legendaarisia pakoja.
 
 local_prep	1008	More than 200 islands nestle outside the reef.	More than 200 islands nestle inside the reef.
 NICT.5658	Correct	Yli 200 saarta pesee varikon ulkopuolella.	Rekan sisällä pesee yli 200 saarta.

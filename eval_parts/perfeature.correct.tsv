@@ -7,7 +7,7 @@ pos_neg	426	63	11	0	0
 human_nonhuman_pron	122	179	184	15	0
 det_poss	181	182	127	9	1
 that_if	3	18	468	6	5
-prep_postp	64	111	280	36	9
+prep_postp	69	132	267	23	9
 local_prep	45	175	267	13	0
 complex_np	198	214	87	1	0
 named_entities	208	192	93	7	0
