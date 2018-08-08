@@ -19,7 +19,7 @@ for file in 37-morpheval-en-fi/*.gz;
 do
 	base=$(basename $file .gz)
 	echo $base
-	python3 ../eval/evaluate.py -trans $file -morph analyzed/$base.morph -source ../select_shuf/morpheval-enfi-2018.en -nelex ../eval/ne-lex.txt -eval results/$base.eval.csv > results/$base.numbers.csv
+	python3 ../eval/evaluate.py -trans $file -morph analyzed/$base.morph -source ../select_shuf/morpheval-enfi-2018.en -nelex ../eval/ne-lex.txt -eval results/$base.eval.tsv > results/$base.numbers.tsv
 done
 
 echo "Finishing at `date`"

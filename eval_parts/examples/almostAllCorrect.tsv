@@ -68,20 +68,6 @@ online-G.0	Correct	Tutkija käyttää suunniteltu immuunijärjestelmän proteiin
 online-A.0	Correct	Tutkija käyttää suunniteltu immuunijärjestelmän proteiineja kutsutaan monoklonaalinen vasta.	Tutkijat käyttivät suunniteltu immuunijärjestelmä proteiineja kutsutaan monoklonaalinen vasta.
 HY-AH-en-fi.5567	Correct	Tutkija käytti suunniteltuja immuunijärjestelmä proteiineja nimeltä monoklonaalisia vasta-aineita.	Tutkijat käyttivät suunniteltuja immuunijärjestelmä proteiineja nimeltä monoklonaalisia vasta-aineita.
 
-sing_plur	10347	Judges upheld the conviction and rejected appeals from Whomes and Steele in 2006.	Judges upheld the convictions and rejected appeals from Whomes and Steele in 2006.
-NICT.5658	Correct	Tuomarit pitivät tuomion voimassa ja hylkäsivät Wkodsin ja Steelen vetoomukset vuonna 2006.	Tuomarit pitivät tuomiot voimassa ja hylkäsivät Wkodsin ja Steelen vetoomukset vuonna 2006.
-HY-NMT-en-fi.5570	Correct	Tuomarit kannattivat Wowesin ja Steelen tuomiota ja hylkäsivät vetoomukset vuonna 2006.	Tuomarit kannattivat Wowesin ja Steelen tuomioita ja hylkäsivät vetoomukset vuonna 2006.
-uedin.5707	Correct	Tuomarit pitivät kiinni tuomiosta ja hylkäsivät Wkotien ja Steelen vetoomukset vuonna 2006.	Tuomarit pitivät kiinni tuomioista ja hylkäsivät Wkotien ja Steelen vetoomukset vuonna 2006.
-Aalto.5550	Correct	Tuomarit pitivät kiinni tuomiosta ja hylkäsivät Whomeen ja Steeleen vetoomukset vuonna 2006.	Tuomarit pitivät kiinni tuomioista ja hylkäsivät Whomeen ja Steeleen vetoomukset vuonna 2006.
-HY-NMTtwostep-en-fi.5639	Correct	Tuomarit pitivät kiinni vakaumuksesta ja torjuivat vetoomukset Whomes ja Steele vuonna 2006.	Tuomarit pitivät tuomioista kiinni ja hylkäsivät vetoomukset Whomes ja Steele vuonna 2006.
-CUNI-Kocmi.5620	Correct	Tuomarit pitivät kiinni tuomiosta ja hylkäsivät vuonna 2006 Whomes and Steelen esittämät valitukset.	Tuomarit pitivät kiinni tuomiostaan ja hylkäsivät vuonna 2006 Whomes and Steelen tekemät valitukset.
-talp-upc.5424	Correct	Tuomarit kannattivat tuomiota ja hylkäsivät hänen valituksensa vuonna 2006.	Tuomarit kannattivat tuomioita ja hylkäsivät WYmesin ja Steelen vuonna 2006 esittämät vetoomukset.
-online-B.0	Correct	Tuomarit hyväksyivät Whomesin ja Steelen vetoomuksen ja hylkäsi vetoomukset vuonna 2006.	Tuomarit vahvisti tuomioita ja hylkäsi vetoomukset Whomesta ja Steelestä vuonna 2006.
-HY-SMT-en-fi.5436	Right feature not found	Tuomari piti voimassa tuomion ja hylkäsi vetoomuksia Wasuntoa ja Steele vuonna 2006.	Tuomarista kiinni ja hylkäsi vetoomus Wasuntoa ja Steele vuonna 2006.
-online-G.0	Identical	Tuomarit pysytti vakaumus ja hylkäsi valitukset Whomes ja Steele vuonna 2006.	Tuomarit pysytti vakaumus ja hylkäsi valitukset Whomes ja Steele vuonna 2006.
-online-A.0	Correct	Tuomarit pysytti tuomion ja hylkäsi valitukset whomes ja Steele vuonna 2006.	Tuomarit pysytti tuomiot ja hylkäsi valitukset whames ja Steele vuonna 2006.
-HY-AH-en-fi.5567	Correct	Tuomarit pitivat yllä vakaumusta ja hylkäsivät vetoomukset Whomesista ja Steele vuonna 2006.	Tuomarit pitivat yllä vakaumuksia ja hylkäsivät vetoomukset Whomesista ja Steele vuonna 2006.
-
 sing_plur	10490	The strong wind also caused several more cargo ships to run aground.	The strong winds also caused several more cargo ships to run aground.
 NICT.5658	Correct	Voimakas tuuli aiheutti myös sen, että useat rahtilaivat ajautuivat karille.	Voimakkaat tuulet aiheuttivat myös sen, että useat rahtilaivat ajautuivat karille.
 HY-NMT-en-fi.5570	Correct	Voimakas tuuli aiheutti myös useita rahtialuksia karille.	Voimakas tuuli aiheutti myös useiden rahtilaivojen karilleajon.
@@ -138,6 +124,34 @@ online-G.0	Correct	Suuri Viet pidetään perustaja pohjois-Vietnamissa.	Suuri Vi
 online-A.0	Correct	Suuri viet pidetään perustaja Pohjois-Vietnamissa.	Suuri viet pidetään perustajat Pohjois-Vietnamissa.
 HY-AH-en-fi.5567	Correct	Suurta Vieteita ajatellaan pohjoisen Vietnamin perustaja.	Suurta Vieteita ajatellaan pohjoisen Vietnamin perustajia.
 
+sing_plur	10727	A teacher had overheard the boy talking and questioned one of them.	A teacher had overheard the boys talking and questioned one of them.
+NICT.5658	Correct	Opettaja oli kuullut pojan puhuvan ja kuulustellut yhtä heistä.	Opettaja oli kuullut poikien puhuvan ja kuulustellut yhtä heistä.
+HY-NMT-en-fi.5570	Correct	Opettaja oli ylittänyt pojan puhumisen ja kyseenalaistanut yhden heistä.	Eräs opettaja oli kuullut poikien puhuvan liikaa ja kyseenalaistanut yhden heistä.
+uedin.5707	Correct	Opettaja oli ylikuullut pojan puhuvan ja kyseenalaistanut yhden heistä.	Opettaja oli ylikuullut poikien puhuvan ja kyseenalaistanut yhden heistä.
+Aalto.5550	Correct	Opettaja oli kuullut pojan puhuvan ja kyseenalaistanut yhden heistä.	Opettaja oli ylikuullut poikien puhuvan ja kyseenalaistanut yhden heistä.
+HY-NMTtwostep-en-fi.5639	Correct	Opettaja oli kuullut pojan puhuvan ja kyseenalaistaa yhden heistä.	Opettaja oli ylikuullut poikien puhuvan ja kyseenalaistaa yhden heistä.
+CUNI-Kocmi.5620	Correct	Opettaja oli kuullut poikansa puhuvan ja kuulustellut yksi niistä.	Opettaja oli kuullut poikien puhuvan ja kuulustellut yksi niistä.
+talp-upc.5424	Correct	Eräs opettaja oli kuullut pojan puhuvan ja kyseenalaistanut yhden heistä.	Eräs opettaja oli kuullut poikien puhuvan ja kyseenalaistanut yhden heistä.
+online-B.0	Correct	Opettaja oli kuulustellut pojan puhumista ja kyseenalaisti yhden niistä.	Opettaja oli kuulustellut pojat puhuen ja kyseenalaisti yhden niistä.
+HY-SMT-en-fi.5436	Identical	Opettaja oli kuullut pojan puhuja kyseenalaisti yksi heistä.	Opettaja oli kuullut pojan puhuja kyseenalaisti yksi heistä.
+online-G.0	Correct	Opettaja kuuli pojan puhuvan ja kyseenalaisti yksi heistä.	Opettaja oli kuullut poikien puhuvan ja kyseenalaisti yksi heistä.
+online-A.0	Correct	Opettaja oli kuuli pojan puhuvan ja kyseenalaistanut yhden heistä.	Opettaja oli kuuli poikien puhuvan ja kyseenalaistanut yhden heistä.
+HY-AH-en-fi.5567	Right feature not found	Opettaja oli kuullut sattumalta poika puhuva ja kuulusteltu yhtä niistä.	Opettaja oli kuullut sattumalta poiat puhua ja kuulusteltu yhtä niistä.
+
+pron_sing_plur	1005	Certainly people were curious to see her.	Certainly people were curious to see them.
+NICT.5658	Correct	Varmasti ihmiset olivat uteliaita näkemään hänet.	Varmasti ihmiset olivat uteliaita näkemään niitä.
+HY-NMT-en-fi.5570	Correct	Varmasti ihmiset olivat uteliaita näkemään hänet.	Varmasti ihmiset olivat uteliaita näkemään ne.
+uedin.5707	Correct	Varmasti ihmiset olivat uteliaita nähdessään hänet.	Varmasti ihmiset olivat uteliaita näkemään niitä.
+Aalto.5550	Correct	Varmasti ihmiset olivat uteliaita näkemään hänet.	Varmasti ihmiset olivat uteliaita näkemään heidät.
+HY-NMTtwostep-en-fi.5639	Correct	Varmasti ihmiset olivat uteliaita näkemään hänet.	Varmasti ihmiset olivat uteliaita näkemään heidät.
+CUNI-Kocmi.5620	Correct	Toki ihmiset olivat uteliaita näkemään hänet.	Toki ihmiset olivat uteliaita näkemään ne.
+talp-upc.5424	Correct	Varmasti ihmiset olivat uteliaita näkemään häntä.	Varmasti ihmiset olivat uteliaita näkemään niitä.
+online-B.0	Correct	Varmasti ihmiset olivat uteliaita nähdä hänet.	Varmasti ihmiset olivat uteliaita nähdä niitä.
+HY-SMT-en-fi.5436	Right feature not found	Ihmiset olivat todella utelias näkemään hänet.	Kyllä ihmiset olivat uteliaita.
+online-G.0	Correct	Varmasti ihmiset olivat uteliaita näkemään häntä.	Varmasti ihmiset olivat uteliaita näkemään niitä.
+online-A.0	Correct	Varmasti ihmiset olivat uteliaita näkemään häntä.	Varmasti ihmiset olivat uteliaita näkemään niitä.
+HY-AH-en-fi.5567	Correct	Varmasti ihmiset olivat uteliaita nähdä hänet.	Varmasti ihmiset olivat uteliaita nähdä ne.
+
 pron_sing_plur	1010	The debate format really does not seem to favor him.	The debate format really does not seem to favor them.
 NICT.5658	Correct	Keskusteluformaatti ei todellakaan näytä suosivan häntä.	Keskusteluformaatti ei todellakaan näytä suosivan niitä.
 HY-NMT-en-fi.5570	Correct	Keskusteluformaatti ei näytä suosivan häntä.	Keskustelumuoto ei näytä suosivan heitä.
@@ -186,27 +200,13 @@ HY-NMT-en-fi.5570	Correct	Vieraat kumarsivat hänelle kadulla.	Vieraat kumartava
 uedin.5707	Correct	Vieraat taipuvat hänelle kadulla.	Vieraat taipuvat heille kadulla.
 Aalto.5550	Correct	Vieraat nöyrtyivät hänelle kadulla.	Vieraat nöyrtyivät heille kadulla.
 HY-NMTtwostep-en-fi.5639	Correct	Vieraat kumarsivat häntä kadulla.	Vieraat kumarsivat heitä pihalle.
-CUNI-Kocmi.5620	Correct	Strangers bow to him in the street.	Strangers kumartaa heille kadulla.
+CUNI-Kocmi.5620	Left feature not found	Strangers bow to him in the street.	Strangers kumartaa heille kadulla.
 talp-upc.5424	Correct	Muukalaiset kumartavat hänelle kadulla.	Tuntemattomat kumartavat heille kadulla.
 online-B.0	Correct	Strangers kumartavat häntä kadulla.	Strangers kumartavat heitä kadulla.
 HY-SMT-en-fi.5436	Identical	Vieraille kumartaa häntä kadulla.	Vieraille kumartaa häntä kadulla.
 online-G.0	Correct	Vieraita kumartaa häntä kadulla.	Vieraita kumartaa niitä kadulla.
 online-A.0	Correct	Muukalaiset kumartavat häntä kadulla.	Muukalaiset kumartavat heitä kadulla.
 HY-AH-en-fi.5567	Correct	Muukalaiset kumartavat häntä kadulla.	Muukalaiset kumartavat heitä kadulla.
-
-pron_sing_plur	108	Plame maintains the White House quietly outed her to reporters.	Plame maintains the White House quietly outed them to reporters.
-NICT.5658	Correct	Plame ylläpitää Valkoista taloa, joka huusi hänet hiljaa toimittajille.	Plame ylläpitää Valkoista taloa ja huusi ne hiljalleen toimittajille.
-HY-NMT-en-fi.5570	Correct	Plame pitää Valkoisen talon kaikessa hiljaisuudessa poissa toimittajilta.	Plame pitää Valkoista taloa hiljaa syrjässä toimittajille.
-uedin.5707	Correct	Plame väittää, että Valkoinen talo on kaikessa hiljaisuudessa syrjäyttänyt hänet toimittajille.	Plame väittää, että Valkoinen talo kaikessa hiljaisuudessa syrjäytti heidät toimittajille.
-Aalto.5550	Correct	Plame ylläpitää Valkoisen talon kaikessa hiljaisuudessa ulos toimittajille.	Plame ylläpitää Valkoista taloa kaikessa hiljaisuudessa toimittajille.
-HY-NMTtwostep-en-fi.5639	Left feature not found	Plame ylläpitää valkoisen talon kaikessa hiljaisuudessa syrjäytettyjä toimittajia.	Plame ylläpitää valkoisen talon kaikessa hiljaisuudessa syrjäytettyjä heitä toimittajiksi.
-CUNI-Kocmi.5620	Correct	Plame ylläpitää Valkoinen talo hiljaa päihitti hänet lehtimiehille.	Plame ylläpitää Valkoinen talo hiljaa pois niitä toimittajille.
-talp-upc.5424	Correct	Plame ylläpitää Valkoista taloa hiljaa syrjäyttämällä hänet toimittajille.	Plame ylläpitää Valkoinen talo pyyhki ne hiljaa pois toimittajilta.
-online-B.0	Correct	Plame ylläpitää Valkoista taloa hiljaa esitteli hänet toimittajille.	Plame ylläpitää Valkoinen talo hiljaa esitteli heidät toimittajille.
-HY-SMT-en-fi.5436	Correct	Plaani pysyy hiljaa Valkoiseen taloon, hänen toimittajille.	Valkoinen talo Plame pysyy hiljaa uttanut niitä toimittajille.
-online-G.0	Correct	Hän väittää, Valkoinen Talo hiljaa outed hänen toimittajille.	Hän väittää, Valkoinen Talo hiljaa outed ne toimittajille.
-online-A.0	Correct	Plame ylläpitää valkoista taloa hiljaa outed hänen toimittajille.	Plame ylläpitää valkoista taloa hiljaa outed ne toimittajille.
-HY-AH-en-fi.5567	Correct	Plame väittää Valkoinen Talo hiljaa ahavoitui hän reporttereille.	Plame väittää Valkoinen Talo hiljaa ahavoitui he reporttereille.
 
 pron_sing_plur	1081	The president's next goof went uncorrected by him anyway.	The president's next goof went uncorrected by them anyway.
 NICT.5658	Correct	Presidentin seuraava maali jäi häneltä joka tapauksessa korjaamatta.	Presidentin seuraava maali jäi heiltä joka tapauksessa korjaamatta.
@@ -222,6 +222,20 @@ online-G.0	Correct	Presidentti on seuraava hölmö meni korjaamaton häntä joka
 online-A.0	Correct	Presidentin seuraava hölmö meni korjaamaton hänen muutenkin.	Presidentin seuraava hölmö meni korjaamaton ne muutenkin.
 HY-AH-en-fi.5567	Correct	Presidenttin seuraava hopo meni korjaamaton hänen kanssa joka tapauksessa.	Presidenttin seuraava hopo meni korjaamaton heidän kanssa joka tapauksessa.
 
+pron_sing_plur	1112	The grand jury did not indict him on eight counts of animal cruelty.	The grand jury did not indict them on eight counts of animal cruelty.
+NICT.5658	Correct	Suuri valamiehistö ei syyttänyt häntä kahdeksasta eläinrääkkäyksestä.	Suuri valamiehistö ei nostanut heitä vastaan syytteitä kahdeksasta eläinrääkkäyksestä.
+HY-NMT-en-fi.5570	Correct	Suuri valamiehistö ei syyttänyt häntä kahdeksasta eläinrääkkäyksestä.	Suuri valamiehistö ei syyttänyt heitä kahdeksasta eläinrääkkäyksestä.
+uedin.5707	Correct	Suuri valamiehistö ei syyttänyt häntä kahdeksasta eläinrääkkäyksestä.	Suuri valamiehistö ei syyttänyt heitä kahdeksasta eläinrääkkäyksestä.
+Aalto.5550	Correct	Suuri tuomaristo ei määrännyt häntä kahdeksasta eläinrääkkäyksestä.	Suuri tuomaristo ei määrännyt heitä kahdeksasta eläinrääkkäyksestä.
+HY-NMTtwostep-en-fi.5639	Correct	Suuri valamiehistö ei syyttänyt häntä kahdeksasta eläinrääkkäyksestä.	Suuri valamiehistö ei syyttänyt heitä kahdeksasta eläinrääkkäyksestä.
+CUNI-Kocmi.5620	Correct	Suuri tuomaristo ei syyttänyt häntä kahdeksasta eläinrääkkäyksestä.	Suuri valamiehistö ei asettanut heitä syytteeseen kahdeksasta eläinrääkkäyksestä.
+talp-upc.5424	Correct	Suuri tuomaristo ei syyttänyt häntä kahdeksasta eläimiin kohdistuvasta julmuudesta.	Suuri tuomaristo ei syyttänyt heitä kahdeksasta eläimiin kohdistuvasta julmuudesta.
+online-B.0	Correct	Suuren tuomariston ei syytetty häntä kahdeksasta eläinten julmuudesta.	Suuriruhtinuruus ei syytteli heitä kahdeksasta eläinrikosta.
+HY-SMT-en-fi.5436	Correct	Suuri valamiehistö ei häntä syytteeseen kahdeksasta kyse eläinrääkkäyksestä.	Suuri valamiehistö ei asetettu syytteeseen ne lasketaan kahdeksan eläinrääkkäyksestä.
+online-G.0	Left feature not found	Valamiehistö ei syytteen kahdeksan syytettä eläinrääkkäyksestä.	Valamiehistö ei syyttää niitä kahdeksan syytettä eläinrääkkäyksestä.
+online-A.0	Correct	Suuri tuomaristo ei ole syytä häntä kahdeksan määriä eläin rääkkäystä.	Suuri tuomaristo ei ole syytä heitä kahdeksasta eläin rääkkäyksestä.
+HY-AH-en-fi.5567	Correct	Suuri valamiehistö ei syyttänyt häntä kahdeksassa eläinjulmuuden laskennassa.	Suuri valamiehistö ei syyttänyt heitä kahdeksassa eläinjulmuuden laskennassa.
+
 pron_sing_plur	1123	Police describe him as "a key player" in the suspected theft.	Police describe them as "a key player" in the suspected theft.
 NICT.5658	Correct	Poliisi kuvailee häntä "avainpelaajaksi" epäillyssä varkaudesta.	Poliisi kuvailee heitä "avainpelaajaksi" epäillyssä varkaudesta.
 HY-NMT-en-fi.5570	Correct	Poliisi kuvailee häntä "keskeiseksi toimijaksi" epäillyssä varkaudessa.	Poliisi kuvailee heitä "keskeiseksi toimijaksi" epäillyssä varkaudessa.
@@ -236,6 +250,20 @@ online-G.0	Correct	Poliisi kuvailee häntä "keskeinen toimija" epäillään var
 online-A.0	Correct	Poliisi kuvata häntä "keskeinen toimija" on epäilty varkaus.	Poliisi kuvata niitä "keskeinen toimija" on epäilty varkaus.
 HY-AH-en-fi.5567	Correct	Poliisi kuvailee häntä "avainpelaajana" epäillyssä varkaudessa.	Poliisi kuvailee niitä "avainpelaajana" epäillyssä varkaudessa.
 
+pron_sing_plur	1148	Have your say on 606 or drop me a text via 81111.	Have your say on 606 or drop us a text via 81111.
+NICT.5658	Correct	Kerro mielipiteesi 606 tai pudota minulle teksti kautta 81111.	Kerro mielipiteesi 606 tai pudota meille teksti kautta 81111.
+HY-NMT-en-fi.5570	Correct	Sanokaa 606 tai pudottakaa minulle teksti 81111.	Kerro mielipiteesi 606 tai laske meille teksti 81111.
+uedin.5707	Correct	Kerro mielipiteesi 606 tai lähetä minulle teksti 81111 kautta.	Kerro mielipiteesi 606 tai lähetä meille teksti 81111 kautta.
+Aalto.5550	Correct	Kerro mielipiteesi 606 tai pudota minulle tekstin kautta 81111.	Ota kantaa 606 tai pudota meille tekstin kautta 81111.
+HY-NMTtwostep-en-fi.5639	Correct	Ole sananvaltaa 606 tai pudota minulle tekstin kautta 81111.	Ole sananvaltaa 606 tai laske meille tekstin kautta 81111.
+CUNI-Kocmi.5620	Correct	Kerro mielipiteesi 606:sta tai lähetä minulle teksti 81111:n kautta.	Kerro mielipiteesi 606:sta tai lähetä meille teksti 81111:n kautta.
+talp-upc.5424	Right feature not found	Kerro mielipiteenne 606 tai pudota minulle tekstin kautta 81111.	Kerro mielipiteesi 606-luvulla tai pudota teksti 81111: N kautta.
+online-B.0	Correct	Sanokaa 606 tai pudota minulle teksti 81111: n kautta.	Sanokaa 606 tai pudota meille teksti 81111: n kautta.
+HY-SMT-en-fi.5436	Correct	Kerro mielipiteesi 606 tai pudottaa minulle tekstin 8111.	Kerro mielipiteesi 606 tai pudottaa meille tekstin 8111.
+online-G.0	Correct	Kerro mielipiteesi 606 tai pudota minulle viestin kautta 81111.	Kerro mielipiteesi 606 tai pudota meille tekstin kautta 81111.
+online-A.0	Correct	Kerro sanoa 606 tai pisara minulle tekstin kautta 81111.	Kerro sanoa 606 tai pudota meille tekstin kautta 81111.
+HY-AH-en-fi.5567	Correct	Ole teidän sananvaltasi 606 tai pudota minut tekstin kautta 81111.	Ole teidän sananvaltasi 606 tai pudota meitä tekstin kautta 81111.
+
 pron_sing_plur	1149	One shot struck the youth in the head, killing him.	One shot struck the youth in the head, killing them.
 NICT.5658	Correct	Yksi laukaus löi nuorta päähän ja tappoi hänet.	Yksi laukaus iski nuoria päähän ja tappoi heidät.
 HY-NMT-en-fi.5570	Correct	Yksi laukaus osui nuorukaista päähän ja tappoi hänet.	Yksi laukaus osui nuorukaista päähän ja tappoi heidät.
@@ -249,34 +277,6 @@ HY-SMT-en-fi.5436	Identical	Yksi laukaus osui nuorten päähän tappaen hänet.	
 online-G.0	Correct	Yksi laukaus iski nuorten päähän, tappaen hänet.	Yksi laukaus iski nuorten päähän, tappaen heidät.
 online-A.0	Correct	Yksi laukaus iski nuorten päähän, tappaminen häntä.	Yksi laukaus iski nuorten päähän, tappaen heidät.
 HY-AH-en-fi.5567	Correct	Yksi laukaus hätkähdytti nuorisoa johtajalla, tappaen hänet.	Yksi laukaus hätkähdytti nuorisoa johtajalla, tappaen niitä.
-
-pron_sing_plur	1153	But fate had other plans for him.	But fate had other plans for them.
-NICT.5658	Correct	Mutta kohtalolla oli hänelle muitakin suunnitelmia.	Mutta kohtalolla oli heille muita suunnitelmia.
-HY-NMT-en-fi.5570	Correct	Mutta kohtalolla oli hänelle muita suunnitelmia.	Mutta kohtalolla oli heille muita suunnitelmia.
-uedin.5707	Correct	Mutta kohtalo oli muita suunnitelmia hänelle.	Mutta kohtalolla oli heille muita suunnitelmia.
-Aalto.5550	Correct	Mutta kohtalo oli muita suunnitelmia hänelle.	Mutta kohtalo oli muita suunnitelmia heille.
-HY-NMTtwostep-en-fi.5639	Correct	Mutta kohtalo oli hänelle muita suunnitelmia.	Mutta kohtalo oli heille muita suunnitelmia.
-CUNI-Kocmi.5620	Correct	Mutta kohtalo oli muita suunnitelmia hänelle.	Mutta kohtalo oli muita suunnitelmia heille.
-talp-upc.5424	Correct	Mutta kohtalolla oli hänelle muita suunnitelmia.	Mutta kohtalolla oli heille muita suunnitelmia.
-online-B.0	Correct	Mutta kohtalolla oli muita suunnitelmia hänelle.	Mutta kohtalolla oli muita suunnitelmia heille.
-HY-SMT-en-fi.5436	Correct	Mutta kohtalo oli hänelle toiset suunnitelmat.	Mutta kohtalolla oli muita suunnitelmia niiden varalle.
-online-G.0	Right feature not found	Mutta kohtalo oli muita suunnitelmia hänen varalleen.	Mutta kohtalo oli muita suunnitelmia.
-online-A.0	Correct	Mutta kohtalo oli muita suunnitelmia hänelle.	Mutta kohtalo oli muita suunnitelmia heille.
-HY-AH-en-fi.5567	Correct	Mutta kohtalolla oli muut suunnitelmat hänelle.	Mutta kohtalolla oli muut suunnitelmat niille.
-
-pron_sing_plur	118	The trouble was, nobody would listen to her.	The trouble was, nobody would listen to them.
-NICT.5658	Correct	Ongelmana oli, että kukaan ei kuuntelisi häntä.	Ongelmana oli, että kukaan ei kuuntelisi heitä.
-HY-NMT-en-fi.5570	Correct	Vaikeuksia oli, kukaan ei kuunnellut häntä.	Ongelmia oli, kukaan ei kuunnellut heitä.
-uedin.5707	Correct	Ongelmia oli, kukaan ei kuunnellut häntä.	Ongelmia oli, kukaan ei kuunnellut heitä.
-Aalto.5550	Correct	Ongelmia oli, kukaan ei kuunnellut häntä.	Ongelmia oli, kukaan ei kuunnellut niitä.
-HY-NMTtwostep-en-fi.5639	Correct	Vaikeuksia oli, kukaan ei kuunnellut häntä.	Vaikeuksia oli, kukaan ei kuunnellut niitä.
-CUNI-Kocmi.5620	Left feature not found	The trouble was, nobody would listento her.	Ongelmana oli, että kukaan ei kuunnellut heitä.
-talp-upc.5424	Correct	Ongelmana oli, kukaan ei kuunnellut häntä.	Ongelmana oli, kukaan ei kuunnellut heitä.
-online-B.0	Correct	Ongelmana oli, ettei kukaan kuuntele häntä.	Ongelmana oli, ettei kukaan kuuntele heitä.
-HY-SMT-en-fi.5436	Right feature not found	Ongelmana oli, kukaan ei kuunnellut häntä.	Ongelmana oli, kukaan ei kuuntele häntä.
-online-G.0	Correct	Ongelmana oli, että kukaan ei kuuntele häntä.	Ongelmana oli, että kukaan ei kuuntele heitä.
-online-A.0	Correct	Ongelmana oli, kukaan ei kuun Tele häntä.	Ongelmana oli, kukaan ei kuun Tele heitä.
-HY-AH-en-fi.5567	Correct	Hankaluus oli, ei kukaan kuuntelisi häntä.	Hankaluus oli, ei kukaan kuuntelisi niitä.
 
 pres_past	11165	The figures are based on pure alcohol content across all different drink types.	The figures were based on pure alcohol content across all different drink types.
 NICT.5658	Correct	Luvut perustuvat puhtaaseen alkoholipitoisuuteen kaikissa eri juomatyypeissä.	Luvut perustuivat puhtaaseen alkoholipitoisuuteen kaikissa eri juomatyypeissä.
@@ -348,20 +348,6 @@ online-G.0	Correct	He sulkevat käytännössä.	He sulkivat käytännössä.
 online-A.0	Correct	Ne Sulje käytännössä.	Ne suljettiin käytännössä.
 HY-AH-en-fi.5567	Correct	Ne sulkevat käytännön.	Ne sulkivat käytännön.
 
-pres_past	1423	The show is divided into eight sections best viewed in sequence.	The show was divided into eight sections best viewed in sequence.
-NICT.5658	Left feature not found	Esitys on jaettu kahdeksaan osioon, jotka on parasta katsoa järjestyksessä.	Esitys oli jaettu kahdeksaan osioon, jotka on parasta katsoa järjestyksessä.
-HY-NMT-en-fi.5570	Correct	Näytös on jaettu kahdeksaan jaksoon, jotka nähdään parhaiten järjestyksessä.	Näytös jaettiin kahdeksaan jaksoon, jotka katsottiin parhaiten järjestyksessä.
-uedin.5707	Correct	Show on jaettu kahdeksaan osaan parhaiten katsotaan järjestyksessä.	Show oli jaettu kahdeksaan osaan parhaiten katsotaan järjestyksessä.
-Aalto.5550	Correct	Show on jaettu kahdeksaan osaan parhaiten katsotaan järjestyksessä.	Näytös oli jaettu kahdeksaan osioon parhaiten katsottu järjestyksessä.
-HY-NMTtwostep-en-fi.5639	Correct	Näytös on jaettu kahdeksan kappaletta parhaiten katsottuna järjestyksessä.	Näytös jaettiin kahdeksaan osioon parhaiten katsottuna järjestyksessä.
-CUNI-Kocmi.5620	Correct	Näyttely on jaettu kahdeksaan osioon, joita tarkastellaan parhaiten järjestyksessä.	Show oli jaettu kahdeksan jaksoa parhaiten Katsotuimmat järjestyksessä.
-talp-upc.5424	Correct	Show on jaettu kahdeksaan osaan paras katsella järjestyksessä.	Show oli jaettu kahdeksaan osaan parasta katsella järjestyksessä.
-online-B.0	Correct	Esitys on jaettu kahdeksaan jaksoon, joita tarkastellaan parhaiten järjestyksessä.	Näyttely jakautui kahdeksaan jaksoon, joita tarkastellaan parhaiten järjestyksessä.
-HY-SMT-en-fi.5436	Correct	Show on jaettu kahdeksaan osioon haastateltiin sarjan paras.	Näytös oli jaettu kahdeksaan osioon haastateltiin sarjan paras.
-online-G.0	Correct	Näyttely on jaettu kahdeksaan osaan parasta katsella järjestyksessä.	Keikka oli jaettu kahdeksaan osaan parasta katsella järjestyksessä.
-online-A.0	Correct	Show on jaettu kahdeksaan osaan parhaiten tarkastella järjestyksessä.	Show jaettiin kahdeksaan osaan parhaiten katsottu järjestyksessä.
-HY-AH-en-fi.5567	Correct	Näytös jaetaan kahdeksan osion hyvin katsottu järjestyksessä.	Näytös jaettiin kahdeksan osion hyvin katsottu järjestyksessä.
-
 pres_past	14970	Ron Burkle is now suing Follieri.	Ron Burkle was now suing Follieri.
 NICT.5658	Correct	Ron Burkle haastaa nyt follierin.	Ron Burkle oli nyt haastamassa hulluutta.
 HY-NMT-en-fi.5570	Correct	Ron Burkle haastaa nyt Follierin.	Ron Burkle haastoi nyt Follierin oikeuteen.
@@ -418,6 +404,20 @@ online-G.0	Correct	Se on nyt pidetään erinomainen esimerkki siitä, Colonial R
 online-A.0	Correct	Nyt sitä pidetään ensisijaisena esimerkkinä siirtomaa vallan elvyttämisen arkkitehtuurista.	Sitä pidettiin nyt ensisijaisena esimerkkinä siirtomaa vallan elvyttämisen arkkitehtuurista.
 HY-AH-en-fi.5567	Correct	Se on nyt ajatellaan paras esimerkki Colonialin Revivalin arkkitehtuuri.	Se oli ajateltiin nyt paras esimerkki Colonialin Revivalin arkkitehtuurin.
 
+pres_past	15867	The panel is weighing five months of testimony.	The panel was weighing five months of testimony.
+NICT.5658	Correct	Paneeli punnitsee viiden kuukauden todistusta.	Paneeli punnitsi viiden kuukauden todistusta.
+HY-NMT-en-fi.5570	Correct	Paneeli punnitsee viiden kuukauden todistusta.	Paneeli punnitsi viisi kuukautta todistajanlausuntoa.
+uedin.5707	Correct	Lautakunta painaa viisi kuukautta todistusta.	Lautakunta punnitsi viiden kuukauden todistusta.
+Aalto.5550	Correct	Lautakunta punnitsee viiden kuukauden todistusta.	Lautakunta oli painanut viisi kuukautta todistusta.
+HY-NMTtwostep-en-fi.5639	Correct	Paneelissa pohditaan viiden kuukauden todistelua.	Paneelissa pohdittiin viiden kuukauden todistelua.
+CUNI-Kocmi.5620	Correct	Paneeli painaa viisi kuukautta todistajana.	Paneeli punnitsi viisi kuukautta todistajanlausuntoa.
+talp-upc.5424	Correct	Paneeli punnitsee viisi kuukautta todistusta.	Paneeli punnitsi viisi kuukautta todistusta.
+online-B.0	Correct	Paneeli painaa viisi kuukautta todistusta.	Paneeli painoi viisi kuukautta todistusta.
+HY-SMT-en-fi.5436	Correct	Lautakunta on painanut viiden kuukauden todistusta.	Lautakunta oli painanut viiden kuukauden todistusta.
+online-G.0	Correct	Paneeli on painaa viisi kuukautta todistuksen.	Paneeli oli painavat viisi kuukautta todistuksen.
+online-A.0	Left feature not found	Paneeli painaa viisi kuukautta todistuksen.	Paneeli oli painaa viisi kuukautta todistuksen.
+HY-AH-en-fi.5567	Correct	Paneeli punnitsee viisi todistajanlausunnon kuukautta.	Paneeli punnitsi viisi todistajanlausunnon kuukautta.
+
 comp_adj	1010	Still, not everybody was heeding the calls to head for high ground.	Still, not everybody was heeding the calls to head for higher ground.
 NICT.5658	Correct	Kaikki eivät kuitenkaan vastanneet kehotuksiin päästä korkealle maaperälle.	Kaikki eivät kuitenkaan vastanneet kehotuksiin päästä korkeammalle maaperälle.
 HY-NMT-en-fi.5570	Correct	Kaikki eivät kuitenkaan lämmitelleet kehotuksia päästä korkealle.	Kaikki eivät kuitenkaan lämmitä kehotuksia korkeammalle.
@@ -428,7 +428,7 @@ CUNI-Kocmi.5620	Correct	Silti kaikki eivät kuunnelleet vaatimuksia päästä ko
 talp-upc.5424	Correct	Silti kaikki eivät ottaneet huomioon kehotuksia päästä korkealle.	Silti kaikki eivät ottaneet huomioon kehotuksia päästä korkeammalle tasolle.
 online-B.0	Correct	Silti kaikki eivät huomioineet puheluja päästäkseen korkealle.	Silti kaikki eivät huomioineet puheluja päästäkseen korkeampaan maahan.
 HY-SMT-en-fi.5436	Left feature not found	Edelleen, kaikki eivät olleet sotipäälliköksi pohjaa korkeammalle.	Edelleen, kaikki eivät olleet sotimaan kohti suurempia kenttiä.
-online-G.0	Correct	Silti, ei kaikki oli tarkkailemalla puhelut pää korkealle.	Silti, ei kaikki oli tarkkailemalla puhelut pään ylemmäs.
+online-G.0	Right feature not found	Silti, ei kaikki oli tarkkailemalla puhelut pää korkealle.	Silti, ei kaikki oli tarkkailemalla puhelut pään ylemmäs.
 online-A.0	Correct	Silti kaikki eivät ole piittaamatta puhelut pään korkealla kentällä.	Silti kaikki eivät ole piittaamatta puhelut suunnata korkeammalle.
 HY-AH-en-fi.5567	Correct	Edelleenkään ei jokainen huomioi kutsut suunnataksensa korkeaan maahan.	Edelleenkään ei jokainen huomioi kutsut suunnataksensa korkeampaan maahan.
 
@@ -740,19 +740,19 @@ online-G.0	Correct	Feministit ovat arvostelleet häntä ei olla itsevarma tarpee
 online-A.0	Correct	Feministit ovat arvostelleet häntä ei ole vakuuttava tarpeeksi.	Feministit ovat arvostelleet sitä ei ole vakuuttava tarpeeksi.
 HY-AH-en-fi.5567	Correct	Feministit ovat arvostelleet häntä ei olemista riittävän jämäkköitä.	Feministit ovat arvostelleet sitä ei olemista riittävän jämäkköitä.
 
-human_nonhuman_pron	1065	But one thing has continued to fascinate him about golf.	But one thing has continued to fascinate it about golf.
-NICT.5658	Correct	Mutta yksi asia on edelleen kiehtonut häntä golfista.	Mutta yksi asia on edelleen kiehtonut sitä golfista.
-HY-NMT-en-fi.5570	Right feature not found	Yksi asia on kuitenkin edelleen kiehtonut häntä golfista.	Yksi asia on kuitenkin edelleen kiehtonut golfia.
-uedin.5707	Correct	Mutta yksi asia on jatkanut kiehtovaa häntä noin golf.	Mutta yksi asia on jatkanut kiehtovaa sitä golfia.
-Aalto.5550	Correct	Mutta yksi asia on jatkuvasti kiehtonut häntä golfista.	Mutta yksi asia on jatkuvasti kiehtonut sitä golfista.
-HY-NMTtwostep-en-fi.5639	Right feature not found	Mutta yksi asia on edelleen kiehtonut häntä golfista.	Mutta yksi asia on edelleen kiehtonut golfia.
-CUNI-Kocmi.5620	Correct	Mutta yksi asia on edelleen kiehtonut häntä noin golf.	Mutta yksi asia on edelleen kiehtoa sitä golf.
-talp-upc.5424	Correct	Mutta yksi asia on jatkanut kiehtoo häntä golf.	Mutta yksi asia on edelleen kiehtovat sitä golf.
-online-B.0	Correct	Yksi asia on kuitenkin kiehtonut häntä golfista.	Yksi asia on kuitenkin kiehtonut sitä golfista.
-HY-SMT-en-fi.5436	Correct	Mutta yksi asia on kiehtonut häntä golfista.	Mutta yksi asia on kiehtonut niitä golfista.
-online-G.0	Correct	Mutta yksi asia on edelleen kiehtovat häntä golfista.	Mutta yksi asia on edelleen kiehtovat se golfista.
-online-A.0	Correct	Mutta yksi asia on jatkanut kiehtovat häntä noin golfia.	Mutta yksi asia on edelleen kiehtovat sitä noin golfia.
-HY-AH-en-fi.5567	Correct	But yksi asia on edelleen kiehtovan häntä golista.	But yksi asia on edelleen kiehtovan sitä golista.
+human_nonhuman_pron	1066	Italian football legend Gianni Rivera remembered him fondly as well.	Italian football legend Gianni Rivera remembered it fondly as well.
+NICT.5658	Correct	Italialainen jalkapallolegenda Gianni Rivera muisti häntä myös kauniisti.	Italialainen jalkapallolegenda Gianni Rivera muisti sitä myös kauniisti.
+HY-NMT-en-fi.5570	Correct	Myös italialainen jalkapallolegenda Gianni Rivera muisteli häntä mielihyvin.	Myös italialainen jalkapallolegenda Gianni Rivera muisteli sitä mielihyvin.
+uedin.5707	Correct	Italialainen jalkapallolegenda Gianni Rivera muisteli häntä myös fonisesti.	Italialainen jalkapallolegenda Gianni Rivera muisteli sitä myös fonisesti.
+Aalto.5550	Correct	Italialainen jalkapallolegenda Gianni Rivera muistetaan hänestä myös hartaasti.	Italialainen jalkapallolegenda Gianni Rivera muistetaan siitä myös hartaasti.
+HY-NMTtwostep-en-fi.5639	Correct	Italialainen jalkapallolegenda Gianni Rivera muisti hänet myös auliisti.	Italialainen jalkapallolegenda Gianni Rivera muistetaan siitä yksinkertaisesti myös.
+CUNI-Kocmi.5620	Correct	Italialainen jalkapallolegenda Gianni Rivera muistaa myös hänet lämpimästi.	Italialainen jalkapallolegenda Gianni Rivera muistaa sen myös lämmöllä.
+talp-upc.5424	Correct	Italialainen jalkapallolegenda Gianni Rivera muisti häntä mielellään myös.	Italialainen jalkapallolegenda Gianni Rivera muisti sen mielellään myös.
+online-B.0	Correct	Italian jalkapallokappale Gianni Rivera muisti häntä kovasti.	Italian jalkapallokappale Gianni Rivera muisteli sitä kovin hyvin.
+HY-SMT-en-fi.5436	Right feature not found	Italialainen jalkapallolegenda Gianni Rivera muistetaan myös hänen fonisesti.	Italialainen jalkapallolegenda Gianni Rivera ne muistilas well.
+online-G.0	Correct	Italian jalkapallon legenda Gianni Rivera muistivat häntä lämmöllä.	Italian jalkapallon legenda Gianni Rivera muisteli sitä hellästi.
+online-A.0	Correct	Italian jalka pallo legenda Gianni Rivera muistaa häntä hellästi samoin.	Italian jalka pallo legenda Gianni Rivera muistaa sitä hellästi samoin.
+HY-AH-en-fi.5567	Correct	Italialainen jalkapallo legenda Gianni Rivera muisti hänet rakastavasti samoin.	Italialainen jalkapallo legenda Gianni Rivera muisti sen rakastavasti samoin.
 
 human_nonhuman_pron	1078	Tell us, please!	Tell it, please!
 NICT.5658	Correct	Kerro meille, kiitos!	Kerro se, kiitos!
@@ -810,19 +810,19 @@ online-G.0	Correct	Se muistuttaa minua.	Se muistuttaa, että se.
 online-A.0	Right feature not found	Se muistuttaa minua.	Se muistuttaa.
 HY-AH-en-fi.5567	Correct	Tuo muistuttaa minua.	Tuo muistuttaa sitä.
 
-human_nonhuman_pron	1232	Leave us guys out!	Leave it guys out!
-NICT.5658	Correct	Jätä meidät kaverit pois!	Jätä se kaverit pois!
-HY-NMT-en-fi.5570	Correct	Jättäkää meidät ulos!	Jätä se pois!
-uedin.5707	Correct	Jätä meidät kaverit pois!	Jätä se kaverit pois!
-Aalto.5550	Correct	Jätä meidät kaverit pois!	Jätä se kaverit pois!
-HY-NMTtwostep-en-fi.5639	Correct	Jätä meidät kaverit pois!	Jätä se kaveri pois!
-CUNI-Kocmi.5620	Correct	Jätä meidät tyypit pois!	Jätä se kaverit pois!
-talp-upc.5424	Correct	Jätä meidät ulos!	Jätä se kaverit pois!
-online-B.0	Correct	Jätä meidät ulos!	Jätä ne ulos!
-HY-SMT-en-fi.5436	Identical	Jätä kaveria pois!	Jätä kaveria pois!
-online-G.0	Right feature not found	Jätä meille kaverit pois!	Jätä kaveria!
-online-A.0	Correct	Jätä meille guys out!	Jätä se guys out!
-HY-AH-en-fi.5567	Correct	Jätä meille tyyppejä pois!	Jätä sitä tyypeiksi pois!
+human_nonhuman_pron	1238	But they could not corner him.	But they could not corner it.
+NICT.5658	Correct	Mutta he eivät voineet kaataa häntä.	Mutta he eivät voineet kaataa sitä.
+HY-NMT-en-fi.5570	Correct	He eivät kuitenkaan kyenneet nurkkaamaan häntä.	He eivät kuitenkaan voineet sulkea sitä.
+uedin.5707	Correct	Mutta he eivät voineet kolkuttaa häntä.	Mutta he eivät voineet nurmella sitä.
+Aalto.5550	Correct	Mutta he eivät voineet nurkkia häntä.	Mutta he eivät voineet nurkkia sitä.
+HY-NMTtwostep-en-fi.5639	Correct	Mutta he eivät voinut sulkea häntä.	Mutta he eivät voinut sitä nurkkaa.
+CUNI-Kocmi.5620	Correct	Mutta he eivät voineet nurista häntä.	Mutta he eivät voineet nurista sitä.
+talp-upc.5424	Correct	Mutta he eivät kyenneet saamaan häntä nurkkaan.	Mutta he eivät voineet saada sitä kiinni.
+online-B.0	Correct	Mutta he eivät voineet nurkuttaa häntä.	Mutta he eivät voineet nurkuttaa sitä.
+HY-SMT-en-fi.5436	Right feature not found	Mutta he eivät voineet kulmassa häntä.	Mutta niillä nurkilla.
+online-G.0	Correct	Mutta he eivät voineet hänet nurkkaan.	Mutta he eivät voineet nurkkaan se.
+online-A.0	Correct	Mutta he eivät voineet nurkkaan häntä.	Mutta he eivät voineet nurkkaan sitä.
+HY-AH-en-fi.5567	Correct	Mutta he eivät voisi ahdistaa nurkkaan häntä.	Mutta ne eivät voisi ahdistaa nurkkaan sitä.
 
 human_nonhuman_pron	1255	They gave us a tour of a captured communications post.	They gave it a tour of a captured communications post.
 NICT.5658	Correct	He antoivat meille kiertueen kaapattua viestintäpostia.	He antoivat sille kiertueen kaapattua viestintäpostia.
@@ -1151,7 +1151,7 @@ NICT.5658	Correct	Varsinkin, kun kaikki piristyy ennen joulua.	Varsinkin, kun ka
 HY-NMT-en-fi.5570	Correct	Varsinkin kun kaikki alkaa ennen joulua.	Varsinkin kun kaikki alkaa joulun jälkeen.
 uedin.5707	Correct	Varsinkin kun kaikki piristyy ennen joulua.	Varsinkin kun kaikki piristyy joulun jälkeen.
 Aalto.5550	Correct	Varsinkin kun kaikki tarttuu ennen joulua.	Varsinkin kun kaikki tarttuu joulun jälkeen.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no jälkeen/kuluttua postposition found 	Varsinkin sen jälkeen, kun kaikki tulee poimittua ennen joulua.	Varsinkin sen jälkeen, kun kaikki tarttuu joulun jälkeen.
+HY-NMTtwostep-en-fi.5639	Right feature not found: no nouns found with jälkeen/kuluttua 	Varsinkin sen jälkeen, kun kaikki tulee poimittua ennen joulua.	Varsinkin sen jälkeen, kun kaikki tarttuu joulun jälkeen.
 CUNI-Kocmi.5620	Correct	varsinkin koska kaikki piristyy ennen joulua.	varsinkin kun kaikki piristyy joulun jälkeen.
 talp-upc.5424	Correct	Varsinkin kun kaikki piristyy ennen joulua.	Varsinkin kun kaikki piristyy joulun jälkeen.
 online-B.0	Correct	varsinkin kun kaikki noutaa ennen joulua.	varsinkin kun kaikki noutaa joulun jälkeen.
@@ -1258,20 +1258,6 @@ online-G.0	Left feature not found: no Par case found after ennen no nouns found 
 online-A.0	Correct	Kuukautta ennen hänen pidättämistään, McNair aloitti legendaarisen pakenee.	Kuukauden kuluttua hänen pidätyksensä, McNair aloitti legendaarisen pakenee.
 HY-AH-en-fi.5567	Correct	Kuukausia ennen hänen pidätystä, Mcnairia alkoi hänen legendaarisia pakoja.	Kuukausia hänen pidätyksen jälkeen, Mcnair alkoi hänen legendaarisia pakoja.
 
-local_prep	1000	Naples is a city bubbling with history just above the surface.	Naples is a city bubbling with history just below the surface.
-NICT.5658	Correct	Napoli on kaupunki, jossa on historiaa aivan pinnan yläpuolella.	Napoli on kaupunki, jossa on historiaa aivan pinnan alla.
-HY-NMT-en-fi.5570	Correct	Napoli on historian kupla aivan pinnan yläpuolella.	Napoli on historian kupliva kaupunki aivan pinnan alla.
-uedin.5707	Correct	Napoli on kaupunki, jolla on historia aivan pinnan yläpuolella.	Napoli on kaupunki, jossa on historiaa aivan pinnan alla.
-Aalto.5550	Correct	Napoli on historiallisesti kupliva kaupunki juuri pinnan yläpuolella.	Napoli on historiallisesti kupliva kaupunki vain pinnan alapuolella.
-HY-NMTtwostep-en-fi.5639	Correct	Napoli on kaupunki, jossa kuplii historia aivan pintan yläpuolella.	Napoli on kaupunki, jossa kuplii historia aivan pintan alapuolella.
-CUNI-Kocmi.5620	Correct	Napoli on kaupungin kupla historian juuri pinnan yläpuolella.	Napoli on kaupungin kupla, jonka historia on aivan pinnan alapuolella.
-talp-upc.5424	Correct	Napoli on kaupunki, joka kuppaa historiaa juuri pinnan yläpuolella.	Napoli on kaupunki, joka kuppaa historiaa aivan pinnan alla.
-online-B.0	Correct	Napoli on kaupunki, jossa on historiaa juuri pinnan yläpuolella.	Napoli on kaupunki, jossa on historiaa juuri pinnan alapuolella.
-HY-SMT-en-fi.5436	Correct	Napoli on kaupunki kuplineet historiansa juuri maanpinnan yläpuolella.	Napoli on kaupungin historian kanssa juuri kuplii pinnan alla.
-online-G.0	Correct	Napoli on kaupunki kuplii historian kanssa juuri pinnan yläpuolella.	Napoli on kaupunki kuplii historian kanssa juuri pinnan alla.
-online-A.0	Correct	Napoli on kaupunki kuplivaa historiaa hieman pinnan yläpuolella.	Napoli on kaupunki kuplivaa historiaa aivan pinnan alla.
-HY-AH-en-fi.5567	Left feature not found: no translation of above found	Napoli on kaupunki poreilu historian kanssa juuri pinnan yllä.	Napoli on kaupunki poreilu historian kanssa juuri pinnan alla.
-
 local_prep	1008	More than 200 islands nestle outside the reef.	More than 200 islands nestle inside the reef.
 NICT.5658	Correct	Yli 200 saarta pesee varikon ulkopuolella.	Rekan sisällä pesee yli 200 saarta.
 HY-NMT-en-fi.5570	Correct	Yli 200 saarta pesii riutan ulkopuolella.	Yli 200 saarta pesii riutan sisällä.
@@ -1314,20 +1300,6 @@ online-G.0	Correct	Ja pidä kädet auton ulkopuolella.	Ja pidä kädet auton sis
 online-A.0	Correct	Ja pidä kätesi auton ulkopuolella.	Ja pitää kädet auton sisällä.
 HY-AH-en-fi.5567	Correct	Ja pidä sinun käsiäsi auton ulkopuolella.	Ja pidä sinun käsiäsi auton sisällä.
 
-local_prep	1046	Above them is a large scallop shell.	Below them is a large scallop shell.
-NICT.5658	Correct	Niiden yläpuolella on suuri scallop-kuori.	Niiden alla on suuri scallop-kuori.
-HY-NMT-en-fi.5570	Correct	Niiden yläpuolella on suuri hapankuori.	Niiden alapuolella on suuri hapankuori.
-uedin.5707	Correct	Niiden yläpuolella on suuri kuori.	Niiden alapuolella on suuri scallop-kuori.
-Aalto.5550	Correct	Niiden yläpuolella on suuri kampasimpukka.	Niiden alapuolella on suuri kampasimpukka.
-HY-NMTtwostep-en-fi.5639	Correct	Niiden yläpuolella on suuri scallopkuori.	Niiden alapuolella on suuri scallopkuori.
-CUNI-Kocmi.5620	Correct	Heidän yläpuolellaan on suuri scallop-kuori.	Alla on suuri skallo kuori.
-talp-upc.5424	Correct	Niiden yläpuolella on suuri skalop kuori.	Alla ne on suuri skalop kuori.
-online-B.0	Correct	Yläpuolella on iso kampasimpukka.	Alla on iso kampasimpukka.
-HY-SMT-en-fi.5436	Correct	Niiden yläpuolella on suuri kampasimpukka kuoresta.	Alapuolella on suuri kampasimpukka kuoresta.
-online-G.0	Correct	Niiden yläpuolella on suuri kampasimpukka kuori.	Niiden alla on suuri kampasimpukka kuori.
-online-A.0	Correct	Niiden yläpuolella on suuri kampa simpukka kuori.	Alla on suuri kampa simpukka kuori.
-HY-AH-en-fi.5567	Left feature not found: no translation of above found	Niiden yllä on suuri kampasimpukka kranaatti.	Niiden alla on suuri kampasimpukka kranaatti.
-
 local_prep	1052	The most vocal opposition has come from outside the assembly.	The most vocal opposition has come from inside the assembly.
 NICT.5658	Correct	Äänekkäin vastustus on tullut kokoomuksen ulkopuolelta.	Äänekkäin vastustus on tullut kokoomuksen sisältä.
 HY-NMT-en-fi.5570	Correct	Äänekkäimmin vastustusta on tullut kokouksen ulkopuolelta.	Äänekkäimmin vastustusta on tullut kokouksen sisältä.
@@ -1356,20 +1328,6 @@ online-G.0	Correct	"Se on naurettavaa", hän sanoi ulkopuolella, downtown, Ottaw
 online-A.0	Correct	"se on naurettavaa", hän sanoi ulkopuolella Downtown Ottawa kirja kauppa.	"se on naurettavaa", hän sanoi sisällä Downtown Ottawa kirja kauppa.
 HY-AH-en-fi.5567	Correct	"On naurettava," hän sanoi keskikaupunki Ottawan ulkopuolella kirjakaupan.	"On naurettava," hän sanoi keskikaupunki Ottawan sisällä kirjakaupan.
 
-local_prep	1058	Prices are all above $1 million.	Prices are all below $1 million.
-NICT.5658	Correct	Hinnat ovat kaikki yli miljoona dollaria.	Hinnat ovat kaikki alle miljoona dollaria.
-HY-NMT-en-fi.5570	Correct	Hinnat ovat yli miljoona dollaria.	Hinnat ovat alle miljoona dollaria.
-uedin.5707	Correct	Hinnat ovat kaikki yli miljoona dollaria.	Hinnat ovat kaikki alle miljoona dollaria.
-Aalto.5550	Correct	Hinnat ovat kaikki yli miljoona dollaria.	Hinnat ovat kaikki alle miljoona dollaria.
-HY-NMTtwostep-en-fi.5639	Correct	Hinnat ovat kaikki yli miljoona dollaria.	Hinnat ovat kaikki alle miljoona dollaria.
-CUNI-Kocmi.5620	Correct	Hinnat ovat yli 1.000.000 dollaria.	Hinnat ovat kaikki alle 1.000.000 dollaria.
-talp-upc.5424	Correct	Hinnat ovat yli miljoona dollaria.	Hinnat ovat kaikki alle miljoona dollaria.
-online-B.0	Correct	Hinnat ovat yli miljoona dollaria.	Hinnat ovat alle miljoona dollaria.
-HY-SMT-en-fi.5436	Correct	Kaikki hinnat ovat yli miljoona dollaria.	Kaikki hinnat ovat alle miljoona dollaria.
-online-G.0	Correct	Hinnat ovat kaikki yli $1 miljoonaa euroa.	Hinnat ovat alle $1 miljoonaa euroa.
-online-A.0	Correct	Hinnat ovat kaikki yli $1 000 000.	Hinnat ovat kaikki alle $1 000 000.
-HY-AH-en-fi.5567	Left feature not found: no translation of above found	Hinnat ovat kaikkia $1 miljoonaa yllä.	Hinnat ovat kaikkia $1 miljoonaa alla.
-
 local_prep	1064	The sun at around 4 p.m. was about 40 degrees above the horizon.	The sun at around 4 p.m. was about 40 degrees below the horizon.
 NICT.5658	Correct	Aurinko noin kello 16.00 oli noin 40 astetta horisontin yläpuolella.	Aurinko noin kello 16.00 oli noin 40 astetta horisontin alapuolella.
 HY-NMT-en-fi.5570	Correct	Noin kello 16.00 aurinko oli noin 40 astetta horisontin yläpuolella.	Noin kello 16.00 aurinko oli noin 40 astetta horisontin alapuolella.
@@ -1382,7 +1340,7 @@ online-B.0	Correct	Aurinko oli noin neljätoista noin 40 astetta horisontin ylä
 HY-SMT-en-fi.5436	Both features not found: no case match	Aurinko noin klo 16.00 oli noin 40 astetta horisontin yläpuolelle.	Aurinko noin klo 16.00 oli noin 40 astetta horisontin alapuolella.
 online-G.0	Correct	Aurinko noin klo 4 p. m. oli noin 40 astetta horisontin yläpuolella.	Aurinko noin klo 4 p. m. oli noin 40 astetta horisontin alapuolella.
 online-A.0	Correct	Aurinko noin kuusitoista oli noin 40 astetta horisontin yläpuolella.	Sun noin kuusitoista oli noin 40 astetta horisontin alapuolella.
-HY-AH-en-fi.5567	Left feature not found: no translation of above found	Aurinko noin 4 ip oli suunnilleen 40 astetta horisontin yllä.	Aurinko noin 4 ip oli suunnilleen 40 astetta horisontin alla.
+HY-AH-en-fi.5567	Correct	Aurinko noin 4 ip oli suunnilleen 40 astetta horisontin yllä.	Aurinko noin 4 ip oli suunnilleen 40 astetta horisontin alla.
 
 local_prep	1077	About 80 percent of the work be outside of the United States.	About 80 percent of the work be inside of the United States.
 NICT.5658	Correct	Noin 80 prosenttia työstä on Yhdysvaltojen ulkopuolella.	Noin 80 prosenttia työstä on sisällä Yhdysvalloissa.
@@ -1397,6 +1355,48 @@ HY-SMT-en-fi.5436	Correct	Noin 80 prosenttia työstä on Yhdysvaltain ulkopuolel
 online-G.0	Correct	Noin 80 prosenttia työstä on yhdysvaltojen ulkopuolella.	Noin 80 prosenttia työstä on sisällä yhdysvalloissa.
 online-A.0	Correct	Noin 80 prosenttia työstä on Yhdysvaltojen ulkopuolella.	Noin 80 prosenttia työstä on sisällä Yhdysvalloissa.
 HY-AH-en-fi.5567	Right feature not found: no translation of inside found	Suunnilleen 80 prosenttia työstä on ulkopuolella USAn.	Suunnilleen 80 prosenttia työstä on USAn sisä.
+
+local_prep	1090	Wertman's days now are largely spent behind the TV.	Wertman's days now are largely spent in front of the TV.
+NICT.5658	Correct	Wertmanin päivät kuluvat nyt pitkälti tv: N takana.	Wertmanin päivät kuluvat nyt pitkälti tv: N edessä.
+HY-NMT-en-fi.5570	Correct	Wertmanin päivät ovat nyt suurelta osin tv:n takana.	Wertmanin päivät kuluvat nyt suurelta osin television ääressä.
+uedin.5707	Correct	Wertmanin päivät kuluvat nyt pitkälti tv:n takana.	Wertmanin päivät kuluvat nyt pitkälti tv:n ääressä.
+Aalto.5550	Correct	Wertmanin päivät ovat nyt pitkälti tv:n takana.	Wertmanin päivät ovat nyt pitkälti tv:n edessä.
+HY-NMTtwostep-en-fi.5639	Correct	Wertmanin päivät vietetään nyt pääosin tv:n takana.	Wertmanin päivät vietetään nyt pääosin tv:n ääressä.
+CUNI-Kocmi.5620	Left feature not found: no translation of behind found	Wertman päivän nyt käytetään pitkälti TV.	Wertman päiviä nyt käytetään pitkälti edessä TV.
+talp-upc.5424	Correct	Wertmanin päivät viettävät nyt paljon TV: N takana.	Wertmanin päivät vietetään nyt suurelta osin television edessä.
+online-B.0	Correct	Wertmanin päivät ovat nyt pitkälti televisiosta takana.	Wertmanin päivät ovat suurelta osin viettäneet television edessä.
+HY-SMT-en-fi.5436	Correct	Wertmanin päivät ovat nyt takana käytetyn tv:n.	Wertmanin päivät ovat pitkälti viettänyt tv:n ääressä.
+online-G.0	Correct	Pedrin päivät ovat nyt laajalti käytetty TELEVISION takana.	Pedrin päivät ovat nyt laajalti käytetty TV: n edessä.
+online-A.0	Correct	Wertman päivät nyt suurelta osin käytetty takana TV.	Wertman päivät nyt suurelta osin käytetty tele vision ääressä.
+HY-AH-en-fi.5567	Correct	Wertmanin päivät nyt laajalti kulutetaan TV:n takana.	Wertmanin päivät nyt laajalti kulutetaan TV:n edessä.
+
+local_prep	1097	Was there a serial downloader lurking outside Jammie Thomas' window?	Was there a serial downloader lurking inside Jammie Thomas' window?
+NICT.5658	Right feature not found: no translation of inside found	Oliko Jammie Thomasin ikkunan ulkopuolella vaaniva sarjanousija?	Vaikuttiko Jammie Thomasin ikkunan sisään sarjanousija?
+HY-NMT-en-fi.5570	Correct	Onko Jammie Thomasin ikkunan ulkopuolella vaaninut sarjalaaja?	Onko Jammie Thomasin ikkunassa vaaninut sarjalaader?
+uedin.5707	Correct	Vieläkö sarjakuvaaja vaanii Jammie Thomasin ikkunan ulkopuolella?	Oliko Jammie Thomasin ikkunan sisällä vaaniva sarjakuvaaja?
+Aalto.5550	Correct	Oliko sarjalatauksen ulkopuolella vaaniva Jammie ”Tuomas” -ikkuna?	Oliko sarjalatauksen sisällä vaaniva Jammie ”Tuomas” -ikkuna?
+HY-NMTtwostep-en-fi.5639	Correct	Oliko sarjanousija vaaninut Jammie Thomasin ikkunan ulkopuolella?	Oliko sarjanousija vaaninut sisällä Jammie Thomasin ikkunaa?
+CUNI-Kocmi.5620	Correct	Oliko Jammie Thomasin ikkunan ulkopuolella sarjalaturi?	Oliko Jammie Thomasin ikkunassa sarjalaturi?
+talp-upc.5424	Correct	Oliko Jammie Thomas -ikkunan ulkopuolella sarjalataus?	Oliko Jammie Thomas -ikkunan sisäpuolella sarjalataus?
+online-B.0	Correct	Oliko Jammie Thomasin ikkunan ulkopuolella loukkaava sarjakuvaaja?	Oliko Jammie Thomasin ikkunassa loukkaava sarjakuvaaja?
+HY-SMT-en-fi.5436	Right feature not found: no translation of inside found	Oli siellä sarjadownloader ulkopuolella vaanii Jamie Thomas "ikkuna?	Oli siellä sarjadownloader sisään kätkeytyy Jamie Thomas "ikkuna?
+online-G.0	Correct	Siellä oli sarja downloader väijyvä ulkopuolella Jammie Thomas' ikkuna?	Siellä oli sarja downloader väijyvä sisällä Jammie Thomas' ikkuna?
+online-A.0	Correct	Oliko sarja Downloader väijyvä ulkopuolella Jammie Thomas ikkuna?	Oliko sarja Downloader väijyvä sisällä Jammie Thomas ikkuna?
+HY-AH-en-fi.5567	Correct	Oliko siinä sarjalataaja kätkeytyi Jammie Thomasin ulkopuolella ikkunan?	Oliko siinä sarjalataaja kätkeytyi Jammie Thomasin sisällä ikkunan?
+
+local_prep	1105	But Musharraf may not have many other options behind him.	But Musharraf may not have many other options in front of him.
+NICT.5658	Correct	Musharrafilla ei kuitenkaan välttämättä ole takanaan monia muita vaihtoehtoja.	Musharrafilla ei kuitenkaan välttämättä ole edessään monia muita vaihtoehtoja.
+HY-NMT-en-fi.5570	Correct	Mutta Musharrafilla ei ehkä ole monia muita vaihtoehtoja takanaan.	Mutta Musharrafilla ei ehkä ole monia muita vaihtoehtoja edessään.
+uedin.5707	Correct	Mutta Musharrafilla ei ehkä ole takanaan monia muita vaihtoehtoja.	Mutta Musharrafilla ei ehkä ole edessään monia muita vaihtoehtoja.
+Aalto.5550	Correct	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja takanaan.	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja hänen edessään.
+HY-NMTtwostep-en-fi.5639	Correct	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja takanaan.	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja edessään.
+CUNI-Kocmi.5620	Correct	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja takanaan.	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja hänen edessään.
+talp-upc.5424	Correct	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja hänen takanaan.	Mutta Musharraf ei ehkä ole monia muita vaihtoehtoja hänen edessään.
+online-B.0	Correct	Mutta Musharrafilla ei ehkä ole muita vaihtoehtoja takanaan.	Mutta Musharrafilla ei ehkä ole monia muita vaihtoehtoja hänen edessään.
+HY-SMT-en-fi.5436	Right feature not found: no translation of in_front_of found	Mutta Musharraf ei tosin ollut paljon muita vaihtoehtoja takanaan.	Mutta Musharraf ei välttämättä ole monia muita vaihtoehtoja.
+online-G.0	Correct	Mutta Musharraf voi olla monia muita vaihtoehtoja takanaan.	Mutta Musharraf voi olla monia muita vaihtoehtoja edessään.
+online-A.0	Correct	Mutta Musharrafin voi olla monia muita vaihto ehtoja takanaan.	Mutta Musharrafin voi olla monia muita vaihto ehtoja edessään.
+HY-AH-en-fi.5567	Correct	Mutta Musharrafilla voi ei ole monet muut vaihtoehdot hänen takana.	Mutta Musharrafilla voi ei ole monet muut vaihtoehdot hänen edessä.
 
 complex_np	1057	You cannot take that away from him.	You cannot take that away from the autistic hiker.
 NICT.5658	Correct: adj + noun	Sitä ei voi ottaa häneltä pois.	Sitä ei voi ottaa pois autistiselta vaellukselta.
@@ -1516,7 +1516,7 @@ HY-NMT-en-fi.5570	Correct: adj + noun	Löin häntä.	Pilkkasin upean äidin.
 uedin.5707	Correct: adj + noun	Törmäsin häneen.	Soitin upealle äidille.
 Aalto.5550	Correct: adj + noun	Pyysin häntä.	Olen chided ihana äiti.
 HY-NMTtwostep-en-fi.5639	Correct: adj + noun	Itkin hänen kanssaan.	Itkin ihanaa äitiä.
-CUNI-Kocmi.5620	Left feature not found: adj + noun	I chided him.	I chided ihana äiti.
+CUNI-Kocmi.5620	Left feature not found: no pronoun	I chided him.	I chided ihana äiti.
 talp-upc.5424	Correct: adj + noun	I chided häntä.	I chided ihana äiti.
 online-B.0	Correct: adj + noun	Puhuin hänelle.	Puhuin ihana äiti.
 HY-SMT-en-fi.5436	Correct: adj + noun	Chien häntä.	Olen chii ihana äiti.
@@ -1530,7 +1530,7 @@ HY-NMT-en-fi.5570	Correct: adj + noun	Löin pääni häneen ja tutkin.	Ravisteli
 uedin.5707	Correct: adj + noun	Ampuin pääni häneen ja tutun.	Ampuin pääni entiseen asianajajaan ja tutun.
 Aalto.5550	Correct: adj + noun	Olen ravistellut päätäni ja tutkinut häntä.	Ravistelin päätäni entisellä asianajajalla ja tutkin.
 HY-NMTtwostep-en-fi.5639	Correct: adj + noun	Ravistelin päätäni häntä ja tutkailin.	Ravistelin päätäni entisellä asianajajalla ja tutkailin.
-CUNI-Kocmi.5620	Left feature not found: adj + noun	I shook pääni häntä ja ohjataan.	Järkyttin päätäni entiselle asianajajalle ja ohjasin häntä.
+CUNI-Kocmi.5620	Left feature not found: no pronoun	I shook pääni häntä ja ohjataan.	Järkyttin päätäni entiselle asianajajalle ja ohjasin häntä.
 talp-upc.5424	Correct: adj + noun	Minä ravistelin päätäni häntä vastaan ja kiinnitin.	Olen ravistellut pääni entisen asianajajan ja kiinnostanut.
 online-B.0	Correct: adj + noun	Pudistin päätäni häntä kohden.	Pudistin pääni entisen asianajajan puoleen.
 HY-SMT-en-fi.5436	Correct: adj + noun	Ravistelin päätäni hänen ja Tuttu.	Ravistelin päätäni ja entinen asianajaja.
@@ -1566,20 +1566,6 @@ online-G.0	Correct	Et voi saada asuntolaina Amerikassa tänään.	Et voi saada a
 online-A.0	Correct	Et voi saada kiinnityksen Amerikassa tänään.	Et voi saada kiinnityksen amariyah tänään.
 HY-AH-en-fi.5567	Correct	Ei voi saada asuntoluottoa Amerikan tänään.	Voi ei saada asuntoluottoa Amariyahin tänään.
 
-named_entities	10595	Could it be another Caribbean wedding?	Could it be another Carlsbad wedding?
-NICT.5658	Correct	Voisiko se olla toinen Karibian häät?	Voisiko se olla toinen Carlsbad häät?
-HY-NMT-en-fi.5570	Correct	Voisiko kyseessä olla toinen Karibian hääjuhla?	Voisiko kyseessä olla toinen Carlsbad?
-uedin.5707	Correct	Voisiko se olla toinen Karibian häät?	Voisiko kyseessä olla toinen Carlsbad-hääpuku?
-Aalto.5550	Correct	Voisiko kyseessä olla jälleen Karibian häät?	Voisiko se olla toinen Carlsbad häät?
-HY-NMTtwostep-en-fi.5639	Left feature not found	Voisiko olla taas Karibian-häät?	Voisiko olla toinen Carlsbad häissä?
-CUNI-Kocmi.5620	Correct	Voisiko se olla toinen Karibian häät?	Voisiko se olla toinen Carlsbad häät?
-talp-upc.5424	Correct	Voisiko se olla toinen Karibian häät?	Voisiko se olla toinen Carlsbad häät?
-online-B.0	Correct	Voisiko olla toinen Karibian häät?	Voisiko olla toinen Carlsbadin häät?
-HY-SMT-en-fi.5436	Correct	Se voisi olla toinen Karibian häät?	Se voisi olla toinen Carlsbad häät?
-online-G.0	Correct	Se voisi olla toinen Karibian häät?	Se voisi olla toinen Carlsbad häät?
-online-A.0	Correct	Voisiko se olla toinen Karibian häät?	Voisiko se olla toinen Carlsbad häät?
-HY-AH-en-fi.5567	Correct	Voisiko se olla toisen Caribbean hää?	Voisiko se olla toisen Carlsbadin hää?
-
 named_entities	10801	Annapolis looks like a looming photo-op.	Acropolis looks like a looming photo-op.
 NICT.5658	Correct	Annapolis näyttää uhkaavalta photo-opilta.	Akropolis näyttää häämöttävältä photo-opilta.
 HY-NMT-en-fi.5570	Correct	Annapolis näyttää uhkaavalta valokuvalta.	Akropolis näyttää uhkaavalta photo-opilta.
@@ -1613,7 +1599,7 @@ NICT.5658	Correct	Karibian saarilla raportoitiin vain pienistä vahingoista.	Kri
 HY-NMT-en-fi.5570	Correct	Karibian saarilla raportoitiin vain vähäisiä vahinkoja.	Krimin saarilla raportoitiin vain vähäisiä vahinkoja.
 uedin.5707	Correct	Karibian saaret kertoivat vain pienistä vahingoista.	Krimin saaret kertoivat vain pienistä vahingoista.
 Aalto.5550	Correct	Karibian saarilla kerrotaan vain pieniä vahinkoja.	Krimin saarista kerrotaan vain vähäisiä vahinkoja.
-HY-NMTtwostep-en-fi.5639	Left feature not found	Karibian-meren saarilla raportoitiin vain pieniä vaurioita.	Krimin saarilla raportoitiin vain pieniä vaurioita.
+HY-NMTtwostep-en-fi.5639	Correct	Karibian-meren saarilla raportoitiin vain pieniä vaurioita.	Krimin saarilla raportoitiin vain pieniä vaurioita.
 CUNI-Kocmi.5620	Correct	Karibian saaret raportoivat vain vähäisistä vahingoista.	Krimin saaret raportoivat vain vähäisistä vahingoista.
 talp-upc.5424	Correct	Karibian saaret raportoitu vain pieniä vahinkoja.	Krimin saaret raportoitu vain pieniä vahinkoja.
 online-B.0	Correct	Karibian saarilla ilmoitettiin vain vähäisiä vahinkoja.	Krimin saaret ilmoittivat vain vähäisiä vahinkoja.
@@ -1635,6 +1621,20 @@ HY-SMT-en-fi.5436	Correct	GM:n edustaja Tom Wickham sanoi neuvottelut kesken kes
 online-G.0	Correct	GM tiedottaja Tom Wickham sanoi, että neuvottelut ovat käynnissä, keskiyöllä.	Gilead tiedottaja Tom Wickham sanoi, että neuvottelut ovat käynnissä, keskiyöllä.
 online-A.0	Correct	GM tiedottaja Tom Wickham sanoi neuvottelut olivat käynnissä Keski yöllä.	Gilead tiedottaja Tom Wickham sanoi neuvottelut olivat käynnissä Keski yöllä.
 HY-AH-en-fi.5567	Left feature not found	MUUNTOGEEN:i puhemies Tom Wickham sanoi, että neuvottelut jatkuivat keskiyöllä.	Gileadin puhemies Tom Wickham sanoivat neuvottelut jatkuivat keskiyöllä.
+
+named_entities	11862	CNN's Gary Tuchman contributed to this report.	CNN-IBN's Gary Tuchman contributed to this report.
+NICT.5658	Correct	CNN: N Gary Tuchman osallistui tähän raporttiin.	CNN-IBN: N Gary Tuchman osallistui tähän raporttiin.
+HY-NMT-en-fi.5570	Correct	CNN:n Gary Tuchman osallistui raporttiin.	CNN-IBN:n Gary Tuchman osallistui raporttiin.
+uedin.5707	Correct	CNN:n Gary Tuchman osallistui raporttiin.	CNN-IBN:n Gary Tuchman osallistui raporttiin.
+Aalto.5550	Correct	CNN:n Gary Tuchman osallistui tähän mietintöön.	CN-IBN:n Gary Tuchman osallistui tähän mietintöön.
+HY-NMTtwostep-en-fi.5639	Right feature not found	CNN:n Gary Tuchman vaikutti tähän raporttiin.	CNN-ib-N:n Gary Tuchman osallistui tähän raporttiin.
+CUNI-Kocmi.5620	Correct	CNN: n Gary Tuchman osaltaan tämän raportin.	CNN-IBN:n Gary Tuchman osallistui tähän raporttiin.
+talp-upc.5424	Correct	CNN: N Gary Tuchman osaltaan tämän mietinnön.	CNN-IBN: N Gary Tuchman osaltaan tämän mietinnön.
+online-B.0	Correct	CNN: n Gary Tuchman osallistui tähän raporttiin.	CNN-IBN: n Gary Tuchman osallistui tähän raporttiin.
+HY-SMT-en-fi.5436	Left feature not found	CNN 's Gary Tuchman johdosta.	CNN - IBN 's Gary Tuchman johdosta.
+online-G.0	Correct	CNN: n Gary Tuchman vaikuttaneet tähän raporttiin.	CNN-IBN: n Gary Tuchman vaikuttaneet tähän raporttiin.
+online-A.0	Correct	CNN n Gary tuchman osaltaan tähän mietintöön.	CNN-IBN n Gary tuchman osaltaan tähän mietintöön.
+HY-AH-en-fi.5567	Correct	CNN:n Gary Tuchman myötävaikutti tähän raporttiin.	CNN-IBN Gary Tuchman myötävaikutti tähän raporttiin.
 
 named_entities	12115	India has resolutely opposed sanctions.	Evia has resolutely opposed sanctions.
 NICT.5658	Correct	Intia on päättäväisesti vastustanut pakotteita.	Evia on päättäväisesti vastustanut pakotteita.

@@ -95,7 +95,7 @@ def extractAllWrong():
 	print(nbExamples, "examples found")
 	
 	of = open("examples/allWrong.tsv", 'w', encoding='utf-8')
-	examplesPerFeature = 10
+	examplesPerFeature = 10		# this is exhaustive
 	for feature in features:
 		if feature not in examples:
 			continue
@@ -297,11 +297,11 @@ def extract_that_if():
 	
 
 if __name__ == "__main__":
-	# extractAllCorrect()
-	# extractAllWrong()
-	# extractRBCorrect()
-	# extractAlmostAllCorrect()
-	# extractAlmostAllWrong()
+	extractAllCorrect()
+	extractAllWrong()
+	extractRBCorrect()
+	extractAlmostAllCorrect()
+	extractAlmostAllWrong()
 	extract_that_if()
-	# count()
+	count()
 	

@@ -22,14 +22,11 @@ HY-SMT-en-fi.5436	Correct	Sanoi että he olivat etsivän naisen kuolemaa epäluu
 sing_plur	11333	Experts confirmed the image showed one of the elusive cats.	Experts confirmed the images showed one of the elusive cats.
 HY-SMT-en-fi.5436	Correct	Asiantuntija vahvisti kuvasta näkyi yksi vaikeimmin tavoitettavat kissat.	Asiantuntija vahvisti kuvissa näkyi yksi vaikeimmin tavoitettavat kissat.
 
-sing_plur	11468	The agent detained her as a fugitive.	The agents detained her as a fugitive.
-HY-SMT-en-fi.5436	Correct	Asiamies vangittiin hänen karkuriksi.	Agentit vangitsivat hänen karkuriksi.
-
 sing_plur	11526	Outside the city, it is a more encouraging picture.	Outside the cities, it is a more encouraging picture.
 HY-SMT-en-fi.5436	Correct	Kaupungin ulkopuolella, se on rohkaisevaa kuvaa.	Kaupunkien ulkopuolella, se on rohkaisevaa kuvaa.
 
-pron_sing_plur	1005	Certainly people were curious to see her.	Certainly people were curious to see them.
-HY-SMT-en-fi.5436	Correct	Ihmiset olivat todella utelias näkemään hänet.	Kyllä ihmiset olivat uteliaita.
+sing_plur	11674	The Falcon's doors, when opened a crack, touch the wall.	The Falcon's doors, when opened a crack, touch the walls.
+HY-SMT-en-fi.5436	Correct	Falconin, kun avasi oven raosta, koskettavat seinää.	Falconin, kun avasi oven raosta, sivuseinät.
 
 pron_sing_plur	1007	Patterson told him to lay off the Japanese angle; Caniff protested.	Patterson told them to lay off the Japanese angle; Caniff protested.
 HY-SMT-en-fi.5436	Correct	Patterson kertoi hänelle irtisanomaan japanilaisten näkökulmasta. Canffi protestoi.	Patterson kertoi heille irtisanomaan japanilaisten näkökulmasta. Canffi protestoi.
@@ -57,6 +54,9 @@ HY-SMT-en-fi.5436	Correct	Jumala rankaisi häntä tekemällä Rangers menettää
 
 pron_sing_plur	1100	The cab dropped me off at 146th Street and Adam Clayton Powell Jr.	The cab dropped us off at 146th Street and Adam Clayton Powell Jr.
 HY-SMT-en-fi.5436	Correct	Hytti pudotti minut pois 14th Street ja Adam Clayton Powell Jr.	Hytti pudotti meidät pois 14th Street ja Adam Clayton Powell Jr.
+
+pron_sing_plur	1106	Olivo said Reyes would not leave him alone.	Olivo said Reyes would not leave them alone.
+HY-SMT-en-fi.5436	Correct	Olivo sanoi Reyes ei jättäisi häntä yksin.	Olivo sanoi Reyes ei jätä heitä rauhaan.
 
 pres_past	10090	I am a gastronomic fallen woman.	I was a gastronomic fallen woman.
 HY-SMT-en-fi.5436	Correct	Olen gastronomisia pudonnut nainen.	Olin gastronomisia pudonnut nainen.
@@ -157,9 +157,6 @@ HY-SMT-en-fi.5436	Correct	Johan opiskeli minut toiseksi.	Johan sen kakkoseksi.
 human_nonhuman_pron	1045	That would not stop him from supporting MySpace-oriented application companies.	That would not stop it from supporting MySpace-oriented application companies.
 HY-SMT-en-fi.5436	Correct	Se ei estänyt häntä tukemasta MySpace - yhtiön hakusovellus.	Että se ei enää tue MySpace - yhtiön hakusovellus.
 
-human_nonhuman_pron	1066	Italian football legend Gianni Rivera remembered him fondly as well.	Italian football legend Gianni Rivera remembered it fondly as well.
-HY-SMT-en-fi.5436	Correct	Italialainen jalkapallolegenda Gianni Rivera muistetaan myös hänen fonisesti.	Italialainen jalkapallolegenda Gianni Rivera ne muistilas well.
-
 human_nonhuman_pron	110	Two weeks later, a state fire investigator recognized him.	Two weeks later, a state fire investigator recognized it.
 HY-SMT-en-fi.5436	Correct	Kaksi viikkoa myöhemmin, palotutkija tunnistanut häntä.	Kaksi viikkoa myöhemmin, palotutkija tunnustaa se.
 
@@ -177,6 +174,9 @@ HY-SMT-en-fi.5436	Correct	Te ette näe häntä enää.	Ette näe sitä enää.
 
 human_nonhuman_pron	1154	Okay, give us a little credit.	Okay, give it a little credit.
 HY-SMT-en-fi.5436	Correct	Okay, antaa meille vähän kunniaa.	Okay, antaa se vähän kunniaa.
+
+human_nonhuman_pron	1198	A soccer team stopped on a practice pitch to watch him pass.	A soccer team stopped on a practice pitch to watch it pass.
+HY-SMT-en-fi.5436	Correct	Soccer Team on käytännössä pysähtynyt katsomaan häntä kentän läpi.	Soccer Team pysäytti käytännöstä kentälle katsomaan sen ohi.
 
 det_poss	101	What is the vision for Europe?	What is your vision for Europe?
 HY-SMT-en-fi.5436	Correct	Mikä on Eurooppa - visiosta?	Mikä on teidän näkemyksenne Euroopan kannalta?
@@ -247,14 +247,23 @@ HY-SMT-en-fi.5436	Correct	ODIHR) tarkkailijat tulevat yleensä maa 3 kuukautta e
 prep_postp	1402	He declared victory shortly before midnight.	He declared victory shortly after midnight.
 HY-SMT-en-fi.5436	Correct	Hän julisti voittoa ennen puoltayötä.	Hän julisti voittonsa pian puolenyön jälkeen.
 
+local_prep	1000	Naples is a city bubbling with history just above the surface.	Naples is a city bubbling with history just below the surface.
+HY-SMT-en-fi.5436	Correct	Napoli on kaupunki kuplineet historiansa juuri maanpinnan yläpuolella.	Napoli on kaupungin historian kanssa juuri kuplii pinnan alla.
+
 local_prep	1006	Outside the cities, it is a more encouraging picture.	Inside the cities, it is a more encouraging picture.
 HY-SMT-en-fi.5436	Correct	Kaupunkien ulkopuolella, se on rohkaisevaa kuvaa.	Kaupunkien sisällä, se on rohkaisevaa kuvaa.
 
 local_prep	1041	Outside that time zone, it is undetectable.	Inside that time zone, it is undetectable.
 HY-SMT-en-fi.5436	Correct	Aikavyöhykkeen ulkopuolella, että sitä ei havaita.	Aikavyöhykkeen sisällä, että se on jäljitettävissä.
 
+local_prep	1046	Above them is a large scallop shell.	Below them is a large scallop shell.
+HY-SMT-en-fi.5436	Correct	Niiden yläpuolella on suuri kampasimpukka kuoresta.	Alapuolella on suuri kampasimpukka kuoresta.
+
 local_prep	1050	I am working hard but there is emptiness outside me.	I am working hard but there is emptiness inside me.
 HY-SMT-en-fi.5436	Correct	Olen kovasti töitä mutta ulkopuolella on tyhjyys.	Olen kovasti töitä mutta tyhjyys sisälläni.
+
+local_prep	1058	Prices are all above $1 million.	Prices are all below $1 million.
+HY-SMT-en-fi.5436	Correct	Kaikki hinnat ovat yli miljoona dollaria.	Kaikki hinnat ovat alle miljoona dollaria.
 
 local_prep	1078	He said his family was outside when bombs started falling several days ago.	He said his family was inside when bombs started falling several days ago.
 HY-SMT-en-fi.5436	Correct	Hän kertoi perheensä ulkopuolella, kun pommit alkoivat pudotettiin muutama päivä sitten.	Hän kertoi hänen perheensä oli sisällä, kun pommit alkoivat laskussa jo useamman päivän.
@@ -267,15 +276,6 @@ HY-SMT-en-fi.5436	Correct	"En usko, että kukaan olisi selvinnyt auton ulkopuole
 
 local_prep	113	The girl's parents were outside when the man passed and honked.	The girl's parents were inside when the man passed and honked.
 HY-SMT-en-fi.5436	Correct	Tytön vanhemmat olivat ulkona, kun mies ohitti ja hiotaan.	Tytön vanhemmat olivat sisällä, kun mies ohitti ja hiotaan.
-
-local_prep	1154	About 60 percent of the company's sales are outside the United States.	About 60 percent of the company's sales are inside the United States.
-HY-SMT-en-fi.5436	Correct	Noin 60 prosenttia yhtiön myynnistä ovat Yhdysvaltain ulkopuolella.	Noin 60 prosenttia yhtiön myynnistä ovat sisällä Yhdysvalloissa.
-
-local_prep	1178	The incident occurred at about 3: 30 a.m. outside Kiosk nightclub.	The incident occurred at about 3: 30 a.m. inside Kiosk nightclub.
-HY-SMT-en-fi.5436	Correct	Tapaus sattui noin kello 3: 30 aamulla kiosyökerhon ulkopuolella.	Tapaus sattui noin kello 3: 30 sisälle kioskiin yökerhossa.
-
-local_prep	1218	But outside China, he is almost entirely unknown.	But inside China, he is almost entirely unknown.
-HY-SMT-en-fi.5436	Correct	Mutta Kiinan ulkopuolella, hän on lähes täysin tuntematon.	Kiinassa, mutta hän on lähes täysin tuntematon.
 
 complex_np	1016	It is a fact that now embarrasses him.	It is a fact that now embarrasses the abstract painter.
 HY-SMT-en-fi.5436	Correct: adj + noun	Tosiasia on, että nyt hävettää häntä.	Tosiasia on, että nyt hävettää abstrakti maalari.
@@ -313,6 +313,9 @@ HY-SMT-en-fi.5436	Correct	Tämä on ensimmäinen kerta, kun FBI - karkulainen on
 named_entities	10249	He is been a leading public figure calling for Musharraf's ouster.	He is been a leading public figure calling for Mustafa's ouster.
 HY-SMT-en-fi.5436	Correct	Hän on ollut johtava julkinen hahmo vaatii Musharrafin ukkoa.	Hän on ollut johtava julkinen hahmo vaatii Mustafa 's ukkoa.
 
+named_entities	10595	Could it be another Caribbean wedding?	Could it be another Carlsbad wedding?
+HY-SMT-en-fi.5436	Correct	Se voisi olla toinen Karibian häät?	Se voisi olla toinen Carlsbad häät?
+
 named_entities	10614	Harvard extended its lead to 27-0 on the next play.	Harrods extended its lead to 27-0 on the next play.
 HY-SMT-en-fi.5436	Correct	Harvardin laajentanut johtaa 27-0 ensi kaudella pelaa.	Harrods laajentaa johtaa 27-0 ensi kaudella pelaa.
 
@@ -333,9 +336,6 @@ HY-SMT-en-fi.5436	Correct	Federer sanoi.	Reeder sanoo.
 
 named_entities	11486	"We are all lucky to play for him," Brady said.	"We are all lucky to play for him," Trapp said.
 HY-SMT-en-fi.5436	Correct	"Me kaikki olemme onnekkaita pelata hänellekin", Brady sanoo.	"Me kaikki olemme onnekkaita pelata hänellekin", Trapp sanoo.
-
-named_entities	11604	Mr. Davis says he did not commit any traffic violation.	Mr. Ennis says he did not commit any traffic violation.
-HY-SMT-en-fi.5436	Correct	Mr. Davis kertoo hän ole syyllistynyt liikennerikkomus.	Mr. Ennis sanoo hän ole syyllistynyt liikennerikkomus.
 
 numbers	10002	That was where Fed members forecast that inflation would be by 2010.	That was where Fed members forecast that inflation would be by 1993.
 HY-SMT-en-fi.5436	Correct	Jäsenet, joilla oli Fed ennustaa, että inflaatio olisi vuoteen 2010 mennessä.	Jäsenet, joilla oli Fed ennustaa, että inflaatio olisi vuoteen 1993.

@@ -76,3 +76,6 @@ Vienna	Wien
 Corsica	Korsika
 Acropolis	Akropolis
 Abkhazia	Abhasia
+Hezbollah	Hizbollah
+CNN-IBN	IBN
+R-Kan	Kan

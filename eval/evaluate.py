@@ -29,7 +29,10 @@ def readAnalysis(analysisfile):
 		if line.isspace():
 			if len(currentwordfeatures) > 0:
 				currentwordfeatures.add("@{}".format(currentwordpos))
-				analysis[currentword] = currentwordfeatures
+				if currentword in analysis:
+					analysis[currentword].update(currentwordfeatures)
+				else:
+					analysis[currentword] = currentwordfeatures
 				currentword = ""
 				currentwordfeatures = set()
 				currentwordpos += 1
@@ -74,9 +77,12 @@ def readSentencePair(translationfile, analysisfile, sourcefile):
 		yield currentsentences, currentanalyses, currenttask, currentexno, currentsrcsentences
 
 
+def numberOccurrences(s):
+	return len([x for x in s if re.match(r'@\d+', x)])
+
 def worddiff(analysis1, analysis2):
-	words_only1 = {w: analysis1[w] for w in analysis1 if w not in analysis2}
-	words_only2 = {w: analysis2[w] for w in analysis2 if w not in analysis1}
+	words_only1 = {w: analysis1[w] for w in analysis1 if (w not in analysis2) or (numberOccurrences(analysis1[w]) > numberOccurrences(analysis2[w]))}
+	words_only2 = {w: analysis2[w] for w in analysis2 if (w not in analysis1) or (numberOccurrences(analysis2[w]) > numberOccurrences(analysis1[w]))}
 	return words_only1, words_only2
 
 
@@ -95,13 +101,13 @@ def isUnknown(worddict):
 # simple feature difference tasks
 
 def sing_plur(wo1, wo2):
-	foundSg = any(['Sg' in wo1[x] for x in wo1])	# first sentence should contain singular
-	foundPl = any(['Pl' in wo2[x] for x in wo2])	# second sentence should contain plural
+	foundSg = any([('N' in wo1[x]) and ('Sg' in wo1[x]) for x in wo1])	# first sentence should contain singular
+	foundPl = any([('N' in wo2[x]) and ('Pl' in wo2[x]) for x in wo2])	# second sentence should contain plural
 	return foundSg, foundPl, ""
 
 def pron_sing_plur(wo1, wo2):
-	foundSg = any(['Sg' in wo1[x] for x in wo1]) or any(['PxSg1' in wo1[x] for x in wo1]) or any(['PxSg2' in wo1[x] for x in wo1]) or any(['Px3' in wo1[x] for x in wo1])	# first sentence should contain singular
-	foundPl = any(['Pl' in wo2[x] for x in wo2]) or any(['PxPl1' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) # second sentence should contain plural
+	foundSg = any([('Sg' in wo1[x]) and ('Pron' in wo1[x]) for x in wo1]) or any(['PxSg1' in wo1[x] for x in wo1]) or any(['PxSg2' in wo1[x] for x in wo1]) or any(['Px3' in wo1[x] for x in wo1])	# first sentence should contain singular
+	foundPl = any([('Pl' in wo2[x]) and ('Pron' in wo2[x]) for x in wo2]) or any(['PxPl1' in wo2[x] for x in wo2]) or any(['PxPl2' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) # second sentence should contain plural
 	return foundSg, foundPl, ""
 
 def pres_past(wo1, wo2):
@@ -110,13 +116,13 @@ def pres_past(wo1, wo2):
 	return foundPrs, foundPst, ""
 
 def comp_adj(wo1, wo2):
-	verbs = {"vanha": "ikääntyä", "kova": "koventua", "vähän": "alentaa", "vähäinen": "alentaa", "halpa": "halventua", "syvä": "syventää", "helppo": "helpottaa", "hyvä": "parantaa", "huono": "paheta", "paha": "paheta", "tiivis": "tiivistyä", "rikas": "rikastua"}
+	verbs = {"vanha": "ikääntyä", "kova": "koventua", "vähän": "alentaa", "vähäinen": "alentaa", "halpa": "halventua", "syvä": "syventää", "helppo": "helpottaa", "hyvä": "parantaa", "huono": "paheta", "paha": "paheta", "tiivis": "tiivistyä", "rikas": "rikastua", "heikko": "heikentyä"}
 	# don't know which adjectives should trigger the following verbs:
 	# kiinnittää, käyttäytyä, lukkiutua, lisätä, vannoutua, piiloutua
 	foundAdv = any([('Adv' in wo1[x]) and any([y.endswith('sti') for y in wo1[x]]) for x in wo1])
 	foundLocalAdv = any(['lähellä' in wo1[x] for x in wo1]) or any(['lähelle' in wo1[x] for x in wo1]) or any(['läheltä' in wo1[x] for x in wo1])
-	foundPos = any(['Pos' in wo1[x] for x in wo1]) or foundAdv or foundLocalAdv
-	foundComp = any(['Comp' in wo2[x] for x in wo2])
+	foundPos = any([('A' in wo1[x]) and ('Pos' in wo1[x]) for x in wo1]) or foundAdv or foundLocalAdv
+	foundComp = any([('A' in wo2[x]) and ('Comp' in wo2[x]) for x in wo2])
 	msg = ""
 	for a, v in verbs.items():
 		if any([a in wo1[x] for x in wo1]) and any([v in wo2[x] for x in wo2]):
@@ -134,7 +140,8 @@ def pos_neg(wo1, wo2):
 
 def human_nonhuman_pron(wo1, wo2):
 	foundHuman = any(['hän' in wo1[x] for x in wo1]) or any(['minä' in wo1[x] for x in wo1]) or any(['me' in wo1[x] for x in wo1]) or any(['PxSg1' in wo1[x] for x in wo1]) or any(['PxPl1' in wo1[x] for x in wo1]) or any(['Px3' in wo1[x] for x in wo1])
-	foundNonhuman = any(['se' in wo2[x] for x in wo2]) or any(['ne' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['sinne' in wo2[x] for x in wo2])
+	foundNonhuman = any(['se' in wo2[x] for x in wo2]) or any(['Px3' in wo2[x] for x in wo2]) or any(['sinne' in wo2[x] for x in wo2])
+	# or any(['ne' in wo2[x] for x in wo2]) -- is there a reason why this should be kept?
 	return foundHuman, foundNonhuman, ""
 
 def det_poss(wo1, wo2, repl1, repl2):
@@ -190,9 +197,12 @@ def complex_np(wo1, wo2, repl1, repl2):
 	sharedCase = set(['Nom', 'Par', 'Gen', 'Ine', 'Ela', 'Ill', 'Ade', 'Abl', 'All', 'Ess', 'Ins', 'Abe', 'Tra', 'Com', 'Lat', 'Acc']) & shared
 	sameFeatures = len(sharedNum) > 0 and len(sharedCase) > 0
 	if sameFeatures:
-		return foundPron, len(sharedNum) > 0 and len(sharedCase) > 0, "adj + noun"
+		if foundPron:
+			return foundPron, len(sharedNum) > 0 and len(sharedCase) > 0, "adj + noun"
+		else:
+			return foundPron, len(sharedNum) > 0 and len(sharedCase) > 0, "no pronoun"
 	
-	compoundNoun = any(["#" in f for f in nounFeatures])	# adj+noun is translated into a compound noun
+	compoundNoun = any(["#" in f for f in nounFeatures]) or any(["-" in f for f in nounFeatures])	# adj+noun is translated into a compound noun
 	if compoundNoun:
 		return foundPron, compoundNoun, "compound noun"
 
@@ -225,7 +235,7 @@ def find_named_entity(repl, wo):
 			for y in wo[x]:
 				if repl_mod == y.lower().replace("#", "").replace(".", ""):
 					return True
-				if repl_mod in y.lower().split("#"):		# match lontoo with länsi-#lontoo etc.
+				if repl_mod in y.lower().split("#") or repl_mod+"n" in y.lower().split("#"):		# match lontoo with länsi-#lontoo etc.
 					return True
 	
 	# find repl as a string
@@ -300,9 +310,14 @@ def prep_postp(wo1, wo2, repl1, repl2):
 
 		if len(postpNouns) > 0:
 			postpCase = any(['Gen' in x for x in postpNouns])
-			if not postpCase:
+			postpCase2 = ('aikana' in repl2_fi) and any([('Pron' in x) and ('Ess' in x) for x in postpNouns])	# tuona aikana
+			if postpCase:
+				postpOK = True
+			elif postpCase2:
+				postpOK = True
+			else:
 				msg += "no {} case found with {} ".format('Gen', "/".join(repl2_fi))
-			postpOK = postpCase
+				postpOK = False
 		else:
 			msg += "no nouns found with {} ".format("/".join(repl2_fi))
 	else:
@@ -350,6 +365,18 @@ def local_prep(wo1, wo2, repl1, repl2):
 				cases1.add('All'); cases1.add('Ade')
 			if 'ylle' in wo1[x]:
 				cases1.add('All')
+			if 'yllä' in wo1[x]:
+				cases1.add('Ade')
+			if 'yltä' in wo1[x]:
+				cases1.add('Abe')
+			if 'edelle' in wo1[x]:
+				cases1.add('All')
+			if 'edellä' in wo1[x]:
+				cases1.add('Ade')
+			if 'edeltä' in wo1[x]:
+				cases1.add('Abe')
+			if ('korkea' in wo1[x]) and ('Comp' in wo1[x]):
+				cases1.update(wo1[x] & localcases)
 		
 		elif repl1 == 'underneath':
 			if 'alle' in wo1[x]:
@@ -522,7 +549,7 @@ def evaluate(translationfile, analysesfile, sourcefile, nelexfile=None, verbosee
 	
 	print("\t".join(["Task", "Correct", "Total", "Accuracy"]))
 	for task in sorted(total):
-		print("\t".join([task, "{}".format(correct.get(task, 0)), "{}".format(total[task]), "{:.2f}%".format(100 * correct.get(task, 0) / total[task])]))
+		print("\t".join([task, "{}".format(correct.get(task, 0)), "{}".format(total[task]), "{:.1f}%".format(100 * correct.get(task, 0) / total[task])]))
 	print()
 
 

@@ -32,11 +32,15 @@ NICT	Identical	Vastaamalla ensin hän otti vastatuuleen.	Vastaamalla ensin hän 
 
 sing_plur	12177	You cannot realistically penalise people if they do not know the consequence.	You cannot realistically penalise people if they do not know the consequences.
 HY-AH	Correct	Ei voi realistisesti rangaista ihmisiä jos ne eivät tiedä seurausta.	Ei voi realistisesti rangaista ihmisiä jos ne eivät tiedä seurauksia.
-NICT	Right feature not found	Ihmisiä ei voi realistisesti rangaista, jos he eivät tiedä sen seurauksia.	Ihmisiä ei voi realistisesti rangaista, jos he eivät tiedä seurauksia.
+NICT	Both features not found	Ihmisiä ei voi realistisesti rangaista, jos he eivät tiedä sen seurauksia.	Ihmisiä ei voi realistisesti rangaista, jos he eivät tiedä seurauksia.
 
 sing_plur	12245	That is now supported by the Iraqi.	That is now supported by the Iraqis.
 HY-AH	Correct	Tuo on nyt tuki irakilainen.	Tuo on nyt tuki irakilaiset.
 NICT	Identical	Irakilaiset tukevat nyt tätä.	Irakilaiset tukevat nyt tätä.
+
+pron_sing_plur	1114	Tell me more pretexting.	Tell us more pretexting.
+HY-AH	Correct	Kerro minulle enemmän verukkeellinen.	Kerro meille enemmän verukkeellinen.
+NICT	Left feature not found	Kerro lisää pretekstailua.	Kerro meille enemmän pretekstailua.
 
 pron_sing_plur	1122	By the looks of things, tomorrow is upon me already.	By the looks of things, tomorrow is upon us already.
 HY-AH	Correct	Katseiden kanssa asioiden, huomenna on minulla jo.	Katseiden kanssa asioiden, huomenna on meillä jo.
@@ -54,6 +58,14 @@ pron_sing_plur	120	There has been little resembling failure for him there.	There
 HY-AH	Correct	On ollut pientä muistuttavaa epäonnistumista hänelle siinä.	On ollut pientä muistuttavaa epäonnistumista niille siinä.
 NICT	Identical	Siellä ei ole juurikaan muistuttanut epäonnistumista.	Siellä ei ole juurikaan muistuttanut epäonnistumista.
 
+pron_sing_plur	1323	Time was running out on him.	Time was running out on them.
+HY-AH	Correct	Aika loppua hänellä.	Aika loppua niillä.
+NICT	Right feature not found	Aika oli loppumassa hänelle.	Aika oli käymässä vähiin.
+
+pron_sing_plur	1472	Mr Paton, 69, drove off and reported him to the police.	Mr Paton, 69, drove off and reported them to the police.
+HY-AH	Correct	Herra Paton, 69, ajoi pois ja raportoi häntä poliisille.	Herra Paton, 69, ajoi pois ja raportoi heitä poliisille.
+NICT	Left feature not found	Paton, 69, ajoi ulos ja ilmoitti asiasta poliisille.	Paton, 69, ajoi ulos ja ilmoitti niistä poliisille.
+
 pron_sing_plur	1871	Which brings me to Mr. Giuliani.	Which brings us to Mr. Giuliani.
 HY-AH	Correct	Joka tuo minua Herran Giulianiin.	Joka tuo meitä Herran Giulianiin.
 NICT	Identical	Tästä pääsenkin Giulianiin.	Tästä pääsenkin Giulianiin.
@@ -64,27 +76,11 @@ NICT	Left feature not found	Kerro ajatuksesi nyt ja tarkista sitten Web-chat-kir
 
 pron_sing_plur	2271	This brings me to Al Gore.	This brings us to Al Gore.
 HY-AH	Correct	Tämä tuo minua Al Goreen.	Tämä tuo meitä Al Goreen.
-NICT	Right feature not found	Tästä pääsenkin Al Goreen.	Tästä pääsemmekin Al Goreen.
-
-pron_sing_plur	2307	Tell me about your humiliations, the painful things, the bad day.	Tell us about your humiliations, the painful things, the bad day.
-HY-AH	Correct	Kerro minulle sinun nöyryytyksistäsi, tuskallisista asioistasi, huonosta päivästäsi.	Kerro meille sinun nöyryytyksistäsi, tuskallisista asioistasi, huonosta päivästäsi.
-NICT	Left feature not found	Kerro nöyryytyksistäsi, kipeistä asioista, huonosta päivästä.	Kerro meille nöyryytyksistäsi, kipeistä asioista, huonosta päivästä.
-
-pron_sing_plur	2507	Austrian newspapers wondered Friday if Benedict XVI would bring clement weather with him.	Austrian newspapers wondered Friday if Benedict XVI would bring clement weather with them.
-HY-AH	Correct	Itävaltalaiset sanomalehdet ihmettelivät perjantaia jos Benedict XVI toisi lempeää säätä hänen kanssa.	Itävaltalaiset sanomalehdet ihmettelivät perjantaia jos Benedict XVI toisi lempeää säätä niiden kanssa.
-NICT	Identical	Itävaltalaislehdet ihmettelivät perjantaina, tuoko Benedictus XVI mukanaan hyytävää säätä.	Itävaltalaislehdet ihmettelivät perjantaina, tuoko Benedictus XVI mukanaan hyytävää säätä.
-
-pron_sing_plur	2739	Which brings me to Ellen Pompeo.	Which brings us to Ellen Pompeo.
-HY-AH	Correct	Joka tuo minua Ellen Pompeoon.	Joka tuo meitä Ellen Pompeoon.
-NICT	Identical	Tästä pääsenkin Ellen Pompeon.	Tästä pääsenkin Ellen Pompeon.
+NICT	Both features not found	Tästä pääsenkin Al Goreen.	Tästä pääsemmekin Al Goreen.
 
 pres_past	13735	The company also forecasts cost savings of about $2.5 billion.	The company also forecast cost savings of about $2.5 billion.
 HY-AH	Correct	Yritys ennustaa myös kustannussäästöä suunnilleen $2.5 biljoonaa.	Yritys ennusti myös kustannussäästöä suunnilleen $2.5 biljoonaa.
 NICT	Identical	Yhtiö ennustaa myös noin 2,5 miljardin dollarin kustannussäästöjä.	Yhtiö ennustaa myös noin 2,5 miljardin dollarin kustannussäästöjä.
-
-pres_past	1423	The show is divided into eight sections best viewed in sequence.	The show was divided into eight sections best viewed in sequence.
-HY-AH	Correct	Näytös jaetaan kahdeksan osion hyvin katsottu järjestyksessä.	Näytös jaettiin kahdeksan osion hyvin katsottu järjestyksessä.
-NICT	Left feature not found	Esitys on jaettu kahdeksaan osioon, jotka on parasta katsoa järjestyksessä.	Esitys oli jaettu kahdeksaan osioon, jotka on parasta katsoa järjestyksessä.
 
 pres_past	1440	Or even if there is an it.	Or even if there was an it.
 HY-AH	Correct	Tai vaikkakin on se.	Tai vaikkakin oli se.
@@ -117,6 +113,10 @@ NICT	Identical	Odotamme pitkää ja molempia osapuolia palkitsevaa kumppanuutta.
 pres_past	50086	Here's the list in alphabetical order.	Here was the list in alphabetical order.
 HY-AH	Correct	Tässä on lista aakkosjärjestyksessä.	Tässä oli lista aakkosjärjestyksessä.
 NICT	Left feature not found	Tässä lista aakkosjärjestyksessä.	Tässä oli lista aakkosjärjestyksessä.
+
+pres_past	51661	Maybe more so, if that is possible.	Maybe more so, if that was possible.
+HY-AH	Correct	Ehkä pikemminkin jos tuo on mahdollinen.	Ehkä pikemminkin jos tuo oli mahdollinen.
+NICT	Right feature not found	Ehkä enemmänkin, jos se on mahdollista.	Ehkä enemmänkin, jos se olisi mahdollista.
 
 comp_adj	1042	No such risk was seen among light drinkers.	No such risk was seen among lighter drinkers.
 HY-AH	Correct	Ei sellainen riski nähtiin kevyiden juojien joukossa.	Ei sellainen riski nähtiin kevyempien juojien joukossa.
@@ -162,6 +162,10 @@ pos_neg	12591	None of this stuff is emotional.	None of this stuff is not emotion
 HY-AH	Correct	Ei mikään tästä aineesta on emotionaalinen.	Ei mikään tästä aineesta ole emotionaalinen.
 NICT	Identical	Mikään näistä jutuista ei ole tunteellista.	Mikään näistä jutuista ei ole tunteellista.
 
+pos_neg	14975	Oh, no he is!	Oh, no he is not!
+HY-AH	Correct	Oh ei hän ole!	Oh ei hän ei ole!
+NICT	Identical	Voi, ei hän ole!	Voi, ei hän ole!
+
 pos_neg	15716	I am gonna let 'em go.	I am not gonna let 'em go.
 HY-AH	Correct	Aik%on antaa 'em mennä.	Ole en menen antamaan 'em mennä.
 NICT	Right feature not found	I am gonna let 'em go.	I am not gonna let 'em go.
@@ -173,6 +177,10 @@ NICT	Right feature not found	Vain SANZAR-maat arvostavat Lionsia.	Lionsia arvost
 pos_neg	20240	I am a cop.	I am not a cop.
 HY-AH	Correct	Olen kyttä.	Ole en kyttä.
 NICT	Right feature not found	I am a cop.	I am not a cop.
+
+pos_neg	9519	She bothered nobody.	She did not bother nobody.
+HY-AH	Correct	Hän vaivasi ei ketään.	Hän ei vaivannut ei ketään.
+NICT	Identical	Hän ei häirinnyt ketään.	Hän ei häirinnyt ketään.
 
 human_nonhuman_pron	1137	Neither are the rest of us.	Neither are the rest of it.
 HY-AH	Correct	Ei kumpikaan on muu me.	Ei kumpikaan on muu se.
@@ -298,9 +306,21 @@ local_prep	10	Admirers signed books of condolence placed by vases of sunflowers 
 HY-AH	Correct	Ihailijat allekirjoittivat surunvalittelun kirjoja asettivat auringonkukkien maljakot tuomiokirkon ulkopuolella.	Ihailijat allekirjoittivat surunvalittelun kirjoja asettivat auringonkukkien maljakot tuomiokirkon sisällä.
 NICT	Both features not found: no case match	Ihailijat allekirjoittivat maljakoiden auringonkukkien asettamia surunvalittelukirjoja katedraalin ulkopuolella.	Ihailijat allekirjoittivat maljakoiden auringonkukkien asettamia surunvalittelukirjoja katedraalin sisälle.
 
+local_prep	1011	Properties listed above the market price just sat there.	Properties listed below the market price just sat there.
+HY-AH	Correct	Kiinteistöt lueteltiin markkinahinnan yllä istuivat vain siinä.	Kiinteistöt lueteltiin markkinahinnan alla istuivat vain siinä.
+NICT	Both features not found: no case match	Markkinahinnan yläpuolella listatut kiinteistöt vain istuivat siellä.	Siellä istui juuri markkinahinnan alle listattuja kiinteistöjä.
+
 local_prep	1018	Thousands of people are huddled outside their homes or emergency shelters.	Thousands of people are huddled inside their homes or emergency shelters.
 HY-AH	Correct	Tuhat ihmisistä painaudutaan heidän kotien ulkopuolella tai hätäsuojien.	Tuhat ihmisistä painaudutaan heidän kotien sisällä tai hätäsuojien.
 NICT	Both features not found: no case match	Tuhansia ihmisiä hukkuu kotinsa tai hätäturvakotien ulkopuolella.	Tuhansia ihmisiä hukkuu kotinsa tai hätäturvakotien sisälle.
+
+local_prep	1023	The West was down 2.7 percent and 27.1 percent above a year earlier.	The West was down 2.7 percent and 27.1 percent below a year earlier.
+HY-AH	Correct	Länsi oli alas 2.7 prosenttia ja 27.1 prosenttia vuoden yllä varhemmin.	Länsi oli alas 2.7 prosenttia ja 27.1 prosenttia vuoden alla varhemmin.
+NICT	Both features not found: no translation of above and below found	Länsi oli laskenut 2,7 prosenttia ja 27,1 prosenttia enemmän kuin vuotta aiemmin.	Länsi oli laskenut 2,7 prosenttia ja 27,1 prosenttia vähemmän kuin vuotta aiemmin.
+
+local_prep	1039	The rise was above economists' expectations.	The rise was below economists' expectations.
+HY-AH	Correct	Nousu oli taloustieteilijöiden odotusten yllä.	Nousu oli taloustieteilijöiden odotusten alla.
+NICT	Left feature not found: no translation of above found	Nousu oli ekonomistien odotuksia suurempi.	Nousu oli ekonomistien odotusten alapuolella.
 
 local_prep	1097	Was there a serial downloader lurking outside Jammie Thomas' window?	Was there a serial downloader lurking inside Jammie Thomas' window?
 HY-AH	Correct	Oliko siinä sarjalataaja kätkeytyi Jammie Thomasin ulkopuolella ikkunan?	Oliko siinä sarjalataaja kätkeytyi Jammie Thomasin sisällä ikkunan?
@@ -310,6 +330,10 @@ local_prep	1125	People outside the mall ran toward the exits when the blast went
 HY-AH	Correct	Ihmiset kauppakeskuksen ulkopuolella juoksi irtautumisiin päin kun paineaalto räjähti.	Ihmiset kauppakeskuksen sisällä juoksi irtautumisiin päin kun paineaalto räjähti.
 NICT	Left feature not found: no translation of outside found	Mallin ulkopuoliset ihmiset juoksivat kohti uloskäyntiä, kun mutka lähti liikkeelle.	Mallin sisällä olleet ihmiset juoksivat kohti uloskäyntiä, kun mutka lähti liikkeelle.
 
+local_prep	1159	Conversely, China's 22.2 is well above the 40 reached in 2000.	Conversely, China's 22.2 is well below the 40 reached in 2000.
+HY-AH	Correct	Käänteisesti Kiinan 22.2 on hyvin yllä 40 tavoitettu 2000.	Käänteisesti Kiinan 22.2 on hyvin alla 40 tavoitettu 2000.
+NICT	Left feature not found: no translation of above found	Sen sijaan Kiinan 22,2 on selvästi suurempi kuin vuonna 2000 saavutettu 40.	Sen sijaan Kiinan 22,2 on selvästi alle 40: N vuonna 2000.
+
 local_prep	1182	They often go outside to discuss impact of the weather.	They often go inside to discuss impact of the weather.
 HY-AH	Correct	Ne usein menevät ulkopuolelle keskustelemaan sään vaikutuksesta.	Ne usein menevät sisälle keskustelemaan sään vaikutuksesta.
 NICT	Both features not found: no case match	He käyvät usein ulkona keskustelemassa sään vaikutuksista.	He menevät usein sisälle keskustelemaan sään vaikutuksista.
@@ -317,22 +341,6 @@ NICT	Both features not found: no case match	He käyvät usein ulkona keskustelem
 local_prep	1185	Sons were beaten behind their mothers.	Sons were beaten in front of their mothers.
 HY-AH	Correct	Poikia hakattiin heidän äitien takana.	Poikia hakattiin heidän äitien edessä.
 NICT	Both features not found: no case match	Poikia hakattiin äitiensä taakse.	Poikia hakattiin äitiensä edessä.
-
-local_prep	122	A taxi stops outside the Bryant Park fashion shows in New York.	A taxi stops inside the Bryant Park fashion shows in New York.
-HY-AH	Correct	Taksi lakkaa Bryant Parkin ulkopuolella muodin näytösten New Yorkissa.	Taksi lakkaa Bryant Parkin sisällä muodin näytösten New Yorkissa.
-NICT	Both features not found: no case match	Taksi pysähtyy Bryant Parkin muotinäytösten ulkopuolella New Yorkissa.	Taksi pysähtyy New Yorkin Bryant Park -muotinäytösten sisälle.
-
-local_prep	1220	The braking system comes from a supplier outside Chrysler.	The braking system comes from a supplier inside Chrysler.
-HY-AH	Correct	Jarrujärjestelmä jarrutusjärjestelmä tulee hankkijasta Chryslerista ulkopuolella.	Jarrujärjestelmä jarrutusjärjestelmä tulee hankkijasta Chryslerista sisällä.
-NICT	Left feature not found: no translation of outside found	Jarrutusjärjestelmä tulee Chryslerin ulkopuoliselta toimittajalta.	Jarrutusjärjestelmä tulee Chryslerin sisältä toimittajalta.
-
-local_prep	1247	I am going back outside now.	I am going back inside now.
-HY-AH	Correct	Menen takaisin ulkopuolella nyt.	Menen takaisin sisällä nyt.
-NICT	Both features not found: no case match	Menen nyt takaisin ulkona.	Menen nyt takaisin sisälle.
-
-local_prep	1256	What is Net1's strategy in expanding the UEPS technology outside South Africa?	What is Net1's strategy in expanding the UEPS technology inside South Africa?
-HY-AH	Correct	Mikä on Net1 strategia laajennettaessa UEPS:a teknologiaa Etelä-Afrikan ulkopuolella?	Mikä on Net1 strategia laajennettaessa UEPS:a teknologiaa Etelä-Afrikan sisällä?
-NICT	Both features not found: no case match	Mikä on Net1: N strategia UEPS-teknologian laajentamiseksi Etelä-Afrikan ulkopuolelle?	Mikä on Net1: N strategia UEPS-teknologian laajentamiseksi Etelä-Afrikassa?
 
 complex_np	1882	If Tony Romo plays you cannot do that to him.	If Tony Romo plays you cannot do that to the Lead researcher.
 HY-AH	Correct: genitive apposition	Jos Tony Romo pelaa ei voi tehdä tuota hänelle.	Jos Tony Romo pelaa ei voi tehdä tuota Johdon tutkijalle.
@@ -348,11 +356,11 @@ NICT	Right feature not found	Hän saalisti hänet, ja hän on selvinnyt heidän 
 
 complex_np	2676	"We need something for sports," he tells her.	"We need something for sports," he tells the equal partner.
 HY-AH	Correct: adj + noun	"Me tarvitsemme jotakin urheiluun," hän kertoo hänet.	"Me tarvitsemme jotakin urheiluun," hän kertoo yhtä suuren kumppanin.
-NICT	Left feature not found: adj + noun	"Tarvitsemme jotain urheiluun," hän kertoo.	"Tarvitsemme jotain urheiluun," hän kertoo tasa-arvoiselle kumppanille.
+NICT	Left feature not found: no pronoun	"Tarvitsemme jotain urheiluun," hän kertoo.	"Tarvitsemme jotain urheiluun," hän kertoo tasa-arvoiselle kumppanille.
 
 complex_np	2930	Ms. Gotbaum's relatives have accused the police of mistreating her.	Ms. Gotbaum's relatives have accused the police of mistreating the second player.
 HY-AH	Correct: adj + noun	Rouva Gotbaumin sukulaiset ovat syyttäneet poliisia kohtelemasta kaltoin häntä.	Rouva Gotbaumin sukulaiset ovat syyttäneet poliisia kohtelemasta kaltoin toinen pelaajaa.
-NICT	Left feature not found: adj + noun	Gotbaumin omaiset ovat syyttäneet poliisia pahoinpitelystä.	Gotbaumin omaiset ovat syyttäneet poliisia toisen pelaajan huonosta kohtelusta.
+NICT	Left feature not found: no pronoun	Gotbaumin omaiset ovat syyttäneet poliisia pahoinpitelystä.	Gotbaumin omaiset ovat syyttäneet poliisia toisen pelaajan huonosta kohtelusta.
 
 complex_np	3749	He took her up on the bet.	He took the popular tourist up on the bet.
 HY-AH	Correct: adj + noun	Hän otti hänet vedonlyönnissä.	Hän otti suositun matkailijan vedonlyönnissä.
@@ -394,10 +402,6 @@ named_entities	14715	Bryant had 17 points at halftime as Los Angeles opened a 55
 HY-AH	Correct	Bryantilla oli 17 pistettä puoliaiassa kun Los Angeles avasi 55-37 johdon.	Broadilla oli 17 pistettä puoliaiassa kun Los Angeles avasi 55-37 johdon.
 NICT	Right feature not found	Bryant oli puoliajalla 17 pisteellä, kun Los Angeles avasi 55-37-johdon.	Leveä oli puoliajalla 17 pistettä, kun Los Angeles avasi 55-37-johdon.
 
-named_entities	15832	The campaign includes advertisements overseas and more foreign-language assistance in Japan.	The campaign includes advertisements overseas and more foreign-language assistance in R-Kan.
-HY-AH	Correct	Kampanja sisältää mainokset ulkomailla ja enemmän vierasta kieltä avun Japanissa.	Kampanja sisältää mainokset ulkomailla ja enemmän vierasta kieltä avun R-kanissa.
-NICT	Right feature not found	Kampanjassa on mukana mainoksia ulkomailla ja enemmän vieraan kielen apua Japanissa.	Kampanjassa on mukana mainoksia ulkomailla ja enemmän vieraan kielen apua R-Kanissa.
-
 named_entities	18078	The Avalanche will not play again until Friday night in Dallas.	The Avalanche will not play again until Friday night in Valley.
 HY-AH	Correct	Lumivyöry ei pelaa taas perjantaiyohön saakka Dallasissa.	Lumivyöry ei pelaa taas perjantaiyohön saakka Valleyissa.
 NICT	Right feature not found	Avalanche pelaa jälleen vasta perjantai-iltana Dallas.	Avalanche pelaa jälleen vasta perjantai-iltana laaksossa.
@@ -413,6 +417,10 @@ NICT	Right feature not found	Myös YK on epäileväinen.	Yhdysvallat on yhtä ep
 named_entities	19996	He walked Thomas leading off the second.	He walked Gomes leading off the second.
 HY-AH	Correct	Hän käveli Thomas johtaen pois toinen.	Hän käveli Gomesin johtaminen pois toinen.
 NICT	Left feature not found	Hän käveli Tuomas johtaa pois toisen.	Hän käveli Gomesin johtamassa kakkosesta.
+
+named_entities	2827	While the Mets have collapsed, Philadelphia has won 12 of 15.	While the Mehsud have collapsed, Philadelphia has won 12 of 15.
+HY-AH	Correct	Samalla kun Mets on romahtanut, Philadelphia on voittanut 12 15.	Samalla kun Mehsud on romahtanut, Philadelphia on voittanut 12 15.
+NICT	Left feature not found	Vaikka Ässät on romahtanut, Philadelphia on voittanut 15: Stä 12.	Vaikka Mehsud on romahtanut, Philadelphia on voittanut 15: Stä 12.
 
 numbers	1932	This had previously been reported as 337,000 claims.	This had previously been reported as 164,000 claims.
 HY-AH	Correct	Tämä oli aikaisemmin raportoitu 337,000 väitteenä.	Tämä oli aikaisemmin raportoitu 164,000 väitteenä.
@@ -438,6 +446,10 @@ masc_fem_pron	1134	He also served four years as Claiborne County's Commissioner 
 HY-AH	Correct	Hän palveli myös neljä vuotta Claiborne County's Commissioneria ja Budget Chairman.	Hän palveli myös neljä vuotta Claiborne County's Commissioneria ja Budget Chairman.
 NICT	Both features not found	Hän toimi myös neljä vuotta Claiborn Countyn komissaarina ja budjettipuheenjohtajana.	Hän toimi myös neljä vuotta Claibornen kreivikunnan komissaarina ja budjettipuheenjohtajana.
 
+masc_fem_pron	11499	"" He has a heart, a spiritual heart.	"" She has a heart, a spiritual heart.
+HY-AH	Correct	" " Hänellä on sydän, hengellinen sydän.	" " Hänellä on sydän, hengellinen sydän.
+NICT	Right feature not found	"Hänellä on sydän, hengellinen sydän.	"" Hänellä on sydän, hengellinen sydän.
+
 masc_fem_pron	12642	But he said the goals were still worth pursuing.	But she said the goals were still worth pursuing.
 HY-AH	Correct	Mutta hän sanoi, että tavoitteet olivat yhä arvoinen tavoitelemisen.	Mutta hän sanoi, että tavoitteet olivat yhä arvoinen tavoitelemisen.
 NICT	Both features not found	Hän sanoi kuitenkin, että maaleja kannattaa silti tavoitella.	Hän sanoi kuitenkin, että tavoitteita kannattaa silti tavoitella.
@@ -461,10 +473,6 @@ NICT	Both features not found	Hänen mukaansa ryhmän oli määrä palata Kalifor
 masc_fem_pron	15665	"You do not start where you finish," he said.	"You do not start where you finish," she said.
 HY-AH	Correct	"Sinä ei ala missä lopetat," hän sanoi.	"Sinä ei ala missä lopetat," hän sanoi.
 NICT	Both features not found	"Ei lähdetä siitä, mihin päättyy," hän sanoi.	"Et aloita siitä, mihin lopetat," hän sanoi.
-
-masc_fem_pron	15800	He is just learned that Pilates can add an inch to your height.	She is just learned that Pilates can add an inch to your height.
-HY-AH	Correct	Hänet vain oppinut, että Pilates voi lisätä tuuman sinulle korkeuteen.	Hänet vain oppinut, että Pilates voi lisätä tuuman sinulle korkeuteen.
-NICT	Both features not found	Hän on juuri oppinut, että Pilates voi lisätä tuuman korkeuteesi.	Hän on juuri oppinut, että Pilates voi lisätä tuuman korkeuteen.
 
 pres_fut	1000	We take it to the end.	We will take it to the end.
 HY-AH	Correct	Me otamme sen loppuun asti.	Me otamme sen loppuun asti.

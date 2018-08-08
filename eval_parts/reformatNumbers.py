@@ -24,7 +24,7 @@ for s in systems:
 f = open("all.numbers.tsv", 'w')
 f.write("\t" + "\t".join(features) + "\n")
 for s in systems:
-	l = [s.split(".")[0]] + ["{:.2f}".format(100*data[s][x]) for x in features]
+	l = [s.split(".")[0]] + ["{:.1f}".format(100*data[s][x]) for x in features]
 	f.write("\t".join(l) + "\n")
 f.write("\n")
 f.close()

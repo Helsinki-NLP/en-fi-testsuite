@@ -4,8 +4,8 @@ HY-NMT-en-fi.5570	Right feature not found	Valmentajana hän vaikuttaa rennolta k
 uedin.5707	Right feature not found	Valmentajana hän vaikuttaa rentoutuneelta keskikentän kanssa.	Valmentajana hän vaikuttaa rentoutuneelta median kanssa.
 Aalto.5550	Right feature not found	Valmentajana hän näyttää rennolta keskitien kanssa.	Valmentajana hän vaikuttaa rennolta median kanssa.
 HY-NMTtwostep-en-fi.5639	Right feature not found	Valmentajana hän vaikuttaa rennolta keskikentällä.	Valmentajana hän vaikuttaa median kanssa rennolta.
-CUNI-Kocmi.5620	Right feature not found	Kuten valmentaja, hän näyttää rento kanssa keskipitkällä.	Kuten valmentaja, hän näyttää rento median.
-talp-upc.5424	Correct	Kuten valmentaja, hän näyttää rento keskipitkällä.	Kuten valmentaja, hän näyttää rento tiedotusvälineiden kanssa.
+CUNI-Kocmi.5620	Both features not found	Kuten valmentaja, hän näyttää rento kanssa keskipitkällä.	Kuten valmentaja, hän näyttää rento median.
+talp-upc.5424	Left feature not found	Kuten valmentaja, hän näyttää rento keskipitkällä.	Kuten valmentaja, hän näyttää rento tiedotusvälineiden kanssa.
 online-B.0	Right feature not found	Valmentajana hän näyttää rennomalta median kanssa.	Valmentajana hän näyttää olevan rento media.
 online-G.0	Left feature not found	Kuten valmentaja, hän näyttää rento medium.	Kuten valmentaja, hän näyttää rento tiedotusvälineiden kanssa.
 online-A.0	Correct	Valmentajana hän näyttää rento kanssa välineellä.	Valmentajana hän näyttää rento tiedotus välineissä.
@@ -34,13 +34,25 @@ online-B.0	Identical	Vastaamalla ensin hän otti vastatuulen.	Vastaamalla ensin 
 online-G.0	Right feature not found	Vastaamalla ensin hän otti vastatuuli.	Vastaamalla ensin hän otti vastatuulessa.
 online-A.0	Identical	Vastaamalla ensin, hän otti vasta tuuleen.	Vastaamalla ensin, hän otti vasta tuuleen.
 
+sing_plur	12670	They are the one with zeros in the loss column.	They are the ones with zeros in the loss column.
+NICT.5658	Left feature not found	Ne ovat ne, joilla on nollat tappiokolumnissa.	He ovat niitä, joilla on nollat tappiokolumnissa.
+HY-NMT-en-fi.5570	Right feature not found	He ovat niitä, joilla on nollakatkos.	He ovat niitä, joilla on nollaa tappiosarjassa.
+uedin.5707	Correct	Ne ovat yksi nollia tappiota sarakkeessa.	He ovat niitä, joilla on nollia tappiokolumnissa.
+Aalto.5550	Left feature not found	Ne ovat yksi nolla tappiosarakkeessa.	Ne ovat niitä, joilla on nolla tappiosarakkeessa.
+HY-NMTtwostep-en-fi.5639	Left feature not found	Ne ovat yksi nollista tappiosarakkeessa.	Ne ovat niitä, joilla on nollat tappiosarakkeessa.
+CUNI-Kocmi.5620	Left feature not found	Ne ovat yksi nollat tappiosarakkeessa.	Ne ovat niitä, joilla nollat tappiosarakkeessa.
+talp-upc.5424	Left feature not found	Ne ovat yksi nollia tappion sarakkeessa.	Ne ovat niitä, joilla on nollia tappion sarakkeessa.
+online-B.0	Correct	Ne ovat nollia häviöpylväässä.	Ne ovat niitä, joilla on nollia tappio-sarakkeessa.
+online-G.0	Left feature not found	Ne ovat yksi nollia tappio-sarakkeessa.	He ovat niitä, joissa nollia tappio-sarakkeessa.
+online-A.0	Left feature not found	Ne ovat yksi nollilla tappio sarakkeessa.	Ne ovat niitä, joilla nollat tappio sarakkeessa.
+
 sing_plur	12975	THEY are the eco-town of the future.	THEY are the eco-towns of the future.
 NICT.5658	Both features not found	Ne ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ekokaupunkeja.
 HY-NMT-en-fi.5570	Both features not found	Ne ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ekokaupunkeja.
 uedin.5707	Both features not found	Ne ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ekokaupunkeja.
 Aalto.5550	Both features not found	Ne ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ekokaupunkeja.
 HY-NMTtwostep-en-fi.5639	Left feature not found	Ne ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ympäristökaupunkeja.
-CUNI-Kocmi.5620	Correct	He ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ekokaupunkeja.
+CUNI-Kocmi.5620	Right feature not found	He ovat tulevaisuuden ekokaupunki.	Ne ovat tulevaisuuden ekokaupunkeja.
 talp-upc.5424	Both features not found	He ovat tulevaisuuden ekokaupunki.	He ovat tulevaisuuden ekokaupunkeja.
 online-B.0	Correct	Ne ovat tulevaisuuden ekologinen kaupunki.	Ne ovat tulevaisuuden eko-kaupungeissa.
 online-G.0	Right feature not found	HE ovat eco-kaupungin tulevaisuus.	HE ovat eco-kaupungit tulevaisuudessa.
@@ -58,6 +70,18 @@ online-B.0	Both features not found	Minä säästelen yksityiskohdista.	Minä sä
 online-G.0	Identical	Minä säästän teidät yksityiskohtia.	Minä säästän teidät yksityiskohtia.
 online-A.0	Left feature not found	Minä säästän teidät yksityiskohtaisesti.	Minä säästän teidät yksityiskohtia.
 
+sing_plur	1467	Discard the solid.	Discard the solids.
+NICT.5658	Both features not found	Hylkää kiinteät.	Ripottele jämäkät.
+HY-NMT-en-fi.5570	Left feature not found	Hylkää vankat.	Hylkää kiintoaineet.
+uedin.5707	Both features not found	Hylkää kiinteä.	Hylkää kiinteistö.
+Aalto.5550	Left feature not found	Poista tukeva.	Poista kiintoaineet.
+HY-NMTtwostep-en-fi.5639	Left feature not found	Poisheitä kiinteä.	Poisheitä soljet.
+CUNI-Kocmi.5620	Left feature not found	Poista kiinteä.	Poista kiintoaineita.
+talp-upc.5424	Left feature not found	Hylkää vankka.	Hylkää kiintoaineita.
+online-B.0	Correct	Hävitä kiinteä aine.	Hävitä kiintoaineet.
+online-G.0	Left feature not found	Hävitä kiinteä.	Hävitä kiintoaineita.
+online-A.0	Left feature not found	Hävitä kiinteä.	Hävitä kiinteät aineet.
+
 sing_plur	14915	AS A kid, I dreaded the beginning of summer.	AS A kid, I dreaded the beginnings of summer.
 NICT.5658	Identical	Lapsena pelkäsin kesän alkua.	Lapsena pelkäsin kesän alkua.
 HY-NMT-en-fi.5570	Identical	Nuorena olen pelännyt kesän alkua.	Nuorena olen pelännyt kesän alkua.
@@ -69,6 +93,18 @@ talp-upc.5424	Right feature not found	Lapsena, pelkäsin kesän alussa.	Lapsena,
 online-B.0	Right feature not found	Kuten lapsi, pelkäsin kesän alkua.	Kuten lapsi, pelkäsin alkukesästä.
 online-G.0	Right feature not found	Lapsena en pelännyt alkukesästä.	Lapsena pelkäsin, että alkaa kesä.
 online-A.0	Right feature not found	Lapsena, olen pelätty alussa kesällä.	Lapsena, olen pelätty alkaa kesän.
+
+sing_plur	2602	This agreement is in the interest of everyone involved in the game.	This agreement is in the interests of everyone involved in the game.
+NICT.5658	Identical	Tämä sopimus on kaikkien pelissä mukana olevien etu.	Tämä sopimus on kaikkien pelissä mukana olevien etu.
+HY-NMT-en-fi.5570	Identical	Tämä sopimus on kaikkien peliin osallistuvien etu.	Tämä sopimus on kaikkien peliin osallistuvien etu.
+uedin.5707	Identical	Sopimus on kaikkien peliin osallistuvien etu.	Sopimus on kaikkien peliin osallistuvien etu.
+Aalto.5550	Identical	Tämä sopimus on kaikkien pelissä mukana olevien etu.	Tämä sopimus on kaikkien pelissä mukana olevien etu.
+HY-NMTtwostep-en-fi.5639	Identical	Tämä sopimus on kaikkien pelissä mukana olevien etu.	Tämä sopimus on kaikkien pelissä mukana olevien etu.
+CUNI-Kocmi.5620	Identical	Tämä sopimus on kaikkien pelissä mukana olevien etujen mukainen.	Tämä sopimus on kaikkien pelissä mukana olevien etujen mukainen.
+talp-upc.5424	Left feature not found	Tämä sopimus on kaikkien mukana olevien etujen mukainen.	Tämä sopimus on kaikkien pelin osapuolien etujen mukainen.
+online-B.0	Identical	Tämä sopimus on kaikkien pelaajan edun mukaista.	Tämä sopimus on kaikkien pelaajan edun mukaista.
+online-G.0	Right feature not found	Tämä sopimus on kaikkien edun mukaista mukana pelissä.	Tämä sopimus on kaikkien etu mukana pelissä.
+online-A.0	Correct	Tämä sopimus on kaikkien peliin osallistuvien edun mukaista.	Tämä sopimus on kaikkien peliin osallistuvien etujen mukaista.
 
 sing_plur	2653	Martell Webster had 15 points and eight rebounds for the Blazer.	Martell Webster had 15 points and eight rebounds for the Blazers.
 NICT.5658	Right feature not found	Martell Webster oli Blazerille 15 pistettä ja kahdeksan kiekkoa.	Martell Webster oli Blazersille 15 pistettä ja kahdeksan torjuntaa.
@@ -82,6 +118,18 @@ online-B.0	Right feature not found	Martell Websterillä oli 15 pistettä ja kahd
 online-G.0	Right feature not found	Martell Webster oli 15 pistettä ja kahdeksan levypalloa varten Bleiseri.	Martell Webster oli 15 pistettä ja kahdeksan levypalloa varten Blazers.
 online-A.0	Right feature not found	Martell Webster oli 15 pistettä ja kahdeksan levy palloa varten bleiseri.	Martell Webster oli 15 pistettä ja kahdeksan levy palloa varten Blazers.
 
+sing_plur	2758	There have been no arrests in any of the case.	There have been no arrests in any of the cases.
+NICT.5658	Both features not found	Missään tapauksessa ei ole tehty pidätyksiä.	Yhdessäkään tapauksessa ei ole tehty pidätyksiä.
+HY-NMT-en-fi.5570	Identical	Missään tapauksessa ei ole tehty pidätyksiä.	Missään tapauksessa ei ole tehty pidätyksiä.
+uedin.5707	Identical	Missään tapauksessa ei ole tehty pidätyksiä.	Missään tapauksessa ei ole tehty pidätyksiä.
+Aalto.5550	Identical	Pidätyksiä ei ole tapahtunut missään tapauksessa.	Pidätyksiä ei ole tapahtunut missään tapauksessa.
+HY-NMTtwostep-en-fi.5639	Identical	Kiinniottoja ei ole tapahtunut yhdessäkään tapauksessa.	Kiinniottoja ei ole tapahtunut yhdessäkään tapauksessa.
+CUNI-Kocmi.5620	Both features not found	Missään tapauksessa ei ole tehty pidätyksiä.	Yhdessäkään tapauksessa ei ole tehty pidätyksiä.
+talp-upc.5424	Identical	Pidätyksiä ei ole tehty missään tapauksessa.	Pidätyksiä ei ole tehty missään tapauksessa.
+online-B.0	Right feature not found	Missään tapauksessa ei ole tehty pidätyksiä.	Missä tahansa tapausta ei ole tehty pidätyksiä.
+online-G.0	Correct	On ollut pidätyksiä ei ole missään tapauksessa.	Ei ole tehty pidätyksiä kaikissa tapauksissa.
+online-A.0	Identical	Mitään pidätyksiä ei ole tapahtunut missään tapa uksessa.	Mitään pidätyksiä ei ole tapahtunut missään tapa uksessa.
+
 sing_plur	2791	The last goal came four years ago in the final against Sweden.	The last goal came four years ago in the finals against Sweden.
 NICT.5658	Identical	Viimeinen maali tuli neljä vuotta sitten finaalissa Ruotsia vastaan.	Viimeinen maali tuli neljä vuotta sitten finaalissa Ruotsia vastaan.
 HY-NMT-en-fi.5570	Right feature not found	Viimeinen maali syntyi neljä vuotta sitten loppuottelussa Ruotsia vastaan.	Viimeinen maali syntyi neljä vuotta sitten finaalissa Ruotsia vastaan.
@@ -93,6 +141,30 @@ talp-upc.5424	Right feature not found	Viimeinen tavoite tuli neljä vuotta sitte
 online-B.0	Right feature not found	Viimeinen tavoite tuli neljä vuotta sitten viimeisessä finaalissa Ruotsia vastaan.	Viimeinen tavoite tuli neljä vuotta sitten Ruotsin finaalissa.
 online-G.0	Identical	Viimeinen maali tuli neljä vuotta sitten finaalissa Ruotsia vastaan.	Viimeinen maali tuli neljä vuotta sitten finaalissa Ruotsia vastaan.
 online-A.0	Both features not found	Viimeinen maali oli neljä vuotta sitten finaalissa Ruotsia vastaan.	Viimeinen maali tuli neljä vuotta sitten finaalissa Ruotsia vastaan.
+
+sing_plur	3362	Holiday shoppers were not the only one seeking bargains yesterday.	Holiday shoppers were not the only ones seeking bargains yesterday.
+NICT.5658	Both features not found	Lomaostajat eivät olleet ainoa, joka haki eilen huutokauppoja.	Lomaostajat eivät olleet ainoita, jotka hakivat eilen huutokauppoja.
+HY-NMT-en-fi.5570	Correct	Lomaostokset eivät olleet ainoa, joka haki eilen voittoa.	Loma-asunnon ostajat eivät olleet ainoita, jotka hakevat voittoja eilen.
+uedin.5707	Correct	Lomaostajat eivät olleet ainoa, joka hakeutui eilen piikkiin.	Lomaostajat eivät olleet ainoita, jotka hakivat eilen ohituksia.
+Aalto.5550	Identical	Loman ostajat eivät olleet ainoita, jotka etsivät neuvotteluja eilen.	Loman ostajat eivät olleet ainoita, jotka etsivät neuvotteluja eilen.
+HY-NMTtwostep-en-fi.5639	Identical	Lomaostokset eivät ollut ainoat, jotka hakivat voittoa eilen.	Lomaostokset eivät ollut ainoat, jotka hakivat voittoa eilen.
+CUNI-Kocmi.5620	Left feature not found	Eiliset lomakauppiaat eivät olleet ainoa, joka haki kauppoja.	Eiliset lomakauppiaat eivät olleet ainoita, jotka etsivät kauppoja.
+talp-upc.5424	Left feature not found	Lomailijat eivät olleet ainoa, joka etsi löytöjä eilen.	Lomailijat eivät olleet ainoita, jotka etsivät löytöjä eilen.
+online-B.0	Left feature not found	Loma-ostajat eivät olleet ainoa, joka eilen etsii löytöjä.	Loma-ostajat eivät olleet ainoita, jotka etsivät eilen töitä.
+online-G.0	Both features not found	Loma ostajat olivat ole ainoa, etsivät löytöjä eilen.	Loma ostajat olivat ole ainoita, jotka etsivät löytöjä eilen.
+online-A.0	Left feature not found	Holiday ostajat eivät ole ainoa, joka hakee löytöjä eilen.	Holiday ostajat eivät ainoita, jotka etsivät löytöjä eilen.
+
+sing_plur	4076	Something similar happened to the leftist Sandinista in Nicaragua.	Something similar happened to the leftist Sandinistas in Nicaragua.
+NICT.5658	Right feature not found	Jotain vastaavaa tapahtui vasemmistolaiselle Sandinille Nicaraguassa.	Jotain vastaavaa tapahtui Nicaraguan vasemmistolaiselle Sandinistasille.
+HY-NMT-en-fi.5570	Right feature not found	Jotain vastaavaa tapahtui vasemmistolaiselle Sandinille Nicaraguassa.	Nicaraguan vasemmistolaiselle sandinistille tapahtui jotakin vastaavaa.
+uedin.5707	Both features not found	Jotain vastaavaa tapahtui vasemmistolaiselle Sandinille Nicaraguassa.	Jotain vastaavaa tapahtui vasemmistolaiselle Sandinistille Nicaraguassa.
+Aalto.5550	Both features not found	Jotain vastaavaa tapahtui vasemmistolaiselle Sandinista Nicaraguassa.	Jotain vastaavaa tapahtui vasemmistolaiselle Sandinistas Nicaraguassa.
+HY-NMTtwostep-en-fi.5639	Identical	Jotain vastaavaa tapahtui vasemmistolaiselle sandinistille Nicaraguassa.	Jotain vastaavaa tapahtui vasemmistolaiselle sandinistille Nicaraguassa.
+CUNI-Kocmi.5620	Right feature not found	Nicaraguassa sijaitsevalle vasemmistolaiselle Sandinista kävi samoin.	Nicaraguan vasemmistolaisille sandinistaneille tapahtui jotain vastaavaa.
+talp-upc.5424	Identical	Nicaraguassa tapahtui jotain vastaavaa vasemmistolaiselle sandinistille.	Nicaraguassa tapahtui jotain vastaavaa vasemmistolaiselle sandinistille.
+online-B.0	Both features not found	Jotain vastaavaa tapahtui Nicaraguan vasemmistolaiselle Sandinistalle.	Jotain vastaavaa tapahtui Nicaraguan vasemmistolaisille Sandinistalle.
+online-G.0	Identical	Jotain vastaavaa tapahtui vasemmistolainen Sandinistien Nicaraguassa.	Jotain vastaavaa tapahtui vasemmistolainen Sandinistien Nicaraguassa.
+online-A.0	Both features not found	Jotain vastaavaa tapahtui vasemmistolaisen Sandinista Nicaraguassa.	Jotain vastaavaa tapahtui vasemmistolaisen sandinistas Nicaraguassa.
 
 sing_plur	4105	All shareholders were assessed the cost of that work.	All shareholders were assessed the costs of that work.
 NICT.5658	Identical	Kaikille osakkeenomistajille arvioitiin kyseisen työn kustannukset.	Kaikille osakkeenomistajille arvioitiin kyseisen työn kustannukset.
@@ -123,7 +195,7 @@ NICT.5658	Identical	Se on myös loppuvaiheessa huutokauppaamassa puolijohdeliike
 HY-NMT-en-fi.5570	Right feature not found	Se on myös puolijohdeliiketoimintansa huutokaupan loppuvaiheessa.	Se on myös loppusuoralla puolijohdeyrityksen huutokaupassa.
 uedin.5707	Identical	Se on myös puolijohdeliiketoimintansa huutokaupan loppuvaiheessa.	Se on myös puolijohdeliiketoimintansa huutokaupan loppuvaiheessa.
 Aalto.5550	Right feature not found	Se on myös huutokaupan loppuvaiheessa puolijohdeliiketoimintaansa.	Se on myös loppusuoralla huutokauppaamassa puolijohdeliiketoimintaansa.
-HY-NMTtwostep-en-fi.5639	Right feature not found	Se on myös loppuvaiheessa huutokauppaamassa puolijohdeliiketoimintaansa.	Se huutokauppaa loppuvaiheessa myös puolijohdeliiketoimintaansa.
+HY-NMTtwostep-en-fi.5639	Both features not found	Se on myös loppuvaiheessa huutokauppaamassa puolijohdeliiketoimintaansa.	Se huutokauppaa loppuvaiheessa myös puolijohdeliiketoimintaansa.
 CUNI-Kocmi.5620	Identical	Se on myös loppuvaiheessa huutokaupata puolijohde liiketoimintaa.	Se on myös loppuvaiheessa huutokaupata puolijohde liiketoimintaa.
 talp-upc.5424	Right feature not found	Se on myös loppuvaiheessa myymässä puolijohdeteollisuuttaan.	Se on myös puolijohdeteollisuuden huutokaupan loppuvaiheessa.
 online-B.0	Right feature not found	Se on myös puolijohteiden liiketoiminnan huutokaupassa viimeisessä vaiheessa.	Se on myös puolijohteiden liiketoiminnan huutokaupassa.
@@ -142,17 +214,17 @@ online-B.0	Right feature not found	Florida State myös putosi pois sijoituksesta
 online-G.0	Right feature not found	Florida State laski ulos sijoitusta.	Florida State myös putosi rankingissa.
 online-A.0	Right feature not found	Florida State putosi myös sijoitusta.	Florida State putosi myös rankingissa.
 
-sing_plur	6345	That did it for the Hess.	That did it for the Hesses.
-NICT.5658	Both features not found	That did it for the Hess.	That did it for the Hesses.
-HY-NMT-en-fi.5570	Correct	Se teki sen Hess.	Niin se teki Hesselle.
-uedin.5707	Both features not found	Se teki sen Hess.	Se teki sen Hessille.
-Aalto.5550	Both features not found	Niin tehtiin myös Hess.	Se teki sen Hesses.
-HY-NMTtwostep-en-fi.5639	Right feature not found	Se teki sen jänikselle.	Se teki sen Hessesille.
-CUNI-Kocmi.5620	Both features not found	Se teki sen Hess.	Se teki sen Hesseille.
-talp-upc.5424	Both features not found	Se teki sen Hess.	Se teki sen Hesses.
-online-B.0	Right feature not found	Se teki sen Hessille.	Se teki Hessenille.
-online-G.0	Both features not found	Että ei se Hess.	Että ei se Hesses.
-online-A.0	Both features not found	Että valmis se ajaksi Hess.	Että valmis se ajaksi hesses.
+sing_plur	5509	They were each ordered to pay £2,844 towards the legal cost.	They were each ordered to pay £2,844 towards the legal costs.
+NICT.5658	Identical	Heidät määrättiin kukin maksamaan oikeudenkäyntikuluja 2 844 puntaa.	Heidät määrättiin kukin maksamaan oikeudenkäyntikuluja 2 844 puntaa.
+HY-NMT-en-fi.5570	Left feature not found	Heidät kukin määrättiin maksamaan 2 844 puntaa oikeudenkäyntikuluihin.	Heidät kukin määrättiin maksamaan oikeudenkäyntikuluja 2 844 puntaa.
+uedin.5707	Both features not found	Kumpikin määrättiin maksamaan 2 844 puntaa oikeudenkäyntikuluja kohti.	Kumpikin määrättiin maksamaan oikeudenkäyntikuluja 2 844 puntaa.
+Aalto.5550	Both features not found	Kukin heistä määrättiin maksamaan 2 844 puntaa kohti oikeudenkäyntikuluja.	Kukin määrättiin maksamaan 2 844 puntaa oikeudenkäyntikuluja kohti.
+HY-NMTtwostep-en-fi.5639	Correct	He olivat kukin käskeneet maksaa 2,844 puntaa kohti laillisia kuluja.	He olivat kukin määrätty maksamaan 2,844 puntaa oikeudenkäyntikuluja kohti.
+CUNI-Kocmi.5620	Right feature not found	Kukin määrättiin maksamaan 2 844 puntaa oikeudenkäyntikuluihin.	Heidät määrättiin maksamaan oikeudenkäyntikuluihin 2 844 puntaa.
+talp-upc.5424	Left feature not found	Kumpikin määrättiin maksamaan 2 844 puntaa oikeudellisiin kustannuksiin.	Kukin heistä määrättiin maksamaan 2 844 puntaa oikeudenkäyntikuluihin.
+online-B.0	Identical	Heidät velvoitettiin maksamaan £ 2,844 oikeudenkäyntikuluja vastaan.	Heidät velvoitettiin maksamaan £ 2,844 oikeudenkäyntikuluja vastaan.
+online-G.0	Left feature not found	He olivat jokainen velvoitetaan maksamaan £2,844 kohti oikeudelliset kustannukset.	He olivat jokainen velvoitetaan maksamaan £2,844 kohti oikeudenkäyntikulut.
+online-A.0	Identical	He olivat kukin velvoitetaan maksa maan £2 844 kohti oikeudellisia kustannuksia.	He olivat kukin velvoitetaan maksa maan £2 844 kohti oikeudellisia kustannuksia.
 
 sing_plur	6643	The ancient people of Mexico and Central America loved to drink chocolate.	The ancient peoples of Mexico and Central America loved to drink chocolate.
 NICT.5658	Left feature not found	Meksikon ja Keski-Amerikan muinaiset ihmiset rakastivat juoda suklaata.	Meksikon ja Keski-Amerikan muinaiset kansat rakastivat juoda suklaata.
@@ -166,17 +238,41 @@ online-B.0	Left feature not found	Meksikon ja Keski-Amerikan muinaiset ihmiset r
 online-G.0	Correct	Antiikin ihmiset Meksikossa ja Keski-Amerikassa rakasti juoda kaakaota.	Muinaiset kansat Meksikon ja Keski-Amerikan rakasti juoda kaakaota.
 online-A.0	Left feature not found	Muinaiset ihmiset Meksikon ja Keski-Amerikan rakasti juoda suklaata.	Muinaiset kansat Meksikon ja Keski-Amerikan rakasti juoda suklaata.
 
+sing_plur	7200	The hospital foundation is covering the medical cost.	The hospital foundation is covering the medical costs.
+NICT.5658	Left feature not found	Sairaanhoitopiirin säätiö kattaa lääketieteelliset kustannukset.	Sairaanhoitopiirin säätiö kattaa hoitokulut.
+HY-NMT-en-fi.5570	Identical	Sairaalan säätiö kattaa lääkekustannukset.	Sairaalan säätiö kattaa lääkekustannukset.
+uedin.5707	Left feature not found	Sairaalan säätiö kattaa lääkekustannukset.	Sairaalan säätiö kattaa hoitokulut.
+Aalto.5550	Identical	Sairaalasäätiö kattaa lääkekustannukset.	Sairaalasäätiö kattaa lääkekustannukset.
+HY-NMTtwostep-en-fi.5639	Left feature not found	Sairaalasäätiö kattaa lääkekustannukset.	Sairaalasäätiö kattaa sairaanhoitokulut.
+CUNI-Kocmi.5620	Identical	Sairaalan säätiö kattaa lääketieteelliset kustannukset.	Sairaalan säätiö kattaa lääketieteelliset kustannukset.
+talp-upc.5424	Identical	Sairaalan säätiö kattaa lääketieteelliset kustannukset.	Sairaalan säätiö kattaa lääketieteelliset kustannukset.
+online-B.0	Left feature not found	Sairaalapasto kattaa lääketieteelliset kustannukset.	Sairaalapasto kattaa sairauskulut.
+online-G.0	Correct	Sairaalan säätiö on kattaa lääketieteelliset kustannukset.	Sairaala-säätiö, joka kattaa myös hoitokustannuksia.
+online-A.0	Right feature not found	Sairaala säätiö kattaa terveyden huollon kustannukset.	Sairaala säätiö kattaa lääketieteelliset kustannukset.
+
 sing_plur	7565	The Sixer went 21-for-32 from the free-throw line.	The Sixers went 21-for-32 from the free-throw line.
 NICT.5658	Identical	Kaksikko meni 21-for-32 vapaaheittoviivalta.	Kaksikko meni 21-for-32 vapaaheittoviivalta.
 HY-NMT-en-fi.5570	Left feature not found	Sixer lähti 21-32 vapaaheittoviivalta.	Kuusikot lähtivät 21-32 vapaaheittoviivalta.
 uedin.5707	Both features not found	Sixer meni vapaaheiton radalta 21-32.	Sixers meni vapaaheiton radalta 21-32.
-Aalto.5550	Correct	Kuudes meni 21-32 vapaaheittoviivalta.	Kuudennet lähtivät 21-32 vapaaheittoviivalta.
+Aalto.5550	Both features not found	Kuudes meni 21-32 vapaaheittoviivalta.	Kuudennet lähtivät 21-32 vapaaheittoviivalta.
 HY-NMTtwostep-en-fi.5639	Correct	Kuusikko meni 21 - 32 vapaaheittoviivalta.	Kuusikot kulkivat 21 - 32 vapaaheittoviivalta.
 CUNI-Kocmi.5620	Identical	Kuusi meni 21-for-32, free-throw line.	Kuusi meni 21-for-32, free-throw line.
 talp-upc.5424	Right feature not found	Sixer meni 21-for-32, vapaa-heittää linja.	Sixers meni 21-for-32, vapaa-heittää linjaa.
 online-B.0	Right feature not found	The Sixer meni 21-for-32 vapaan heittää linja.	The Sixers meni 21-for-32 vapaaseen heittoon.
 online-G.0	Both features not found	Kuutosten meni 21-32 vapaa-heittää linja.	Sixers meni 21-32 vapaa-heittää linja.
 online-A.0	Both features not found	Sixer meni 21-for-32 alkaen vapaa-heitto linjaa.	Sixers meni 21-for-32 alkaen vapaa-heitto linjaa.
+
+sing_plur	8416	They are the aria.	They are the arias.
+NICT.5658	Both features not found	He ovat aria.	He ovat arias.
+HY-NMT-en-fi.5570	Right feature not found	He ovat aria.	Ne ovat arias.
+uedin.5707	Left feature not found	Ne ovat aria.	He ovat arias.
+Aalto.5550	Both features not found	He ovat niitä.	He ovat Arias.
+HY-NMTtwostep-en-fi.5639	Right feature not found	Ne ovat aariaa.	Ne ovat arias.
+CUNI-Kocmi.5620	Both features not found	They are the aria.	Ne ovat kuivia.
+talp-upc.5424	Left feature not found	They are the aria.	He ovat sitä.
+online-B.0	Right feature not found	Ne ovat ilmasta.	Ne ovat aaria.
+online-G.0	Both features not found	He ovat aria.	He ovat arias.
+online-A.0	Correct	Ne ovat Aria.	Ne ovat aarioita.
 
 sing_plur	9014	I just cover the cost.	I just cover the costs.
 NICT.5658	Both features not found	Peitän vain kustannukset.	Katan vain kustannukset.
@@ -207,18 +303,30 @@ NICT.5658	Identical	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityisk
 HY-NMT-en-fi.5570	Identical	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityiskohtia.
 uedin.5707	Identical	Keskiviikon kertomuksissa ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon kertomuksissa ei täsmennetty ehdotuksen yksityiskohtia.
 Aalto.5550	Identical	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityiskohtia.
-HY-NMTtwostep-en-fi.5639	Right feature not found	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon raporteissa ei tarkennettu ehdotuksen yksityiskohtia.
+HY-NMTtwostep-en-fi.5639	Both features not found	Keskiviikon raporteissa ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon raporteissa ei tarkennettu ehdotuksen yksityiskohtia.
 CUNI-Kocmi.5620	Identical	Keskiviikon mietinnöissä ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon mietinnöissä ei täsmennetty ehdotuksen yksityiskohtia.
 talp-upc.5424	Identical	Keskiviikon mietinnöissä ei täsmennetty ehdotuksen yksityiskohtia.	Keskiviikon mietinnöissä ei täsmennetty ehdotuksen yksityiskohtia.
 online-B.0	Identical	Keskiviikon raportit eivät täsmentäneet ehdotuksen yksityiskohtia.	Keskiviikon raportit eivät täsmentäneet ehdotuksen yksityiskohtia.
 online-G.0	Correct	Keskiviikon raportteja ei määritä yksityiskohtaisesti ehdotuksen.	Keskiviikon raportteja ei määritellä yksityiskohtia ehdotus.
 online-A.0	Identical	Keski viikon raporteissa ei täsmennetä ehdotuksen yksityiskohtia.	Keski viikon raporteissa ei täsmennetä ehdotuksen yksityiskohtia.
 
+pron_sing_plur	2393	1995 - Me lifts its 20-year aid embargo.	1995 - US lifts its 20-year aid embargo.
+NICT.5658	Right feature not found	1995 - Minä poistan 20 vuoden avustussaartonsa.	1995 - Yhdysvallat poistaa 20 vuoden avustussaartonsa.
+HY-NMT-en-fi.5570	Left feature not found	1995 - Me lakkautamme 20 vuoden tukivientikiellon.	1995 - Yhdysvallat poistaa 20 vuoden kauppasaartonsa.
+uedin.5707	Both features not found	1995 - Me poistaa 20-vuotisen avustussaartonsa.	1995 - Yhdysvallat poistaa 20-vuotisen avustussaartonsa.
+Aalto.5550	Right feature not found	1995 - Minä kumoan 20 vuoden tukisaartonsa.	1995 - Yhdysvallat kumoaa 20 vuoden tukisaartonsa.
+HY-NMTtwostep-en-fi.5639	Correct	1995 - me kumoamme sen 20 vuoden tukikiellon.	1995 - Yhdysvallat kumoaa 20 vuoden tukikieltonsa.
+CUNI-Kocmi.5620	Right feature not found	1995 - minä lakkautan 20 vuoden pituisen avustuskiellon.	1995 - Yhdysvallat kumoaa 20 vuoden pituisen vientikiellon.
+talp-upc.5424	Right feature not found	1995 - Minulla on 20 vuoden pituinen avustussaarto.	1995 - USA: Ssa lakkautetaan 20 vuoden pituinen avustussaarto.
+online-B.0	Both features not found	1995 - Me nostaa 20 vuoden avustuskiellonsa.	1995 - Yhdysvallat nostaa 20 vuoden avustuskiellonsa.
+online-G.0	Right feature not found	1995 - Minä nostaa sen 20-vuotisen tuen kauppasaarron.	1995 - MEITÄ nostaa sen 20-vuotisen tuen kauppasaarron.
+online-A.0	Right feature not found	1995-me nostaa sen 20 vuoden tuki saarron.	1995-Yhdysvallat nostaa 20 vuoden tuki saarron.
+
 pron_sing_plur	3015	Ms. de la Salle has a substantial career in front of her.	Ms. de la Salle has a substantial career in front of them.
 NICT.5658	Identical	De la Salle on mittava ura edessään.	De la Salle on mittava ura edessään.
 HY-NMT-en-fi.5570	Identical	Mia de la Sallella on edessään merkittävä ura.	Mia de la Sallella on edessään merkittävä ura.
-uedin.5707	Right feature not found	De la Salla on edessään mittava ura.	De la Salla on merkittävä ura edessään.
-Aalto.5550	Right feature not found	Ms. de la Salle on merkittävä ura edessään.	Ms. de la Sallella on huomattava ura edessään.
+uedin.5707	Both features not found	De la Salla on edessään mittava ura.	De la Salla on merkittävä ura edessään.
+Aalto.5550	Both features not found	Ms. de la Salle on merkittävä ura edessään.	Ms. de la Sallella on huomattava ura edessään.
 HY-NMTtwostep-en-fi.5639	Right feature not found	Mia de la Sallellä on mittava ura edessään.	Mia de la Sallellä on mittava ura edessä.
 CUNI-Kocmi.5620	Identical	de la Sallella on edessään merkittävä ura.	de la Sallella on edessään merkittävä ura.
 talp-upc.5424	Left feature not found	MS de la Sallen edessä on merkittävä ura.	MS de la Salle on merkittävä ura heidän edessään.
@@ -249,18 +357,6 @@ talp-upc.5424	Identical	Pankit etsivät vähemmän, enemmän strategisia myyjäs
 online-B.0	Identical	Pankit etsivät vähemmän strategisia toimittajasuhteita.	Pankit etsivät vähemmän strategisia toimittajasuhteita.
 online-G.0	Right feature not found	Pankit ovat etsivät vähemmän, enemmän strategisia toimittajasuhteita.	Pankit etsivät vähemmän, enemmän strategisia toimittajasuhteita.
 online-A.0	Identical	Pankit etsivät vähemmän, enemmän strategisia myyjän suhteita.	Pankit etsivät vähemmän, enemmän strategisia myyjän suhteita.
-
-comp_adj	1227	Its economy is strained; witness the ever feeble dollar.	Its economy is strained; witness the ever feebler dollar.
-NICT.5658	Identical	Sen talous on kireä, mistä on osoituksena yhä heikko dollari.	Sen talous on kireä, mistä on osoituksena yhä heikko dollari.
-HY-NMT-en-fi.5570	Right feature not found	Sen talous on kireä, mikä on osoitus yhä ponnettomasta dollarista.	Sen talous on kireä, kun otetaan huomioon aina kuumeinen dollari.
-uedin.5707	Right feature not found	Sen talous on kireä, todistaa yhä heikko dollari.	Sen talous on kireä.
-Aalto.5550	Right feature not found	Sen talous on kireä, todistaa yhä heikko dollari.	Sen talous on kireä, todistaa heikentynyt dollari.
-HY-NMTtwostep-en-fi.5639	Left feature not found	Sen talous on kireä; se todistaa yhä heikomman dollarin.	Sen talous on kireä, ja sitä todistaa yhä heikompi dollari.
-CUNI-Kocmi.5620	Both features not found	Sen talous on kireällä, mistä ovat osoituksena koko ajan heikommat dollarit.	Sen talous on kireällä, mistä on osoituksena alati aleneva dollari.
-talp-upc.5424	Right feature not found	Sen talous on kireässä tilassa, mistä on osoituksena jatkuvasti heikko dollari.	Sen talous on kireässä tilassa, mistä on osoituksena jatkuvasti heikentyvä dollari.
-online-B.0	Correct	Sen talous on kireä, todistaa yhä heikosta dollarista.	Sen talous on kireä, todistaa yhä vähäisemmältä dollarilta.
-online-G.0	Right feature not found	Sen talous on kireät; todistaja koskaan heikko dollari.	Sen talous on kireät; todistaja koskaan heikot dollari.
-online-A.0	Right feature not found	Sen talous on kireä; todistaja yhä heikko dollari.	Sen talous on kireä; todistaja yhä feibler dollaria.
 
 comp_adj	1667	The dollar's decline is already contributing to high oil prices.	The dollar's decline is already contributing to higher oil prices.
 NICT.5658	Identical	Dollarin lasku vaikuttaa jo nyt öljyn hinnan nousuun.	Dollarin lasku vaikuttaa jo nyt öljyn hinnan nousuun.
@@ -320,7 +416,7 @@ CUNI-Kocmi.5620	Right feature not found	Manchesterin poliisi on nyt korvannut ka
 talp-upc.5424	Right feature not found	Suuri Manchesterin poliisi on nyt korvannut kaikki solualtaan valumat.	Suur-Manchesterin poliisi on nyt korvannut kaikki solualtaan valumat.
 online-B.0	Both features not found	Great Manchester Police on nyt korvannut kaikki solualustat.	Suur-Manchesterin poliisi on nyt korvannut kaikki solujen altaat.
 online-G.0	Right feature not found	Suuri Manchester Poliisi on nyt korvannut kaikki solu altaan plugholes.	Suur-Manchesterin Poliisi on nyt korvannut kaikki solu altaan plugholes.
-online-A.0	Right feature not found	Great Manchester poliisi on nyt korvattu kaikki solun altaan plugholes.	Suur-Manchesterin poliisi on nyt korvannut kaikki solu alueen plugholes.
+online-A.0	Both features not found	Great Manchester poliisi on nyt korvattu kaikki solun altaan plugholes.	Suur-Manchesterin poliisi on nyt korvannut kaikki solu alueen plugholes.
 
 comp_adj	2542	This tale seems grim.	This tale seems grimmer.
 NICT.5658	Correct	Tämä tarina tuntuu synkältä.	Tämä tarina tuntuu kireämmältä.
@@ -346,6 +442,18 @@ online-B.0	Right feature not found	Hän sanoi, että biopolttoaineiden lisäämi
 online-G.0	Right feature not found	Hän sanoi, lisäämällä biopolttoaineiden kodin lämmitys öljy auttaisi alhaiset kustannukset.	Hän sanoi, lisäämällä biopolttoaineiden kodin lämmitys öljy olisi auttaa alentamaan kustannuksia.
 online-A.0	Right feature not found	Hän sanoi lisäämällä biopoltto aineiden kodin Lämmitys öljyn auttaisi alhaiset kustannukset.	Hän sanoi lisäämällä biopoltto aineiden kodin Lämmitys öljyn auttaisi alentamaan kustannuksia.
 
+comp_adj	3512	The withdrawal does not affect medicines intended for children ages 2 and old.	The withdrawal does not affect medicines intended for children ages 2 and older.
+NICT.5658	Identical	Vetäytyminen ei vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Vetäytyminen ei vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.
+HY-NMT-en-fi.5570	Left feature not found	Vetäytyminen ei vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Vetäytyminen ei vaikuta 2-vuotiaille ja sitä vanhemmille tarkoitettuihin lääkkeisiin.
+uedin.5707	Left feature not found	Vetäytyminen ei vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Vetäytyminen ei vaikuta 2-vuotiaille ja sitä vanhemmille lapsille tarkoitettuihin lääkkeisiin.
+Aalto.5550	Identical	Vieroitusoireet eivät vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Vieroitusoireet eivät vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.
+HY-NMTtwostep-en-fi.5639	Both features not found	Peruuttaminen ei vaikuta 2-vuotiaille ja vanhemmille tarkoitettuihin lääkkeisiin.	Peruuttaminen ei vaikuta 2-vuotiaille ja sitä vanhemmille tarkoitettuihin lääkkeisiin.
+CUNI-Kocmi.5620	Identical	Kaupan peruuttaminen ei vaikuta 2-vuotiaille ja sitä vanhemmille lapsille tarkoitettuihin lääkkeisiin.	Kaupan peruuttaminen ei vaikuta 2-vuotiaille ja sitä vanhemmille lapsille tarkoitettuihin lääkkeisiin.
+talp-upc.5424	Identical	Peruuttaminen ei vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Peruuttaminen ei vaikuta 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.
+online-B.0	Identical	Peruuttaminen ei vaikuta alle 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Peruuttaminen ei vaikuta alle 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.
+online-G.0	Correct	Peruuttaminen ei vaikuta lääkkeitä tarkoitettu lapsille 2 ja vanha.	Peruuttaminen ei vaikuta lääkkeitä tarkoitettu lapsille 2 ja vanhemmat.
+online-A.0	Left feature not found	Peruuttaminen ei vaikuta alle 2-vuotiaille lapsille tarkoitettuihin lääkkeisiin.	Peruuttaminen ei vaikuta lääkkeisiin, jotka on tarkoitettu 2-vuotiaille ja sitä vanhemmille lapsille.
+
 comp_adj	353	Brave's husband helped publish this book.	Braver's husband helped publish this book.
 NICT.5658	Right feature not found	Rohkean aviomies auttoi julkaisemaan tämän kirjan.	Braverin aviomies auttoi julkaisemaan tämän kirjan.
 HY-NMT-en-fi.5570	Right feature not found	Rohkea aviomies auttoi kirjan julkaisemisessa.	Braverin aviomies auttoi kirjan julkaisemisessa.
@@ -359,8 +467,8 @@ online-G.0	Correct	Rohkea aviomies auttoi julkaista tämä kirja.	Rohkeampi mies
 online-A.0	Right feature not found	Rohkea avio mies auttoi julkaista tämän kirjan.	Braverin avio mies auttoi julkaisemaan tämän kirjan.
 
 comp_adj	404	Each one has ended up low down the hill.	Each one has ended up lower down the hill.
-NICT.5658	Left feature not found	Jokainen on päätynyt mäkeä alas.	Jokainen on päätynyt mäkeä alemmas.
-HY-NMT-en-fi.5570	Left feature not found	Kukin on päätynyt mäen alle.	Kukin on päätynyt mäkeä alemmas.
+NICT.5658	Both features not found	Jokainen on päätynyt mäkeä alas.	Jokainen on päätynyt mäkeä alemmas.
+HY-NMT-en-fi.5570	Both features not found	Kukin on päätynyt mäen alle.	Kukin on päätynyt mäkeä alemmas.
 uedin.5707	Correct	Jokainen on päätynyt matalalle kukkulalle.	Jokainen on päätynyt alempaan alamäkeen.
 Aalto.5550	Identical	Jokainen on päätynyt alamäkeen.	Jokainen on päätynyt alamäkeen.
 HY-NMTtwostep-en-fi.5639	Both features not found	Jokainen on päätynyt alhaalla alas mäkeen.	Jokainen on päätynyt alamäkeen.
@@ -373,9 +481,9 @@ online-A.0	Left feature not found	Jokainen on päätynyt alhaalla mäkeä.	Jokai
 comp_adj	848	I wish you were mean.	I wish you were meaner.
 NICT.5658	Left feature not found	I would you would mean.	Toivon, että olisitte mielekkäämpiä.
 HY-NMT-en-fi.5570	Both features not found	Toivon, että te tarkoitatte.	Toivon, että olette merkityksiä.
-uedin.5707	Right feature not found	Toivon teidän tarkoittavan.	I wish you was meaner.
+uedin.5707	Both features not found	Toivon teidän tarkoittavan.	I wish you was meaner.
 Aalto.5550	Both features not found	Toivon, että tarkoitatte.	Toivon, että olisitte välinpitäjä.
-HY-NMTtwostep-en-fi.5639	Correct	Toivon teidän tarkoittavan sitä.	Toivon, että olitte tärkeämpi.
+HY-NMTtwostep-en-fi.5639	Left feature not found	Toivon teidän tarkoittavan sitä.	Toivon, että olitte tärkeämpi.
 CUNI-Kocmi.5620	Left feature not found	I wish you were mean.	Toivoisin, että olisitte ilkeämpiä.
 talp-upc.5424	Both features not found	I wish you was mean.	Toivon, että olisitte liha.
 online-B.0	Both features not found	Toivotan teille, että olisit totta.	Toivotan teitä olleet kesken.
@@ -415,7 +523,7 @@ HY-NMTtwostep-en-fi.5639	Correct	Se on minulle ihan hauskaa.	Se on sille ihan ha
 CUNI-Kocmi.5620	Right feature not found	joka on vain hauskaa minulle.	että on vain hauskaa.
 talp-upc.5424	Right feature not found	Se on vain hauskaa minulle.	Se on vain hauskaa.
 online-B.0	Right feature not found	se on vain hauskaa minulle.	se on vain hauskaa.
-online-G.0	Identical	se on vain hauskaa.	se on vain hauskaa se.
+online-G.0	Left feature not found	se on vain hauskaa.	se on vain hauskaa se.
 online-A.0	Right feature not found	se on vain hauskaa minulle.	se on vain hauskaa.
 
 human_nonhuman_pron	1213	Please use the form below to contact us.	Please use the form below to contact it.
@@ -453,18 +561,6 @@ talp-upc.5424	Right feature not found	Se vaikuttaa meidän kaikkien kansantervey
 online-B.0	Both features not found	Tämä vaikuttaa kaikkien kansan terveyteen.	Tämä vaikuttaa kaiken kansanterveyteen.
 online-G.0	Identical	Joka vaikuttaa kansanterveyteen.	Joka vaikuttaa kansanterveyteen.
 online-A.0	Correct	Tämä vaikuttaa meidän kaikkien kansan terveyteen.	Se vaikuttaa kaiken kansan terveyteen.
-
-human_nonhuman_pron	2009	Tell us how that came about.	Tell it how that came about.
-NICT.5658	Right feature not found	Kerro meille, miten se syntyi.	Kerro, miten se syntyi.
-HY-NMT-en-fi.5570	Right feature not found	Kerro meille, miten se tapahtui.	Kerro, miten se tapahtui.
-uedin.5707	Right feature not found	Kertokaa meille, miten se tapahtui.	Kertokaa, miten se tapahtui.
-Aalto.5550	Identical	Kerro, miten se syntyi.	Kerro se, miten se syntyi.
-HY-NMTtwostep-en-fi.5639	Left feature not found	Kerro, miten siitä tuli kyseeseen.	Kerro se, miten siitä tuli kyseeseen.
-CUNI-Kocmi.5620	Right feature not found	Kerro meille, miten se tapahtui.	Kerro se, miten se tuli noin.
-talp-upc.5424	Right feature not found	Kertokaa meille, miten tämä tapahtui.	Kertokaa, miten tämä tapahtui.
-online-B.0	Correct	Kerro meille, miten tämä tapahtui.	Kerro, miten se tapahtui.
-online-G.0	Right feature not found	Kerro meille, miten se tapahtui.	Kerro se, miten se tapahtui.
-online-A.0	Right feature not found	Kerro meille, miten se tapahtui.	Kerro se, miten se tapahtui.
 
 human_nonhuman_pron	2121	Thank you very much, President Ahmadinejad, for joining us here today.	Thank you very much, President Ahmadinejad, for joining it here today.
 NICT.5658	Identical	Paljon kiitoksia, presidentti Ahmadinejad, että tulitte tänne tänään.	Paljon kiitoksia, presidentti Ahmadinejad, että tulitte tänne tänään.
@@ -706,18 +802,6 @@ online-B.0	Right feature not found	Katsottuna vasemmalle, näki Staff Sgt. Wuter
 online-G.0	Identical	Katsoin vasemmalle, näin Henkilöstön Kersantti Wuterich ammunta.	Katsoin vasemmalle, näin Henkilöstön Kersantti Wuterich ammunta.
 online-A.0	Identical	Katsoin vasemmalle, näki henkilöstön Sgt. wuterich ammunta.	Katsoin vasemmalle, näki henkilöstön Sgt. wuterich ammunta.
 
-that_if	130	She said that helps make sure parents are prepared.	She asked if helps make sure parents are prepared.
-NICT.5658	Left feature not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, auttaako varmistamaan, että vanhemmat ovat valmiita.
-HY-NMT-en-fi.5570	Correct	Hän sanoi, että auttaa varmistamaan vanhempien valmistautumisen.	Hän kysyi, auttaako vanhempia valmistautumaan.
-uedin.5707	Both features not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, jos auttaa varmistamaan, että vanhemmat ovat valmiita.
-Aalto.5550	Left feature not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, auttaako varmistamaan, että vanhemmat ovat valmiita.
-HY-NMTtwostep-en-fi.5639	Left feature not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, auttaako varmistamaan, että vanhemmat ovat valmiita.
-CUNI-Kocmi.5620	Left feature not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, auttaako varmistamaan, että vanhemmat ovat valmiita.
-talp-upc.5424	Left feature not found	Hän sanoi, että auttaa varmistamaan vanhempien varautuminen.	Hän kysyi, auttaako hän varmistamaan, että vanhemmat ovat valmiita.
-online-B.0	Left feature not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, auttaako varmistamaan, että vanhemmat ovat valmiita.
-online-G.0	Both features not found	Hän sanoi, että auttaa varmista, että vanhemmat ovat valmiita.	Hän kysyi, auttaa varmista, että vanhemmat ovat valmiita.
-online-A.0	Both features not found	Hän sanoi, että auttaa varmistamaan, että vanhemmat ovat valmiita.	Hän kysyi, jos auttaa varmista, että vanhemmat ovat valmiita.
-
 that_if	160	Common sense says that you do.	Common sense asks if you do.
 NICT.5658	Right feature not found	Terve järki sanoo, että kyllä.	Terve järki kysyy, jos tekee.
 HY-NMT-en-fi.5570	Right feature not found	Maalaisjärki sanoo, että sinä.	Järki kysyy, jos niin tekee.
@@ -766,18 +850,6 @@ online-B.0	Right feature not found	Mutta hirviö näyttelijä sanoi, että täm�
 online-G.0	Both features not found	Mutta Hirviö näyttelijä sanoi, että se ei yleensä tapahdu.	Mutta Hirviö näyttelijä pyysi, että jos ei normaalisti tapahdu.
 online-A.0	Both features not found	Mutta hirviö näyttelijä sanoi, että se ei yleensä tapahdu.	Mutta hirviö näyttelijä kysyi, että ei yleensä tapahdu.
 
-that_if	567	He said that the confession was coerced and that he was innocent.	He asked if the confession was coerced and that he was innocent.
-NICT.5658	Left feature not found	Hän sanoi, että tunnustus oli pakotettu ja että hän oli syytön.	Hän kysyi, onko tunnustus pakotettu ja että hän oli syytön.
-HY-NMT-en-fi.5570	Correct	Hän sanoi, että tunnustus oli pakotettu ja että hän oli syytön.	Hän kysyi, oliko tunnustus pakollinen ja oliko hän syytön.
-uedin.5707	Left feature not found	Hän sanoi, että tunnustus oli pakotettu ja että hän oli syytön.	Hän kysyi, oliko tunnustus pakko ja että hän oli syytön.
-Aalto.5550	Left feature not found	Hän sanoi, että tunnustus oli pakotettu ja että hän oli syytön.	Hän kysyi, oliko tunnustus pakotettu ja että hän oli syytön.
-HY-NMTtwostep-en-fi.5639	Correct	Hänen mukaansa tunnustus oli laimennut ja hän oli syytön.	Hän kysyi, oliko tunnustus vilkastunut ja oliko hän syytön.
-CUNI-Kocmi.5620	Left feature not found	Hän sanoi, että tunnustaminen oli pakotettu ja että hän oli syytön.	Hän kysyi, onko tunnustaminen oli pakotettu ja että hän oli syytön.
-talp-upc.5424	Left feature not found	Hän sanoi, että tunnustus oli pakotettu ja että hän oli syytön.	Hän kysyi, onko tunnustus oli pakotettu ja että hän oli syytön.
-online-B.0	Left feature not found	Hän sanoi, että tunnustus oli pakotettu ja että hän oli viaton.	Hän kysyi, onko tunnustus pakotettu ja että hän oli viaton.
-online-G.0	Both features not found	Hän sanoi, että tunnustus oli pakotettu, ja että hän oli syytön.	Hän kysyi, jos tunnustus oli pakotettu, ja että hän oli syytön.
-online-A.0	Both features not found	Hän sanoi, että tunnustus oli pakotettu ja että hän oli viaton.	Hän kysyi, jos tunnustus oli pakotettu ja että hän oli viaton.
-
 that_if	636	Bonds says that Giants owner Peter Magowan broke the news to him.	Bonds asks if Giants owner Peter Magowan broke the news to him.
 NICT.5658	Correct	Joukkolainojen mukaan Giantsin omistaja Peter Magowan rikkoi hänelle uutisen.	Joukkovelkakirjat kysyvät, rikkoiko Giantsin omistaja Peter Magowan uutisen hänelle.
 HY-NMT-en-fi.5570	Correct	Bonds sanoo, että Giantsin omistaja Peter Magowan mursi uutisensa.	Bonds kysyy, onko Giantsin omistaja Peter Magowan murtanut uutisen hänelle.
@@ -801,18 +873,6 @@ talp-upc.5424	Right feature not found	Valtion virkamiehet sanovat, että ohjelma
 online-B.0	Right feature not found	Valtion virkamiehet sanovat, että ohjelmat eivät rajoitu alemman tulotason asukkaisiin auttavat heitä kuitenkin.	Valtion virkamiehet pyytävät, että he eivät edelleenkään apuohjelmia, jotka eivät rajoitu alemman tulotason asukkaisiin.
 online-G.0	Right feature not found	Valtion virkamiehet sanovat, että ohjelmia ei ole rajoitettu pienituloisille asukkaille auttaa heitä kuitenkin.	Valtion virkamiehet kysyä, jos ohjelmia ei ole rajoitettu pienituloisille asukkaille auttaa heitä kuitenkin.
 online-A.0	Right feature not found	Valtion virka miehet sanovat, että ohjelmat eivät rajoitu pienitu loisten asukkaiden auttaa heitä kuitenkin.	Valtion virka miehet kysyvät, jos ohjelmia ei rajoitu pienitu loisten asukkaiden auttaa heitä kuitenkin.
-
-that_if	801	Mr Davies said that this was because the industry needed such trading standards.	Mr Davies asked if this was because the industry needed such trading standards.
-NICT.5658	Left feature not found	Chris Davies sanoi, että tämä johtuu siitä, että teollisuus tarvitsee tällaisia kauppastandardeja.	Chris Davies kysyi, johtuuko tämä siitä, että teollisuus tarvitsee tällaisia kauppastandardeja.
-HY-NMT-en-fi.5570	Correct	Davies totesi tämän johtuvan siitä, että teollisuus tarvitsi tällaisia kauppastandardeja.	Davies kysyi, johtuiko tämä siitä, että teollisuus tarvitsi tällaisia kauppastandardeja.
-uedin.5707	Left feature not found	Jäsen Davies sanoi, että tämä johtui siitä, että teollisuus tarvitsi tällaisia kaupan standardeja.	Jäsen Davies kysyi, johtuuko tämä siitä, että teollisuus tarvitsi tällaisia kaupan standardeja.
-Aalto.5550	Left feature not found	Jäsen Davies sanoi, että tämä johtuu siitä, että teollisuus tarvitsi tällaisia kauppanormeja.	Jäsen Davies kysyi, johtuuko tämä siitä, että teollisuus tarvitsi tällaisia kauppanormeja.
-HY-NMTtwostep-en-fi.5639	Left feature not found	Davies sanoi, että tämä johtuu siitä, että teollisuus tarvitsi tällaisia kauppanormeja.	Davies kysyi, johtuuko tämä siitä, että teollisuus tarvitsi tällaisia kauppanormeja.
-CUNI-Kocmi.5620	Left feature not found	Jäsen Davies totesi, että tämä johtuu siitä, että teollisuus tarvitsee tällaisia kaupankäyntistandardeja.	Jäsen Davies kysyi, johtuuko tämä siitä, että teollisuus tarvitsee tällaisia kaupankäyntistandardeja.
-talp-upc.5424	Left feature not found	Chris Davies sanoi, että tämä johtuu siitä, että teollisuus tarvitsee tällaisia kaupankäyntistandardeja.	Jäsen Davies kysyi, johtuuko tämä siitä, että teollisuus tarvitsee tällaisia kaupan standardeja.
-online-B.0	Correct	Jäsen Davies totesi, että tämä johtui siitä, että teollisuus tarvitsi tällaisia kaupan standardeja.	Jäsen Davies kysyi, oliko tämä teollisuus tarvitsi tällaisia kaupan standardeja.
-online-G.0	Right feature not found	Davies sanoi, että tämä oli, koska teollisuus tarvitsi tällaisen kaupankäynnin standardeja.	Davies kysyi jos tämä oli, koska teollisuus tarvitsi tällaisen kaupankäynnin standardeja.
-online-A.0	Left feature not found	Jäsen Davies sanoi, että tämä johtui siitä, että teollisuus tarvitsi tällaisia kauppa normeja.	Jäsen Davies kysyi, oliko tämä syynä siihen, että teollisuus tarvitsee tällaisia kauppa normeja.
 
 prep_postp	1001	She rubbed her right arm repeatedly before a meeting with reporters on Wednesday.	She rubbed her right arm repeatedly during a meeting with reporters on Wednesday.
 NICT.5658	Correct: no aikana postposition found Ess found	Hän hieroi oikean käsivartensa toistuvasti ennen keskiviikkoista tapaamista toimittajien kanssa.	Hän hieroi oikeaa käsivarsiaan toistuvasti tavatessaan toimittajia keskiviikkona.
@@ -969,18 +1029,6 @@ talp-upc.5424	Both features not found: no nouns found with ennen no aikana postp
 online-B.0	Correct	Rakennusinsinööri tapettiin ennen hirvieläinten onnettomuutta vuonna 2005.	Rakennusinsinööri tapettiin surmansaajon onnettomuuden aikana vuonna 2005.
 online-G.0	Both features not found: no nouns found with ennen no aikana postposition found 	Rakennus-insinööri kuoli ennen kuin friikki, hissi onnettomuus vuonna 2005.	Rakennus insinööri sai surmansa friikki, hissi onnettomuus vuonna 2005.
 online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Rakennus insinööri kuoli ennen friikki Hissi onnettomuus 2005.	Rakennus insinööri kuoli friikki Hissi onnettomuuden 2005.
-
-prep_postp	2158	Before the same period, many businesses ramped up spending and investment.	During the same period, many businesses ramped up spending and investment.
-NICT.5658	Right feature not found: no aikana postposition found 	Ennen samaa kautta monet yritykset kiihdyttivät menoja ja investointeja.	Samaan aikaan monet yritykset kiihdyttivät menoja ja investointeja.
-HY-NMT-en-fi.5570	Right feature not found: no aikana postposition found 	Ennen samaa ajanjaksoa monet yritykset rapauttivat menoja ja investointeja.	Samaan aikaan monet yritykset rapauttivat menoja ja investointeja.
-uedin.5707	Both features not found: no nouns found with ennen no aikana postposition found 	Ennen yhtä aikaa monet yritykset rapauttivat menoja ja investointeja.	Samaan aikaan monet yritykset rapauttivat menoja ja investointeja.
-Aalto.5550	Right feature not found: no Gen case found with aikana 	Ennen samaa ajanjaksoa monet yritykset rehottivat menoja ja investointeja.	Samana aikana monet yritykset rehottivat menoja ja investointeja.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no Gen case found with aikana 	Ennen samaa ajanjaksoa monet yritykset rapsuttivat menoja ja investointeja.	Samana aikana monet yritykset rapsuttivat menoja ja investointeja.
-CUNI-Kocmi.5620	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Ennen samana aikana, monet yritykset ramped menoja ja investointeja.	Samaan aikaan monet yritykset vauhdittivat menoja ja investointeja.
-talp-upc.5424	Right feature not found: no aikana postposition found 	Ennen samaa ajanjaksoa monet yritykset nostivat menoja ja investointeja.	Samaan aikaan monet yritykset nostivat menoja ja investointeja.
-online-B.0	Left feature not found: no Par case found after ennen no nouns found with ennen no aikana postposition found Ess found	Ennen saman ajanjakson aikana monet yritykset kasvoivat menoja ja investointeja.	Samana ajanjaksona monet yritykset kasvattivat menoja ja investointeja.
-online-G.0	Both features not found: no Par case found after ennen no nouns found with ennen no Gen case found with aikana 	Ennen saman ajan, monet yritykset käynnistyvän menoja ja investointeja.	Samana aikana, monet yritykset käynnistyvän menoja ja investointeja.
-online-A.0	Left feature not found: no Par case found after ennen no nouns found with ennen no aikana postposition found Ess found	Ennen samana aikana, monet yritykset ramped menoja ja investointeja.	Samana aikana monet yritykset ramped menoja ja investointeja.
 
 prep_postp	2305	The announcements were made before a meeting with analysts and investors on Monday.	The announcements were made during a meeting with analysts and investors on Monday.
 NICT.5658	Right feature not found: no aikana postposition found 	Ilmoitukset tehtiin ennen analyytikoiden ja sijoittajien tapaamista maanantaina.	Ilmoitukset tehtiin analyytikoiden ja sijoittajien tapaamisessa maanantaina.
@@ -1174,18 +1222,6 @@ online-B.0	Left feature not found: no nouns found with ennen 	Se on vain 30 vuot
 online-G.0	Left feature not found: no nouns found with ennen 	Se on vain 30 vuotta ennen kuin Waterloo.	Se on vain 30 vuotta sen jälkeen, kun Waterloo.
 online-A.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Se on vain 30 vuotta ennen Waterloon.	Se on vain 30 vuotta Waterloon jälkeen.
 
-prep_postp	4010	The then Col Tibbets named his B-29 Enola Gay before his mother.	The then Col Tibbets named his B-29 Enola Gay after his mother.
-NICT.5658	Right feature not found: no jälkeen/kuluttua postposition found 	Silloinen Col Tibveds nimesi B-29 Enola Gay: N ennen äitiään.	Silloinen Col Tibveds nimesi B-29 Enola Gay: N äitinsä perään.
-HY-NMT-en-fi.5570	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Silloinen Col Tibbets nimesi B-29 Enola Gayn äitinsä edelle.	Silloinen Col Tibbets nimesi äitinsä mukaan B-29 Enola Gayn.
-uedin.5707	Correct	Silloinen Col Tibbets sai nimekseen B-29 Enola Gay ennen äitiään.	Silloinen Col Tibbets sai nimekseen B-29 Enola Gay äitinsä jälkeen.
-Aalto.5550	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Silloinen Kol Tibbets nimesi B-29 Enola Gayn äitinsä eteen.	Silloinen Kol Tibbets nimesi B-29 Enola Gayn äitinsä jälkeen.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no jälkeen/kuluttua postposition found 	Silloinen Col Tibbets nimesi b-29 Enola Gayn ennen äitiään.	Silloinen Col Tibbets nimesi b-29 Enola Gayn äitinsä perään.
-CUNI-Kocmi.5620	Right feature not found: no Gen case found with jälkeen/kuluttua 	Col Tibbets nimesi B-29 Enola Gayn ennen äitiään.	Sitten Col Tibbets nimeltä hänen B-29 Enola Gay jälkeen hänen äitinsä.
-talp-upc.5424	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Silloinen Col Tipainos nimesi B-29 Enola Gayn äitinsä eteen.	Silloinen Col Tipainos nimesi B-29 Enola Gay äitinsä mukaan.
-online-B.0	Both features not found: no Par case found after ennen no nouns found with ennen no nouns found with jälkeen/kuluttua 	Sitten Col Tibbets nimesi hänen B-29 Enola Gay ennen äitinsä.	Sitten Col Tibbets nimesi hänen B-29 Enola Gay äidinsa jälkeen.
-online-G.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Sitten Kol Tibbets nimetty hänen B-29 Enola Gay, ennen kuin hänen äitinsä.	Sitten Kol Tibbets nimetty hänen B-29 Enola Gay jälkeen hänen äitinsä.
-online-A.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Sitten Col Tibbets nimesi hänen B-29 Enola homo ennen hänen äitinsä.	Sitten Col Tibbets nimesi hänen B-29 Enola homo jälkeen hänen äitinsä.
-
 prep_postp	4083	The year before that, it was in Ernee, France.	The year after that, it was in Ernee, France.
 NICT.5658	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Toissa vuonna se oli Erpolessa, Ranskassa.	Sitä seuraavana vuonna se oli Erpolessa Ranskassa.
 HY-NMT-en-fi.5570	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Toissa vuonna se oli Ranskan Ernee.	Sitä seuraavana vuonna se oli Ranskan Ernee.
@@ -1270,18 +1306,6 @@ online-B.0	Correct	Hän esiintyy tänään ennen Leicesterin tuomareita.	Hän es
 online-G.0	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Hän ilmestyy ennen Leicester tuomareiden tänään.	Hän ilmestyy, kun Leicester tuomareiden tänään.
 online-A.0	Left feature not found: no Par case found after ennen no nouns found with ennen 	Hän ilmestyy ennen Leicester tuomareiden tänään.	Hän ilmestyy tänään Leicesterin tuomareiden jälkeen.
 
-local_prep	1011	Properties listed above the market price just sat there.	Properties listed below the market price just sat there.
-NICT.5658	Both features not found: no case match	Markkinahinnan yläpuolella listatut kiinteistöt vain istuivat siellä.	Siellä istui juuri markkinahinnan alle listattuja kiinteistöjä.
-HY-NMT-en-fi.5570	Correct	Markkinahinnan yläpuolelle on merkitty kiinteistöjä.	Siellä vain istui alle markkinahinnan noteerattuja kiinteistöjä.
-uedin.5707	Correct	Markkinahinnan yläpuolelle listatut ominaisuudet vain istuivat siellä.	Markkinahinnan alle listatut ominaisuudet vain istuivat siellä.
-Aalto.5550	Both features not found: no case match	Kiinteistöt listattiin markkinahinnan yläpuolella vain istuen siellä.	Kiinteistöjen alle listattu markkinahinta vain istui siellä.
-HY-NMTtwostep-en-fi.5639	Left feature not found: no translation of above found	Ominaisuudet lueteltiin ennen markkinahintaa juuri siellä istuen.	Ominaisuuksien listaaminen alle markkinahinnan vain istui siellä.
-CUNI-Kocmi.5620	Left feature not found: no translation of above found	Markkinahintaa korkeammalle listatut tuotteet istuivat juuri siellä.	Tuotteet, jotka oli lueteltu markkinahinnan alapuolelle, istuivat juuri siellä.
-talp-upc.5424	Both features not found: no case match	Markkinahinnan yläpuolella luetellut ominaisuudet vain istuivat siellä.	Markkinahinnan alapuolelle listatut ominaisuudet istuivat siellä juuri.
-online-B.0	Left feature not found: no translation of above found	Edellä mainitut markkinahintaiset ominaisuudet olivat vain istumassa.	Alla olevista kiinteistöistä markkinahinta vain istui siellä.
-online-G.0	Left feature not found: no translation of above found	Ominaisuudet edellä lueteltujen markkinoiden hinta vain istui siellä.	Ominaisuudet on lueteltu alla markkinahinta vain istui siellä.
-online-A.0	Left feature not found: no translation of above found	Ominaisuudet edellä mainitut markkina hinta vain istui siellä.	Ominaisuudet alla alla markkina hinta vain istui siellä.
-
 local_prep	1114	67 Points Marking An Increase Of 16.48 Points Above The Pervious Closing.	67 Points Marking An Increase Of 16.48 Points Below The Pervious Closing.
 NICT.5658	Both features not found: no translation of above and below found	67 pistettä Marking An Increase of 16.48 Points Above The Perfect Close.	67 pistettä Marking An Increase of 16.48 Points Below The Perfect Close.
 HY-NMT-en-fi.5570	Both features not found: no translation of above and below found	67 Points Marking an increase of 16.48 Points Above The Pervious Closing.	67 Points Marking an increase of 16.48 Points Below the Pervious Closing.
@@ -1291,20 +1315,8 @@ HY-NMTtwostep-en-fi.5639	Both features not found: no translation of above and be
 CUNI-Kocmi.5620	Left feature not found: no translation of above found	67 Point Marking Lisäys 16.48 Points Above The Pervious Sulkeminen.	67 pistettä Marking Lisäys 16.48 pistettä Alla Pervious Sulkeminen.
 talp-upc.5424	Both features not found: no translation of above and below found	67 Points Marking An Increase of 16.48 Points above The Pervious Closing.	67 Points Marking An Increase of 16.48 Points Below Pervious Closing.
 online-B.0	Correct	67 pistettä merkitsee nousua 16,48 pistettä ylivoimaisen sulkemisen yläpuolella.	67 pistettä merkitsevät nousevan 16,48 pisteen alhaisen sulkemisen alapuolella.
-online-G.0	Left feature not found: no translation of above found	67 Pistettä Merkintä Kasvua 16.48 Pistettä Edellä Läpäisevä Sulkeminen.	67 Pistettä Merkintä Kasvua 16.48 Pistettä Alle Läpäisevä Sulkeminen.
+online-G.0	Both features not found: no case match	67 Pistettä Merkintä Kasvua 16.48 Pistettä Edellä Läpäisevä Sulkeminen.	67 Pistettä Merkintä Kasvua 16.48 Pistettä Alle Läpäisevä Sulkeminen.
 online-A.0	Right feature not found: no translation of below found	67 pistettä merkintä lisäys 16,48 pistettä yläpuolella pervious sulkeminen.	67 pistettä merkintä lisäys 16,48 pistettä pervious sulkeminen.
-
-local_prep	1206	Use the form above to describe what your life is like.	Use the form below to describe what your life is like.
-NICT.5658	Left feature not found: no translation of above found	Käytä yllä olevaa lomaketta kuvaamaan, millaista elämäsi on.	Käytä alla olevaa lomaketta kuvaamaan, millaista elämäsi on.
-HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Käytä yllä olevaa lomaketta kuvaamaan, millaista elämäsi on.	Käytä alla olevaa lomaketta kuvaamaan, millaista elämäsi on.
-uedin.5707	Left feature not found: no translation of above found	Käytä yllä olevaa muotoa kuvaamaan, millaista elämäsi on.	Käytä alla olevaa lomaketta kuvaamaan, millaista elämäsi on.
-Aalto.5550	Left feature not found: no translation of above found	Käytä yllä olevaa muotoa kuvaamaan, miltä elämäsi tuntuu.	Käytä alla olevaa muotoa kuvaamaan, miltä elämäsi tuntuu.
-HY-NMTtwostep-en-fi.5639	Left feature not found: no translation of above found	Käytä muotoa yllä kuvataksesi, millaista elämäsi on.	Käytä alla olevaa lomaketta kuvataksesi, millaista elämäsi on.
-CUNI-Kocmi.5620	Left feature not found: no translation of above found	Yllä olevaa lomaketta käytetään kuvaamaan sitä, millaista elämä on.	Käytä alla olevaa lomaketta kuvaamaan, millaista elämä on.
-talp-upc.5424	Left feature not found: no translation of above found	Käytä yllä olevaa lomaketta kuvaamaan, millainen elämäsi on.	Käytä alla olevaa lomaketta kuvaamaan, millainen elämäsi on.
-online-B.0	Left feature not found: no translation of above found	Käytä yllä olevaa lomaketta kuvaamaan, mikä elämäsi on.	Käytä alla olevaa lomaketta kuvaamaan, mikä elämäsi on.
-online-G.0	Left feature not found: no translation of above found	Käytä yllä olevaan lomakkeeseen kuvaamaan, mitä elämä on.	Käytä alla olevaa lomaketta kuvaamaan, mitä elämä on.
-online-A.0	Left feature not found: no translation of above found	Käytä yllä olevaa lomaketta kuvaamaan mitä elämäsi on.	Käytä alla olevaa lomaketta kuvaamaan mitä elämäsi on.
 
 local_prep	1221	Chatanooga's rainfall is 17 inches above normal for the year.	Chatanooga's rainfall is 17 inches below normal for the year.
 NICT.5658	Left feature not found: no translation of above found	Chatanoogan sateet ovat vuoden aikana 17 tuumaa normaalia suuremmat.	Chatanoogan sademäärä on 17 tuumaa alle normaalin vuoden.
@@ -1314,7 +1326,7 @@ Aalto.5550	Correct	Chatanoogan sademäärä on 17 tuumaa yli normaalin vuoden.	C
 HY-NMTtwostep-en-fi.5639	Both features not found: no case match	Chatanoogan sademäärä on 17 tuumaa normaalin vuodenajan yläpuolella.	Chatanoogan sademäärä on 17 tuumaa alle normaalin vuosivauhdin.
 CUNI-Kocmi.5620	Left feature not found: no translation of above found	Chatanoogan sademäärä on 17 tuumaa normaalia suurempi vuonna.	Chatanoogan sademäärä on 17 tuumaa alle normaalin vuoden.
 talp-upc.5424	Left feature not found: no translation of above found	Chatanoogan sademäärä on 17 tuumaa normaalin vuoden.	Chatanoogan sademäärä on 17 tuumaa alle normaalin vuoden.
-online-B.0	Both features not found: no translation of above and below found	Chatanoogan sademäärä on 17 tuumaa normaalia korkeammalle vuodelle.	Chatanoogan sademäärä on 17 tuumaa normaalia alhaisemmaksi vuodelle.
+online-B.0	Right feature not found: no translation of below found	Chatanoogan sademäärä on 17 tuumaa normaalia korkeammalle vuodelle.	Chatanoogan sademäärä on 17 tuumaa normaalia alhaisemmaksi vuodelle.
 online-G.0	Left feature not found: no translation of above found	Chatanooga on sademäärä on 17 tuumaa normaalia vuodelle.	Chatanooga on sademäärä on 17 tuumaa alle normaalin vuoden.
 online-A.0	Left feature not found: no translation of above found	Chanooga sade määrä on 17 tuumaa normaalia vuotta.	Chanooga sade määrä on 17 tuumaa alle normaalin vuoden.
 
@@ -1330,18 +1342,6 @@ online-B.0	Left feature not found: no translation of above found	Tämä on noin 
 online-G.0	Correct	Se on noin kuusi tuumaa yli normaalin.	Se on noin kuusi tuumaa alle normaalin.
 online-A.0	Left feature not found: no translation of above found	Se on noin kuusi tuumaa normaalia suurempi.	Se on noin kuusi tuumaa alle normaalia.
 
-local_prep	137	Please see above financial table for a reconciliation of adjusted EBITDA.	Please see below financial table for a reconciliation of adjusted EBITDA.
-NICT.5658	Both features not found: no translation of above and below found	Ks. yllä oleva rahoitustaulukko mukautetun EBITDA: N yhteensovittamiseksi.	Ks. jäljempänä rahoitustaulukko mukautetun EBITDA: N yhteensovittamiseksi.
-HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Katso yllä olevasta rahoitustaulukosta mukautetun EBITDA:n sovinto.	Katso alla olevasta rahoitustaulukosta mukautetun EBITDA:n sovinto.
-uedin.5707	Left feature not found: no translation of above found	Katso yllä oleva rahoitustaulukko mukautetun EBITDA:n sovittelusta.	Katso alla oleva rahoitustaulukko mukautetun EBITDA:n sovittelusta.
-Aalto.5550	Correct	Olkaa hyvä ja katsokaa rahoitustaulukon yläpuolella mukautetun Ebit-ohjelman yhteensovittamiseksi.	Katso alla olevasta rahoitustaulukosta, joka koskee mukautetun Ebit-ohjelman yhteensovittamista.
-HY-NMTtwostep-en-fi.5639	Both features not found: no translation of above and below found	Ks. edellä mainittu rahoitustaulukko mukautetun EBITDA:n yhteensovittamiseksi.	Ks. jäljempänä rahoitustaulukkoa mukautetun EBITDA:n yhteensovittamiseksi.
-CUNI-Kocmi.5620	Identical: no translation of above and below found	Ks. rahoitustaulukko mukautetun EBITDA:n yhteensovittamiseksi.	Ks. rahoitustaulukko mukautetun EBITDA:n yhteensovittamiseksi.
-talp-upc.5424	Left feature not found: no translation of above found	Katso yllä oleva taloudellinen taulukko sovinnon mukautetun EBILDA.	Ks. alla oleva taloudellinen taulukko mukautetun EBILDA: N sovintoon.
-online-B.0	Left feature not found: no translation of above found	Katso edellä esitetty rahoitustaulukko sovitun EBITDA: n sovittamisesta.	Katso alla oleva rahoitustaulukko sovitun EBITDA: n sovittamisesta.
-online-G.0	Left feature not found: no translation of above found	Katso edellä rahoitustaulukko sovinnon oikaistu KÄYTTÖKATE.	Katso alla rahoitustaulukko sovinnon oikaistu KÄYTTÖKATE.
-online-A.0	Left feature not found: no translation of above found	Katso edellä rahoitus taulukko sovinnon oikaistu käyttö Kate.	Katso alla rahoitus taulukko sovinnon oikaistu käyttö Kate.
-
 local_prep	143	The receivers are a step above mediocre and the play-calling is unimaginative.	The receivers are a step below mediocre and the play-calling is unimaginative.
 NICT.5658	Correct	Vastaanottimet ovat askeleen yli keskinkertaisia ja play-soitto mielikuvituksetonta.	Vastaanottimet ovat askel keskinkertaisen alapuolella ja play-soitto on mielikuvituksetonta.
 HY-NMT-en-fi.5570	Both features not found: no translation of above and below found	Vastaanottimet ovat keskinkertaisia, ja leikittely on mielikuvituksetonta.	Vastaanottimet ovat askeleen keskinkertaisia ja leikittely on mielikuvituksetonta.
@@ -1351,8 +1351,8 @@ HY-NMTtwostep-en-fi.5639	Left feature not found: no translation of above found	V
 CUNI-Kocmi.5620	Right feature not found: no translation of below found	Vastaanottajat ovat askel keskinkertaisuuden yläpuolella, ja soittaminen on mielikuvituksetonta.	Vastaanottajat ovat keskinkertaisia askeleita, ja soittaminen on mielikuvituksetonta.
 talp-upc.5424	Both features not found: no case match	Vastaanottajat ovat askeleen yläpuolella keskinkertainen ja näytelmä on mielikuvitukseton.	Vastaanottimet ovat askel alle keskinkertainen ja näytelmä on mielikuvitukseton.
 online-B.0	Right feature not found: no translation of below found	Vastaanottimet ovat askel keskinkertaisen yläpuolelle ja soittaminen on epätavallista.	Vastaanottimet ovat askel alhaisempia kuin keskinkertaiset ja soittaminen on epätavallista.
-online-G.0	Left feature not found: no translation of above found	Vastaanottimet ovat askel edellä keskinkertainen ja pelata-kutsumus on mielikuvitukseton.	Vastaanottimet ovat askel alla keskinkertainen ja pelata-kutsumus on mielikuvitukseton.
-online-A.0	Left feature not found: no translation of above found	Vastaanottimet ovat askeleen edellä keskinkertainen ja Play-Calling on mielikuvitukseton.	Vastaanottimet ovat askel alle keskinkertainen ja Play-Calling on mielikuvitukseton.
+online-G.0	Correct	Vastaanottimet ovat askel edellä keskinkertainen ja pelata-kutsumus on mielikuvitukseton.	Vastaanottimet ovat askel alla keskinkertainen ja pelata-kutsumus on mielikuvitukseton.
+online-A.0	Both features not found: no case match	Vastaanottimet ovat askeleen edellä keskinkertainen ja Play-Calling on mielikuvitukseton.	Vastaanottimet ovat askel alle keskinkertainen ja Play-Calling on mielikuvitukseton.
 
 local_prep	155	That is just 9 cents above the record set in May.	That is just 9 cents below the record set in May.
 NICT.5658	Left feature not found: no translation of above found	Se on vain 9 senttiä enemmän kuin toukokuussa asetettu ennätys.	Se on vain 9 senttiä alle toukokuussa asetetun ennätyksen.
@@ -1363,8 +1363,8 @@ HY-NMTtwostep-en-fi.5639	Both features not found: no case match	Se on vain 9 sen
 CUNI-Kocmi.5620	Correct	Se on vain 9 senttiä toukokuussa vahvistetun ennätyksen yläpuolella.	Se on vain 9 senttiä toukokuussa vahvistetun ennätyksen alapuolella.
 talp-upc.5424	Both features not found: no translation of above and below found	Se on vain 9 senttiä enemmän kuin toukokuussa.	Tämä on vain 9 senttiä vähemmän kuin toukokuussa asetettu ennätys.
 online-B.0	Left feature not found: no translation of above found	Tämä on vain 9 senttiä toukokuun ennätyksestä.	Tämä on vain 9 senttiä alle toukokuun ennätyksestä.
-online-G.0	Left feature not found: no translation of above found	Se on vain 9 senttiä edellä ennätys Toukokuussa.	Se on vain 9 senttiä alle ennätys Toukokuussa.
-online-A.0	Left feature not found: no translation of above found	Se on vain 9 senttiä edellä ennätys asetettu toukokuussa.	Se on vain 9 senttiä alle ennätys asetettu toukokuussa.
+online-G.0	Both features not found: no case match	Se on vain 9 senttiä edellä ennätys Toukokuussa.	Se on vain 9 senttiä alle ennätys Toukokuussa.
+online-A.0	Both features not found: no case match	Se on vain 9 senttiä edellä ennätys asetettu toukokuussa.	Se on vain 9 senttiä alle ennätys asetettu toukokuussa.
 
 local_prep	173	.92 Points Marking An Increase Of 6.31 Points Above The Previous Closing.	.92 Points Marking An Increase Of 6.31 Points Below The Previous Closing.
 NICT.5658	Both features not found: no translation of above and below found	.92 pistettä Marking An Increase of 6.31 pistettä Above The Previous Close.	.92 pistettä Marking An Increase of 6.31 pistettä Below The Previous Close.
@@ -1375,56 +1375,32 @@ HY-NMTtwostep-en-fi.5639	Both features not found: no translation of above and be
 CUNI-Kocmi.5620	Both features not found: no translation of above and below found	.92 Points Marking An increase Of 6.31 Points Above Edellinen Sulkeminen.	.92 Points Marking An increase of 6.31 Points Below The Edellinen Sulkeminen.
 talp-upc.5424	Both features not found: no translation of above and below found	.92 Points Marking An Increase of 6.31 Points above the Previous Closing.	.92 Points Marking An Increase of 6.31 Points The Previous Closing.
 online-B.0	Correct	.92 pistettä merkitsevät nousevan 6,31 pistettä edellisen sulkemisen yläpuolella.	.92 pistettä merkitsevät 6,31 pisteen lisäystä edellisen sulkemisen alapuolella.
-online-G.0	Left feature not found: no translation of above found	.92 Pistettä Merkintä Kasvua 6.31 Pistettä Edellä Edellinen Päätöskurssi.	.92 Pistettä Merkintä Kasvua 6.31 Pistettä Alle Edellisen Sulkeminen.
+online-G.0	Both features not found: no case match	.92 Pistettä Merkintä Kasvua 6.31 Pistettä Edellä Edellinen Päätöskurssi.	.92 Pistettä Merkintä Kasvua 6.31 Pistettä Alle Edellisen Sulkeminen.
 online-A.0	Identical: no translation of above and below found	.92 pistettä merkintä lisäys 6,31 pistettä edellisen sulkeminen.	.92 pistettä merkintä lisäys 6,31 pistettä edellisen sulkeminen.
 
-local_prep	268	It is better that they are outside the city, not inside.	It is better that they are inside the city, not inside.
-NICT.5658	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, eivät sisällä.	On parempi, että ne ovat kaupungin sisällä, eivät sisällä.
-HY-NMT-en-fi.5570	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, eivät sisällä.	On parempi, että he ovat kaupungin sisällä, eivät sisällä.
-uedin.5707	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, eivät sisällä.	On parempi, että ne ovat kaupungin sisällä, eivät sisällä.
-Aalto.5550	Correct	On parempi, että he ovat kaupungin ulkopuolella, eivät sisällä.	On parempi, että he ovat sisällä kaupungissa, eivät sisällä.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, eivät sisällä.	On parempi, että ne ovat kaupungin sisällä, eivät sisällä.
-CUNI-Kocmi.5620	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, ei sisällä.	On parempi, että ne ovat kaupungin sisällä, ei sisällä.
-talp-upc.5424	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, eivät sisällä.	On parempi, että he ovat kaupungin sisällä, eivät sisällä.
-online-B.0	Right feature not found: no translation of inside found	On parempi, että ne ovat kaupungin ulkopuolella, ei sisällä.	On parempi, että ne ovat kaupungin sisällä, ei sisällä.
-online-G.0	Correct	Se on parempi, että ne ovat kaupungin ulkopuolella, ei sisäpuolella.	Se on parempi, että ne ovat kaupungin sisällä, ei sisällä.
-online-A.0	Right feature not found: no translation of inside found	On parempi, että he ovat kaupungin ulkopuolella, ei sisällä.	On parempi, että ne ovat kaupungin sisällä, ei sisällä.
+local_prep	179	That is 9 cents above the record set in May.	That is 9 cents below the record set in May.
+NICT.5658	Left feature not found: no translation of above found	Se on 9 senttiä enemmän kuin toukokuussa asetettu ennätys.	Se on 9 senttiä alle toukokuussa asetetun ennätyksen.
+HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Se on 9 senttiä enemmän kuin toukokuussa.	Se on 9 senttiä alle toukokuussa asetetun ennätyksen.
+uedin.5707	Left feature not found: no translation of above found	Se on yhdeksän senttiä enemmän kuin toukokuussa asetettu ennätys.	Se on 9 senttiä alle toukokuussa asetetun ennätyksen.
+Aalto.5550	Left feature not found: no translation of above found	Se on 9 senttiä ennen toukokuussa asetettua ennätystä.	Se on 9 senttiä alle toukokuussa asetetun ennätyksen.
+HY-NMTtwostep-en-fi.5639	Left feature not found: no translation of above found	Se on 9 senttiä ennen toukokuussa tehtyä ennätystä.	Se on 9 senttiä alle toukokuussa tehdyn ennätyksen.
+CUNI-Kocmi.5620	Left feature not found: no translation of above found	Se on 9 senttiä enemmän kuin toukokuussa.	Se on 9 senttiä toukokuussa vahvistetun ennätyksen alapuolella.
+talp-upc.5424	Both features not found: no translation of above and below found	Tämä on 9 senttiä enemmän kuin toukokuussa asetettu ennätys.	Tämä on 9 senttiä vähemmän kuin toukokuussa asetettu ennätys.
+online-B.0	Left feature not found: no translation of above found	Tämä on 9 senttiä toukokuun ennätyksestä.	Tämä on 9 senttiä alle toukokuun ennätyksestä.
+online-G.0	Both features not found: no case match	Se on 9 senttiä edellä ennätys Toukokuussa.	Se on 9 senttiä alle ennätys Toukokuussa.
+online-A.0	Both features not found: no case match	Se on 9 senttiä edellä ennätys asetettu toukokuussa.	Se on 9 senttiä alle ennätys asetettu toukokuussa.
 
-local_prep	329	It was not about having a manager above me.	It was not about having a manager below me.
-NICT.5658	Correct	Kyse ei ollut siitä, että minulla olisi manageri yläpuolellani.	Kyse ei ollut siitä, että alla olisi manageri.
-HY-NMT-en-fi.5570	Both features not found: no translation of above and below found	Kyse ei ollut siitä, että minulla olisi ollut hoitaja.	Kyse ei ollut siitä, että minulla olisi ollut pienempi hoitaja.
-uedin.5707	Both features not found: no translation of above and below found	Kyse ei ollut siitä, että minulla olisi esimies edellä.	Kyse ei ollut siitä, että minulla olisi esimies takanani.
-Aalto.5550	Right feature not found: no translation of below found	Kyse ei ollut siitä, että hoitaja minun yläpuolellani.	Kyse ei ollut siitä, että hoitaja alitti minut.
-HY-NMTtwostep-en-fi.5639	Both features not found: no case match	Kyse ei ollut siitä, että minun yläpuolellani olisi hoitaja.	Kyse ei ollut siitä, että hoitaja jäisi alleni.
-CUNI-Kocmi.5620	Correct	Kyse ei ollut siitä, että johtaja olisi yläpuolellani.	Kyse ei ollut siitä, että manageri olisi alla.
-talp-upc.5424	Identical: no translation of above and below found	Kyse ei ollut siitä, että minulla olisi johtaja.	Kyse ei ollut siitä, että minulla olisi johtaja.
-online-B.0	Both features not found: no translation of above and below found	Kyse ei ollut siitä, että minulla olisi johtajaa.	Kyse ei ollut siitä, että minulla olisi manageri.
-online-G.0	Left feature not found: no translation of above found	Se ei ole kyse siitä, että johtaja edellä minua.	Se ei ole kyse siitä, että johtaja alla minua.
-online-A.0	Left feature not found: no translation of above found	Kyse ei ollut siitä, että johtaja edellä minua.	Kyse ei ollut siitä, että johtaja alla minua.
-
-local_prep	365	That is above average.	That is below average.
-NICT.5658	Left feature not found: no translation of above found	Se on keskimääräistä enemmän.	Se on alle keskiarvon.
-HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Se on keskimääräistä enemmän.	Se on alle keskiarvon.
-uedin.5707	Left feature not found: no translation of above found	Se on keskimääräistä enemmän.	Se on alle keskiarvon.
-Aalto.5550	Both features not found: no case match	Se on keskiarvon yläpuolella.	Se on alle keskiarvon.
-HY-NMTtwostep-en-fi.5639	Both features not found: no case match	Se on keskiarvon yläpuolella.	Se on alle keskiarvon.
-CUNI-Kocmi.5620	Both features not found: no case match	Se on keskiarvon yläpuolella.	Se on alle keskiarvon.
-talp-upc.5424	Correct	Se on keskiarvon yläpuolella.	Se on keskiarvon alapuolella.
-online-B.0	Left feature not found: no translation of above found	Se on keskimääräistä korkeampi.	Se on alle keskiarvon.
-online-G.0	Correct	Se on yli keskiarvon.	Että on alle keskiarvon.
-online-A.0	Both features not found: no translation of above and below found	Tämä on keskimääräistä suurempi.	Se on keskimääräistä alhaisempi.
-
-local_prep	47	Click on the links above to read more about them.	Click on the links below to read more about them.
-NICT.5658	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue niistä lisää.	Klikkaa alla olevia linkkejä ja lue niistä lisää.
-HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue niistä lisää.	Klikkaa alla olevia linkkejä ja lue niistä lisää.
-uedin.5707	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue lisää niistä.	Klikkaa alla olevia linkkejä ja lue lisää niistä.
-Aalto.5550	Left feature not found: no translation of above found	Klikkaa linkkejä yllä lukea lisää niistä.	Klikkaa alla olevia linkkejä ja lue niistä lisää.
-HY-NMTtwostep-en-fi.5639	Correct	Klikkaa linkkejä yläpuolella lukea lisää niistä.	Klikkaa alla olevia linkkejä lukea lisää niistä.
-CUNI-Kocmi.5620	Left feature not found: no translation of above found	Klikkaa linkkejä edellä lukea lisää niistä.	Klikkaa alla olevia linkkejä ja lue niistä lisää.
-talp-upc.5424	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue niistä lisää.	Klikkaa alla olevia linkkejä ja lue lisää niistä.
-online-B.0	Left feature not found: no translation of above found	Napsauta yllä olevia linkkejä saadaksesi lisätietoja niistä.	Napsauta alla olevia linkkejä saadaksesi lisätietoja niistä.
-online-G.0	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä lukemaan niistä lisää.	Klikkaa alla olevia linkkejä lukemaan niistä lisää.
-online-A.0	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja Lue lisää niistä.	Klikkaa alla olevia linkkejä ja Lue lisää niistä.
+local_prep	261	(The one exception is the provision for credit losses discussed above).	(The one exception is the provision for credit losses discussed below).
+NICT.5658	Right feature not found: no translation of below found	(Yksi poikkeus on edellä mainittu määräys luottotappioista).	(Yksi poikkeus on luottotappioita koskeva säännös, josta on keskusteltu jäljempänä).
+HY-NMT-en-fi.5570	Right feature not found: no translation of below found	(poikkeuksena on edellä mainittu luottotappioiden tarjoaminen.)	(poikkeuksena on jäljempänä mainittu luottotappioiden tarjoaminen.)
+uedin.5707	Right feature not found: no translation of below found	(Yksi poikkeus on määräys luottotappioita käsitellään edellä).	(Yksi poikkeus on säännös luottotappioista, joista on keskusteltu jäljempänä).
+Aalto.5550	Right feature not found: no translation of below found	(Yksi poikkeus koskee edellä mainittuja luottotappioita.)	(Yksi poikkeus koskee jäljempänä käsiteltyjä luottotappioita.)
+HY-NMTtwostep-en-fi.5639	Right feature not found: no translation of below found	(yksi poikkeus on edellä käsiteltyjen luottotappioiden tarjoaminen.)	(yksi poikkeus on luottotappioita koskeva säännös, josta keskustellaan jäljempänä).
+CUNI-Kocmi.5620	Right feature not found: no translation of below found	(Ainoa poikkeus on edellä mainittu luottotappioita koskeva säännös).	(Ainoa poikkeus on seuraavassa käsitelty luottotappioita koskeva säännös).
+talp-upc.5424	Correct	(Yksi poikkeus on säännös luottotappioiden edellä).	(Yksi poikkeus on säännös luottotappioita keskustellaan alla).
+online-B.0	Right feature not found: no translation of below found	(Yksi poikkeus on edellä kuvattu luottotappio).	(Yksi poikkeus on jäljempänä käsitelty luottotappio).
+online-G.0	Right feature not found: no translation of below found	(Ainoa poikkeus on säännös luottotappioita edellä).	(Ainoa poikkeus on säännös luottotappioita käsitellään jäljempänä).
+online-A.0	Right feature not found: no translation of below found	(yksi poikkeus on säännös luotto tappioita käsitellään edellä).	(yksi poikkeus on säännös luotto tappioita käsitellään jäljempänä).
 
 local_prep	484	Last month's figure is 30.8 percent above the rate in September 2006.	Last month's figure is 30.8 percent below the rate in September 2006.
 NICT.5658	Both features not found: no translation of above and below found	Viime kuussa luku on 30,8 prosenttia suurempi kuin syyskuussa 2006.	Viime kuussa luku on 30,8 prosenttia vähemmän kuin syyskuussa 2006.
@@ -1450,29 +1426,17 @@ online-B.0	Left feature not found: no translation of outside found	Myanmarin ulk
 online-G.0	Right feature not found: no translation of inside found	Lähteet ulkopuolella Myanmar voineet vahvistaa nämä tiedot.	Lähteet Myanmar voineet vahvistaa nämä tiedot.
 online-A.0	Left feature not found: no translation of outside found	Myanmarin ulkopuoliset lähteet eivät voineet vahvistaa näitä kertomuksia.	Myanmarin sisällä olevat lähteet eivät voineet vahvistaa näitä mietintöjä.
 
-local_prep	561	The remains were outside a crater near a building splattered with blood inside.	The remains were inside a crater near a building splattered with blood inside.
-NICT.5658	Right feature not found: no translation of inside found	Jäänteet olivat kraatterin ulkopuolella lähellä rakennusta, jonka sisällä oli verta.	Jäänteet olivat kraatterin sisällä lähellä rakennusta, jonka sisällä oli verta.
-HY-NMT-en-fi.5570	Right feature not found: no translation of inside found	Jäännökset olivat kraatterin ulkopuolella lähellä rakennusta, jonka sisällä oli verta.	Jäännökset olivat kraatterin sisällä lähellä rakennusta, jonka sisällä oli verta.
-uedin.5707	Right feature not found: no translation of inside found	Jäänteet olivat kraatterin ulkopuolella lähellä rakennusta, jonka sisällä oli verta.	Jäänteet olivat kraatterin sisällä lähellä rakennusta, jonka sisällä oli verta.
-Aalto.5550	Right feature not found: no translation of inside found	Jäänteet olivat ulkopuolella kraatterin lähellä rakennuksen splattered verta sisällä.	Jäänteet olivat sisällä kraatterin lähellä rakennuksen splattered verta sisällä.
-HY-NMTtwostep-en-fi.5639	Correct	Jäännökset olivat ulkopuolella olevan kraatterin lähellä rakennuksen ulkopuolella, jossa oli veritahroja sisällä.	Jäännökset olivat sisällä kraatterin lähellä rakennuksessa, jonka sisällä oli verta.
-CUNI-Kocmi.5620	Right feature not found: no translation of inside found	Jäännöt olivat ulkopuolella nosturi lähellä rakennusta jakautunut veren sisällä.	Jäännökset olivat kraatterin sisällä lähellä rakennusta, jossa oli verta sisällä.
-talp-upc.5424	Right feature not found: no translation of inside found	Jäännökset olivat ulkopuolella kraatteri lähellä rakennusta splatted veren sisällä.	Jäännökset olivat sisällä kraatteri lähellä rakennusta, josta on tullut verta sisällä.
-online-B.0	Correct	Jäljitelmät olivat kraatterin ulkopuolella, lähellä rakennusta, joka oli roiskunut veressä.	Jätteet olivat kraatterin sisällä, lähellä rakennusta, joka oli roiskunut veressä.
-online-G.0	Right feature not found: no translation of inside found	Jäännökset olivat ulkona kraatteri lähellä rakennuksen roiskunut verta sisällä.	Jäännökset olivat sisällä kraatteri lähellä rakennuksen roiskunut verta sisällä.
-online-A.0	Right feature not found: no translation of inside found	Edelleen olivat ulkopuolella kraatteri lähellä rakennuksen roiskunut verta sisällä.	Edelleen olivat sisällä kraatteri lähellä rakennuksen roiskunut verta sisällä.
-
-local_prep	574	Above the Fray Rosie as actress however, is apparently an easy sell.	Below the Fray Rosie as actress however, is apparently an easy sell.
-NICT.5658	Correct	Fray Rosien yläpuolella näyttelijänä on kuitenkin ilmeisesti helppo myydä.	Alla Fray Rosie näyttelijänä on kuitenkin ilmeisesti helppo myydä.
-HY-NMT-en-fi.5570	Identical: no translation of above and below found	Näyttelijä Fray Rosie on kuitenkin ilmeisesti helppo myyjä.	Näyttelijä Fray Rosie on kuitenkin ilmeisesti helppo myyjä.
-uedin.5707	Left feature not found: no translation of above found	Ennen Fray Rosie kuin näyttelijä on kuitenkin ilmeisesti helppo myydä.	Alla Fray Rosie näyttelijänä on kuitenkin ilmeisesti helppo myydä.
-Aalto.5550	Both features not found: no translation of above and below found	Ennen Fray Rosie on näyttelijänä kuitenkin ilmeisesti helppo myydä.	Fray Rosie on kuitenkin näyttelijänä ilmeisesti helppo myydä.
-HY-NMTtwostep-en-fi.5639	Left feature not found: no translation of above found	Ennen Fray Rosieta näyttelijänä on kuitenkin ilmeisesti helppo myydä.	Alle Fray Rosie näyttelijänä on kuitenkin ilmeisesti helppo myydä.
-CUNI-Kocmi.5620	Left feature not found: no translation of above found	Edellä Fray Rosie kuin näyttelijä kuitenkin on ilmeisesti helppo myydä.	Alla Fray Rosie näyttelijänä on ilmeisesti helppo myydä.
-talp-upc.5424	Correct	Yli Fray Rosie kuin näyttelijä on ilmeisesti helppo myydä.	Alla Fray Rosie kuin näyttelijä on ilmeisesti helppo myydä.
-online-B.0	Left feature not found: no translation of above found	Yllä Fray Rosie kuin näyttelijä kuitenkin on ilmeisesti helppo myydä.	Alle Fray Rosie kuin näyttelijä kuitenkin on ilmeisesti helppo myydä.
-online-G.0	Left feature not found: no translation of above found	Edellä Hangata Rosie kuin näyttelijä kuitenkin on ilmeisesti helppo myydä.	Alla Hangata Rosie kuin näyttelijä kuitenkin on ilmeisesti helppo myydä.
-online-A.0	Left feature not found: no translation of above found	Edellä Fray Rosie kuin näyttelijä on kuitenkin ilmeisesti helppo myydä.	Alla Fray Rosie näyttelijä on kuitenkin ilmeisesti helppo myydä.
+local_prep	569	But its pulse rate stays well above normal (2: 55).	But its pulse rate stays well below normal (2: 55).
+NICT.5658	Right feature not found: no translation of below found	Mutta sen pulssiaste pysyy selvästi normaalia korkeammalla (2: 55).	Mutta sen pulssiaste pysyy selvästi normaalia alempana (2: 55).
+HY-NMT-en-fi.5570	Both features not found: no case match	Sen pulssi pysyy kuitenkin selvästi normaalia korkeammalla (2: 55).	Sen pulssi pysyy kuitenkin selvästi alle normaalin (2: 55).
+uedin.5707	Right feature not found: no translation of below found	Mutta sen pulssi pysyy selvästi normaalin yläpuolella (2: 55).	Mutta sen pulssi pysyy selvästi normaalia alempana (2: 55).
+Aalto.5550	Both features not found: no case match	Mutta sen pulssiaste pysyy reilusti normaalin yläpuolella (2:55).	Mutta sen pulssiaste pysyy selvästi alle normaalin (2:55).
+HY-NMTtwostep-en-fi.5639	Both features not found: no translation of above and below found	Mutta sen pulssi pysyy hyvin normaalina (2:55).	Mutta sen pulssi pysyy hyvin normaalia alempana (2:55).
+CUNI-Kocmi.5620	Left feature not found: no translation of above found	Mutta sen syke pysyy reilusti normaalin (2: 55).	Mutta sen syke pysyy selvästi alle normaalin (2: 55).
+talp-upc.5424	Both features not found: no case match	Mutta sen syke pysyy selvästi normaalin yläpuolella (2: 55).	Mutta sen syke pysyy selvästi alle normaalin (2: 55).
+online-B.0	Both features not found: no case match	Mutta sen pulssinopeus pysyy selvästi normaalin yläpuolella (2: 55).	Mutta sen pulssi pysyy selvästi alle normaalin (2: 55).
+online-G.0	Both features not found: no case match	Mutta sen syke pysyy hyvin yllä normaali (2: 55).	Mutta sen syke pysyy alle normaalin (2: 55).
+online-A.0	Left feature not found: no translation of above found	Mutta sen syke pysyy reilusti normaalia suurempi (2:55).	Mutta sen syke pysyy selvästi alle normaalin (2:55).
 
 local_prep	614	Mexicans pay way above average for all these services.	Mexicans pay way below average for all these services.
 NICT.5658	Both features not found: no translation of above and below found	Meksikolaiset maksavat kaikista näistä palveluista selvästi keskimääräistä enemmän.	Meksikolaiset maksavat kaikista näistä palveluista selvästi keskimääräistä vähemmän.
@@ -1486,30 +1450,6 @@ online-B.0	Both features not found: no translation of above and below found	Meks
 online-G.0	Correct	Meksikolaiset maksaa paljon yli keskimäärin kaikki nämä palvelut.	Meksikolaiset maksaa reilusti alle keskiarvon kaikki nämä palvelut.
 online-A.0	Left feature not found: no translation of above found	Meksikolaiset maksavat tavalla keskimääräistä kaikkien näiden palvelujen.	Meksikolaiset maksavat tavalla alle Keski arvon kaikkien näiden palvelujen.
 
-local_prep	66	Click on the links above to read what they have to say.	Click on the links below to read what they have to say.
-NICT.5658	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue, mitä heillä on sanottavanaan.	Klikkaa alla olevia linkkejä ja lue, mitä heillä on sanottavanaan.
-HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue, mitä niillä on sanottavanaan.	Klikkaa alla olevia linkkejä ja lue, mitä niillä on sanottavanaan.
-uedin.5707	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue, mitä heillä on sanottavana.	Klikkaa alla olevia linkkejä ja lue, mitä heillä on sanottavana.
-Aalto.5550	Left feature not found: no translation of above found	Klikkaa linkkejä edellä lukea mitä heillä on sanottavaa.	Klikkaa alla olevia linkkejä lukemaan, mitä niillä on sanottavaa.
-HY-NMTtwostep-en-fi.5639	Correct	Klikkaa linkkejä yläpuolella lukeaksesi, mitä niillä on sanottavanaan.	Klikkaa alla olevia linkkejä lukeaksesi, mitä niillä on sanottavanaan.
-CUNI-Kocmi.5620	Left feature not found: no translation of above found	Klikkaa linkkejä edellä lukea, mitä heillä on sanottavaa.	Klikkaa alla olevia linkkejä lukea mitä heillä on sanottavanaan.
-talp-upc.5424	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä ja lue, mitä heillä on sanottavana.	Klikkaa alla olevia linkkejä ja lue, mitä niillä on sanottavana.
-online-B.0	Left feature not found: no translation of above found	Napsauta yllä olevia linkkejä lukea, mitä heillä on sanottavaa.	Napsauta alla olevia linkkejä lukea, mitä heillä on sanottavaa.
-online-G.0	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä voit lukea, mitä heillä on sanottavaa.	Klikkaa alla olevia linkkejä ja lue, mitä sanottavaa heillä on.
-online-A.0	Left feature not found: no translation of above found	Klikkaa yllä olevia linkkejä lukea, mitä heillä on sanottavaa.	Klikkaa alla olevia linkkejä lukeaksesi, mitä heillä on sanottavaa.
-
-local_prep	750	That was 19.1 percent above the level of a year earlier.	That was 19.1 percent below the level of a year earlier.
-NICT.5658	Both features not found: no translation of above and below found	Se oli 19,1 prosenttia enemmän kuin vuotta aiemmin.	Se oli 19,1 prosenttia vähemmän kuin vuotta aiemmin.
-HY-NMT-en-fi.5570	Both features not found: no translation of above and below found	Se oli 19,1 prosenttia enemmän kuin vuotta aiemmin.	Se oli 19,1 prosenttia vähemmän kuin vuotta aiemmin.
-uedin.5707	Both features not found: no translation of above and below found	Se oli 19,1 prosenttia enemmän kuin vuotta aiemmin.	Se oli 19,1 prosenttia vähemmän kuin vuotta aiemmin.
-Aalto.5550	Both features not found: no translation of above and below found	Se oli 19,1 prosenttia enemmän kuin vuotta aiemmin.	Se oli 19,1 prosenttia alhaisempi kuin vuotta aiemmin.
-HY-NMTtwostep-en-fi.5639	Right feature not found: no translation of below found	Se oli 9,1 prosenttia vuotta aiemman tason yläpuolella.	Se oli 9,1 prosenttia vähemmän kuin vuotta aiemmin.
-CUNI-Kocmi.5620	Correct	Se oli 19,1 prosenttia yli tason vuotta aikaisemmin.	Tämä oli 19,1 prosenttia alle tason vuotta aikaisemmin.
-talp-upc.5424	Left feature not found: no translation of above found	Se oli 19,1 prosenttia suurempi kuin vuotta aiemmin.	Se oli 19,1 prosenttia vuotta aiemmin vallinneen tason alapuolella.
-online-B.0	Both features not found: no translation of above and below found	Tämä oli 19,1 prosenttia korkeampi kuin vuotta aiemmin.	Tämä oli 19,1 prosenttia vähemmän kuin vuotta aiemmin.
-online-G.0	Both features not found: no translation of above and below found	Se oli 19,1 prosenttia korkeammalla tasolla kuin vuotta aiemmin.	Se oli 19,1 prosenttia alemmalla tasolla kuin vuotta aiemmin.
-online-A.0	Correct	Se oli 19,1 prosenttia yli tason vuotta aiemmin.	Se oli 19,1 prosenttia alle tason vuotta aiemmin.
-
 local_prep	760	Suicide bombers also receive support from networks outside Afghanistan.	Suicide bombers also receive support from networks inside Afghanistan.
 NICT.5658	Left feature not found: no translation of outside found	Itsemurhapommittajat saavat tukea myös Afganistanin ulkopuolisista verkostoista.	Itsemurhapommittajat saavat tukea myös Afganistanin sisäisistä verkostoista.
 HY-NMT-en-fi.5570	Left feature not found: no translation of outside found	Itsemurhapommittajat saavat tukea myös Afganistanin ulkopuolisista verkoista.	Itsemurhapommittajat saavat tukea myös Afganistanin sisäisistä verkoista.
@@ -1521,18 +1461,6 @@ talp-upc.5424	Both features not found: no translation of outside and inside foun
 online-B.0	Both features not found: no translation of outside and inside found	Itsemurhapommittajat saavat myös tukea Afganistanin ulkopuolisilta verkostoilta.	Itsemurhapommittajat saavat myös tukea Afganistanin sisäisiltä verkostoilta.
 online-G.0	Correct	Itsemurhapommittajat saavat myös tukea verkostojen ulkopuolella Afganistanissa.	Itsemurhapommittajat saavat myös tukea verkostojen sisällä Afganistanissa.
 online-A.0	Left feature not found: no translation of outside found	Itsemurhapommittajat saavat tukea myös Afganistanin ulkopuolisista verkostoista.	Itsemurhapommittajat saavat myös tukea verkostoista Afganistanin sisällä.
-
-local_prep	87	Click on the topics above to watch highlights from the debate.	Click on the topics below to watch highlights from the debate.
-NICT.5658	Left feature not found: no translation of above found	Klikkaa yllä olevia aiheita ja katso kohokohtia keskustelusta.	Klikkaa alla olevia aiheita ja katso kohokohtia keskustelusta.
-HY-NMT-en-fi.5570	Left feature not found: no translation of above found	Klikkaa yllä olevia aiheita katsomaan keskustelun kohokohtia.	Klikkaa alla olevia aiheita seuraamaan keskustelun kohokohtia.
-uedin.5707	Left feature not found: no translation of above found	Klikkaa aiheita edellä katsella kohokohtia keskustelusta.	Alla olevista aiheista voit katsoa keskustelun kohokohtia.
-Aalto.5550	Left feature not found: no translation of above found	Klikkaa yllä olevista aiheista katsoa keskustelun kohokohtia.	Klikkaa alla olevista aiheista katsoa keskustelun kohokohtia.
-HY-NMTtwostep-en-fi.5639	Correct	Napsauta aiheet yläpuolella katsella kohokohtia keskustelusta.	Klikkaa alla olevista aiheista katsella keskustelun kohokohtia.
-CUNI-Kocmi.5620	Left feature not found: no translation of above found	Klikkaa yllä olevia aiheita katsomaan keskustelusta poimintoja.	Klikkaa alla olevista aiheista ja katso keskustelun kohokohtia.
-talp-upc.5424	Left feature not found: no translation of above found	Klikkaa yllä olevia aiheita ja katso keskustelun kohokohtia.	Klikkaa alla olevia aiheita nähdäksesi keskustelun kohokohtia.
-online-B.0	Left feature not found: no translation of above found	Napsauta yllä olevia aiheita katsomaan kohokohtia keskustelusta.	Klikkaa alla olevia aiheita katsomaan kohokohtia keskustelusta.
-online-G.0	Left feature not found: no translation of above found	Klikkaa aiheista edellä katsella kohokohtia keskustelua.	Klikkaa alla olevia aiheita katsella kohokohtia keskustelua.
-online-A.0	Left feature not found: no translation of above found	Klikkaa yllä olevia aiheita katsella Koho kohtia keskustelusta.	Klikkaa alla olevia aiheita katsella Koho kohtia keskustelusta.
 
 complex_np	4687	That makes him smile again.	That makes the Lead singer smile again.
 NICT.5658	Right feature not found	Se saa hänet taas hymyilemään.	Se saa Lead-laulajan taas hymyilemään.
@@ -1556,19 +1484,7 @@ CUNI-Kocmi.5620	Left feature not found	Hizbollahin viranomaiset kieltäytyivät 
 talp-upc.5424	Left feature not found	Hizbollahin virkamiehet kieltäytyivät kommentoimasta asiaa.	Mozilla virkamiehet kieltäytyivät kommentoimasta.
 online-B.0	Left feature not found	Hizbollahin viranomaiset kieltäytyivät kommentoimasta.	Mozillan virkamiehet kieltäytyivät kommentoimasta.
 online-G.0	Left feature not found	Hizbollahin virkamiehet kieltäytyi kommentoimasta.	Mozilla virkamiehet kieltäytyi kommentoimasta.
-online-A.0	Left feature not found	Hizbollah virka miehet kieltäytyi kommentoimasta.	Mozilla virka miehet kieltäytyi kommentoimasta.
-
-named_entities	15832	The campaign includes advertisements overseas and more foreign-language assistance in Japan.	The campaign includes advertisements overseas and more foreign-language assistance in R-Kan.
-NICT.5658	Right feature not found	Kampanjassa on mukana mainoksia ulkomailla ja enemmän vieraan kielen apua Japanissa.	Kampanjassa on mukana mainoksia ulkomailla ja enemmän vieraan kielen apua R-Kanissa.
-HY-NMT-en-fi.5570	Right feature not found	Kampanjaan sisältyy mainoksia ulkomailta ja enemmän vieraankielen apua Japanista.	Kampanjaan sisältyy mainoksia ulkomailta ja enemmän ulkomaankielistä apua R-Kanista.
-uedin.5707	Right feature not found	Kampanja sisältää mainoksia ulkomailla ja enemmän vieraskielistä apua Japanissa.	Kampanja sisältää mainoksia ulkomailla ja enemmän vieraskielistä apua R-Kanissa.
-Aalto.5550	Right feature not found	Kampanja sisältää mainoksia ulkomailla ja lisää ulkomaalaista apua Japanissa.	Kampanjaan kuuluu mainoksia ulkomailla ja enemmän ulkomaalaista kieltä koskevaa apua R-Kanissa.
-HY-NMTtwostep-en-fi.5639	Right feature not found	Kampanjaan kuuluu mainoksia ulkomailla ja enemmän ulkomaista kieliapua japanissa.	Kampanjaan kuuluu mainoksia ulkomaille ja enemmän ulkomaista kieliapua r-Kan.
-CUNI-Kocmi.5620	Right feature not found	Kampanja sisältää mainoksia ulkomailla ja enemmän vieraiden kielten apua Japanissa.	Kampanja sisältää mainoksia merentakaisista maista ja lisää vieraiden kielten tukea R-Kanissa.
-talp-upc.5424	Right feature not found	Kampanjaan kuuluu ulkomaan mainoksia ja enemmän vieraiden kielten apua Japanissa.	Kampanjaan kuuluu ulkomaan mainoksia ja enemmän vieraiden kielten apua R-Kanissa.
-online-B.0	Right feature not found	Kampanja sisältää ulkomaille suunnatut mainokset ja vieraiden kielten apu Japanissa.	Kampanja sisältää ulkomaille suunnattuja mainoksia ja enemmän vieraita kieliä R-Kanissa.
-online-G.0	Right feature not found	Kampanja sisältää mainoksia ulkomailla ja enemmän vieraan kielen apua Japanissa.	Kampanja sisältää mainoksia ulkomailla ja enemmän vieraan kielen apua R-Kan.
-online-A.0	Right feature not found	Kampanjaan kuuluu mainoksia ulkomaille ja enemmän vieraan kielen apua Japanissa.	Kampanja sisältää mainoksia merentakaisten ja enemmän vieraan kielen apua R-kan.
+online-A.0	Correct	Hizbollah virka miehet kieltäytyi kommentoimasta.	Mozilla virka miehet kieltäytyi kommentoimasta.
 
 named_entities	22776	The Cardinals have eight games left.	The Carnival have eight games left.
 NICT.5658	Both features not found	Kardinaaleilla on jäljellä kahdeksan peliä.	Karnevaalilla on jäljellä kahdeksan peliä.
@@ -1616,7 +1532,7 @@ CUNI-Kocmi.5620	Left feature not found	Pro-hallituksen kristillinen johtaja Sami
 talp-upc.5424	Left feature not found	Hallitusmielinen kristitty johtaja Samir Geagea syytti Syyrian tukemaa Hizbollahia vaalien estämisestä.	Hallitusmielinen kristitty johtaja Samir Geagea syytti Syyrian tukemaa Mozillaa vaalien estämisestä.
 online-B.0	Left feature not found	Hallituksen hallituksen kristillinen johtaja Samir Geagea syytti Syyrian tukemaa Hizbollahia estääkseen vaalien.	Julkis-hallitseva kristillinen johtaja Samir Geagea syytti Syyrian tukemaa Mozillaa estääkseen vaalien.
 online-G.0	Left feature not found	Pro-hallituksen Kristillinen johtaja Samir Geagea syytti Syyrian tukeman Hizbollahin estää vaalit.	Pro-hallituksen Kristillinen johtaja Samir Geagea syytti Syyrian tukema Mozilla estää vaalit.
-online-A.0	Left feature not found	Pro-hallituksen Christian Leader Samir Geagea syytetään Syyrian tukema Hizbollah estää vaaleja.	Pro-hallituksen Christian Leader Samir Geagea syytetään Syyrian tukema Mozilla estää vaaleja.
+online-A.0	Correct	Pro-hallituksen Christian Leader Samir Geagea syytetään Syyrian tukema Hizbollah estää vaaleja.	Pro-hallituksen Christian Leader Samir Geagea syytetään Syyrian tukema Mozilla estää vaaleja.
 
 named_entities	39627	The forecast path shows Lorenzo coming ashore in Mexico on Friday morning.	The forecast path shows Lorenzo coming ashore in Jericho on Friday morning.
 NICT.5658	Right feature not found	Ennustepolku osoittaa Lorenzon tulevan maihin Meksikossa perjantaiaamuna.	Ennustepolku osoittaa Lorenzon tulevan maihin Jerikossa perjantaiaamuna.
