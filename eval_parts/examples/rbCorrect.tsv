@@ -292,7 +292,7 @@ NICT	Left feature not found: no Par case found after ennen no nouns found with e
 
 prep_postp	1301	Col. Mark Mueller asked before a late- night inspection.	Col. Mark Mueller asked during a late- night inspection.
 HY-AH	Correct	Col. Arvosana Mueller kysyi ennen myöhäistä yötarkastusta.	Col. Arvosana Mueller kysyi myöhäisen yötarkastuksen aikana.
-NICT	Right feature not found: no Gen case found with aikana 	Col. Mark Mueller kysyi ennen late-yötarkastusta.	Col. Mark Mueller kysyi late-yötarkastuksen aikana.
+NICT	Right feature not found: no Gen case found with aikana no nouns found with aikana 	Col. Mark Mueller kysyi ennen late-yötarkastusta.	Col. Mark Mueller kysyi late-yötarkastuksen aikana.
 
 prep_postp	1418	Before answering, he laughed at the question.	After answering, he laughed at the question.
 HY-AH	Correct: no jälkeen/kuluttua postposition found Temp Inf found	Ennen vastaamistaan, hän nauroi kysymykselle.	Vastattuaan, hän nauroi kysymykselle.

@@ -915,12 +915,12 @@ NICT.5658	Correct	Tässä vinkkejä parisuhteiden säilyttämiseen ennen maihinn
 HY-NMT-en-fi.5570	Right feature not found: no nouns found with aikana 	Tässä vinkkejä parisuhteen säilyttämiseen ennen getaway-matkaa.	Tässä vinkkejä parisuhteen säilyttämiseen getaway aikana.
 uedin.5707	Both features not found: no nouns found with ennen no nouns found with aikana 	Tässä on vinkkejä säilyttää suhteita ennen getaway.	Tässä on vinkkejä säilyttää suhteita aikana getaway.
 Aalto.5550	Both features not found: no Par case found after ennen no nouns found with ennen no aikana postposition found 	Tässä ovat vinkit parisuhteen säilyttämiseen ennen kuin pääset eroon.	Tässä ovat vinkit parisuhteen säilyttämiseen sinulta.
-HY-NMTtwostep-en-fi.5639	Both features not found: no nouns found with ennen no Gen case found with aikana 	Tässä vinkit parisuhteen ylläpitämiseen ennen geolinjaasi.	Tässä vinkit, joilla voit säilyttää suhteet aikana getaway.
-CUNI-Kocmi.5620	Both features not found: no Par case found before ennen no nouns found with ennen no Gen case found with aikana 	Tässä vinkkejä, joilla säilytetään suhteet ennen getaway.	Tässä vinkkejä säilyttää suhteita aikana teidän getaway.
+HY-NMTtwostep-en-fi.5639	Both features not found: no nouns found with ennen no Gen case found with aikana no nouns found with aikana 	Tässä vinkit parisuhteen ylläpitämiseen ennen geolinjaasi.	Tässä vinkit, joilla voit säilyttää suhteet aikana getaway.
+CUNI-Kocmi.5620	Both features not found: no Par case found before ennen no nouns found with ennen no Gen case found with aikana no nouns found with aikana 	Tässä vinkkejä, joilla säilytetään suhteet ennen getaway.	Tässä vinkkejä säilyttää suhteita aikana teidän getaway.
 talp-upc.5424	Right feature not found: no nouns found with aikana 	Tässä on vihjeitä suhteiden säilyttämiseen ennen piilopaikkaa.	Tässä on vihjeitä suhteiden säilyttämiseen piilottelun aikana.
 online-B.0	Correct	Tässä on vinkkejä suhteiden säilymiseen ennen matkaa.	Tässä on vinkkejä suhteiden säilyttämiseen lomasi aikana.
 online-G.0	Both features not found: no Par case found after ennen no nouns found with ennen no nouns found with aikana 	Tässä vinkkejä säilyttää suhteet ennen kuin pako.	Tässä vinkkejä säilyttää suhteet aikana getaway.
-online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no Gen case found with aikana 	Tässä on vinkkejä säilyttää suhteita ennen pako.	Tässä on vinkkejä säilyttää suhteet aikana Getaway.
+online-A.0	Both features not found: no Par case found after ennen no nouns found with ennen no Gen case found with aikana no nouns found with aikana 	Tässä on vinkkejä säilyttää suhteita ennen pako.	Tässä on vinkkejä säilyttää suhteet aikana Getaway.
 
 prep_postp	1488	Craig did not attend Wednesday's hearing in Minneapolis before Porter.	Craig did not attend Wednesday's hearing in Minneapolis after Porter.
 NICT.5658	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon tilaisuuteen Minneapolisissa ennen Porteria.	Craig ei osallistunut keskiviikon tilaisuuteen Minneapolisissa Porterin jälkeen.
@@ -932,7 +932,7 @@ CUNI-Kocmi.5620	Both features not found: no nouns found with ennen no nouns foun
 talp-upc.5424	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon kuulemistilaisuus Minneapolis ennen Porter.	Craig ei osallistunut keskiviikon kuulemistilaisuus Minneapolis jälkeen Porter.
 online-B.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon kuulemiseen Minneapolisissa ennen Porteria.	Craig ei osallistunut keskiviikon kuulemiseen Minneapolisissa Porterin jälkeen.
 online-G.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Craig ei osallistunut keskiviikon kuulemistilaisuudessa Minneapolis, ennen kuin Porter.	Craig ei osallistunut keskiviikon kuulemistilaisuudessa Minneapolis jälkeen Porter.
-online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Craig ei osallistunut Keski viikkona pidetyssä istunnossa Minneapolisissa ennen Porter.	Craig ei osallistunut Keski viikkona istuntoon Minneapolis jälkeen Porter.
+online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Craig ei osallistunut Keski viikkona pidetyssä istunnossa Minneapolisissa ennen Porter.	Craig ei osallistunut Keski viikkona istuntoon Minneapolis jälkeen Porter.
 
 prep_postp	2323	The woman is expected to appear before a magistrate on Monday.	The woman is expected to appear after a magistrate on Monday.
 NICT.5658	Left feature not found: no ennen preposition found	Naisen odotetaan saapuvan tuomarin eteen maanantaina.	Naisen odotetaan ilmestyvän tuomaroinnin jälkeen maanantaina.
@@ -942,7 +942,7 @@ Aalto.5550	Both features not found: no ennen preposition foundno jälkeen/kulutt
 HY-NMTtwostep-en-fi.5639	Left feature not found: no Par case found after ennen no nouns found with ennen 	Naisen on tarkoitus esiintyä ennen maistraatissa maanantaina.	Naisen on tarkoitus esiintyä maistraatin jälkeen maanantaina.
 CUNI-Kocmi.5620	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Naisen odotetaan esiintyvän tuomarin edessä maanantaina.	Naisen odotetaan esiintyvän tuomarin jälkeen maanantaina.
 talp-upc.5424	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Naisen odotetaan ilmestyvän tuomarin eteen maanantaina.	Naisen odotetaan ilmestyvän maanantaina tuomarin jälkeen.
-online-B.0	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua 	Naisen odotetaan tulevan maanantaina tuomarin edessä.	Nainen odotetaan ilmestyvän tuomarin jälkeen maanantaina.
+online-B.0	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Naisen odotetaan tulevan maanantaina tuomarin edessä.	Nainen odotetaan ilmestyvän tuomarin jälkeen maanantaina.
 online-G.0	Left feature not found: no nouns found with ennen 	Naisen odotetaan näkyvän ennen kuin maistraatti maanantaina.	Naisen odotetaan näkyvän sen jälkeen, kun maistraatti maanantaina.
 online-A.0	Left feature not found: no Par case found after ennen no nouns found with ennen 	Naisen odotetaan näkyvän ennen tuomarin maanantaina.	Naisen odotetaan näkyvän sen jälkeen, kun tuomari maanantaina.
 
@@ -965,10 +965,10 @@ uedin.5707	Both features not found: no ennen preposition foundno jälkeen/kulutt
 Aalto.5550	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Indiana juhlii Lincolnin syntymäpäivää kiitospäivää edeltävänä päivänä.	Indiana juhlii Lincolnin syntymäpäivää kiitospäivän jälkeisenä päivänä.
 HY-NMTtwostep-en-fi.5639	Identical: no ennen preposition foundno jälkeen/kuluttua postposition found 	Indianassa vietetään Lincolnin syntymäpäivää kiitospäivänä.	Indianassa vietetään Lincolnin syntymäpäivää kiitospäivänä.
 CUNI-Kocmi.5620	Right feature not found: no jälkeen/kuluttua postposition found 	Indiana juhlii Lincolnin syntymäpäivää päivää ennen Kiitosten antamista.	Indiana juhlii Lincolnin syntymäpäivää seuraavana päivänä.
-talp-upc.5424	Right feature not found: no Gen case found with jälkeen/kuluttua 	Indiana juhlii Lincolnin syntymäpäivää ennen Thanksgiving-päivää.	Indiana juhlii Lincolnin syntymäpäivää Thanksgiving-päivän jälkeen.
+talp-upc.5424	Right feature not found: no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Indiana juhlii Lincolnin syntymäpäivää ennen Thanksgiving-päivää.	Indiana juhlii Lincolnin syntymäpäivää Thanksgiving-päivän jälkeen.
 online-B.0	Right feature not found: no jälkeen/kuluttua postposition found 	Indiana juhlii Lincolnin syntymäpäiväa ennen kiitospäivää.	Indiana juhlii Lincolnin syntymäpäivää kiitospäivän jälkeisenä päivänä.
 online-G.0	Correct	Indiana juhlii Lincolnin syntymäpäivä päivä ennen Kiitospäivää.	Indiana juhlii Lincolnin syntymäpäivä päivä sen jälkeen, kun Kiitospäivä.
-online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Indiana juhlii Lincolnin syntymä päivää päivää ennen Thanksgiving.	Indiana juhlii Lincolnin syntymä päivä päivänä jälkeen Thanksgiving.
+online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Indiana juhlii Lincolnin syntymä päivää päivää ennen Thanksgiving.	Indiana juhlii Lincolnin syntymä päivä päivänä jälkeen Thanksgiving.
 
 prep_postp	3021	Things are literally being built before our eyes.	Things are literally being built after our eyes.
 NICT.5658	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Asioita rakennetaan kirjaimellisesti silmiemme edessä.	Asioita rakennetaan kirjaimellisesti silmiemme perään.
@@ -1033,14 +1033,14 @@ online-A.0	Right feature not found: no nouns found with jälkeen/kuluttua 	Lapse
 prep_postp	3648	We would see about 2,000 a day before KenGen.	We would see about 2,000 a day during KenGen.
 NICT.5658	Both features not found: no nouns found with ennen no nouns found with aikana 	Ennen KenGeniä nähtäisiin noin 2 000 päivässä.	KenGenin aikana nähtäisiin noin 2 000 päivässä.
 HY-NMT-en-fi.5570	Both features not found: no nouns found with ennen no nouns found with aikana 	Näimme noin 2 000 päivää ennen Kengeniä.	KenGenin aikana meitä olisi noin 2 000 päivässä.
-uedin.5707	Both features not found: no nouns found with ennen no Gen case found with aikana 	Näemme noin 2000 päivää ennen KenGen.	Voisimme nähdä noin 2000 päivässä aikana KenGen.
-Aalto.5550	Both features not found: no nouns found with ennen no Gen case found with aikana 	Näemme noin 2 000 päivää ennen Kengen.	Näemme noin 2 000 päivässä Kengen aikana.
+uedin.5707	Both features not found: no nouns found with ennen no Gen case found with aikana no nouns found with aikana 	Näemme noin 2000 päivää ennen KenGen.	Voisimme nähdä noin 2000 päivässä aikana KenGen.
+Aalto.5550	Both features not found: no nouns found with ennen no Gen case found with aikana no nouns found with aikana 	Näemme noin 2 000 päivää ennen Kengen.	Näemme noin 2 000 päivässä Kengen aikana.
 HY-NMTtwostep-en-fi.5639	Correct	Näkisimme noin 2000 päivässä ennen Kouvolaa.	Näkisimme noin 2000 päivässä Kouvolan aikana.
 CUNI-Kocmi.5620	Both features not found: no nouns found with ennen no nouns found with aikana 	Näkisimme noin 2000 päivässä ennen KenGenia.	Näkisimme noin 2000 päivässä KenGenin aikana.
 talp-upc.5424	Both features not found: no ennen preposition foundno nouns found with aikana 	KenGeniä edeltää noin 2 000 päivää.	KenGenin aikana näkisimme noin 2000 päivässä.
 online-B.0	Both features not found: no nouns found with ennen no nouns found with aikana 	Nähdään noin 2 000 päivää ennen KenGenia.	Näemme noin 2 000 päivää KenGenin aikana.
 online-G.0	Left feature not found: no nouns found with ennen 	Haluamme nähdä noin 2000 päivässä ennen KenGen.	Haluamme nähdä noin 2000 päivän aikana KenGen.
-online-A.0	Both features not found: no nouns found with ennen no Gen case found with aikana 	Haluaisimme nähdä noin 2 000 päivää ennen KenGen.	Haluaisimme nähdä noin 2 000 päivässä aikana KenGen.
+online-A.0	Both features not found: no nouns found with ennen no Gen case found with aikana no nouns found with aikana 	Haluaisimme nähdä noin 2 000 päivää ennen KenGen.	Haluaisimme nähdä noin 2 000 päivässä aikana KenGen.
 
 prep_postp	3779	The night before last, my husband slaughtered a mouse.	The night after last, my husband slaughtered a mouse.
 NICT.5658	Identical: no ennen preposition foundno jälkeen/kuluttua postposition found 	Toissa yönä mieheni teurasti hiiren.	Toissa yönä mieheni teurasti hiiren.
@@ -1052,7 +1052,7 @@ CUNI-Kocmi.5620	Both features not found: no ennen preposition foundno jälkeen/k
 talp-upc.5424	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Edellisenä yönä mieheni teurasti hiiren.	Viime yönä mieheni tappoi hiiren.
 online-B.0	Left feature not found: no ennen preposition found	Viime yönä viimeinen, mieheni teurasti hiiren.	Viimeisen yön jälkeen mieheni teurasti hiiren.
 online-G.0	Correct	Ennen viimeistä iltaa, mieheni teurastettu hiiri.	Yön jälkeen eilen, mieheni teurastettu hiiri.
-online-A.0	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua 	Iltana viimeinen, mieheni teurastettu hiiri.	Yö jälkeen viime mieheni teurastetaan hiiri.
+online-A.0	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Iltana viimeinen, mieheni teurastettu hiiri.	Yö jälkeen viime mieheni teurastetaan hiiri.
 
 prep_postp	3933	It is only 30 years before Waterloo.	It is only 30 years after Waterloo.
 NICT.5658	Both features not found: no ennen preposition foundno jälkeen/kuluttua postposition found 	Waterloon on aikaa vasta 30 vuotta.	Waterloosta on vain 30 vuotta.
@@ -1061,7 +1061,7 @@ uedin.5707	Identical: no ennen preposition foundno jälkeen/kuluttua postpositio
 Aalto.5550	Correct	On vain 30 vuotta ennen Waterloota.	Vasta 30 vuotta Waterloon jälkeen.
 HY-NMTtwostep-en-fi.5639	Right feature not found: no jälkeen/kuluttua postposition found 	Vasta 30 vuotta ennen Waterloota.	Waterloosta on kulunut vasta 30 vuotta.
 CUNI-Kocmi.5620	Both features not found: no Par case found after ennen no nouns found with ennen no jälkeen/kuluttua postposition found 	On vain 30 vuotta ennen Waterloo.	Se on vain 30 vuotta Waterloon.
-talp-upc.5424	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua 	Waterloon on kulunut vain 30 vuotta.	Se on vain 30 vuotta Waterloon jälkeen.
+talp-upc.5424	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Waterloon on kulunut vain 30 vuotta.	Se on vain 30 vuotta Waterloon jälkeen.
 online-B.0	Left feature not found: no nouns found with ennen 	Se on vain 30 vuotta ennen Waterlooa.	Se on vain 30 vuotta Waterloon jälkeen.
 online-G.0	Left feature not found: no nouns found with ennen 	Se on vain 30 vuotta ennen kuin Waterloo.	Se on vain 30 vuotta sen jälkeen, kun Waterloo.
 online-A.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	Se on vain 30 vuotta ennen Waterloon.	Se on vain 30 vuotta Waterloon jälkeen.
@@ -1085,7 +1085,7 @@ uedin.5707	Both features not found: no ennen preposition foundno nouns found wit
 Aalto.5550	Left feature not found: no ennen preposition found	Hänen on määrä esiintyä Southamptonin tuomareiden edessä 18. lokakuuta.	Hänen on määrä esiintyä Southamptonin tuomarien jälkeen 18. lokakuuta.
 HY-NMTtwostep-en-fi.5639	Left feature not found: no ennen preposition found	Hänen on määrä esiintyä Southamptonin maistraatissa 18. lokakuuta.	Hänen on määrä esiintyä Southamptonin tuomaritoiminnan jälkeen 18. lokakuuta.
 CUNI-Kocmi.5620	Both features not found: no ennen preposition foundno nouns found with jälkeen/kuluttua 	Hänen on määrä ilmestyä Southamptonin tuomareiden eteen 18. lokakuuta.	Hänen on määrä ilmestyä Southamptonin tuomareiden jälkeen 18. lokakuuta.
-talp-upc.5424	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua 	Hänen on määrä esiintyä Southamptonin tuomareiden edessä 18. lokakuuta.	Hän on määrä ilmestyä jälkeen Southampton tuomarit 18. lokakuuta.
+talp-upc.5424	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Hänen on määrä esiintyä Southamptonin tuomareiden edessä 18. lokakuuta.	Hän on määrä ilmestyä jälkeen Southampton tuomarit 18. lokakuuta.
 online-B.0	Correct	Hänen on määrä tulla esiin ennen Southamptonin tuomareita 18. lokakuuta.	Hän on tarkoitus esiintyä Southamptonin tuomareiden jälkeen 18. lokakuuta.
 online-G.0	Both features not found: no Par case found before ennen no nouns found with ennen no jälkeen/kuluttua postposition found 	Hän on määrä ilmestyä ennen Southampton tuomareiden 18.lokakuuta.	Hänen on määrä näkyä, kun Southampton tuomareiden 18.lokakuuta.
 online-A.0	Left feature not found: no ennen preposition found	Hänen on määrä ilmestyä Southamptonin tuomareille 18.	Hänen on määrä ilmestyä Southamptonin tuomareiden jälkeen 18.
@@ -1103,14 +1103,14 @@ online-G.0	Correct	Vuosi ennen tätä, kävijät voivat luoda tanssia bobblehead
 online-A.0	Left feature not found: no nouns found with ennen 	Vuotta ennen, kävijät voivat luoda tanssia bobblehead merkkiä.	Vuosi sen jälkeen, kävijät voivat luoda tanssia bobblehead merkkiä.
 
 prep_postp	732	True, the eclecticism of awards-show dressing started to die well before Zoe.	True, the eclecticism of awards-show dressing started to die well after Zoe.
-NICT.5658	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	On totta, että palkitun show-pukeutumisen eclectiikka alkoi kuolla hyvissä ajoin ennen Zoeta.	On totta, että palkitun show-pukeutumisen eclectiikka alkoi kuolla hyvin Zoen jälkeen.
+NICT.5658	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	On totta, että palkitun show-pukeutumisen eclectiikka alkoi kuolla hyvissä ajoin ennen Zoeta.	On totta, että palkitun show-pukeutumisen eclectiikka alkoi kuolla hyvin Zoen jälkeen.
 HY-NMT-en-fi.5570	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	On totta, että valistustenäyttelyn monipuolisuus alkoi kuolla jo paljon ennen Zoeta.	On totta, että Zoen jälkeen alkoi hyvin kuolla valistustenäyttelyyn.
-uedin.5707	Right feature not found: no Gen case found with jälkeen/kuluttua 	Tosi-tv-kaunotar alkoi kuolla jo hyvissä ajoin ennen Zoe-keikkaa.	Tosi-tv-kaunotar alkoi kuolla hyvin Zoen jälkeen.
+uedin.5707	Right feature not found: no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Tosi-tv-kaunotar alkoi kuolla jo hyvissä ajoin ennen Zoe-keikkaa.	Tosi-tv-kaunotar alkoi kuolla hyvin Zoen jälkeen.
 Aalto.5550	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Totta, farkkujen Awards-show alkoi kuolla hyvin ennen Zoe.	Totta, Farmism Awardse-show alkoi kuolla hyvin Zoe.
-HY-NMTtwostep-en-fi.5639	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Totta puhuen monipuolisesti palkittu Dressing alkoi kuolla jo hyvissä ajoin ennen Zoeä.	Totta, monipuolisesti palkittu Dressing alkoi kuolla hyvin Zoen jälkeen.
-CUNI-Kocmi.5620	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	On totta, että palkintojenjakopalstojen kaikenkattavuus alkoi kuolla hyvissä ajoin ennen Zoea.	On totta, että palkintojenjakopalstojen kaikenkattavuus alkoi kuolla hyvin Zoe'n jälkeen.
+HY-NMTtwostep-en-fi.5639	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Totta puhuen monipuolisesti palkittu Dressing alkoi kuolla jo hyvissä ajoin ennen Zoeä.	Totta, monipuolisesti palkittu Dressing alkoi kuolla hyvin Zoen jälkeen.
+CUNI-Kocmi.5620	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	On totta, että palkintojenjakopalstojen kaikenkattavuus alkoi kuolla hyvissä ajoin ennen Zoea.	On totta, että palkintojenjakopalstojen kaikenkattavuus alkoi kuolla hyvin Zoe'n jälkeen.
 talp-upc.5424	Correct	Totta, eklektismi palkintopukeutuminen alkoi kuolla paljon ennen Zoe.	On totta, että eklectismi palkintojen pukeutuminen alkoi kuolla hyvin Zoen jälkeen.
-online-B.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Totta, palkintojen eklektismin näyttelyn pukeutuminen alkoi kuolla hyvin ennen Zoea.	Totta, palkintojen eklektismin näyttely pukeutuminen alkoi kuolla hyvin Zoon jälkeen.
+online-B.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Totta, palkintojen eklektismin näyttelyn pukeutuminen alkoi kuolla hyvin ennen Zoea.	Totta, palkintojen eklektismin näyttely pukeutuminen alkoi kuolla hyvin Zoon jälkeen.
 online-G.0	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Totta, eklektisesti palkintoja-näytä pukeutuminen alkoi kuolla ennen kuin Zoe.	Totta, eklektisesti palkintoja-näytä pukeutuminen alkoi kuolla hyvin, kun Zoe.
 online-A.0	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Totta, eklektisesti palkinnot-show puku alkoi kuolla hyvin ennen Zoe.	Totta, eklektisesti palkinnot-show pukeutuminen alkoi kuolla hyvin, kun Zoe.
 
@@ -1133,7 +1133,7 @@ uedin.5707	Left feature not found: no nouns found with ennen 	JAMA esiintyy enne
 Aalto.5550	Left feature not found: no ennen preposition found	JAMA ilmestyy Leedsin tuomarien eteen perjantaiaamuna.	JAMA ilmestyy Leedsin tuomareiden jälkeen perjantaiaamuna.
 HY-NMTtwostep-en-fi.5639	Correct	Jama esiintyy ennen Leedsin maistraatteja perjantaiaamuna.	Jama esiintyy sen jälkeen Leedsin maistraatissa perjantaiaamuna.
 CUNI-Kocmi.5620	Left feature not found: no nouns found with ennen 	Jama saapuu perjantaiaamuna, ennen kuin Ús Magistrates saapuu.	Jama ilmestyy perjantaina aamupäivällä sen jälkeen, kun Magistrates on toiminut.
-talp-upc.5424	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua 	JAMA ilmestyy Leeds-magistralle perjantaiaamuna.	JAMA ilmestyy Leeds Magstraatin jälkeen perjantaiaamuna.
+talp-upc.5424	Both features not found: no ennen preposition foundno Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	JAMA ilmestyy Leeds-magistralle perjantaiaamuna.	JAMA ilmestyy Leeds Magstraatin jälkeen perjantaiaamuna.
 online-B.0	Correct	Jama ilmestyy ennen Leedsin tuomareita perjantaiaamuna.	Jama ilmestyy Leedsin tuomareiden jälkeen perjantaiaamuna.
 online-G.0	Both features not found: no nouns found with ennen no jälkeen/kuluttua postposition found 	Jama ilmestyy ennen Leeds Tuomareiden perjantai aamuna.	Jama näkyy, kun Leeds Tuomareiden perjantai aamuna.
 online-A.0	Both features not found: no nouns found with ennen no nouns found with jälkeen/kuluttua 	JAMA ilmestyy ennen Leeds tuomareiden perjantai aamuna.	JAMA ilmestyy jälkeen Leeds tuomareiden perjantai aamuna.

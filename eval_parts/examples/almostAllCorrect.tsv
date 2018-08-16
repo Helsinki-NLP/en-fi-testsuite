@@ -1143,8 +1143,8 @@ talp-upc.5424	Correct	Nuoret olivat testanneet positiivisesti kiellettyä ainett
 online-B.0	Correct	Young oli testannut positiivista kielletystä aineesta ennen kisoja.	Young oli testannut positiivista kielletystä aineesta Pelien jälkeen.
 HY-SMT-en-fi.5436	Correct	Nuorukainen oli kielletty aine on testattu positiiviseksi ennen kisoja.	Nuorukainen oli kielletty aine on testattu positiiviseksi kisojen jälkeen.
 online-G.0	Correct	Nuori oli positiivisen kielletty aine ennen Pelejä.	Nuori oli positiivisen kielletty aine kisojen jälkeen.
-online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua 	Young oli positiivisen kiellettyjen aineiden ennen pelejä.	Nuoret olivat positiivisen kiellettyjen aineiden jälkeen pelejä.
-HY-AH-en-fi.5567	Right feature not found: no Gen case found with jälkeen/kuluttua 	Nuori oli testannut positiivisen kiellettyyn aineeseen ennen Pelejä.	Nuori oli testannut positiivisen kiellettyyn aineeseen Peleihin jälkeen.
+online-A.0	Both features not found: no nouns found with ennen no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Young oli positiivisen kiellettyjen aineiden ennen pelejä.	Nuoret olivat positiivisen kiellettyjen aineiden jälkeen pelejä.
+HY-AH-en-fi.5567	Right feature not found: no Gen case found with jälkeen/kuluttua no nouns found with jälkeen/kuluttua 	Nuori oli testannut positiivisen kiellettyyn aineeseen ennen Pelejä.	Nuori oli testannut positiivisen kiellettyyn aineeseen Peleihin jälkeen.
 
 prep_postp	1089	It stabilizes your children before the day.	It stabilizes your children during the day.
 NICT.5658	Correct	Se vakauttaa lapsesi ennen päivää.	Se vakauttaa lapsesi päivän aikana.
