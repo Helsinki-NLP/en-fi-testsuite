@@ -1,5 +1,13 @@
 # en-fi-testsuite
 
+## For WMT18 participants
+
+The results of the evaluation can be found in the `eval_parts` folder:
+* Summary of all feature accuracy values: `eval_parts/all.numbers.tsv`
+* Per-system feature accuracies: `eval_parts/results/[submission-name].numbers.tsv`
+* Detailed output listing each contrast pair with morphological analysis and evaluation decision: `eval_parts/results/[submission-name].eval.tsv`
+
+
 ## Data preprocessing
 
 * The `tag` folder contains scripts to tag the English news files. It also contains a script to extract Adj+Noun chunks from the data.
@@ -16,3 +24,4 @@
 
 * The `eval_test` folder contains a script to translate the testsuite using an existing HNMT system, including tokenization/detokenization using the Moses tools.
 * The `eval` folder contains the evaluation service scripts, i.e. the script to perform the morphological analysis on the translations and the script to evaluate the contrasts.
+* The `eval_parts` folder contains the evaluation results for the systems submitted at WMT18 (see above). It also contains scripts to aggregate values of different systems and to extract examples for manual evaluation.
