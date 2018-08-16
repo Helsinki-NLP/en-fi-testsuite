@@ -265,26 +265,28 @@ def prep_postp(wo1, wo2, repl1, repl2):
 	prep = [wo1[x] for x in wo1 if any([y in wo1[x] for y in repl1_fi])]
 	if len(prep) > 0:
 		prep = prep[0]	# there should only be one
-		prepPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
-		prepNouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Pron' in wo1[x] or 'Num' in wo1[x]]
-		prepNouns = [x for x in prepNouns if any([int(n[1:]) > prepPos for n in x if n.startswith("@")])]
+		prepPoses = [int(n[1:]) for n in prep if n.startswith("@")]
+		nouns = [wo1[x] for x in wo1 if 'N' in wo1[x] or 'Pron' in wo1[x] or 'Num' in wo1[x]]
 		prepOK = False
-
-		if len(prepNouns) > 0:
-			prepCase = any(['Par' in x for x in prepNouns])
-			if not prepCase:
-				msg += "no {} case found after {} ".format('Par', "/".join(repl1_fi))
-			prepOK = prepCase
-		
-		if not prepOK:	# sitä ennen, tätä ennen
-			postpPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
-			postpProns = [wo1[x] for x in wo1 if 'Pron' in wo1[x]]
-			postpProns = [x for x in postpProns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
-			if len(postpProns) > 0:
-				postpCase = any(['Par' in x for x in postpProns])
-				if not postpCase:
-					msg += "no {} case found before {} ".format('Par', "/".join(repl1_fi))
-				prepOK = postpCase
+		for prepPos in prepPoses:
+			prepNouns = [x for x in nouns if any([int(n[1:]) > prepPos for n in x if n.startswith("@")])]
+			if len(prepNouns) > 0:
+				prepCase = any(['Par' in x for x in prepNouns])
+				if not prepCase:
+					msg += "no {} case found after {} ".format('Par', "/".join(repl1_fi))
+				prepOK = prepCase
+			
+			if not prepOK:	# sitä ennen, tätä ennen
+				postpPos = [int(n[1:]) for n in prep if n.startswith("@")][0]
+				postpProns = [wo1[x] for x in wo1 if 'Pron' in wo1[x]]
+				postpProns = [x for x in postpProns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
+				if len(postpProns) > 0:
+					postpCase = any(['Par' in x for x in postpProns])
+					if not postpCase:
+						msg += "no {} case found before {} ".format('Par', "/".join(repl1_fi))
+					prepOK = postpCase
+			if prepOK:
+				break
 		
 		if not prepOK:
 			msg += "no nouns found with {} ".format("/".join(repl1_fi))
@@ -304,21 +306,24 @@ def prep_postp(wo1, wo2, repl1, repl2):
 	postp = [wo2[x] for x in wo2 if any([y in wo2[x] for y in repl2_fi])]
 	if len(postp) > 0:
 		postp = postp[0]	# there should only be one
-		postpPos = [int(n[1:]) for n in postp if n.startswith("@")][0]
-		postpNouns = [wo2[x] for x in wo2 if 'N' in wo2[x] or 'Pron' in wo2[x] or 'Num' in wo2[x]]
-		postpNouns = [x for x in postpNouns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
-
-		if len(postpNouns) > 0:
-			postpCase = any(['Gen' in x for x in postpNouns])
-			postpCase2 = ('aikana' in repl2_fi) and any([('Pron' in x) and ('Ess' in x) for x in postpNouns])	# tuona aikana
-			if postpCase:
-				postpOK = True
-			elif postpCase2:
-				postpOK = True
-			else:
-				msg += "no {} case found with {} ".format('Gen', "/".join(repl2_fi))
-				postpOK = False
-		else:
+		postpPoses = [int(n[1:]) for n in postp if n.startswith("@")]
+		nouns = [wo2[x] for x in wo2 if 'N' in wo2[x] or 'Pron' in wo2[x] or 'Num' in wo2[x]]
+		postpOK = False
+		for postpPos in postpPoses:
+			postpNouns = [x for x in nouns if any([int(n[1:]) < postpPos for n in x if n.startswith("@")])]
+			if len(postpNouns) > 0:
+				postpCase = any(['Gen' in x for x in postpNouns])
+				postpCase2 = ('aikana' in repl2_fi) and any([('Pron' in x) and ('Ess' in x) for x in postpNouns])	# tuona aikana
+				if postpCase:
+					postpOK = True
+				elif postpCase2:
+					postpOK = True
+				else:
+					msg += "no {} case found with {} ".format('Gen', "/".join(repl2_fi))
+			if postpOK:
+				break
+			
+		if not postpOK:
 			msg += "no nouns found with {} ".format("/".join(repl2_fi))
 	else:
 		msg += "no {} postposition found ".format("/".join(repl2_fi))
@@ -529,31 +534,23 @@ def evaluate(translationfile, analysesfile, sourcefile, nelexfile=None, verbosee
 			if x and y:		# both features found => correct
 				correct[taskname] += 1
 				total[taskname] += 1
-				if verboseevalfile:
-					s = "Correct: " + msg if msg else "Correct"
-					verboseevalfile.write("\t".join([task, exno, s, sentences[0], "", sentences[1], ""]) + "\n")
-
+				s = "Correct: " + msg if msg else "Correct"
 			elif len(words_only1) == 0 and len(words_only2) == 0:
 				# identical
 				total[taskname] += 1
-				if verboseevalfile:
-					s = "Identical: " + msg if msg else "Identical"
-					verboseevalfile.write("\t".join([task, exno, s, sentences[0], "", sentences[1], ""]) + "\n")
-			
+				s = "Identical: " + msg if msg else "Identical"
 			elif x or y:	# only one feature found => wrong
 				total[taskname] += 1
-				if verboseevalfile and not x:
+				if not x:
 					s = "Left feature not found: " + msg if msg else "Left feature not found"
-					verboseevalfile.write("\t".join([task, exno, s, sentences[0], format_worddict(words_only1), sentences[1], ""]) + "\n")
-				if verboseevalfile and not y:
+				if not y:
 					s = "Right feature not found: " + msg if msg else "Right feature not found"
-					verboseevalfile.write("\t".join([task, exno, s, sentences[0], "", sentences[1], format_worddict(words_only2)]) + "\n")
-			
 			else:
 				total[taskname] += 1
-				if verboseevalfile:
-					s = "Both features not found: " + msg if msg else "Both features not found"
-					verboseevalfile.write("\t".join([task, exno, s, sentences[0], format_worddict(words_only1), sentences[1], format_worddict(words_only2)]) + "\n")
+				s = "Both features not found: " + msg if msg else "Both features not found"
+			
+			if verboseevalfile:
+				verboseevalfile.write("\t".join([task, exno, s, sentences[0], format_worddict(words_only1), sentences[1], format_worddict(words_only2)]) + "\n")
 	
 	print("\t".join(["Task", "Correct", "Total", "Accuracy"]))
 	for task in sorted(total):
