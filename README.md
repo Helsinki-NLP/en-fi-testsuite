@@ -2,6 +2,8 @@
 
 ## For WMT18 participants
 
+The test suite (English source sentences used in WMT18) can be found in `select_shuf/morpheval-enfi-2018.en`
+
 The results of the evaluation can be found in the `eval_parts` folder:
 * Summary of all feature accuracy values: `eval_parts/all.numbers.tsv`
 * Per-system feature accuracies: `eval_parts/results/[submission-name].numbers.tsv`
